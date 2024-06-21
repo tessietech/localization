@@ -25,4 +25,3 @@ Submit a pull request and your edits will be promptly reviewed.
 * Punctuation - for example, adding or removing periods
 * Units of measurement - for example, converting between imperial and metric
 * Variable names - for example, {value}
-* 
