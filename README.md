@@ -18,10 +18,11 @@ Edit your language file in any text editor, changing the strings on the right si
 "youShouldIgnoreThis": "You should fix this part to be correct. {youCanMoveThisVariableButNotRenameIt}"
 ```
 
+Submit a pull request and your edits will be promptly reviewed.
+
 **Do not modify:**
 
 * Punctuation - for example, adding or removing periods
 * Units of measurement - for example, converting between imperial and metric
 * Variable names - for example, {value}
-
-Submit a pull request and your edits will be promptly reviewed.
+* 
