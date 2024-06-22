@@ -472,7 +472,6 @@
   "manageSavedLocations": "Administrer gemte placeringer",
   "electricCosts": "Omkostninger til strøm",
   "supercharging": "Supercharging",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk omkostninger ved Supercharging med din Tesla-konto.",
   "chargingAtHomeWorkAndMore": "Opladning derhjemme, på arbejde og meget mere",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "Du kan tilføje automatisk omkostningssporing for alle steder, hvor du oplader, ved at gemme placeringen.",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "Prøv venligst igen. Kontakt support@tessie.com, hvis problemet fortsætter.",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "Opdaterer tilladelser",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "Tilladelsen Køretøjskommandoer er påkrævet for at udstede kommandoer.",
   "youWillBeSignedOut": "Du bliver logget ud.",
-  "signOutTitle": "Log ud"
+  "signOutTitle": "Log ud",
+  "addASavedLocationToDefineRatesAndTrackCosts": "Tilføj en gemt placering for at definere priser og spore omkostninger",
+  "chargingElsewhere": "Opladning andetsteds",
+  "setADefaultRateWhenNoOtherRatesAreFound": "Indstil en standardpris, når der ikke findes andre priser",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk Supercharging-omkostninger med din Tesla-konto"
 }

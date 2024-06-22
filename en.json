@@ -472,7 +472,6 @@
   "manageSavedLocations": "Manage Saved Locations",
   "electricCosts": "Electric Costs",
   "supercharging": "Supercharging",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatically syncs Supercharging costs with your Tesla account.",
   "chargingAtHomeWorkAndMore": "Charging at home, work and more",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "You can add automatic cost tracking for every place you charge by saving the location.",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "Please try again. Contact support@tessie.com if the issue persists.",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "Refreshing permissions",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "The Vehicle Commands permission is required to issue commands.",
   "youWillBeSignedOut": "You will be signed out.",
-  "signOutTitle": "Sign Out"
+  "signOutTitle": "Sign Out",
+  "addASavedLocationToDefineRatesAndTrackCosts": "Add a saved location to define rates and track costs",
+  "chargingElsewhere": "Charging elsewhere",
+  "setADefaultRateWhenNoOtherRatesAreFound": "Set a default rate when no other rates are found",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatically syncs Supercharging costs with your Tesla account"
 }

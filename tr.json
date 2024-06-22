@@ -472,7 +472,6 @@
   "manageSavedLocations": "Kaydedilmiş Konumları Yönet",
   "electricCosts": "Elektrik Maliyetleri",
   "supercharging": "Süper şarj",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie, Süper şarj maliyetlerini Tesla hesabınızla otomatik olarak senkronize eder.",
   "chargingAtHomeWorkAndMore": "Evde, işte ve diğer yerlerde şarj etme",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "Konumu kaydederek şarj ettiğiniz her yer için otomatik maliyet takibi ekleyebilirsiniz.",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "Lütfen tekrar deneyin. Sorun devam ederse support@tessie.com adresinden destekle iletişime geçin.",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "İzinler yenileniyor",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "Komut vermek için Araç Komutları izni gerekiyor.",
   "youWillBeSignedOut": "Oturumunuz kapatılacak.",
-  "signOutTitle": "Oturumu Kapat"
+  "signOutTitle": "Oturumu Kapat",
+  "addASavedLocationToDefineRatesAndTrackCosts": "Ücretleri belirlemek ve maliyetleri izlemek için kayıtlı bir konum ekleyin",
+  "chargingElsewhere": "Başka bir yerde şarj ediliyor",
+  "setADefaultRateWhenNoOtherRatesAreFound": "Başka ücret bulunamadığında varsayılan bir ücret belirleyin",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie, Süper Şarj maliyetlerini Tesla hesabınızla otomatik olarak eşitler"
 }

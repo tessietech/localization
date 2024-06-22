@@ -472,7 +472,6 @@
   "manageSavedLocations": "管理已儲存的位置",
   "electricCosts": "電費",
   "supercharging": "超級充電",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie 會自動將超級充電成本與您的 Tesla 帳戶同步。",
   "chargingAtHomeWorkAndMore": "在家中、公司和其他地點充電",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "您可以透過儲存位置，為您充電的每個地點新增自動成本追蹤功能。",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "請再試一次。如果問題仍然存在，請聯絡 support@tessie.com。",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "正在重新整理權限",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "需要「車輛指令」權限才能發出指令。",
   "youWillBeSignedOut": "您將會被登出。",
-  "signOutTitle": "登出"
+  "signOutTitle": "登出",
+  "addASavedLocationToDefineRatesAndTrackCosts": "新增已儲存位置以定義費率和追蹤成本",
+  "chargingElsewhere": "其他地點充電",
+  "setADefaultRateWhenNoOtherRatesAreFound": "在找不到其他費率時設定預設費率",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie 會自動將超級充電成本與您的 Tesla 帳戶同步"
 }

@@ -472,7 +472,6 @@
   "manageSavedLocations": "저장된 위치 관리",
   "electricCosts": "전기 비용",
   "supercharging": "슈퍼차징",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie에서는 Tesla 계정의 슈퍼차징 비용을 자동으로 동기화합니다.",
   "chargingAtHomeWorkAndMore": "집, 직장 등에서 충전",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "위치를 저장하여 충전하는 모든 장소에 대한 자동 비용 추적을 추가할 수 있습니다.",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "다시 시도하세요. 문제가 지속되면 support@tessie.com으로 연락하세요.",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "회원 새개 스럤나...",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "명령에 명령을 수행하려면 차량 제어 권한이 필요합니다.",
   "youWillBeSignedOut": "로그아웃됩니다.",
-  "signOutTitle": "로그아웃"
+  "signOutTitle": "로그아웃",
+  "addASavedLocationToDefineRatesAndTrackCosts": "요금을 정의하고 비용을 추적하려면 저장된 위치를 추가하세요.",
+  "chargingElsewhere": "다른 곳에서 충전 중",
+  "setADefaultRateWhenNoOtherRatesAreFound": "다른 요금이 없을 때 적용할 기본 요금을 설정하세요.",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie는 슈퍼차징 비용을 Tesla 계정과 자동으로 동기화합니다."
 }

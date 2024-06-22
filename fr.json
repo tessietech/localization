@@ -472,7 +472,6 @@
   "manageSavedLocations": "Gérer les sites enregistrés",
   "electricCosts": "Coûts d'électricité",
   "supercharging": "Superchargement",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchronise automatiquement les coûts de superchargement avec votre compte Tesla.",
   "chargingAtHomeWorkAndMore": "Recharge à domicile, au travail, etc.",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "Vous pouvez ajouter un suivi automatique des coûts pour chaque lieu de recharge en enregistrant l'emplacement.",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "Veuillez réessayer. Contactez support@tessie.com si le problème persiste.",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "Actualisation des autorisations",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "L'autorisation Commandes du véhicule est requise pour émettre des commandes.",
   "youWillBeSignedOut": "Vous allez être déconnecté(e).",
-  "signOutTitle": "Se déconnecter"
+  "signOutTitle": "Se déconnecter",
+  "addASavedLocationToDefineRatesAndTrackCosts": "Ajouter un lieu enregistré pour définir les tarifs et suivre les coûts",
+  "chargingElsewhere": "Recharge ailleurs",
+  "setADefaultRateWhenNoOtherRatesAreFound": "Définir un tarif par défaut lorsque aucun autre tarif n'est trouvé",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchronise automatiquement les coûts de Supercharge avec votre compte Tesla"
 }

@@ -472,7 +472,6 @@
   "manageSavedLocations": "Gestionare locații salvate",
   "electricCosts": "Costuri electrice",
   "supercharging": "Încărcare rapidă",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizează automat costurile de încărcare rapidă cu contul dvs. Tesla.",
   "chargingAtHomeWorkAndMore": "Încărcare acasă, la birou și în alte locații",
   "youCanAddAutomaticCostTrackingForEveryPlaceYou": "Puteți adăuga urmărirea automată a costurilor pentru fiecare loc în care vă încărcați mașina salvând locația.",
   "pleaseTryAgainContactSupporttessiecomIfTheIssuePersists": "Încercați din nou. Contactați support@tessie.com dacă problema persistă.",
@@ -2248,5 +2247,9 @@
   "refreshingPermissions": "Se reîmprospătează permisiunile",
   "theVehicleCommandsPermissionIsRequiredToIssueCommands": "Permisiunea Comenzi vehicul este necesară pentru a emite comenzi.",
   "youWillBeSignedOut": "Veți fi deconectat.",
-  "signOutTitle": "Deconectare"
+  "signOutTitle": "Deconectare",
+  "addASavedLocationToDefineRatesAndTrackCosts": "Adăugați o locație salvată pentru a defini tarifele și a urmări costurile",
+  "chargingElsewhere": "Încărcare în altă parte",
+  "setADefaultRateWhenNoOtherRatesAreFound": "Setați un tarif implicit atunci când nu sunt găsite alte tarife",
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizează automat costurile Supercharging cu contul dvs. Tesla"
 }
