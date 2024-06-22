@@ -2250,6 +2250,6 @@
   "signOutTitle": "Logg ut",
   "addASavedLocationToDefineRatesAndTrackCosts": "Legg til et lagret sted for å definere priser og spore kostnader",
   "chargingElsewhere": "Lader andre steder",
-  "setADefaultRateWhenNoOtherRatesAreFound": "Angi en standardpris når ingen andre priser blir funnet",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk Supercharging-kostnader med Tesla-kontoen din"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk Supercharging-kostnader med Tesla-kontoen din",
+  "setADefaultRateWhenNoOtherRateIsFound": "Angi en standardpris når ingen annen pris er funnet"
 }

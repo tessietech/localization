@@ -2250,6 +2250,6 @@
   "signOutTitle": "Deconectare",
   "addASavedLocationToDefineRatesAndTrackCosts": "Adăugați o locație salvată pentru a defini tarifele și a urmări costurile",
   "chargingElsewhere": "Încărcare în altă parte",
-  "setADefaultRateWhenNoOtherRatesAreFound": "Setați un tarif implicit atunci când nu sunt găsite alte tarife",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizează automat costurile Supercharging cu contul dvs. Tesla"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizează automat costurile Supercharging cu contul dvs. Tesla",
+  "setADefaultRateWhenNoOtherRateIsFound": "Setați o rată implicită atunci când nu este găsită nicio altă rată"
 }

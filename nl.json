@@ -2250,6 +2250,6 @@
   "signOutTitle": "Uitloggen",
   "addASavedLocationToDefineRatesAndTrackCosts": "Voeg een opgeslagen locatie toe om tarieven te definiëren en kosten bij te houden",
   "chargingElsewhere": "Elders opladen",
-  "setADefaultRateWhenNoOtherRatesAreFound": "Stel een standaardtarief in wanneer er geen andere tarieven worden gevonden",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchroniseert automatisch Supercharging-kosten met je Tesla-account"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchroniseert automatisch Supercharging-kosten met je Tesla-account",
+  "setADefaultRateWhenNoOtherRateIsFound": "Stel een standaardtarief in wanneer er geen ander tarief wordt gevonden"
 }

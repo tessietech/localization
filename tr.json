@@ -2250,6 +2250,6 @@
   "signOutTitle": "Oturumu Kapat",
   "addASavedLocationToDefineRatesAndTrackCosts": "Ücretleri belirlemek ve maliyetleri izlemek için kayıtlı bir konum ekleyin",
   "chargingElsewhere": "Başka bir yerde şarj ediliyor",
-  "setADefaultRateWhenNoOtherRatesAreFound": "Başka ücret bulunamadığında varsayılan bir ücret belirleyin",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie, Süper Şarj maliyetlerini Tesla hesabınızla otomatik olarak eşitler"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie, Süper Şarj maliyetlerini Tesla hesabınızla otomatik olarak eşitler",
+  "setADefaultRateWhenNoOtherRateIsFound": "Başka bir oran bulunamadığında varsayılan bir oran belirleyin"
 }

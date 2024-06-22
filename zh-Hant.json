@@ -2250,6 +2250,6 @@
   "signOutTitle": "登出",
   "addASavedLocationToDefineRatesAndTrackCosts": "新增已儲存位置以定義費率和追蹤成本",
   "chargingElsewhere": "其他地點充電",
-  "setADefaultRateWhenNoOtherRatesAreFound": "在找不到其他費率時設定預設費率",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie 會自動將超級充電成本與您的 Tesla 帳戶同步"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie 會自動將超級充電成本與您的 Tesla 帳戶同步",
+  "setADefaultRateWhenNoOtherRateIsFound": "當找不到其他費率時，設定預設費率"
 }

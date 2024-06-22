@@ -2250,6 +2250,6 @@
   "signOutTitle": "Wyloguj się",
   "addASavedLocationToDefineRatesAndTrackCosts": "Dodaj zapisaną lokalizację, aby określić stawki i śledzić koszty",
   "chargingElsewhere": "Ładowanie w innym miejscu",
-  "setADefaultRateWhenNoOtherRatesAreFound": "Ustaw stawkę domyślną, gdy nie znaleziono innych stawek",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatycznie synchronizuje koszty Supercharging z Twoim kontem Tesla"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatycznie synchronizuje koszty Supercharging z Twoim kontem Tesla",
+  "setADefaultRateWhenNoOtherRateIsFound": "Ustaw stawkę domyślną, gdy nie znaleziono innej stawki"
 }

@@ -2250,6 +2250,6 @@
   "signOutTitle": "로그아웃",
   "addASavedLocationToDefineRatesAndTrackCosts": "요금을 정의하고 비용을 추적하려면 저장된 위치를 추가하세요.",
   "chargingElsewhere": "다른 곳에서 충전 중",
-  "setADefaultRateWhenNoOtherRatesAreFound": "다른 요금이 없을 때 적용할 기본 요금을 설정하세요.",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie는 슈퍼차징 비용을 Tesla 계정과 자동으로 동기화합니다."
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie는 슈퍼차징 비용을 Tesla 계정과 자동으로 동기화합니다.",
+  "setADefaultRateWhenNoOtherRateIsFound": "다른 요금이 없을 경우 기본 요금을 설정합니다."
 }

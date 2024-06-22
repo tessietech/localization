@@ -2250,6 +2250,6 @@
   "signOutTitle": "Sign Out",
   "addASavedLocationToDefineRatesAndTrackCosts": "Add a saved location to define rates and track costs",
   "chargingElsewhere": "Charging elsewhere",
-  "setADefaultRateWhenNoOtherRatesAreFound": "Set a default rate when no other rates are found",
-  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatically syncs Supercharging costs with your Tesla account"
+  "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatically syncs Supercharging costs with your Tesla account",
+  "setADefaultRateWhenNoOtherRateIsFound": "Set a default rate when no other rate is found"
 }
