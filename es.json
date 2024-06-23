@@ -2261,7 +2261,7 @@
   "command": "Comando",
   "aboutCommands": "Acerca de los comandos",
   "commandsIssuedToTheVehicleOverTheLast30Days": "Comandos enviados al vehículo en los últimos 30 días.",
-  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Excluye los comandos enviados a través de Bluetooth u otras aplicaciones.",
   "result": "Resultado",
-  "timeout": "Tiempo de espera"
+  "timeout": "Tiempo de espera",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Excluye comandos emitidos a través de Bluetooth o de otras aplicaciones o cuentas."
 }

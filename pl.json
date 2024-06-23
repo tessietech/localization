@@ -2261,7 +2261,7 @@
   "command": "Polecenie",
   "aboutCommands": "Informacje o komendach",
   "commandsIssuedToTheVehicleOverTheLast30Days": "Komendy wydane pojazdowi w ciągu ostatnich 30 dni.",
-  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Wyklucza komendy wydawane przez Bluetooth lub inne aplikacje.",
   "result": "Wynik",
-  "timeout": "Przekroczono czas oczekiwania"
+  "timeout": "Przekroczono czas oczekiwania",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Wyklucza polecenia wydawane przez Bluetooth lub za pośrednictwem innych aplikacji lub kont."
 }

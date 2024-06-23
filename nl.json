@@ -2261,7 +2261,7 @@
   "command": "Opdracht",
   "aboutCommands": "Over opdrachten",
   "commandsIssuedToTheVehicleOverTheLast30Days": "Opdrachten die de afgelopen 30 dagen naar de auto zijn verzonden.",
-  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Opdrachten die via Bluetooth of andere apps zijn verzonden, zijn uitgesloten.",
   "result": "Resultaat",
-  "timeout": "Time-out"
+  "timeout": "Time-out",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclusief opdrachten die via Bluetooth of andere apps of accounts zijn uitgegeven."
 }

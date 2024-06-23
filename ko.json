@@ -2261,7 +2261,7 @@
   "command": "명령",
   "aboutCommands": "명령어 정보",
   "commandsIssuedToTheVehicleOverTheLast30Days": "지난 30일 동안 차량에 전송된 명령",
-  "excludesCommandsIssuedViaBluetoothOrOtherApps": "블루투스거나 다른 액을 통해 전송된 명령은 제외",
   "result": "결과",
-  "timeout": "타임 시간 초과"
+  "timeout": "타임 시간 초과",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Bluetooth 또는 다른 앱이나 계정을 통해 발행된 명령은 제외됩니다."
 }

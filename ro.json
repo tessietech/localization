@@ -2261,7 +2261,7 @@
   "command": "Comandă",
   "aboutCommands": "Despre comenzi",
   "commandsIssuedToTheVehicleOverTheLast30Days": "Comenzi trimise către vehicul în ultimele 30 de zile.",
-  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Exclude comenzile emise prin Bluetooth sau alte aplicații.",
   "result": "Rezultat",
-  "timeout": "Expirare"
+  "timeout": "Expirare",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclude comenzile emise prin Bluetooth sau prin alte aplicații sau conturi."
 }

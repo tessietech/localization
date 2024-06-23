@@ -2261,7 +2261,7 @@
   "command": "Kommando",
   "aboutCommands": "Om kommandoer",
   "commandsIssuedToTheVehicleOverTheLast30Days": "Kommandoer sendt til bilen de siste 30 dagene.",
-  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Utelukker kommandoer sendt via Bluetooth eller andre apper.",
   "result": "Resultat",
-  "timeout": "Tidsavbrudd"
+  "timeout": "Tidsavbrudd",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer utstedt via Bluetooth eller gjennom andre apper eller kontoer."
 }
