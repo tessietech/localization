@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "新增已儲存位置以定義費率和追蹤成本",
   "chargingElsewhere": "其他地點充電",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie 會自動將超級充電成本與您的 Tesla 帳戶同步",
-  "setADefaultRateWhenNoOtherRateIsFound": "當找不到其他費率時，設定預設費率"
+  "setADefaultRateWhenNoOtherRateIsFound": "當找不到其他費率時，設定預設費率",
+  "commands": "指令",
+  "tooManyRequests": "請求過多",
+  "source": "來源",
+  "networkTimeout": "網路逾時",
+  "badRequest": "錯誤的請求",
+  "virtualKeyNotPaired": "虛擬鑰匙未配對",
+  "command": "指令"
 }

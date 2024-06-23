@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "Voeg een opgeslagen locatie toe om tarieven te definiëren en kosten bij te houden",
   "chargingElsewhere": "Elders opladen",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchroniseert automatisch Supercharging-kosten met je Tesla-account",
-  "setADefaultRateWhenNoOtherRateIsFound": "Stel een standaardtarief in wanneer er geen ander tarief wordt gevonden"
+  "setADefaultRateWhenNoOtherRateIsFound": "Stel een standaardtarief in wanneer er geen ander tarief wordt gevonden",
+  "commands": "Opdrachten",
+  "tooManyRequests": "Te veel verzoeken",
+  "source": "Bron",
+  "networkTimeout": "Netwerktime-out",
+  "badRequest": "Ongeldig verzoek",
+  "virtualKeyNotPaired": "Virtuele sleutel niet gekoppeld",
+  "command": "Opdracht"
 }

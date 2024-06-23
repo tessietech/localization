@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "Speicherort hinzufügen, um Tarife zu definieren und Kosten zu verfolgen",
   "chargingElsewhere": "An anderer Stelle laden",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchronisiert die Supercharging-Kosten automatisch mit Ihrem Tesla-Konto",
-  "setADefaultRateWhenNoOtherRateIsFound": "Standardtarif festlegen, wenn kein anderer Tarif gefunden wird"
+  "setADefaultRateWhenNoOtherRateIsFound": "Standardtarif festlegen, wenn kein anderer Tarif gefunden wird",
+  "commands": "Befehle",
+  "tooManyRequests": "Zu viele Anfragen",
+  "source": "Quelle",
+  "networkTimeout": "Netzwerk-Zeitüberschreitung",
+  "badRequest": "Ungültige Anfrage",
+  "virtualKeyNotPaired": "Virtueller Schlüssel nicht gekoppelt",
+  "command": "Befehl"
 }

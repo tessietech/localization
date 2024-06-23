@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "Tilføj en gemt placering for at definere priser og spore omkostninger",
   "chargingElsewhere": "Opladning andetsteds",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk Supercharging-omkostninger med din Tesla-konto",
-  "setADefaultRateWhenNoOtherRateIsFound": "Indstil en standardtakst, når der ikke findes andre takster"
+  "setADefaultRateWhenNoOtherRateIsFound": "Indstil en standardtakst, når der ikke findes andre takster",
+  "commands": "Kommandoer",
+  "tooManyRequests": "For mange anmodninger",
+  "source": "Kilde",
+  "networkTimeout": "Netværkstimeout",
+  "badRequest": "Forkert anmodning",
+  "virtualKeyNotPaired": "Virtuel nøgle er ikke parret",
+  "command": "Kommando"
 }

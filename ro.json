@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "Adăugați o locație salvată pentru a defini tarifele și a urmări costurile",
   "chargingElsewhere": "Încărcare în altă parte",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizează automat costurile Supercharging cu contul dvs. Tesla",
-  "setADefaultRateWhenNoOtherRateIsFound": "Setați o rată implicită atunci când nu este găsită nicio altă rată"
+  "setADefaultRateWhenNoOtherRateIsFound": "Setați o rată implicită atunci când nu este găsită nicio altă rată",
+  "commands": "Comenzi",
+  "tooManyRequests": "Prea multe cereri",
+  "source": "Sursă",
+  "networkTimeout": "Expirare rețea",
+  "badRequest": "Cerere nevalidă",
+  "virtualKeyNotPaired": "Cheia virtuală nu este asociată",
+  "command": "Comandă"
 }

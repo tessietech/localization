@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "Add a saved location to define rates and track costs",
   "chargingElsewhere": "Charging elsewhere",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatically syncs Supercharging costs with your Tesla account",
-  "setADefaultRateWhenNoOtherRateIsFound": "Set a default rate when no other rate is found"
+  "setADefaultRateWhenNoOtherRateIsFound": "Set a default rate when no other rate is found",
+  "commands": "Commands",
+  "tooManyRequests": "Too many requests",
+  "source": "Source",
+  "networkTimeout": "Network timeout",
+  "badRequest": "Bad request",
+  "virtualKeyNotPaired": "Virtual Key not paired",
+  "command": "Command"
 }

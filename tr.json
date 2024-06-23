@@ -2251,5 +2251,12 @@
   "addASavedLocationToDefineRatesAndTrackCosts": "Ücretleri belirlemek ve maliyetleri izlemek için kayıtlı bir konum ekleyin",
   "chargingElsewhere": "Başka bir yerde şarj ediliyor",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie, Süper Şarj maliyetlerini Tesla hesabınızla otomatik olarak eşitler",
-  "setADefaultRateWhenNoOtherRateIsFound": "Başka bir oran bulunamadığında varsayılan bir oran belirleyin"
+  "setADefaultRateWhenNoOtherRateIsFound": "Başka bir oran bulunamadığında varsayılan bir oran belirleyin",
+  "commands": "Komutlar",
+  "tooManyRequests": "Çok fazla istek",
+  "source": "Kaynak",
+  "networkTimeout": "Ağ zaman aşımı",
+  "badRequest": "Geçersiz istek",
+  "virtualKeyNotPaired": "Sanal Anahtar eşleştirilmedi",
+  "command": "Komut"
 }
