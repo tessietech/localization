@@ -2258,5 +2258,10 @@
   "networkTimeout": "Netzwerk-Zeitüberschreitung",
   "badRequest": "Ungültige Anfrage",
   "virtualKeyNotPaired": "Virtueller Schlüssel nicht gekoppelt",
-  "command": "Befehl"
+  "command": "Befehl",
+  "aboutCommands": "Über Befehle",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "An das Fahrzeug in den letzten 30 Tagen ausgegebene Befehle.",
+  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Schließt Befehle aus, die über Bluetooth oder andere Apps ausgegeben wurden.",
+  "result": "Ergebnis",
+  "timeout": "Zeitüberschreitung"
 }

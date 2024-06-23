@@ -2258,5 +2258,10 @@
   "networkTimeout": "Expirare rețea",
   "badRequest": "Cerere nevalidă",
   "virtualKeyNotPaired": "Cheia virtuală nu este asociată",
-  "command": "Comandă"
+  "command": "Comandă",
+  "aboutCommands": "Despre comenzi",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "Comenzi trimise către vehicul în ultimele 30 de zile.",
+  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Exclude comenzile emise prin Bluetooth sau alte aplicații.",
+  "result": "Rezultat",
+  "timeout": "Expirare"
 }

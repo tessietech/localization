@@ -2258,5 +2258,10 @@
   "networkTimeout": "네트워크 시간 초과",
   "badRequest": "잘못된 요청",
   "virtualKeyNotPaired": "가상 키가 페어링되지 않았습니다",
-  "command": "명령"
+  "command": "명령",
+  "aboutCommands": "명령어 정보",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "지난 30일 동안 차량에 전송된 명령",
+  "excludesCommandsIssuedViaBluetoothOrOtherApps": "블루투스거나 다른 액을 통해 전송된 명령은 제외",
+  "result": "결과",
+  "timeout": "타임 시간 초과"
 }

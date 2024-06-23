@@ -2258,5 +2258,10 @@
   "networkTimeout": "Ağ zaman aşımı",
   "badRequest": "Geçersiz istek",
   "virtualKeyNotPaired": "Sanal Anahtar eşleştirilmedi",
-  "command": "Komut"
+  "command": "Komut",
+  "aboutCommands": "Komutlar Hakkında",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "Son 30 günde araca verilen komutlar.",
+  "excludesCommandsIssuedViaBluetoothOrOtherApps": "Bluetooth veya diğer uygulamalar aracılığıyla verilen komutlar hariçtir.",
+  "result": "Sonuç",
+  "timeout": "Zaman Aşımı"
 }
