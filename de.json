@@ -809,7 +809,7 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Verfolgen die Firmware-Updates für deinen Tesla und ermittle die durchschnittliche Dauer zwischen den Updates",
   "installedVersion": "Installierte Version",
   "installedUpdates": "Installierte Updates",
-  "timeSinceLast": "Zeit seit dem letzten",
+  "timeSinceLast": "Tage seit dem letzten",
   "averageTimeBetween": "Durchschnittliche Tage dazwischen",
   "noDataYet": "Noch keine Daten",
   "timeSinceLastUpdate": "Tage seit dem letzten Update",
