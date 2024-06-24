@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "Llave virtual no emparejada",
   "command": "Comando",
   "aboutCommands": "Acerca de los comandos",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "Comandos enviados al vehículo en los últimos 30 días.",
   "result": "Resultado",
   "timeout": "Tiempo de espera",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Excluye comandos emitidos a través de Bluetooth o de otras aplicaciones o cuentas."
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Excluye comandos emitidos a través de Bluetooth o de otras aplicaciones o cuentas.",
+  "noCommandsFound": "No se encontraron comandos"
 }

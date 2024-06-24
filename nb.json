@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "Virtuell nøkkel er ikke parkoblet",
   "command": "Kommando",
   "aboutCommands": "Om kommandoer",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "Kommandoer sendt til bilen de siste 30 dagene.",
   "result": "Resultat",
   "timeout": "Tidsavbrudd",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer utstedt via Bluetooth eller gjennom andre apper eller kontoer."
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer utstedt via Bluetooth eller gjennom andre apper eller kontoer.",
+  "noCommandsFound": "Fant ingen kommandoer"
 }

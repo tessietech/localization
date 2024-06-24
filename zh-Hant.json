@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "虛擬鑰匙未配對",
   "command": "指令",
   "aboutCommands": "關於指令",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "過去 30 天內發出的車輛指令。",
   "result": "結果",
   "timeout": "逾時",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "不含透過藍牙或其他應用程式或帳戶發出的指令。"
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "不含透過藍牙或其他應用程式或帳戶發出的指令。",
+  "noCommandsFound": "找不到任何指令"
 }

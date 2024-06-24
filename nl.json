@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "Virtuele sleutel niet gekoppeld",
   "command": "Opdracht",
   "aboutCommands": "Over opdrachten",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "Opdrachten die de afgelopen 30 dagen naar de auto zijn verzonden.",
   "result": "Resultaat",
   "timeout": "Time-out",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclusief opdrachten die via Bluetooth of andere apps of accounts zijn uitgegeven."
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclusief opdrachten die via Bluetooth of andere apps of accounts zijn uitgegeven.",
+  "noCommandsFound": "Geen opdrachten gevonden"
 }

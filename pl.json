@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "Klucz wirtualny nie jest sparowany",
   "command": "Polecenie",
   "aboutCommands": "Informacje o komendach",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "Komendy wydane pojazdowi w ciągu ostatnich 30 dni.",
   "result": "Wynik",
   "timeout": "Przekroczono czas oczekiwania",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Wyklucza polecenia wydawane przez Bluetooth lub za pośrednictwem innych aplikacji lub kont."
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Wyklucza polecenia wydawane przez Bluetooth lub za pośrednictwem innych aplikacji lub kont.",
+  "noCommandsFound": "Nie znaleziono poleceń"
 }

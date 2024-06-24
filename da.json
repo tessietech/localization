@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "Virtuel nøgle er ikke parret",
   "command": "Kommando",
   "aboutCommands": "Om kommandoer",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "Kommandoer udstedt til bilen inden for de sidste 30 dage.",
   "result": "Resultat",
   "timeout": "Timeout",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer udstedt via Bluetooth eller gennem andre apps eller konti."
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer udstedt via Bluetooth eller gennem andre apps eller konti.",
+  "noCommandsFound": "Ingen kommandoer fundet"
 }

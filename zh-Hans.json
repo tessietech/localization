@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "虚拟钥匙未配对",
   "command": "命令",
   "aboutCommands": "关于指令",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "过去 30 天内向车辆发出的指令。",
   "result": "结果",
   "timeout": "超时",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "不包括通过蓝牙或其他应用或账户发出的指令。"
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "不包括通过蓝牙或其他应用或账户发出的指令。",
+  "noCommandsFound": "未找到任何命令"
 }

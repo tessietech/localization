@@ -2260,8 +2260,8 @@
   "virtualKeyNotPaired": "Virtueller Schlüssel nicht gekoppelt",
   "command": "Befehl",
   "aboutCommands": "Über Befehle",
-  "commandsIssuedToTheVehicleOverTheLast30Days": "An das Fahrzeug in den letzten 30 Tagen ausgegebene Befehle.",
   "result": "Ergebnis",
   "timeout": "Zeitüberschreitung",
-  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Schließt Befehle aus, die über Bluetooth oder andere Apps oder Konten ausgegeben werden."
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Schließt Befehle aus, die über Bluetooth oder andere Apps oder Konten ausgegeben werden.",
+  "noCommandsFound": "Keine Befehle gefunden"
 }
