@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "You will be signed out.",
   "signOutTitle": "Sign Out",
   "addASavedLocationToDefineRatesAndTrackCosts": "Add a saved location to define rates and track costs",
-  "chargingElsewhere": "Charging elsewhere",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatically syncs Supercharging costs with your Tesla account",
   "setADefaultRateWhenNoOtherRateIsFound": "Set a default rate when no other rate is found",
   "commands": "Commands",
@@ -2263,5 +2262,16 @@
   "result": "Result",
   "timeout": "Timeout",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Excludes commands issued via Bluetooth or through other apps or accounts.",
-  "noCommandsFound": "No commands found"
+  "noCommandsFound": "No commands found",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "The vehicle is unreachable over the internet. Change to WiFi or cellular and try again. Restart the vehicle if the issue persists.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla blocked this command because there were too many recently. Try again later.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla experienced a network error. Try again later.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla experienced a server error. Try again later.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "An invalid request was sent. Change the parameters and try again.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "The vehicle's hardware doesn't support this command.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Email support@tessie.com if you need more help with this error.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie doesn't have permission to execute the command. Visit Settings > Connectivity > Change Permissions and enable the appropriate permissions.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "The vehicle rejected the command because the battery level is too low.",
+  "solution": "Solution",
+  "defaultTitle": "Default"
 }

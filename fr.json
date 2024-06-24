@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Vous allez être déconnecté(e).",
   "signOutTitle": "Se déconnecter",
   "addASavedLocationToDefineRatesAndTrackCosts": "Ajouter un lieu enregistré pour définir les tarifs et suivre les coûts",
-  "chargingElsewhere": "Recharge ailleurs",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchronise automatiquement les coûts de Supercharge avec votre compte Tesla",
   "setADefaultRateWhenNoOtherRateIsFound": "Définir un tarif par défaut lorsqu'aucun autre tarif n'est trouvé",
   "commands": "Commandes",
@@ -2263,5 +2262,16 @@
   "result": "Résultat",
   "timeout": "Expiration du délai d'attente",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclut les commandes émises via Bluetooth ou par le biais d’autres applications ou comptes.",
-  "noCommandsFound": "Aucune commande trouvée"
+  "noCommandsFound": "Aucune commande trouvée",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Le véhicule est inaccessible via Internet. Connectez-vous au Wi-Fi ou au réseau cellulaire et réessayez. Redémarrez le véhicule si le problème persiste.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla a bloqué cette commande, car il y en a eu trop récemment. Réessayez plus tard.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Une erreur réseau s’est produite chez Tesla. Réessayez plus tard.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Une erreur de serveur s’est produite chez Tesla. Réessayez plus tard.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Une requête non valide a été envoyée. Modifiez les paramètres et réessayez.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Le matériel du véhicule ne prend pas en charge cette commande.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Envoyez un courriel à support@tessie.com si vous avez besoin d’aide supplémentaire concernant cette erreur.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie n’est pas autorisé à exécuter la commande. Accédez à Paramètres > Connectivité > Modifier les autorisations et activez les autorisations appropriées.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Le véhicule a rejeté la commande parce que le niveau de la batterie est trop faible.",
+  "solution": "Solution",
+  "defaultTitle": "Par défaut"
 }

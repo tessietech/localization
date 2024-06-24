@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "您將會被登出。",
   "signOutTitle": "登出",
   "addASavedLocationToDefineRatesAndTrackCosts": "新增已儲存位置以定義費率和追蹤成本",
-  "chargingElsewhere": "其他地點充電",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie 會自動將超級充電成本與您的 Tesla 帳戶同步",
   "setADefaultRateWhenNoOtherRateIsFound": "當找不到其他費率時，設定預設費率",
   "commands": "指令",
@@ -2263,5 +2262,16 @@
   "result": "結果",
   "timeout": "逾時",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "不含透過藍牙或其他應用程式或帳戶發出的指令。",
-  "noCommandsFound": "找不到任何指令"
+  "noCommandsFound": "找不到任何指令",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "車輛無法透過網際網路連線。請切換至 WiFi 或行動網路後再試一次。如果問題仍然存在，請重新啟動車輛。",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla 封鎖了此指令，因為最近發出太多指令。請稍後再試。",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla 發生網路錯誤。請稍後再試。",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla 發生伺服器錯誤。請稍後再試。",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "傳送了無效的請求。請變更參數後再試一次。",
+  "theVehiclesHardwareDoesntSupportThisCommand": "車輛硬體不支援此指令。",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "如果您需要有關此錯誤的更多說明，請傳送電子郵件至 support@tessie.com。",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie 沒有執行此指令的權限。請前往設定 > 連線 > 變更權限並啟用適當的權限。",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "車輛拒絕了該指令，因為電池電量過低。",
+  "solution": "解決方案",
+  "defaultTitle": "預設"
 }

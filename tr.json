@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Oturumunuz kapatılacak.",
   "signOutTitle": "Oturumu Kapat",
   "addASavedLocationToDefineRatesAndTrackCosts": "Ücretleri belirlemek ve maliyetleri izlemek için kayıtlı bir konum ekleyin",
-  "chargingElsewhere": "Başka bir yerde şarj ediliyor",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie, Süper Şarj maliyetlerini Tesla hesabınızla otomatik olarak eşitler",
   "setADefaultRateWhenNoOtherRateIsFound": "Başka bir oran bulunamadığında varsayılan bir oran belirleyin",
   "commands": "Komutlar",
@@ -2263,5 +2262,16 @@
   "result": "Sonuç",
   "timeout": "Zaman Aşımı",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Bluetooth veya başka uygulamalar veya hesaplar aracılığıyla verilen komutlar hariçtir.",
-  "noCommandsFound": "Komut bulunamadı"
+  "noCommandsFound": "Komut bulunamadı",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Araç internete bağlanamıyor. Wi-Fi veya hücresel ağa bağlanmayı deneyin ve tekrar deneyin. Sorun devam ederse aracı yeniden başlatın.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla, son zamanlarda çok fazla istek olduğu için bu komutu engelledi. Daha sonra tekrar deneyin.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla bir ağ hatasıyla karşılaştı. Lütfen daha sonra tekrar deneyin.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla bir sunucu hatasıyla karşılaştı. Lütfen daha sonra tekrar deneyin.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Geçersiz bir istek gönderildi. Parametreleri değiştirin ve tekrar deneyin.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Araç donanımı bu komutu desteklemiyor.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Bu hatayla ilgili daha fazla yardıma ihtiyacınız olursa support@tessie.com adresine e-posta gönderin.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie'nin komutu yürütme izni yok. Ayarlar > Bağlantı > İzinleri Değiştir'i ziyaret edin ve uygun izinleri etkinleştirin.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Araç, pil seviyesi çok düşük olduğu için komutu reddetti.",
+  "solution": "Çözüm",
+  "defaultTitle": "Varsayılan"
 }

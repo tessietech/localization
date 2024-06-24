@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Stai per uscire.",
   "signOutTitle": "Esci",
   "addASavedLocationToDefineRatesAndTrackCosts": "Aggiungi una posizione salvata per definire le tariffe e monitorare i costi",
-  "chargingElsewhere": "Ricarica altrove",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizza automaticamente i costi di ricarica Supercharger con il tuo account Tesla",
   "setADefaultRateWhenNoOtherRateIsFound": "Imposta una tariffa predefinita quando non ne viene trovata nessun'altra",
   "commands": "Comandi",
@@ -2263,5 +2262,16 @@
   "result": "Risultato",
   "timeout": "Timeout",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Esclude i comandi impartiti tramite Bluetooth o altre app o account.",
-  "noCommandsFound": "Nessun comando trovato"
+  "noCommandsFound": "Nessun comando trovato",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Il veicolo non è raggiungibile tramite Internet. Passare al Wi-Fi o alla rete cellulare e riprovare. Riavviare il veicolo se il problema persiste.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla ha bloccato questo comando perché ne sono stati inviati troppi di recente. Riprova più tardi.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Si è verificato un errore di rete Tesla. Riprova più tardi.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Si è verificato un errore del server Tesla. Riprova più tardi.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "È stata inviata una richiesta non valida. Modificare i parametri e riprovare.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "L'hardware del veicolo non supporta questo comando.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Inviare un'e-mail a support@tessie.com se hai bisogno di ulteriore assistenza con questo errore.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie non è autorizzato a eseguire il comando. Visitare Impostazioni > Connettività > Modifica autorizzazioni e abilitare le autorizzazioni appropriate.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Il veicolo ha rifiutato il comando perché il livello della batteria è troppo basso.",
+  "solution": "Soluzione",
+  "defaultTitle": "Predefinito"
 }

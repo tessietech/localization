@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Sie werden abgemeldet.",
   "signOutTitle": "Abmelden",
   "addASavedLocationToDefineRatesAndTrackCosts": "Speicherort hinzufügen, um Tarife zu definieren und Kosten zu verfolgen",
-  "chargingElsewhere": "An anderer Stelle laden",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchronisiert die Supercharging-Kosten automatisch mit Ihrem Tesla-Konto",
   "setADefaultRateWhenNoOtherRateIsFound": "Standardtarif festlegen, wenn kein anderer Tarif gefunden wird",
   "commands": "Befehle",
@@ -2263,5 +2262,16 @@
   "result": "Ergebnis",
   "timeout": "Zeitüberschreitung",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Schließt Befehle aus, die über Bluetooth oder andere Apps oder Konten ausgegeben werden.",
-  "noCommandsFound": "Keine Befehle gefunden"
+  "noCommandsFound": "Keine Befehle gefunden",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Das Fahrzeug ist über das Internet nicht erreichbar. Wechseln Sie zu WLAN oder Mobilfunk und versuchen Sie es erneut. Starten Sie das Fahrzeug neu, falls das Problem weiterhin besteht.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla hat diesen Befehl blockiert, da es in letzter Zeit zu viele gab. Versuchen Sie es später erneut.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Bei Tesla ist ein Netzwerkfehler aufgetreten. Versuchen Sie es später erneut.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Bei Tesla ist ein Serverfehler aufgetreten. Versuchen Sie es später erneut.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Es wurde eine ungültige Anfrage gesendet. Ändern Sie die Parameter und versuchen Sie es erneut.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Die Hardware des Fahrzeugs unterstützt diesen Befehl nicht.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Senden Sie eine E-Mail an support@tessie.com, wenn Sie weitere Hilfe zu diesem Fehler benötigen.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie verfügt nicht über die Berechtigung, den Befehl auszuführen. Gehen Sie zu Einstellungen > Konnektivität > Berechtigungen ändern und aktivieren Sie die entsprechenden Berechtigungen.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Das Fahrzeug hat den Befehl abgelehnt, da der Batteriestand zu niedrig ist.",
+  "solution": "Lösung",
+  "defaultTitle": "Standard"
 }

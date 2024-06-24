@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "로그아웃됩니다.",
   "signOutTitle": "로그아웃",
   "addASavedLocationToDefineRatesAndTrackCosts": "요금을 정의하고 비용을 추적하려면 저장된 위치를 추가하세요.",
-  "chargingElsewhere": "다른 곳에서 충전 중",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie는 슈퍼차징 비용을 Tesla 계정과 자동으로 동기화합니다.",
   "setADefaultRateWhenNoOtherRateIsFound": "다른 요금이 없을 경우 기본 요금을 설정합니다.",
   "commands": "명령",
@@ -2263,5 +2262,16 @@
   "result": "결과",
   "timeout": "타임 시간 초과",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Bluetooth 또는 다른 앱이나 계정을 통해 발행된 명령은 제외됩니다.",
-  "noCommandsFound": "명령어를 찾을 수 없음"
+  "noCommandsFound": "명령어를 찾을 수 없음",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "차량에 인터넷으로 연결할 수 없습니다. WiFi 또는 셀룰러로 변경하고 다시 시도하세요. 문제가 지속되면 차량을 다시 시작하세요.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "최근에 너무 많은 명령이 있어 Tesla에서 이 명령을 차단했습니다. 나중에 다시 시도하세요.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla에서 네트워크 오류가 발생했습니다. 나중에 다시 시도하세요.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla에서 서버 오류가 발생했습니다. 나중에 다시 시도하세요.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "잘못된 요청이 전송되었습니다. 매개변수를 변경하고 다시 시도하세요.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "차량의 하드웨어가 이 명령을 지원하지 않습니다.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "이 오류에 대한 도움이 더 필요하면 support@tessie.com으로 이메일을 보내세요.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie에 명령을 실행할 권한이 없습니다. 설정 > 연결 > 권한 변경으로 이동하여 적절한 권한을 활성화하세요.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "배터리 잔량이 너무 낮아 차량에서 명령을 거부했습니다.",
+  "solution": "해결 방법",
+  "defaultTitle": "기본값"
 }

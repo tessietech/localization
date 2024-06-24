@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Se cerrará la sesión.",
   "signOutTitle": "Cerrar sesión",
   "addASavedLocationToDefineRatesAndTrackCosts": "Añade una ubicación guardada para definir tarifas y controlar los costes",
-  "chargingElsewhere": "Cargando en otro lugar",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincroniza automáticamente los costes de supercarga con tu cuenta de Tesla",
   "setADefaultRateWhenNoOtherRateIsFound": "Establecer una tarifa predeterminada cuando no se encuentre ninguna otra tarifa",
   "commands": "Comandos",
@@ -2263,5 +2262,16 @@
   "result": "Resultado",
   "timeout": "Tiempo de espera",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Excluye comandos emitidos a través de Bluetooth o de otras aplicaciones o cuentas.",
-  "noCommandsFound": "No se encontraron comandos"
+  "noCommandsFound": "No se encontraron comandos",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "No se puede acceder al vehículo a través de Internet. Cambia a Wifi o datos móviles y vuelve a intentarlo. Reinicia el vehículo si el problema persiste.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla bloqueó este comando porque se enviaron demasiados recientemente. Inténtalo de nuevo más tarde.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla experimentó un error de red. Inténtalo de nuevo más tarde.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla experimentó un error de servidor. Inténtalo de nuevo más tarde.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Se envió una solicitud no válida. Cambia los parámetros e inténtalo de nuevo.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "El hardware del vehículo no admite este comando.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Envía un correo electrónico a support@tessie.com si necesitas más ayuda con este error.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie no tiene permiso para ejecutar el comando. Visita Configuración > Conectividad > Cambiar permisos y habilita los permisos adecuados.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "El vehículo rechazó el comando porque el nivel de batería es demasiado bajo.",
+  "solution": "Solución",
+  "defaultTitle": "Predeterminado"
 }

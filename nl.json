@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "U wordt uitgelogd.",
   "signOutTitle": "Uitloggen",
   "addASavedLocationToDefineRatesAndTrackCosts": "Voeg een opgeslagen locatie toe om tarieven te definiëren en kosten bij te houden",
-  "chargingElsewhere": "Elders opladen",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synchroniseert automatisch Supercharging-kosten met je Tesla-account",
   "setADefaultRateWhenNoOtherRateIsFound": "Stel een standaardtarief in wanneer er geen ander tarief wordt gevonden",
   "commands": "Opdrachten",
@@ -2263,5 +2262,16 @@
   "result": "Resultaat",
   "timeout": "Time-out",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclusief opdrachten die via Bluetooth of andere apps of accounts zijn uitgegeven.",
-  "noCommandsFound": "Geen opdrachten gevonden"
+  "noCommandsFound": "Geen opdrachten gevonden",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "De auto is niet bereikbaar via internet. Schakel over naar wifi of mobiel internet en probeer het opnieuw. Start de auto opnieuw op als het probleem zich blijft voordoen.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla heeft deze opdracht geblokkeerd omdat er de laatste tijd te veel zijn geweest. Probeer het later opnieuw.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Er is een netwerkfout opgetreden bij Tesla. Probeer het later opnieuw.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Er is een serverfout opgetreden bij Tesla. Probeer het later opnieuw.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Er is een ongeldig verzoek verzonden. Wijzig de parameters en probeer het opnieuw.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "De hardware van de auto ondersteunt deze opdracht niet.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Stuur een e-mail naar support@tessie.com als je meer hulp nodig hebt met deze fout.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie heeft geen toestemming om de opdracht uit te voeren. Ga naar Instellingen > Connectiviteit > Rechten wijzigen en schakel de juiste rechten in.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "De auto heeft de opdracht geweigerd omdat het batterijniveau te laag is.",
+  "solution": "Oplossing",
+  "defaultTitle": "Standaard"
 }

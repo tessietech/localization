@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Veți fi deconectat.",
   "signOutTitle": "Deconectare",
   "addASavedLocationToDefineRatesAndTrackCosts": "Adăugați o locație salvată pentru a defini tarifele și a urmări costurile",
-  "chargingElsewhere": "Încărcare în altă parte",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie sincronizează automat costurile Supercharging cu contul dvs. Tesla",
   "setADefaultRateWhenNoOtherRateIsFound": "Setați o rată implicită atunci când nu este găsită nicio altă rată",
   "commands": "Comenzi",
@@ -2263,5 +2262,16 @@
   "result": "Rezultat",
   "timeout": "Expirare",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Exclude comenzile emise prin Bluetooth sau prin alte aplicații sau conturi.",
-  "noCommandsFound": "Nicio comandă găsită"
+  "noCommandsFound": "Nicio comandă găsită",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Mașina nu poate fi contactată prin internet. Conectați-vă la o rețea Wi-Fi sau celulară și încercați din nou. Reporniți mașina dacă problema persistă.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla a blocat această comandă deoarece au existat prea multe recent. Încercați din nou mai târziu.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla a întâmpinat o eroare de rețea. Încercați din nou mai târziu.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla a întâmpinat o eroare de server. Încercați din nou mai târziu.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "A fost trimisă o solicitare nevalidă. Modificați parametrii și încercați din nou.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Hardware-ul mașinii nu acceptă această comandă.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Trimiteți un e-mail la support@tessie.com dacă aveți nevoie de mai mult ajutor cu privire la această eroare.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie nu are permisiunea de a executa comanda. Accesați Setări > Conectivitate > Modificare permisiuni și activați permisiunile corespunzătoare.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Mașina a respins comanda deoarece nivelul bateriei este prea scăzut.",
+  "solution": "Soluție",
+  "defaultTitle": "Implicit"
 }

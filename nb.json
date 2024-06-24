@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Du blir logget ut.",
   "signOutTitle": "Logg ut",
   "addASavedLocationToDefineRatesAndTrackCosts": "Legg til et lagret sted for å definere priser og spore kostnader",
-  "chargingElsewhere": "Lader andre steder",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk Supercharging-kostnader med Tesla-kontoen din",
   "setADefaultRateWhenNoOtherRateIsFound": "Angi en standardpris når ingen annen pris er funnet",
   "commands": "Kommandoer",
@@ -2263,5 +2262,16 @@
   "result": "Resultat",
   "timeout": "Tidsavbrudd",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer utstedt via Bluetooth eller gjennom andre apper eller kontoer.",
-  "noCommandsFound": "Fant ingen kommandoer"
+  "noCommandsFound": "Fant ingen kommandoer",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Bilen er ikke tilgjengelig via internett. Bytt til Wi-Fi eller mobilnett og prøv igjen. Start bilen på nytt hvis problemet vedvarer.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla blokkerte denne kommandoen fordi det var for mange nylig. Prøv igjen senere.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Tesla opplevde en nettverksfeil. Prøv igjen senere.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Tesla opplevde en serverfeil. Prøv igjen senere.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "En ugyldig forespørsel ble sendt. Endre parametrene og prøv igjen.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Bilens maskinvare støtter ikke denne kommandoen.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Send e-post til support@tessie.com hvis du trenger mer hjelp med denne feilen.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie har ikke tillatelse til å utføre kommandoen. Gå til Innstillinger > Tilkobling > Endre tillatelser og aktiver de riktige tillatelsene.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Bilen avviste kommandoen fordi batterinivået er for lavt.",
+  "solution": "Løsning",
+  "defaultTitle": "Standard"
 }

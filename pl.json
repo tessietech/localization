@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Nastąpi wylogowanie.",
   "signOutTitle": "Wyloguj się",
   "addASavedLocationToDefineRatesAndTrackCosts": "Dodaj zapisaną lokalizację, aby określić stawki i śledzić koszty",
-  "chargingElsewhere": "Ładowanie w innym miejscu",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie automatycznie synchronizuje koszty Supercharging z Twoim kontem Tesla",
   "setADefaultRateWhenNoOtherRateIsFound": "Ustaw stawkę domyślną, gdy nie znaleziono innej stawki",
   "commands": "Polecenia",
@@ -2263,5 +2262,16 @@
   "result": "Wynik",
   "timeout": "Przekroczono czas oczekiwania",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Wyklucza polecenia wydawane przez Bluetooth lub za pośrednictwem innych aplikacji lub kont.",
-  "noCommandsFound": "Nie znaleziono poleceń"
+  "noCommandsFound": "Nie znaleziono poleceń",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Nie można połączyć się z pojazdem przez internet. Zmień połączenie na Wi-Fi lub komórkowe i spróbuj ponownie. Jeśli problem będzie się powtarzać, uruchom ponownie pojazd.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla zablokowała to polecenie, ponieważ ostatnio wysłano ich zbyt wiele. Spróbuj ponownie później.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Wystąpił błąd sieci Tesla. Spróbuj ponownie później.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Wystąpił błąd serwera Tesla. Spróbuj ponownie później.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Wysłano nieprawidłowe żądanie. Zmień parametry i spróbuj ponownie.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Sprzęt pojazdu nie obsługuje tego polecenia.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Wyślij wiadomość e-mail na adres support@tessie.com, jeśli potrzebujesz dodatkowej pomocy w rozwiązaniu tego problemu.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie nie ma uprawnień do wykonania polecenia. Przejdź do Ustawienia > Łączność > Zmień uprawnienia i włącz odpowiednie uprawnienia.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Pojazd odrzucił polecenie, ponieważ poziom naładowania baterii jest zbyt niski.",
+  "solution": "Rozwiązanie",
+  "defaultTitle": "Domyślne"
 }

@@ -2249,7 +2249,6 @@
   "youWillBeSignedOut": "Du bliver logget ud.",
   "signOutTitle": "Log ud",
   "addASavedLocationToDefineRatesAndTrackCosts": "Tilføj en gemt placering for at definere priser og spore omkostninger",
-  "chargingElsewhere": "Opladning andetsteds",
   "tessieAutomaticallySyncsSuperchargingCostsWithYourTeslaAccount": "Tessie synkroniserer automatisk Supercharging-omkostninger med din Tesla-konto",
   "setADefaultRateWhenNoOtherRateIsFound": "Indstil en standardtakst, når der ikke findes andre takster",
   "commands": "Kommandoer",
@@ -2263,5 +2262,16 @@
   "result": "Resultat",
   "timeout": "Timeout",
   "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer udstedt via Bluetooth eller gennem andre apps eller konti.",
-  "noCommandsFound": "Ingen kommandoer fundet"
+  "noCommandsFound": "Ingen kommandoer fundet",
+  "theVehicleIsUnreachableOverTheInternetChangeToWifi": "Bilen kan ikke nås via internettet. Skift til Wi-Fi eller mobilnetværk, og prøv igen. Genstart bilen, hvis problemet fortsætter.",
+  "teslaBlockedThisCommandBecauseThereWereTooManyRecently": "Tesla blokerede denne kommando, fordi der var for mange for nylig. Prøv igen senere.",
+  "teslaExperiencedANetworkErrorTryAgainLater": "Der opstod en netværksfejl hos Tesla. Prøv igen senere.",
+  "teslaExperiencedAServerErrorTryAgainLater": "Der opstod en serverfejl hos Tesla. Prøv igen senere.",
+  "anInvalidRequestWasSentChangeTheParametersAndTry": "Der blev sendt en ugyldig anmodning. Rediger parametrene, og prøv igen.",
+  "theVehiclesHardwareDoesntSupportThisCommand": "Bilens hardware understøtter ikke denne kommando.",
+  "emailSupporttessiecomIfYouNeedMoreHelpWithThisError": "Send en e-mail til support@tessie.com, hvis du har brug for mere hjælp til denne fejl.",
+  "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie har ikke tilladelse til at udføre kommandoen. Gå til Indstillinger > Forbindelse > Rediger tilladelser, og aktivér de relevante tilladelser.",
+  "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Bilen afviste kommandoen, fordi batteriniveauet er for lavt.",
+  "solution": "Løsning",
+  "defaultTitle": "Standard"
 }
