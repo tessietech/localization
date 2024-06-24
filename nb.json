@@ -2258,5 +2258,10 @@
   "networkTimeout": "Tidsavbrudd for nettverk",
   "badRequest": "Ugyldig forespørsel",
   "virtualKeyNotPaired": "Virtuell nøkkel er ikke parkoblet",
-  "command": "Kommando"
+  "command": "Kommando",
+  "aboutCommands": "Om kommandoer",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "Kommandoer sendt til bilen de siste 30 dagene.",
+  "result": "Resultat",
+  "timeout": "Tidsavbrudd",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer utstedt via Bluetooth eller gjennom andre apper eller kontoer."
 }

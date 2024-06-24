@@ -2258,5 +2258,10 @@
   "networkTimeout": "Timeout di rete",
   "badRequest": "Richiesta non valida",
   "virtualKeyNotPaired": "Chiave virtuale non associata",
-  "command": "Comando"
+  "command": "Comando",
+  "aboutCommands": "Informazioni sui comandi",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "Comandi inviati al veicolo negli ultimi 30 giorni.",
+  "result": "Risultato",
+  "timeout": "Timeout",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Esclude i comandi impartiti tramite Bluetooth o altre app o account."
 }

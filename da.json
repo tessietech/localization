@@ -2258,5 +2258,10 @@
   "networkTimeout": "Netværkstimeout",
   "badRequest": "Forkert anmodning",
   "virtualKeyNotPaired": "Virtuel nøgle er ikke parret",
-  "command": "Kommando"
+  "command": "Kommando",
+  "aboutCommands": "Om kommandoer",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "Kommandoer udstedt til bilen inden for de sidste 30 dage.",
+  "result": "Resultat",
+  "timeout": "Timeout",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Ekskluderer kommandoer udstedt via Bluetooth eller gennem andre apps eller konti."
 }

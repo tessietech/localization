@@ -2258,5 +2258,10 @@
   "networkTimeout": "Przekroczono limit czasu sieci",
   "badRequest": "Nieprawidłowe żądanie",
   "virtualKeyNotPaired": "Klucz wirtualny nie jest sparowany",
-  "command": "Polecenie"
+  "command": "Polecenie",
+  "aboutCommands": "Informacje o komendach",
+  "commandsIssuedToTheVehicleOverTheLast30Days": "Komendy wydane pojazdowi w ciągu ostatnich 30 dni.",
+  "result": "Wynik",
+  "timeout": "Przekroczono czas oczekiwania",
+  "excludesCommandsIssuedViaBluetoothOrThroughOtherAppsOr": "Wyklucza polecenia wydawane przez Bluetooth lub za pośrednictwem innych aplikacji lub kont."
 }
