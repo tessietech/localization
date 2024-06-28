@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie에 명령을 실행할 권한이 없습니다. 설정 > 연결 > 권한 변경으로 이동하여 적절한 권한을 활성화하세요.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "배터리 잔량이 너무 낮아 차량에서 명령을 거부했습니다.",
   "solution": "해결 방법",
-  "defaultTitle": "기본값"
+  "defaultTitle": "기본값",
+  "notificationsAreEnabledOnThisDevice": "이 기기에서 알림이 활성회되었습니다.",
+  "viewLiveDrive": "실시간 운전 보기",
+  "viewLiveCharge": "실시간 충전 보기",
+  "viewLiveIdle": "실시간 유지 보기",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "이 차량과 연관된 모든 데이터는 영구 삭제됩니다. 이 조치는 취소할 수 없습니다."
 }

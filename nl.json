@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie heeft geen toestemming om de opdracht uit te voeren. Ga naar Instellingen > Connectiviteit > Rechten wijzigen en schakel de juiste rechten in.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "De auto heeft de opdracht geweigerd omdat het batterijniveau te laag is.",
   "solution": "Oplossing",
-  "defaultTitle": "Standaard"
+  "defaultTitle": "Standaard",
+  "notificationsAreEnabledOnThisDevice": "Meldingen zijn ingeschakeld op dit apparaat",
+  "viewLiveDrive": "Bekijk live rit",
+  "viewLiveCharge": "Bekijk live laden",
+  "viewLiveIdle": "Bekijk live stilstand",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dit voertuig en alle bijbehorende gegevens worden permanent verwijderd. Dit kan niet ongedaan worden gemaakt."
 }

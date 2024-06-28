@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie verfügt nicht über die Berechtigung, den Befehl auszuführen. Gehen Sie zu Einstellungen > Konnektivität > Berechtigungen ändern und aktivieren Sie die entsprechenden Berechtigungen.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Das Fahrzeug hat den Befehl abgelehnt, da der Batteriestand zu niedrig ist.",
   "solution": "Lösung",
-  "defaultTitle": "Standard"
+  "defaultTitle": "Standard",
+  "notificationsAreEnabledOnThisDevice": "Benachrichtigungen sind auf diesem Gerät aktiviert",
+  "viewLiveDrive": "Live-Fahrt ansehen",
+  "viewLiveCharge": "Live-Ladevorgang ansehen",
+  "viewLiveIdle": "Live-Leerlauf ansehen",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dieses Fahrzeug und alle zugehörigen Daten werden dauerhaft gelöscht. Dies kann nicht rückgängig gemacht werden."
 }

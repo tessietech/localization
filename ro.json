@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie nu are permisiunea de a executa comanda. Accesați Setări > Conectivitate > Modificare permisiuni și activați permisiunile corespunzătoare.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Mașina a respins comanda deoarece nivelul bateriei este prea scăzut.",
   "solution": "Soluție",
-  "defaultTitle": "Implicit"
+  "defaultTitle": "Implicit",
+  "notificationsAreEnabledOnThisDevice": "Notificările sunt activate pe acest dispozitiv",
+  "viewLiveDrive": "Vizualizați călătoria în timp real",
+  "viewLiveCharge": "Vizualizați încărcarea în timp real",
+  "viewLiveIdle": "Vizualizați staționarea în timp real",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Acest vehicul și toate datele asociate vor fi șterse definitiv. Această acțiune este ireversibilă."
 }

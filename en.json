@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie doesn't have permission to execute the command. Visit Settings > Connectivity > Change Permissions and enable the appropriate permissions.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "The vehicle rejected the command because the battery level is too low.",
   "solution": "Solution",
-  "defaultTitle": "Default"
+  "defaultTitle": "Default",
+  "notificationsAreEnabledOnThisDevice": "Notifications are enabled on this device",
+  "viewLiveDrive": "View live drive",
+  "viewLiveCharge": "View live charge",
+  "viewLiveIdle": "View live idle",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "This vehicle and all associated data will be permanently deleted. This cannot be undone."
 }

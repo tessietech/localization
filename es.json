@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie no tiene permiso para ejecutar el comando. Visita Configuración > Conectividad > Cambiar permisos y habilita los permisos adecuados.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "El vehículo rechazó el comando porque el nivel de batería es demasiado bajo.",
   "solution": "Solución",
-  "defaultTitle": "Predeterminado"
+  "defaultTitle": "Predeterminado",
+  "notificationsAreEnabledOnThisDevice": "Las notificaciones están activadas en este dispositivo",
+  "viewLiveDrive": "Ver conducción en directo",
+  "viewLiveCharge": "Ver carga en directo",
+  "viewLiveIdle": "Ver inactividad en directo",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Este vehículo y todos los datos asociados se eliminarán de forma permanente. Esta acción no se puede deshacer."
 }

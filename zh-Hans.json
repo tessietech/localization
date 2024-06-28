@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie 没有执行该命令的权限。请访问“设置”>“连接”>“更改权限”并启用相应的权限。",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "车辆拒绝了该命令，因为电池电量过低。",
   "solution": "解决方案",
-  "defaultTitle": "默认"
+  "defaultTitle": "默认",
+  "notificationsAreEnabledOnThisDevice": "此设备已启用通知",
+  "viewLiveDrive": "查看实时驾驶",
+  "viewLiveCharge": "查看实时充电",
+  "viewLiveIdle": "查看实时闲置",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "此车辆和所有相关数据将被永久删除。此操作无法撤消。"
 }

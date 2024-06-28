@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie'nin komutu yürütme izni yok. Ayarlar > Bağlantı > İzinleri Değiştir'i ziyaret edin ve uygun izinleri etkinleştirin.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Araç, pil seviyesi çok düşük olduğu için komutu reddetti.",
   "solution": "Çözüm",
-  "defaultTitle": "Varsayılan"
+  "defaultTitle": "Varsayılan",
+  "notificationsAreEnabledOnThisDevice": "Bu cihazda bildirimler etkin",
+  "viewLiveDrive": "Canlı sürüşü görüntüle",
+  "viewLiveCharge": "Canlı şarjı görüntüle",
+  "viewLiveIdle": "Canlı beklemeyi görüntüle",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Bu araç ve ilişkili tüm veriler kalıcı olarak silinecek. Bu işlem geri alınamaz."
 }

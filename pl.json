@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie nie ma uprawnień do wykonania polecenia. Przejdź do Ustawienia > Łączność > Zmień uprawnienia i włącz odpowiednie uprawnienia.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Pojazd odrzucił polecenie, ponieważ poziom naładowania baterii jest zbyt niski.",
   "solution": "Rozwiązanie",
-  "defaultTitle": "Domyślne"
+  "defaultTitle": "Domyślne",
+  "notificationsAreEnabledOnThisDevice": "Powiadomienia są włączone na tym urządzeniu",
+  "viewLiveDrive": "Wyświetl jazdę na żywo",
+  "viewLiveCharge": "Wyświetl ładowanie na żywo",
+  "viewLiveIdle": "Wyświetl postój na żywo",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Ten pojazd i wszystkie powiązane z nim dane zostaną trwale usunięte. Tej czynności nie można cofnąć."
 }

@@ -2273,5 +2273,10 @@
   "tessieDoesntHavePermissionToExecuteTheCommandVisitSettings": "Tessie har ikke tilladelse til at udføre kommandoen. Gå til Indstillinger > Forbindelse > Rediger tilladelser, og aktivér de relevante tilladelser.",
   "theVehicleRejectedTheCommandBecauseTheBatteryLevelIs": "Bilen afviste kommandoen, fordi batteriniveauet er for lavt.",
   "solution": "Løsning",
-  "defaultTitle": "Standard"
+  "defaultTitle": "Standard",
+  "notificationsAreEnabledOnThisDevice": "Notifikationer er aktiveret på denne enhed",
+  "viewLiveDrive": "Se køretur direkte",
+  "viewLiveCharge": "Se opladning direkte",
+  "viewLiveIdle": "Se inaktivitet direkte",
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Denne bil og alle tilknyttede data slettes permanent. Dette kan ikke fortrydes."
 }
