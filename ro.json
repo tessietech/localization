@@ -110,7 +110,6 @@
   "invalidUserId": "ID utilizator invalid.",
   "invalidVerificationCode": "Cod de verificare incorect",
   "inviteOthers": "Invitați alte persoane",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Se pare că utilizați un cont personal pentru o firmă de transport. Aveți doar vehicule personale?",
   "iUnderstand": "Înțeleg",
   "letUsKnow": "Anunțați-ne",
   "letUsKnowHowToMakeTessieBetter": "Spuneți-ne cum să facem Tessie mai bună",
@@ -145,7 +144,6 @@
   "parked": "Parcat",
   "passengerWindowOpen": "Geamul pasagerului deschis",
   "paymentIsPending": "Plata este în așteptare.",
-  "personalAccountsIncludeUpTo5Vehicles": "Conturile personale includ până la 5 vehicule.",
   "perVehiclePerMonth": "pe vehicul pe lună",
   "pleaseEnterAValidEmailAddress": "Introduceți o adresă de e-mail validă.",
   "pleaseGoBackAndTryAgain": "Reveniți și încercați din nou.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importă fișier",
   "usageExceeded": "Depășirea utilizării",
   "usageNotice": "Notificare de utilizare",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Am detectat {count} vehicule active, ceea ce este neobișnuit pentru un cont personal.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Pentru a elimina această notificare, confirmă-ți utilizarea personală, arhivează {count} vehicule(e) sau efectuează upgrade la gestionarea flotei.",
-  "confirmPersonalUsage": "Confirmă utilizarea personală",
   "youveBeenAwayAwhile": "Ai lipsit o perioadă de timp",
   "dataStreamingIsPaused": "Transmiterea de date este întreruptă",
   "resume": "Reluare",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "Intervalul de temperatură al bateriei",
   "aboutFirmwareAlerts": "Despre alerte firmware",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Codurile și descrierile alertelor sunt transmise de vehiculul tău Tessie. Tessie nu poate oferi asistență pentru acestea.",
-  "noFirmwareAlerts": "Nu există alerte firmware.",
   "firmwareAlerts": "Alerte firmware",
   "json": "JSON",
   "downloadPdfs": "Descărcare PDF-uri",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Vizualizați călătoria în timp real",
   "viewLiveCharge": "Vizualizați încărcarea în timp real",
   "viewLiveIdle": "Vizualizați staționarea în timp real",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Acest vehicul și toate datele asociate vor fi șterse definitiv. Această acțiune este ireversibilă."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Acest vehicul și toate datele asociate vor fi șterse definitiv. Această acțiune este ireversibilă.",
+  "noAlertsFound": "Nu au fost găsite alerte",
+  "wereMonitoringForFirmwareAlerts": "Monitorizăm alertele firmware"
 }

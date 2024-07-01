@@ -110,7 +110,6 @@
   "invalidUserId": "Ugyldig bruker-ID.",
   "invalidVerificationCode": "Ugyldig bekreftelseskode",
   "inviteOthers": "Inviter andre",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Det ser ut som du bruker en personlig konto til en flåtebedrift. Har du bare personlige kjøretøyer?",
   "iUnderstand": "Jeg forstår",
   "letUsKnow": "Fortell oss det",
   "letUsKnowHowToMakeTessieBetter": "Fortell oss hvordan vi kan gjøre Tessie bedre",
@@ -145,7 +144,6 @@
   "parked": "Parkert",
   "passengerWindowOpen": "Passasjervinduet åpent",
   "paymentIsPending": "Betaling er ventende.",
-  "personalAccountsIncludeUpTo5Vehicles": "Personlige kontoer inkluderer opptil 5 kjøretøyer.",
   "perVehiclePerMonth": "per kjøretøy per måned",
   "pleaseEnterAValidEmailAddress": "Skriv inn en gyldig e-postadresse.",
   "pleaseGoBackAndTryAgain": "Gå tilbake og prøv igjen.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importer fil",
   "usageExceeded": "Bruk overskredet",
   "usageNotice": "Bruksvarsel",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Vi har oppdaget {count} aktive kjøretøy, noe som er uvanlig for en personlig konto.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "For å fjerne dette varselet må du bekrefte personlig bruk, arkivere {count} kjøretøy eller oppgradere til flåtestyring.",
-  "confirmPersonalUsage": "Bekreft personlig bruk",
   "youveBeenAwayAwhile": "Du har vært borte en stund",
   "dataStreamingIsPaused": "Datastrømming er satt på pause",
   "resume": "Fortsett",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "Temperaturområdet til batteripakken.",
   "aboutFirmwareAlerts": "Om fastvarevarsler",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Varslingskoder og -beskrivelser rapporteres av kjøretøyet ditt. Tessie kan ikke gi støtte for dem.",
-  "noFirmwareAlerts": "Ingen fastvarevarsler.",
   "firmwareAlerts": "Fastvarevarsler",
   "json": "JSON",
   "downloadPdfs": "Last ned PDF-filer",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Se kjøring i sanntid",
   "viewLiveCharge": "Se lading i sanntid",
   "viewLiveIdle": "Se inaktivitet i sanntid",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dette kjøretøyet og alle tilknyttede data vil bli slettet permanent. Dette kan ikke angres."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dette kjøretøyet og alle tilknyttede data vil bli slettet permanent. Dette kan ikke angres.",
+  "noAlertsFound": "Fant ingen varsler",
+  "wereMonitoringForFirmwareAlerts": "Vi ser etter fastvarevarsler"
 }

@@ -110,7 +110,6 @@
   "invalidUserId": "ID utente non valido.",
   "invalidVerificationCode": "Codice di verifica non valido",
   "inviteOthers": "Invita altri",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Sembra che tu stia utilizzando un account personale per la gestione della flotta. Hai solo veicoli personali?",
   "iUnderstand": "Capisco",
   "letUsKnow": "Faccelo sapere",
   "letUsKnowHowToMakeTessieBetter": "Facci sapere come rendere Tessie migliore",
@@ -145,7 +144,6 @@
   "parked": "Parcheggiato",
   "passengerWindowOpen": "Finestra del passeggero aperta",
   "paymentIsPending": "Pagament in sospeso.",
-  "personalAccountsIncludeUpTo5Vehicles": "Gli account personali includono fino a 5 veicoli.",
   "perVehiclePerMonth": "per veicolo al mese",
   "pleaseEnterAValidEmailAddress": "Inserisci un indirizzo email valido.",
   "pleaseGoBackAndTryAgain": "Torna indietro e riprova.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importa file",
   "usageExceeded": "Utilizzo ecceduto",
   "usageNotice": "Avviso di utilizzo",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Abbiamo rilevato {count} veicoli attivi, il che è insolito per un account personale.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Per rimuovere questo avviso, conferma il tuo utilizzo personale, archivia {count} veicolo(i) o passa alla gestione della flotta.",
-  "confirmPersonalUsage": "Conferma l'uso personale",
   "youveBeenAwayAwhile": "Sei stato via un po",
   "dataStreamingIsPaused": "Lo streaming dei dati è in pausa",
   "resume": "Riprendi",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "L'intervallo di temperatura del pacco batteria.",
   "aboutFirmwareAlerts": "Informazioni sugli avvisi firmware",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "I codici e le descrizioni degli avvisi vengono riportati dal tuo veicolo. Tessie non può fornire supporto per loro.",
-  "noFirmwareAlerts": "Nessun avviso firmware.",
   "firmwareAlerts": "Avvisi firmware",
   "json": "JSON",
   "downloadPdfs": "Scarica PDF",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Visualizza la guida in tempo reale",
   "viewLiveCharge": "Visualizza la ricarica in tempo reale",
   "viewLiveIdle": "Visualizza inattività in tempo reale",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Questo veicolo e tutti i dati associati verranno eliminati definitivamente. Questa azione non può essere annullata."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Questo veicolo e tutti i dati associati verranno eliminati definitivamente. Questa azione non può essere annullata.",
+  "noAlertsFound": "Nessun avviso trovato",
+  "wereMonitoringForFirmwareAlerts": "Stiamo monitorando gli avvisi del firmware"
 }

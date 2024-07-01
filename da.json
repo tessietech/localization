@@ -110,7 +110,6 @@
   "invalidUserId": "Ugyldigt bruger-ID.",
   "invalidVerificationCode": "Ugyldig bekræftelseskode",
   "inviteOthers": "Inviter andre",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Det ser ud til, at du bruger en personlig konto til en flådevirksomhed. Har du kun personlige køretøjer?",
   "iUnderstand": "Jeg forstår",
   "letUsKnow": "Fortæl os om det",
   "letUsKnowHowToMakeTessieBetter": "Lad os vide, hvordan vi kan gøre Tessie bedre",
@@ -145,7 +144,6 @@
   "parked": "Parkeret",
   "passengerWindowOpen": "Passagervindue åbent",
   "paymentIsPending": "Betaling afventer.",
-  "personalAccountsIncludeUpTo5Vehicles": "Personlige konti indeholder op til 5 køretøjer.",
   "perVehiclePerMonth": "pr. køretøj pr. måned",
   "pleaseEnterAValidEmailAddress": "Indtast en gyldig e-mailadresse.",
   "pleaseGoBackAndTryAgain": "Gå venligst tilbage og prøv igen.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importer fil",
   "usageExceeded": "Forbrug overskredet",
   "usageNotice": "Brugsmeddelelse ",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Vi har registreret {count} aktive køretøjer, hvilket er usædvanligt for en personlig konto.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "For at fjerne denne meddelelse skal du bekræfte dit personlige brug, arkivere {count} køretøj(er) eller opgradere til flådeadministration.",
-  "confirmPersonalUsage": "Bekræft personligt brug",
   "youveBeenAwayAwhile": "Du har været væk i noget tid",
   "dataStreamingIsPaused": "Datastreaming er sat på pause",
   "resume": "Genoptag",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "Batteripakkens temperaturområde.",
   "aboutFirmwareAlerts": "Om firmwarealarmer",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Alarmkoder og beskrivelser rapporteres af dit køretøj. Tessie kan ikke yde support for dem.",
-  "noFirmwareAlerts": "Ingen firmwarealarmer.",
   "firmwareAlerts": "Firmwarealarmer",
   "json": "JSON",
   "downloadPdfs": "Download PDF'er",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Se køretur direkte",
   "viewLiveCharge": "Se opladning direkte",
   "viewLiveIdle": "Se inaktivitet direkte",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Denne bil og alle tilknyttede data slettes permanent. Dette kan ikke fortrydes."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Denne bil og alle tilknyttede data slettes permanent. Dette kan ikke fortrydes.",
+  "noAlertsFound": "Ingen advarsler fundet",
+  "wereMonitoringForFirmwareAlerts": "Vi overvåger for firmwareadvarsler"
 }

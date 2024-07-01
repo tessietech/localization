@@ -110,7 +110,6 @@
   "invalidUserId": "ID d'utilisateur invalide.",
   "invalidVerificationCode": "Code de vérification invalide",
   "inviteOthers": "Inviter d'autres personnes",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Il semble que vous utilisez un compte personnel pour une flotte professionnelle. Vous avez uniquement des véhicules personnels ?",
   "iUnderstand": "Je comprends",
   "letUsKnow": "Faites-le nous savoir",
   "letUsKnowHowToMakeTessieBetter": "Indiquez-nous comment améliorer Tessie",
@@ -145,7 +144,6 @@
   "parked": "Stationné",
   "passengerWindowOpen": "Vitre du passager ouverte",
   "paymentIsPending": "Le paiement est en attente.",
-  "personalAccountsIncludeUpTo5Vehicles": "Les comptes personnels incluent jusqu'à 5 véhicules.",
   "perVehiclePerMonth": "par véhicule et par mois",
   "pleaseEnterAValidEmailAddress": "Veuillez saisir une adresse e-mail valide.",
   "pleaseGoBackAndTryAgain": "Veuillez revenir en arrière et réessayer.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importer le fichier",
   "usageExceeded": "Utilisation dépassée",
   "usageNotice": "Notification d'utilisation",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Nous avons détecté {count} véhicules actifs, ce qui est inhabituel pour un compte personnel.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Pour supprimer cette notification, confirmez votre utilisation personnelle, archivez {count} véhicule(s) ou passez à la gestion de flotte.",
-  "confirmPersonalUsage": "Confirmez l'utilisation personnelle",
   "youveBeenAwayAwhile": "Vous êtes parti depuis un moment",
   "dataStreamingIsPaused": "Le streaming de données est suspendu",
   "resume": "Reprendre",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "La plage de température de la batterie.",
   "aboutFirmwareAlerts": "À propos des alertes de micrologiciel",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Les codes d'alerte et leurs descriptions sont signalés par votre véhicule. Tessie ne peut pas fournir d'assistance pour ces derniers.",
-  "noFirmwareAlerts": "Aucune alerte de micrologiciel.",
   "firmwareAlerts": "Alertes de micrologiciel",
   "json": "JSON",
   "downloadPdfs": "Télécharger les PDF",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Voir le trajet en direct",
   "viewLiveCharge": "Voir la recharge en direct",
   "viewLiveIdle": "Voir l'inactivité en direct",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Ce véhicule et toutes les données associées seront définitivement supprimés. Cette action est irréversible."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Ce véhicule et toutes les données associées seront définitivement supprimés. Cette action est irréversible.",
+  "noAlertsFound": "Aucune alerte trouvée",
+  "wereMonitoringForFirmwareAlerts": "Nous surveillons les alertes de micrologiciel"
 }

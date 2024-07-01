@@ -110,7 +110,6 @@
   "invalidUserId": "잘못된 사용자 ID입니다.",
   "invalidVerificationCode": "잘못된 검증 코드입니다.",
   "inviteOthers": "다른 사람 초대하기",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "차량 비즈니스에 개인 계정을 사용하는 것 같습니다. 개인 차량만 있나요?",
   "iUnderstand": "알겠습니다.",
   "letUsKnow": "알려주세요.",
   "letUsKnowHowToMakeTessieBetter": "Tessie를 더 좋게 만들 수 있는 방법을 알려주세요.",
@@ -145,7 +144,6 @@
   "parked": "주차됨",
   "passengerWindowOpen": "조수석 창문이 열림",
   "paymentIsPending": "결제가 진행 중입니다.",
-  "personalAccountsIncludeUpTo5Vehicles": "개인 계정에는 최대 5대의 차량을 포함할 수 있습니다.",
   "perVehiclePerMonth": "차량당 월간",
   "pleaseEnterAValidEmailAddress": "유효한 이메일 주소를 입력하세요.",
   "pleaseGoBackAndTryAgain": "돌아가서 다시 시도하세요.",
@@ -1543,9 +1541,6 @@
   "importFile": "파일 가져오기",
   "usageExceeded": "사용량 초과",
   "usageNotice": "사용량 안내",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "{count}대의 활성 차량을 감지했는데, 이는 개인 계정에선 드문 현상입니다.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "이 안내를 삭제하려면 개인적 사용을 확인하고 {count}대의 차량을 보관하거나 플릿 관리로 업그레이드하세요.",
-  "confirmPersonalUsage": "개인적 사용 확인",
   "youveBeenAwayAwhile": "잠시 자리를 비웠던 모양이네요.",
   "dataStreamingIsPaused": "데이터 스트리밍이 일시 중지됨",
   "resume": "이어서 진행",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "배터리 팩의 온도 범위",
   "aboutFirmwareAlerts": "펌웨어 알림 정보",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "경고 코드 및 설명은 차량이 보고합니다. Tessie에서는 이에 대한 지원을 제공하지 않습니다.",
-  "noFirmwareAlerts": "펌웨어 알림 없음",
   "firmwareAlerts": "펌웨어 알림",
   "json": "JSON",
   "downloadPdfs": "PDF 다운로드",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "실시간 운전 보기",
   "viewLiveCharge": "실시간 충전 보기",
   "viewLiveIdle": "실시간 유지 보기",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "이 차량과 연관된 모든 데이터는 영구 삭제됩니다. 이 조치는 취소할 수 없습니다."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "이 차량과 연관된 모든 데이터는 영구 삭제됩니다. 이 조치는 취소할 수 없습니다.",
+  "noAlertsFound": "경고가 없습니다.",
+  "wereMonitoringForFirmwareAlerts": "펌웨어 경고를 모니터링 중입니다."
 }

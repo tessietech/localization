@@ -110,7 +110,6 @@
   "invalidUserId": "Ongeldige gebruikers-id.",
   "invalidVerificationCode": "Ongeldige verificatiecode",
   "inviteOthers": "Nodig anderen uit",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Het lijkt erop dat je een persoonlijk account gebruikt voor een wagenpark. Heb je alleen persoonlijke voertuigen?",
   "iUnderstand": "Begrepen",
   "letUsKnow": "Laat het ons weten",
   "letUsKnowHowToMakeTessieBetter": "Laat ons weten hoe we Tessie kunnen verbeteren",
@@ -145,7 +144,6 @@
   "parked": "Geparkeerd",
   "passengerWindowOpen": "Passagiersraam open",
   "paymentIsPending": "Betaling is in behandeling.",
-  "personalAccountsIncludeUpTo5Vehicles": "Persoonlijke accounts bevatten maximaal 5 voertuigen.",
   "perVehiclePerMonth": "per voertuig per maand",
   "pleaseEnterAValidEmailAddress": "Voer een geldig e-mailadres in.",
   "pleaseGoBackAndTryAgain": "Ga terug en probeer het opnieuw.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importeer bestand",
   "usageExceeded": "Gebruik overschreden",
   "usageNotice": "Gebruikken-bericht",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "We hebben {count} actieve voertuigen gedetecteerd; dat is ongebruikelijk voor een persoonlijk account.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Om dit bericht te verwijderen, bevestig je persoonlijk gebruik, archiveer je {count} voertuig(en) of upgrade je naar fleet management.",
-  "confirmPersonalUsage": "Bevestig persoonlijk gebruik",
   "youveBeenAwayAwhile": "Je bent een tijdje weggeweest",
   "dataStreamingIsPaused": "Datastreaming is gepauzeerd",
   "resume": "Doorgaan",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "Het temperatuurbereik van het batterijpakket.",
   "aboutFirmwareAlerts": "Informatie over firmwarewaarschuwingen",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Waarschuwingscodes en -beschrijvingen worden door je voertuig gerapporteerd. Tessie kan daarvoor geen ondersteuning bieden.",
-  "noFirmwareAlerts": "Geen firmwarewaarschuwingen.",
   "firmwareAlerts": "Firmwarewaarschuwingen",
   "json": "JSON",
   "downloadPdfs": "Pdf's downloaden",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Bekijk live rit",
   "viewLiveCharge": "Bekijk live laden",
   "viewLiveIdle": "Bekijk live stilstand",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dit voertuig en alle bijbehorende gegevens worden permanent verwijderd. Dit kan niet ongedaan worden gemaakt."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dit voertuig en alle bijbehorende gegevens worden permanent verwijderd. Dit kan niet ongedaan worden gemaakt.",
+  "noAlertsFound": "Geen waarschuwingen gevonden",
+  "wereMonitoringForFirmwareAlerts": "We controleren op firmwarewaarschuwingen"
 }

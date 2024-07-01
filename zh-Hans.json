@@ -110,7 +110,6 @@
   "invalidUserId": "用户 ID 无效。",
   "invalidVerificationCode": "验证码无效",
   "inviteOthers": "邀请他人",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "您看上去正在将个人帐户用于车队业务。只有个人用车？",
   "iUnderstand": "我明白",
   "letUsKnow": "告诉我们",
   "letUsKnowHowToMakeTessieBetter": "告诉我们如何改善特斯拉",
@@ -145,7 +144,6 @@
   "parked": "已停放",
   "passengerWindowOpen": "乘客车窗已打开",
   "paymentIsPending": "付款待处理。",
-  "personalAccountsIncludeUpTo5Vehicles": "个人帐户最多包含 5 辆车。",
   "perVehiclePerMonth": "每月每辆车",
   "pleaseEnterAValidEmailAddress": "请输入有效的电子邮件地址。",
   "pleaseGoBackAndTryAgain": "请返回并重试。",
@@ -1543,9 +1541,6 @@
   "importFile": "导入文件",
   "usageExceeded": "超过使用量",
   "usageNotice": "使用量通知",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "我们检测到有 {count} 辆活跃车辆，这对个人帐户来说是不寻常的。",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "要取消此通知，请确认个人使用情况，存档 {count} 辆车辆或升级到车队管理。",
-  "confirmPersonalUsage": "确认个人使用情况",
   "youveBeenAwayAwhile": "你已经离开一段时间了",
   "dataStreamingIsPaused": "数据流已暂停",
   "resume": "恢复",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "电池组温度范围。",
   "aboutFirmwareAlerts": "关于固件警报",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "警报代码和描述由您的车辆报告。Tessie 无法为其提供支持。",
-  "noFirmwareAlerts": "无固件警报。",
   "firmwareAlerts": "固件警报",
   "json": "JSON",
   "downloadPdfs": "下载 PDF",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "查看实时驾驶",
   "viewLiveCharge": "查看实时充电",
   "viewLiveIdle": "查看实时闲置",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "此车辆和所有相关数据将被永久删除。此操作无法撤消。"
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "此车辆和所有相关数据将被永久删除。此操作无法撤消。",
+  "noAlertsFound": "未发现警报",
+  "wereMonitoringForFirmwareAlerts": "我们正在监控固件警报"
 }

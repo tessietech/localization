@@ -110,7 +110,6 @@
   "invalidUserId": "Ungültige Benutzer-ID.",
   "invalidVerificationCode": "Ungültiger Bestätigungscode",
   "inviteOthers": "Andere einladen",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Es sieht so aus, als würdest du ein privates Konto für ein Flottengeschäft verwenden. Hast du nur Privatfahrzeuge?",
   "iUnderstand": "Ich verstehe",
   "letUsKnow": "Lass es uns wissen",
   "letUsKnowHowToMakeTessieBetter": "Lass uns wissen, wie wir Tessie verbessern können",
@@ -145,7 +144,6 @@
   "parked": "Geparkt",
   "passengerWindowOpen": "Beifahrerfenster offen",
   "paymentIsPending": "Zahlung ausstehend.",
-  "personalAccountsIncludeUpTo5Vehicles": "Privatkonten beinhalten bis zu 5 Fahrzeuge.",
   "perVehiclePerMonth": "pro Fahrzeug und Monat",
   "pleaseEnterAValidEmailAddress": "Bitte gib eine gültige E-Mail-Adresse ein.",
   "pleaseGoBackAndTryAgain": "Bitte gehe zurück und versuche es erneut.",
@@ -1543,9 +1541,6 @@
   "importFile": "Datei importieren",
   "usageExceeded": "Nutzung überschritten",
   "usageNotice": "Hinweis zur Nutzung",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Wir haben {count} aktive Fahrzeuge erkannt. Das ist ungewöhnlich für einen persönlichen Account.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Um diesen Hinweis zu entfernen, bestätige die ausschließlich persönliche Nutzung, archivieren {count} Fahrzeug(e) oder führe ein Upgrade auf die Flottenverwaltung durch.",
-  "confirmPersonalUsage": "Persönliche Nutzung bestätigen",
   "youveBeenAwayAwhile": "Du warst eine Weile abwesend",
   "dataStreamingIsPaused": "Datenstreaming ist angehalten",
   "resume": "Fortsetzen",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "Der Temperaturbereich des Batteriepacks.",
   "aboutFirmwareAlerts": "Über Firmware-Benachrichtigungen",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Benachrichtigungscodes und -beschreibungen werden von deinem Fahrzeug übermittelt. Tessie kann für diese keinen Support bieten.",
-  "noFirmwareAlerts": "Keine Firmware-Benachrichtigungen.",
   "firmwareAlerts": "Firmware-Benachrichtigungen",
   "json": "JSON",
   "downloadPdfs": "PDFs herunterladen",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Live-Fahrt ansehen",
   "viewLiveCharge": "Live-Ladevorgang ansehen",
   "viewLiveIdle": "Live-Leerlauf ansehen",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dieses Fahrzeug und alle zugehörigen Daten werden dauerhaft gelöscht. Dies kann nicht rückgängig gemacht werden."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Dieses Fahrzeug und alle zugehörigen Daten werden dauerhaft gelöscht. Dies kann nicht rückgängig gemacht werden.",
+  "noAlertsFound": "Keine Warnungen gefunden",
+  "wereMonitoringForFirmwareAlerts": "Wir suchen nach Firmware-Warnungen"
 }

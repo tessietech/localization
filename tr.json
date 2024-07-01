@@ -110,7 +110,6 @@
   "invalidUserId": "Geçersiz kullanıcı kimliği.",
   "invalidVerificationCode": "Geçersiz doğrulama kodu",
   "inviteOthers": "Diğerlerini davet edin",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Filo işletmesi için kişisel bir hesap kullandığınızı görüyoruz. Yalnızca kişisel araçlarınız mı var?",
   "iUnderstand": "Anlıyorum",
   "letUsKnow": "Bize bildirin",
   "letUsKnowHowToMakeTessieBetter": "Tessie'yi nasıl daha iyi hale getirebileceğimizi bize bildirin",
@@ -145,7 +144,6 @@
   "parked": "Park halinde",
   "passengerWindowOpen": "Yolcu penceresi açık",
   "paymentIsPending": "Ödeme bekleniyor.",
-  "personalAccountsIncludeUpTo5Vehicles": "Kişisel hesaplar 5 adede kadar aracı içerir.",
   "perVehiclePerMonth": "araç başına aylık",
   "pleaseEnterAValidEmailAddress": "Lütfen geçerli bir e-posta adresi girin.",
   "pleaseGoBackAndTryAgain": "Lütfen geri dönün ve tekrar deneyin.",
@@ -1543,9 +1541,6 @@
   "importFile": "Dosyayı içe aktarın",
   "usageExceeded": "Kullanım aşımı",
   "usageNotice": "Kullanım bildirimi",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Kişisel bir hesap için alışılmadık olan {count} aktif araç tespit ettik.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Bu bildirimi kaldırmak için kişisel kullanımınızı onaylayın, {count} aracı arşivleyin veya filo yönetimine yükseltin.",
-  "confirmPersonalUsage": "Kişisel kullanımını onayla",
   "youveBeenAwayAwhile": "Bir süredir yoktunuz",
   "dataStreamingIsPaused": "Veri akışı duraklatıldı",
   "resume": "Devam et",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "Akü paketinin sıcaklık aralığı.",
   "aboutFirmwareAlerts": "Ürün Yazılımı Uyarıları Hakkında",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Uyarı kodları ve açıklamaları aracınız tarafından bildirilir. Tessie bunlar için destek sağlayamaz.",
-  "noFirmwareAlerts": "Ürün yazılımı uyarısı yok.",
   "firmwareAlerts": "Ürün Yazılımı Uyarıları",
   "json": "JSON",
   "downloadPdfs": "PDF İndir",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Canlı sürüşü görüntüle",
   "viewLiveCharge": "Canlı şarjı görüntüle",
   "viewLiveIdle": "Canlı beklemeyi görüntüle",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Bu araç ve ilişkili tüm veriler kalıcı olarak silinecek. Bu işlem geri alınamaz."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Bu araç ve ilişkili tüm veriler kalıcı olarak silinecek. Bu işlem geri alınamaz.",
+  "noAlertsFound": "Herhangi bir uyarı bulunamadı",
+  "wereMonitoringForFirmwareAlerts": "Ürün yazılımı uyarılarını izliyoruz"
 }

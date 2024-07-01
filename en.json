@@ -110,7 +110,6 @@
   "invalidUserId": "Invalid user ID.",
   "invalidVerificationCode": "Invalid verification code",
   "inviteOthers": "Invite others",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "It looks like you're using a personal account for a fleet business. Only have personal vehicles?",
   "iUnderstand": "I understand",
   "letUsKnow": "Let us know",
   "letUsKnowHowToMakeTessieBetter": "Let us know how to make Tessie better",
@@ -145,7 +144,6 @@
   "parked": "Parked",
   "passengerWindowOpen": "Passenger window open",
   "paymentIsPending": "Payment is pending.",
-  "personalAccountsIncludeUpTo5Vehicles": "Personal accounts include up to 5 vehicles.",
   "perVehiclePerMonth": "per vehicle per month",
   "pleaseEnterAValidEmailAddress": "Please enter a valid email address.",
   "pleaseGoBackAndTryAgain": "Please go back and try again.",
@@ -1543,9 +1541,6 @@
   "importFile": "Import file",
   "usageExceeded": "Usage exceeded",
   "usageNotice": "Usage notice",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "We've detected {count} active vehicles which is unusual for a personal account.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "To remove this notice, confirm your personal usage, archive {count} vehicle(s) or upgrade to fleet management.",
-  "confirmPersonalUsage": "Confirm personal usage",
   "youveBeenAwayAwhile": "You've been away awhile",
   "dataStreamingIsPaused": "Data streaming is paused",
   "resume": "Resume",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "The temperature range of the battery pack.",
   "aboutFirmwareAlerts": "About Firmware Alerts",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Alert codes and descriptions are reported by your vehicle. Tessie cannot provide support for them.",
-  "noFirmwareAlerts": "No firmware alerts.",
   "firmwareAlerts": "Firmware Alerts",
   "json": "JSON",
   "downloadPdfs": "Download PDFs",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "View live drive",
   "viewLiveCharge": "View live charge",
   "viewLiveIdle": "View live idle",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "This vehicle and all associated data will be permanently deleted. This cannot be undone."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "This vehicle and all associated data will be permanently deleted. This cannot be undone.",
+  "noAlertsFound": "No alerts found",
+  "wereMonitoringForFirmwareAlerts": "We're monitoring for firmware alerts"
 }

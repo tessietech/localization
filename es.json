@@ -110,7 +110,6 @@
   "invalidUserId": "ID de usuario no válido.",
   "invalidVerificationCode": "Código de verificación no válido.",
   "inviteOthers": "Invitar a otros",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "Parece que estás utilizando una cuenta personal para una flota empresarial. ¿Solo tienes vehículos personales?",
   "iUnderstand": "Lo entiendo",
   "letUsKnow": "Cuéntanoslo",
   "letUsKnowHowToMakeTessieBetter": "Haznos saber cómo podemos mejorar Tessie",
@@ -145,7 +144,6 @@
   "parked": "Aparcado",
   "passengerWindowOpen": "Ventana de pasajeros abierta",
   "paymentIsPending": "El pago está pendiente.",
-  "personalAccountsIncludeUpTo5Vehicles": "Las cuentas personales incluyen hasta 5 vehículos.",
   "perVehiclePerMonth": "por vehículo y mes",
   "pleaseEnterAValidEmailAddress": "Introduce una dirección de correo electrónico válida.",
   "pleaseGoBackAndTryAgain": "Regresa e inténtalo de nuevo.",
@@ -1543,9 +1541,6 @@
   "importFile": "Importar archivo",
   "usageExceeded": "Uso excedido",
   "usageNotice": "Aviso de uso",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "Hemos detectado {count} vehículos activos, lo cual es inusual para una cuenta personal.",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "Para eliminar este aviso, confirma tu uso personal, archiva {count} vehículo(s) o actualízalo a gestión de flota.",
-  "confirmPersonalUsage": "Confirmar uso personal",
   "youveBeenAwayAwhile": "Has estado ausente por un tiempo",
   "dataStreamingIsPaused": "La transmisión de datos está pausada",
   "resume": "Reanudar",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "El rango de temperatura de la batería.",
   "aboutFirmwareAlerts": "Acerca de las alertas de firmware",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "Tu vehículo informa códigos y descripciones de alertas. Tessie no puede brindarles asistencia.",
-  "noFirmwareAlerts": "Sin alertas de firmware.",
   "firmwareAlerts": "Alertas de firmware",
   "json": "JSON",
   "downloadPdfs": "Descargar archivos PDF",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "Ver conducción en directo",
   "viewLiveCharge": "Ver carga en directo",
   "viewLiveIdle": "Ver inactividad en directo",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Este vehículo y todos los datos asociados se eliminarán de forma permanente. Esta acción no se puede deshacer."
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "Este vehículo y todos los datos asociados se eliminarán de forma permanente. Esta acción no se puede deshacer.",
+  "noAlertsFound": "No se encontraron alertas",
+  "wereMonitoringForFirmwareAlerts": "Estamos monitoreando las alertas de firmware"
 }

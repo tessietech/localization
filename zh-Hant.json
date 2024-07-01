@@ -110,7 +110,6 @@
   "invalidUserId": "使用者 ID 無效。",
   "invalidVerificationCode": "驗證碼無效",
   "inviteOthers": "邀請其他人",
-  "itLooksLikeYoureUsingAPersonalAccountForA": "您似乎正在將個人帳戶用於車隊業務。只有個人車輛嗎？",
   "iUnderstand": "我明白了",
   "letUsKnow": "讓我們知道",
   "letUsKnowHowToMakeTessieBetter": "讓我們知道如何改進 Tessie",
@@ -145,7 +144,6 @@
   "parked": "已停妥",
   "passengerWindowOpen": "乘客車窗已開啟",
   "paymentIsPending": "付款待處理。",
-  "personalAccountsIncludeUpTo5Vehicles": "個人帳戶最多可包含 5 輛車。",
   "perVehiclePerMonth": "每輛車每月",
   "pleaseEnterAValidEmailAddress": "請輸入有效的電子郵件地址。",
   "pleaseGoBackAndTryAgain": "請返回並重試。",
@@ -1543,9 +1541,6 @@
   "importFile": "匯入檔案",
   "usageExceeded": "使用量超過限制",
   "usageNotice": "使用量通知",
-  "weveDetectedCountActiveVehiclesWhichIsUnusualForA": "我們偵測到 {count} 輛正在使用的車輛，這對於個人帳戶來說並不尋常。",
-  "toRemoveThisNoticeConfirmYourPersonalUsageArchiveCount": "若要移除此通知，請確認您的個人使用量、封存 {count} 輛車輛或升級到車隊管理。",
-  "confirmPersonalUsage": "確認個人使用量",
   "youveBeenAwayAwhile": "您離開了一段時間",
   "dataStreamingIsPaused": "資料串流已暫停",
   "resume": "繼續",
@@ -1566,7 +1561,6 @@
   "theTemperatureRangeOfTheBatteryPack": "電池組的溫度範圍。",
   "aboutFirmwareAlerts": "關於韌體警報",
   "alertCodesAndDescriptionsAreReportedByYourVehicleTessie": "警報代碼和說明由您的車輛報告。Tessie 無法為其提供支援。",
-  "noFirmwareAlerts": "沒有韌體警報。",
   "firmwareAlerts": "韌體警報",
   "json": "JSON",
   "downloadPdfs": "下載 PDF",
@@ -2278,5 +2272,7 @@
   "viewLiveDrive": "檢視即時行駛狀態",
   "viewLiveCharge": "檢視即時充電狀態",
   "viewLiveIdle": "檢視即時閒置狀態",
-  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "這輛車和所有相關數據將被永久刪除，且無法復原。"
+  "thisVehicleAndAllAssociatedDataWillBePermanentlyDeleted": "這輛車和所有相關數據將被永久刪除，且無法復原。",
+  "noAlertsFound": "找不到任何警報",
+  "wereMonitoringForFirmwareAlerts": "我們正在監控韌體警報"
 }
