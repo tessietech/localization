@@ -2208,7 +2208,7 @@
   "arrivedAtLocation": "Angekommen bei {location}.",
   "drivingStartedAtTime": "Fahrt begonnen um {time}.",
   "drivingEndedAtTime": "Fahrt beendet um {time}.",
-  "drivingEndedAtTimeAtLocation": "Fahrt beendet um {time} um {location}.",
+  "drivingEndedAtTimeAtLocation": "Fahrt beendet um {time} bei {location}.",
   "chargingStartedAtTime": "Ladevorgang wurde um {time} gestartet.",
   "chargingEndedAtTimeAtPercent": "Ladevorgang um {time} mit {percent}% beendet.",
   "cabinTemperatureIsTemperatureCelsius": "Innentemperatur: {temperature} °C.",
