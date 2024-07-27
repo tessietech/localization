@@ -2227,5 +2227,7 @@
   "dataOutdated": "Dane nieaktualne",
   "deploying": "Wdrażanie",
   "unsupportedHardware": "Nieobsługiwany sprzęt",
-  "unsupportedFirmware": "Nieobsługiwane oprogramowanie układowe"
+  "unsupportedFirmware": "Nieobsługiwane oprogramowanie układowe",
+  "manageEncryptionTitle": "Zarządzaj szyfrowaniem",
+  "manageTelemetryTitle": "Zarządzaj telemetrią"
 }

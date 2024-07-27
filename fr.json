@@ -2227,5 +2227,7 @@
   "dataOutdated": "Données obsolètes",
   "deploying": "Déploiement en cours",
   "unsupportedHardware": "Matériel non pris en charge",
-  "unsupportedFirmware": "Micrologiciel non pris en charge"
+  "unsupportedFirmware": "Micrologiciel non pris en charge",
+  "manageEncryptionTitle": "Gérer le chiffrement",
+  "manageTelemetryTitle": "Gérer la télémétrie"
 }

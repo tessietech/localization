@@ -2227,5 +2227,7 @@
   "dataOutdated": "Date expirate",
   "deploying": "Se implementează",
   "unsupportedHardware": "Hardware nesuportat",
-  "unsupportedFirmware": "Firmware nesuportat"
+  "unsupportedFirmware": "Firmware nesuportat",
+  "manageEncryptionTitle": "Gestionați criptarea",
+  "manageTelemetryTitle": "Gestionați telemetria"
 }

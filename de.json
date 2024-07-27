@@ -2227,5 +2227,7 @@
   "dataOutdated": "Daten veraltet",
   "deploying": "Wird bereitgestellt",
   "unsupportedHardware": "Nicht unterstützte Hardware",
-  "unsupportedFirmware": "Nicht unterstützte Firmware"
+  "unsupportedFirmware": "Nicht unterstützte Firmware",
+  "manageEncryptionTitle": "Verschlüsselung verwalten",
+  "manageTelemetryTitle": "Telemetrie verwalten"
 }

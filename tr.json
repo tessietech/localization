@@ -2227,5 +2227,7 @@
   "dataOutdated": "Veri Güncel Değil",
   "deploying": "Dağıtılıyor",
   "unsupportedHardware": "Desteklenmeyen Donanım",
-  "unsupportedFirmware": "Desteklenmeyen Ürün Yazılımı"
+  "unsupportedFirmware": "Desteklenmeyen Ürün Yazılımı",
+  "manageEncryptionTitle": "Şifrelemeyi Yönet",
+  "manageTelemetryTitle": "Telemetriyi Yönet"
 }

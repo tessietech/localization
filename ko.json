@@ -2227,5 +2227,7 @@
   "dataOutdated": "오래된 데이터",
   "deploying": "배포 중",
   "unsupportedHardware": "지원되지 않는 하드웨어",
-  "unsupportedFirmware": "지원되지 않는 펌웨어"
+  "unsupportedFirmware": "지원되지 않는 펌웨어",
+  "manageEncryptionTitle": "암호화 관리",
+  "manageTelemetryTitle": "원격 측정 관리"
 }

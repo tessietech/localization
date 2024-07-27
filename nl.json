@@ -2227,5 +2227,7 @@
   "dataOutdated": "Gegevens verouderd",
   "deploying": "Implementeren",
   "unsupportedHardware": "Niet-ondersteunde hardware",
-  "unsupportedFirmware": "Niet-ondersteunde firmware"
+  "unsupportedFirmware": "Niet-ondersteunde firmware",
+  "manageEncryptionTitle": "Versleuteling beheren",
+  "manageTelemetryTitle": "Telemetrie beheren"
 }

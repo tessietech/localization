@@ -2227,5 +2227,7 @@
   "dataOutdated": "數據已過時",
   "deploying": "正在部署",
   "unsupportedHardware": "不支援的硬體",
-  "unsupportedFirmware": "不支援的韌體"
+  "unsupportedFirmware": "不支援的韌體",
+  "manageEncryptionTitle": "管理加密",
+  "manageTelemetryTitle": "管理遙測"
 }

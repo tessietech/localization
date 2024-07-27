@@ -2227,5 +2227,7 @@
   "dataOutdated": "Data utdatert",
   "deploying": "Distribuerer",
   "unsupportedHardware": "Maskinvare støttes ikke",
-  "unsupportedFirmware": "Fastvare støttes ikke"
+  "unsupportedFirmware": "Fastvare støttes ikke",
+  "manageEncryptionTitle": "Administrer kryptering",
+  "manageTelemetryTitle": "Administrer telemetri"
 }

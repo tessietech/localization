@@ -2227,5 +2227,7 @@
   "dataOutdated": "数据已过期",
   "deploying": "正在部署",
   "unsupportedHardware": "不支持的硬件",
-  "unsupportedFirmware": "不支持的固件"
+  "unsupportedFirmware": "不支持的固件",
+  "manageEncryptionTitle": "管理加密",
+  "manageTelemetryTitle": "管理遥测"
 }
