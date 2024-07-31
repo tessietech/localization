@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "所有功能均已啟用",
   "manageYourTeslaFleet": "管理您的 Tesla 車隊",
   "tryItFreeFor14Days": "免費試用 14 天",
-  "managePaymentMethods": "管理付款方式"
+  "managePaymentMethods": "管理付款方式",
+  "installNow": "立即安裝",
+  "scheduleInstallation": "安排安裝"
 }

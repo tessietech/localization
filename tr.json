@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "Tüm özellikler etkinleştirildi",
   "manageYourTeslaFleet": "Tesla filonuzu yönetin",
   "tryItFreeFor14Days": "14 gün ücretsiz deneyin",
-  "managePaymentMethods": "Ödeme yöntemlerini yönet"
+  "managePaymentMethods": "Ödeme yöntemlerini yönet",
+  "installNow": "Şimdi Yükle",
+  "scheduleInstallation": "Yüklemeyi Planla"
 }

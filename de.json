@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "Alle Funktionen wurden aktiviert",
   "manageYourTeslaFleet": "Verwalten Sie Ihre Tesla-Flotte",
   "tryItFreeFor14Days": "14 Tage kostenlos testen",
-  "managePaymentMethods": "Zahlungsmethoden verwalten"
+  "managePaymentMethods": "Zahlungsmethoden verwalten",
+  "installNow": "Jetzt installieren",
+  "scheduleInstallation": "Installation planen"
 }

@@ -719,11 +719,11 @@
   "noUpdateAvailable": "No update available",
   "install": "Install",
   "waitingForWifi": "Waiting for Wi-Fi",
-  "installUpdate": "Install update",
+  "installUpdate": "Install Update",
   "software": "Software",
   "current": "Current",
   "update": "Update",
-  "cancelUpdate": "Cancel update",
+  "cancelUpdate": "Cancel Update",
   "monitorVehiclesSurroundingsForPeopleAnimalsOrUnpredictableMovement": "Monitor vehicle's surroundings for people, animals or unpredictable movement.",
   "any": "Any",
   "fanOnlyTitle": "Fan Only",
@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "All features have been activated",
   "manageYourTeslaFleet": "Manage your Tesla fleet",
   "tryItFreeFor14Days": "Try it free for 14 days",
-  "managePaymentMethods": "Manage payment methods"
+  "managePaymentMethods": "Manage payment methods",
+  "installNow": "Install Now",
+  "scheduleInstallation": "Schedule Installation"
 }

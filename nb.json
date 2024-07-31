@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "Alle funksjoner er aktivert",
   "manageYourTeslaFleet": "Administrer Tesla-flåten din",
   "tryItFreeFor14Days": "Prøv gratis i 14 dager",
-  "managePaymentMethods": "Administrer betalingsmåter"
+  "managePaymentMethods": "Administrer betalingsmåter",
+  "installNow": "Installer nå",
+  "scheduleInstallation": "Planlegg installasjon"
 }

@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "所有功能都已激活",
   "manageYourTeslaFleet": "管理您的特斯拉车队",
   "tryItFreeFor14Days": "免费试用 14 天",
-  "managePaymentMethods": "管理付款方式"
+  "managePaymentMethods": "管理付款方式",
+  "installNow": "立即安装",
+  "scheduleInstallation": "安排安装"
 }

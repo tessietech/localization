@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "모든 기능이 활성화되었습니다.",
   "manageYourTeslaFleet": "Tesla 플릿 관리",
   "tryItFreeFor14Days": "14일 동안 무료로 사용해 보세요.",
-  "managePaymentMethods": "결제 수단 관리"
+  "managePaymentMethods": "결제 수단 관리",
+  "installNow": "지금 설치",
+  "scheduleInstallation": "설치 예약"
 }

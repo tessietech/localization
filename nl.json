@@ -2230,5 +2230,7 @@
   "allFeaturesHaveBeenActivated": "Alle functies zijn geactiveerd",
   "manageYourTeslaFleet": "Beheer uw Tesla-vloot",
   "tryItFreeFor14Days": "Probeer het 14 dagen gratis",
-  "managePaymentMethods": "Betaalmethoden beheren"
+  "managePaymentMethods": "Betaalmethoden beheren",
+  "installNow": "Nu installeren",
+  "scheduleInstallation": "Installatie plannen"
 }
