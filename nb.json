@@ -1188,7 +1188,6 @@
   "fuelCost": "Drivstoffkostnad",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "Du kan justere sammenligninger av drivstoffkostnader i Innstillinger > Drivstoffkostnader",
   "fuel": "Drivstoff",
-  "userProfileDataWillBeErased": "Brukerprofildata vil bli slettet.",
   "erase": "Slett",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "Gjestemodus begrenser kjøretøytilgang og gir begrenset tilgang til Teslas mobilapp.",
   "eraseUserData": "Slett brukerdata",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "Prøv gratis i 14 dager",
   "managePaymentMethods": "Administrer betalingsmåter",
   "installNow": "Installer nå",
-  "scheduleInstallation": "Planlegg installasjon"
+  "scheduleInstallation": "Planlegg installasjon",
+  "allDriverProfilesWillBeErased": "Alle førerprofiler vil bli slettet."
 }

@@ -1188,7 +1188,6 @@
   "fuelCost": "Brandstofkosten",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "Je kunt de vergelijkingen van de brandstofkosten aanpassen in Instellingen > Brandstofkosten.",
   "fuel": "Brandstof",
-  "userProfileDataWillBeErased": "Gebruikersprofielgegevens worden gewist.",
   "erase": "Wissen",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "Gastmodus beperkt toegang tot voertuigen en maakt beperkte toegang tot de mobiele Tesla-app mogelijk.",
   "eraseUserData": "Gebruikersgegevens wissen",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "Probeer het 14 dagen gratis",
   "managePaymentMethods": "Betaalmethoden beheren",
   "installNow": "Nu installeren",
-  "scheduleInstallation": "Installatie plannen"
+  "scheduleInstallation": "Installatie plannen",
+  "allDriverProfilesWillBeErased": "Alle bestuurdersprofielen worden gewist."
 }

@@ -1188,7 +1188,6 @@
   "fuelCost": "Costul combustibilului",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "Puteți ajusta comparațiile costurilor de combustibil în Setări > Costuri de combustibil.",
   "fuel": "Combustibil",
-  "userProfileDataWillBeErased": "Datele profilului utilizatorului vor fi șterse.",
   "erase": "Șterge",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "Modul oaspete restricționează accesul la vehicul și permite acces limitat la aplicația mobilă Tesla.",
   "eraseUserData": "Ștergeți datele utilizatorului",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "Încercați gratuit timp de 14 zile",
   "managePaymentMethods": "Gestionați metodele de plată",
   "installNow": "Instalează acum",
-  "scheduleInstallation": "Programează instalarea"
+  "scheduleInstallation": "Programează instalarea",
+  "allDriverProfilesWillBeErased": "Toate profilurile șoferilor vor fi șterse."
 }

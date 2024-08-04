@@ -1188,7 +1188,6 @@
   "fuelCost": "Fuel Cost",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "You can adjust fuel cost comparisons in Settings > Fuel Costs.",
   "fuel": "Fuel",
-  "userProfileDataWillBeErased": "User profile data will be erased.",
   "erase": "Erase",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "Guest Mode restricts vehicle access and enables limited Tesla mobile app access.",
   "eraseUserData": "Erase User Data",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "Try it free for 14 days",
   "managePaymentMethods": "Manage payment methods",
   "installNow": "Install Now",
-  "scheduleInstallation": "Schedule Installation"
+  "scheduleInstallation": "Schedule Installation",
+  "allDriverProfilesWillBeErased": "All driver profiles will be erased."
 }

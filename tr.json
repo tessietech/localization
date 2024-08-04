@@ -1188,7 +1188,6 @@
   "fuelCost": "Yakıt Maliyeti",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "Ayarlar > Yakıt Maliyetleri'nde yakıt maliyeti karşılaştırmalarını ayarlayabilirsiniz.",
   "fuel": "Yakıt",
-  "userProfileDataWillBeErased": "Kullanıcı profili verileri silinecek.",
   "erase": "Silme",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "Misafir Modu araç erişimini kısıtlar ve sınırlı Tesla mobil uygulama erişimi sağlar.",
   "eraseUserData": "Kullanıcı Verilerini Silme",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "14 gün ücretsiz deneyin",
   "managePaymentMethods": "Ödeme yöntemlerini yönet",
   "installNow": "Şimdi Yükle",
-  "scheduleInstallation": "Yüklemeyi Planla"
+  "scheduleInstallation": "Yüklemeyi Planla",
+  "allDriverProfilesWillBeErased": "Tüm sürücü profilleri silinecek."
 }

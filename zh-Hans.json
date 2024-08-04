@@ -1188,7 +1188,6 @@
   "fuelCost": "燃油成本",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "您可以在“设置”>“燃油成本”中调整燃油成本比较。",
   "fuel": "燃料",
-  "userProfileDataWillBeErased": "将清除用户个人资料数据。",
   "erase": "清除",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "访客模式限制车辆访问并允许有限的移动特斯拉应用程序访问。",
   "eraseUserData": "清除用户数据",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "免费试用 14 天",
   "managePaymentMethods": "管理付款方式",
   "installNow": "立即安装",
-  "scheduleInstallation": "安排安装"
+  "scheduleInstallation": "安排安装",
+  "allDriverProfilesWillBeErased": "所有驾驶员配置文件都将被删除。"
 }

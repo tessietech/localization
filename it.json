@@ -1188,7 +1188,6 @@
   "fuelCost": "Costo del carburante",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "Puoi regolare i confronti dei costi del carburante in Impostazioni > Costi del carburante.",
   "fuel": "Carburante",
-  "userProfileDataWillBeErased": "I dati del profilo utente verranno cancellati.",
   "erase": "Cancella",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "La modalità Ospite limita l'accesso al veicolo e abilita un accesso limitato all'app mobile Tesla.",
   "eraseUserData": "Cancella dati utente",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "Provalo gratuitamente per 14 giorni",
   "managePaymentMethods": "Gestisci i metodi di pagamento",
   "installNow": "Installa ora",
-  "scheduleInstallation": "Pianifica installazione"
+  "scheduleInstallation": "Pianifica installazione",
+  "allDriverProfilesWillBeErased": "Tutti i profili del conducente verranno cancellati."
 }

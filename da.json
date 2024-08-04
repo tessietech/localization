@@ -1188,7 +1188,6 @@
   "fuelCost": "Brændstofomkostninger",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "Du kan justere brændstofomkostningssammenligninger i Indstillinger > Brændstofomkostninger.",
   "fuel": "Brændstof",
-  "userProfileDataWillBeErased": "Brugerprofildata vil blive slettet.",
   "erase": "Slet",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "Gæstekonto begrænser adgangen til køretøjer og giver begrænset adgang til Tesla-mobilappen.",
   "eraseUserData": "Slet brugerdata",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "Prøv det gratis i 14 dage",
   "managePaymentMethods": "Administrer betalingsmetoder",
   "installNow": "Installer nu",
-  "scheduleInstallation": "Planlæg installation"
+  "scheduleInstallation": "Planlæg installation",
+  "allDriverProfilesWillBeErased": "Alle førerprofiler slettes."
 }

@@ -1188,7 +1188,6 @@
   "fuelCost": "연료비",
   "youCanAdjustFuelCostComparisonsInSettingsFuelCosts": "설정 > 연료비에서 연료비 비교를 조정할 수 있습니다.",
   "fuel": "연료",
-  "userProfileDataWillBeErased": "사용자 프로필 데이터가 지워집니다.",
   "erase": "지우기",
   "guestModeRestrictsVehicleAccessAndEnablesLimitedTeslaMobile": "게스트 모드는 차량 접근을 제한하고 제한된 Tesla 모바일 앱 액세스를 활성화합니다.",
   "eraseUserData": "사용자 데이터 지우기",
@@ -2232,5 +2231,6 @@
   "tryItFreeFor14Days": "14일 동안 무료로 사용해 보세요.",
   "managePaymentMethods": "결제 수단 관리",
   "installNow": "지금 설치",
-  "scheduleInstallation": "설치 예약"
+  "scheduleInstallation": "설치 예약",
+  "allDriverProfilesWillBeErased": "모든 운전자 프로필이 삭제됩니다."
 }
