@@ -2232,5 +2232,5 @@
   "managePaymentMethods": "管理付款方式",
   "installNow": "立即安装",
   "scheduleInstallation": "安排安装",
-  "allDriverProfilesWillBeErased": "所有驾驶员配置文件都将被删除。"
+  "allProfilesAndUserDataInTheVehicleWillBe": "将删除车辆中的所有配置文件和用户数据。"
 }
