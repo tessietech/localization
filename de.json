@@ -750,7 +750,7 @@
   "day": "Tag",
   "viewReleaseNotesForHistoryindexversion": "Versionshinweise für {historyIndexVersion} anzeigen",
   "installationHistory": "Installationsverlauf",
-  "loading": "Ladevorgang",
+  "loading": "Wird geladen...",
   "dayCount": "{count} Tag",
   "daysCount": "{count} Tage",
   "averageDay": "{averageDays} Tag",
