@@ -2218,5 +2218,6 @@
   "getInstantAccessToTeslaFleetTelemetry": "即刻访问特斯拉车队遥测数据",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "无需复杂设置和托管，即可访问车辆遥测数据流",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "使用任何 WebSocket 客户端，连接到：streaming.tessie.com/YOUR_VIN",
-  "allProFeaturesPlus": "所有专业版功能，以及："
+  "allProFeaturesPlus": "所有专业版功能，以及：",
+  "plan": "计划"
 }

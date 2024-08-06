@@ -2218,5 +2218,6 @@
   "getInstantAccessToTeslaFleetTelemetry": "Azonnali hozzáférés a Tesla Flotta Telemetria adataihoz",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Hozzáférés a jármű telemetriai adatfolyamához bonyolult beállítás és tárhely nélkül",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Bármely WebSocket klienssel csatlakozzon ide: streaming.tessie.com/AZ_ÖN_VIN_SZÁMA",
-  "allProFeaturesPlus": "Minden Profitárgy, plusz:"
+  "allProFeaturesPlus": "Minden Profitárgy, plusz:",
+  "plan": "Terv"
 }
