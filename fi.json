@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Kaikki Pro-ominaisuudet, sekä:",
   "plan": "Suunnitelma",
   "comparePlans": "Vertaa sopimuksia",
-  "costPerVehicle": "{cost} / ajoneuvo"
+  "costPerVehicle": "{cost} / ajoneuvo",
+  "aboutTeslaFees": "Teslan maksuista",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla veloittaa kuukausimaksun jokaisesta ajoneuvosta. Maksamme maksut puolestasi.",
+  "pricesIncludeTeslaFees": "Hinnat sisältävät Teslan maksut"
 }

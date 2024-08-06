@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Toate funcțiile Pro, plus:",
   "plan": "Planificar",
   "comparePlans": "Comparați planurile",
-  "costPerVehicle": "{cost} per vehicul"
+  "costPerVehicle": "{cost} per vehicul",
+  "aboutTeslaFees": "Despre taxele Tesla",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla percepe o taxă lunară pentru fiecare vehicul. Noi vom plăti taxele pentru dvs.",
+  "pricesIncludeTeslaFees": "Prețurile includ taxele Tesla"
 }

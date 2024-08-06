@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Alle Pro-functies, plus:",
   "plan": "Plannen",
   "comparePlans": "Abonnementen vergelijken",
-  "costPerVehicle": "{cost} per voertuig"
+  "costPerVehicle": "{cost} per voertuig",
+  "aboutTeslaFees": "Over Tesla-kosten",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla brengt maandelijkse kosten in rekening voor elk voertuig. Wij betalen de kosten voor je.",
+  "pricesIncludeTeslaFees": "Prijzen zijn inclusief Tesla-kosten"
 }

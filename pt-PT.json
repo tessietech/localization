@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Todos os recursos Pro, além de:",
   "plan": "Plano",
   "comparePlans": "Comparar Planos",
-  "costPerVehicle": "{cost} por veículo"
+  "costPerVehicle": "{cost} por veículo",
+  "aboutTeslaFees": "Sobre as taxas da Tesla",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "A Tesla cobra uma taxa mensal por cada veículo. Pagaremos as taxas por si.",
+  "pricesIncludeTeslaFees": "Os preços incluem as taxas da Tesla"
 }

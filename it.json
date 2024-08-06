@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Todas as funcionalidades Pro, além de:",
   "plan": "Piano",
   "comparePlans": "Confronta i piani",
-  "costPerVehicle": "{cost} per veicolo"
+  "costPerVehicle": "{cost} per veicolo",
+  "aboutTeslaFees": "Informazioni sulle tariffe Tesla",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla addebita una tariffa mensile per ogni veicolo. Pagheremo noi le tariffe per te.",
+  "pricesIncludeTeslaFees": "I prezzi includono le tariffe Tesla"
 }

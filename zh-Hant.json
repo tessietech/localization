@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "所有專業版功能，以及：",
   "plan": "計劃",
   "comparePlans": "比較方案",
-  "costPerVehicle": "每輛車 {cost}"
+  "costPerVehicle": "每輛車 {cost}",
+  "aboutTeslaFees": "關於 Tesla 費用",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla 會對每輛汽車收取月費。我們會為您支付費用。",
+  "pricesIncludeTeslaFees": "價格已包含 Tesla 費用"
 }

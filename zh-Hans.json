@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "所有专业功能，以及：",
   "plan": "计划",
   "comparePlans": "比较计划",
-  "costPerVehicle": "每辆车 {cost}"
+  "costPerVehicle": "每辆车 {cost}",
+  "aboutTeslaFees": "关于特斯拉费用",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "特斯拉每月对每辆车收取费用。我们将为您支付费用。",
+  "pricesIncludeTeslaFees": "价格包含特斯拉费用"
 }

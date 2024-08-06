@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Minden Pro funkció, plusz:",
   "plan": "Terv",
   "comparePlans": "Csomagok összehasonlítása",
-  "costPerVehicle": "{cost} / jármű"
+  "costPerVehicle": "{cost} / jármű",
+  "aboutTeslaFees": "A Tesla díjairól",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "A Tesla havi díjat számít fel minden jármű után. Mi álljuk a díjakat.",
+  "pricesIncludeTeslaFees": "Az árak tartalmazzák a Tesla díjait"
 }

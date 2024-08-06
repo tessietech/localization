@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Tüm Pro özellikleri ve ayrıca şunlar:",
   "plan": "Plan",
   "comparePlans": "Planları Karşılaştır",
-  "costPerVehicle": "Araç başına {cost}"
+  "costPerVehicle": "Araç başına {cost}",
+  "aboutTeslaFees": "Tesla ücretleri hakkında",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla, her araç için aylık bir ücret almaktadır. Ücretleri sizin adınıza biz ödeyeceğiz.",
+  "pricesIncludeTeslaFees": "Fiyatlara Tesla ücretleri dahildir"
 }

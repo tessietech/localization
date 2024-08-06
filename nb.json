@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "Alle Pro-funksjoner, pluss:",
   "plan": "Plano",
   "comparePlans": "Sammenlign planer",
-  "costPerVehicle": "{cost} per kjøretøy"
+  "costPerVehicle": "{cost} per kjøretøy",
+  "aboutTeslaFees": "Om Tesla-avgifter",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla tar et månedlig gebyr for hvert kjøretøy. Vi betaler gebyrene for deg.",
+  "pricesIncludeTeslaFees": "Prisene inkluderer Tesla-avgifter"
 }

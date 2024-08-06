@@ -2221,5 +2221,8 @@
   "allProFeaturesPlus": "모든 프로 기능과 더불어 다음이 포함됩니다.",
   "plan": "요금제",
   "comparePlans": "요금제 비교",
-  "costPerVehicle": "차량당 {cost}"
+  "costPerVehicle": "차량당 {cost}",
+  "aboutTeslaFees": "Tesla 수수료 정보",
+  "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla는 차량당 월 수수료를 부과합니다. 당사에서 수수료를 결제해 드립니다.",
+  "pricesIncludeTeslaFees": "가격에는 Tesla 수수료가 포함되어 있습니다."
 }
