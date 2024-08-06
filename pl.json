@@ -2218,6 +2218,6 @@
   "getInstantAccessToTeslaFleetTelemetry": "Uzyskaj natychmiastowy dostęp do danych telemetrycznych floty Tesli",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Uzyskaj dostęp do strumienia danych telemetrycznych swojego pojazdu bez skomplikowanej konfiguracji i hostingu",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Używając dowolnego klienta WebSocket, połącz się z: streaming.tessie.com/TWÓJ_VIN",
-  "allProFeaturesPlus": "Wszystkie funkcje Pro oraz:",
+  "allProFeaturesPlus": "Wszystkie funkcje Pro Plus:",
   "plan": "Plan"
 }

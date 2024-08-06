@@ -2218,6 +2218,6 @@
   "getInstantAccessToTeslaFleetTelemetry": "Tesla Fleet 원격 측정에 즉시 액세스",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "복잡한 설정 및 호스팅 없이 차량의 원격 측정 데이터 스트림에 액세스",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "WebSocket 클라이언트를 사용하여 streaming.tessie.com/YOUR_VIN에 연결",
-  "allProFeaturesPlus": "모든 Pro 기능 및 다음이 포함됩니다.",
+  "allProFeaturesPlus": "모든 프로 기능과 더불어 다음이 포함됩니다.",
   "plan": "요금제"
 }
