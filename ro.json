@@ -2219,5 +2219,7 @@
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Accesează fluxul de date de telemetrie al vehiculului tău fără configurare și găzduire complexe",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Folosind orice client WebSocket, conectează-te la: streaming.tessie.com/VIN-UL_TĂU",
   "allProFeaturesPlus": "Toate funcțiile Pro, plus:",
-  "plan": "Planificar"
+  "plan": "Planificar",
+  "comparePlans": "Comparați planurile",
+  "costPerVehicle": "{cost} per vehicul"
 }

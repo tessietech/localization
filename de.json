@@ -2219,5 +2219,7 @@
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Greifen Sie auf den Telemetriedatenstrom Ihres Fahrzeugs ohne komplexe Einrichtung und Hosting zu",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Verwenden Sie einen beliebigen WebSocket-Client, um eine Verbindung zu folgendem Ziel herzustellen: streaming.tessie.com/IHRE_VIN",
   "allProFeaturesPlus": "Todas as funcionalidades Pro, além de:",
-  "plan": "Plano"
+  "plan": "Plano",
+  "comparePlans": "Tarifpläne vergleichen",
+  "costPerVehicle": "{cost} pro Fahrzeug"
 }

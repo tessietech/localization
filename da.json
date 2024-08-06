@@ -2219,5 +2219,7 @@
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Få adgang til din bils telemetridatastrøm uden kompliceret opsætning og hosting",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Brug en hvilken som helst WebSocket-klient og opret forbindelse til: streaming.tessie.com/DIT_VIN",
   "allProFeaturesPlus": "Todas as funcionalidades Pro, além de:",
-  "plan": "Plano"
+  "plan": "Plano",
+  "comparePlans": "Comparar planos",
+  "costPerVehicle": "{cost} por veículo"
 }

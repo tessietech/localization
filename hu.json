@@ -2219,5 +2219,7 @@
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Hozzáférés a jármű telemetriai adatfolyamához bonyolult beállítás és tárhely nélkül",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Bármely WebSocket klienssel csatlakozzon ide: streaming.tessie.com/AZ_ÖN_VIN_SZÁMA",
   "allProFeaturesPlus": "Minden Pro funkció, plusz:",
-  "plan": "Terv"
+  "plan": "Terv",
+  "comparePlans": "Csomagok összehasonlítása",
+  "costPerVehicle": "{cost} / jármű"
 }

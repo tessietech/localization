@@ -2219,5 +2219,7 @@
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Karmaşık kurulum ve barındırma olmadan aracınızın telemetri veri akışına erişin",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Herhangi bir WebSocket istemcisini kullanarak şu adrese bağlanın: streaming.tessie.com/ARAÇ_KİMLİĞİNİZ",
   "allProFeaturesPlus": "Tüm Pro özellikleri ve ayrıca şunlar:",
-  "plan": "Plan"
+  "plan": "Plan",
+  "comparePlans": "Planları Karşılaştır",
+  "costPerVehicle": "Araç başına {cost}"
 }

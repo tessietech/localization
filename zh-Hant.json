@@ -2219,5 +2219,7 @@
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "無需複雜的設置和託管，即可訪問您車輛的遙測數據流",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "使用任何 WebSocket 客戶端，連接到：streaming.tessie.com/YOUR_VIN",
   "allProFeaturesPlus": "所有專業版功能，以及：",
-  "plan": "計劃"
+  "plan": "計劃",
+  "comparePlans": "比較方案",
+  "costPerVehicle": "每輛車 {cost}"
 }
