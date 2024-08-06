@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Angi batterinivå",
   "setOdometer": "Angi kilometerstand",
   "setTemperature": "Angi temperatur",
-  "allVehicleFeaturesPlus": "Alle kjøretøyfunksjoner, pluss:",
   "description": "Beskrivelse",
   "viewRealtimeAndHistoricalVehicleActivity": "Se sanntids- og historisk kjøretøyaktivitet",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Besøk developer.tessie.com for veiledninger og dokumentasjon",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Få øyeblikkelig tilgang til Tesla-flåte-API",
   "getInstantAccessToTeslaFleetTelemetry": "Få øyeblikkelig tilgang til telemetri for Tesla-flåten",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Få tilgang til telemetridatastrømmen for kjøretøyet uten komplisert konfigurering og hosting",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Bruk en hvilken som helst WebSocket-klient, koble til: streaming.tessie.com/DITT_VIN"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Bruk en hvilken som helst WebSocket-klient, koble til: streaming.tessie.com/DITT_VIN",
+  "allProFeaturesPlus": "{count} Todas as funcionalidades profissionais, mais:"
 }

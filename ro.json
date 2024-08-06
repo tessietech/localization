@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Setează nivelul bateriei",
   "setOdometer": "Setează kilometrajul",
   "setTemperature": "Setează temperatura",
-  "allVehicleFeaturesPlus": "Toate caracteristicile vehiculului, plus:",
   "description": "Descriere",
   "viewRealtimeAndHistoricalVehicleActivity": "Vizualizați activitatea vehiculului în timp real și istoric",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Vizitați developer.tessie.com pentru ghiduri și documentație",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Obține acces instantaneu la API-ul flotei Tesla",
   "getInstantAccessToTeslaFleetTelemetry": "Obține acces instantaneu la telemetria flotei Tesla",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Accesează fluxul de date de telemetrie al vehiculului tău fără configurare și găzduire complexe",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Folosind orice client WebSocket, conectează-te la: streaming.tessie.com/VIN-UL_TĂU"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Folosind orice client WebSocket, conectează-te la: streaming.tessie.com/VIN-UL_TĂU",
+  "allProFeaturesPlus": "Toate funcțiile Pro, plus:"
 }

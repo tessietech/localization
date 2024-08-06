@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Az akkumulátor töltöttségi szintjének beállítása",
   "setOdometer": "Állítsa be a kilométerszámlálót",
   "setTemperature": "Állítsa be a hőmérsékletet",
-  "allVehicleFeaturesPlus": "A jármű összes jellemzője, plusz:",
   "description": "Leírás",
   "viewRealtimeAndHistoricalVehicleActivity": "Tekintse meg a valós idejű és korábbi járműtevékenységeket",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Útmutatókért és dokumentációért látogasson el a developer.tessie.com webhelyre",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Azonnali hozzáférés a Tesla Flotta API-hoz",
   "getInstantAccessToTeslaFleetTelemetry": "Azonnali hozzáférés a Tesla Flotta Telemetria adataihoz",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Hozzáférés a jármű telemetriai adatfolyamához bonyolult beállítás és tárhely nélkül",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Bármely WebSocket klienssel csatlakozzon ide: streaming.tessie.com/AZ_ÖN_VIN_SZÁMA"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Bármely WebSocket klienssel csatlakozzon ide: streaming.tessie.com/AZ_ÖN_VIN_SZÁMA",
+  "allProFeaturesPlus": "Minden Profitárgy, plusz:"
 }

@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Set Battery Level",
   "setOdometer": "Set Odometer",
   "setTemperature": "Set Temperature",
-  "allVehicleFeaturesPlus": "All vehicle features, plus:",
   "description": "Description",
   "viewRealtimeAndHistoricalVehicleActivity": "View real-time and historical vehicle activity",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Visit developer.tessie.com for guides and documentation",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Get instant access to Tesla Fleet API",
   "getInstantAccessToTeslaFleetTelemetry": "Get instant access to Tesla Fleet Telemetry",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Access your vehicle's telemetry data stream without complex setup and hosting",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Using any WebSocket client, connect to: streaming.tessie.com/YOUR_VIN"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Using any WebSocket client, connect to: streaming.tessie.com/YOUR_VIN",
+  "allProFeaturesPlus": "All Pro features, plus:"
 }

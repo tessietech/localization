@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Pil Seviyesini Ayarla",
   "setOdometer": "Kilometre Sayacını Ayarla",
   "setTemperature": "Sıcaklığı Ayarla",
-  "allVehicleFeaturesPlus": "Tüm araç özellikleri ve ayrıca:",
   "description": "Açıklama",
   "viewRealtimeAndHistoricalVehicleActivity": "Araç hareketlerini gerçek zamanlı ve geçmişe dönük olarak görüntüleyin",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Kılavuzlar ve belgeler için developer.tessie.com adresini ziyaret edin",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Tesla Filo API'sine anında erişim sağlayın",
   "getInstantAccessToTeslaFleetTelemetry": "Tesla Filo Telemetrisine anında erişim sağlayın",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Karmaşık kurulum ve barındırma olmadan aracınızın telemetri veri akışına erişin",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Herhangi bir WebSocket istemcisini kullanarak şu adrese bağlanın: streaming.tessie.com/ARAÇ_KİMLİĞİNİZ"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Herhangi bir WebSocket istemcisini kullanarak şu adrese bağlanın: streaming.tessie.com/ARAÇ_KİMLİĞİNİZ",
+  "allProFeaturesPlus": "Tüm Pro özellikleri ve ayrıca:"
 }

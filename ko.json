@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "배터리 잔량 설정",
   "setOdometer": "주행 거리계 설정",
   "setTemperature": "온도 설정",
-  "allVehicleFeaturesPlus": "모든 차량 기능 및 다음 사항 포함: ",
   "description": "설명",
   "viewRealtimeAndHistoricalVehicleActivity": "실시간 및 과거 차량 활동 보기",
   "visitDevelopertessiecomForGuidesAndDocumentation": "가이드 및 문서는 developer.tessie.com을 방문하세요.",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Tesla Fleet API에 즉시 액세스",
   "getInstantAccessToTeslaFleetTelemetry": "Tesla Fleet 원격 측정에 즉시 액세스",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "복잡한 설정 및 호스팅 없이 차량의 원격 측정 데이터 스트림에 액세스",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "WebSocket 클라이언트를 사용하여 streaming.tessie.com/YOUR_VIN에 연결"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "WebSocket 클라이언트를 사용하여 streaming.tessie.com/YOUR_VIN에 연결",
+  "allProFeaturesPlus": "모든 Pro 기능 및 다음이 포함됩니다."
 }

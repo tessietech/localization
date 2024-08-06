@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Stel batterijniveau in",
   "setOdometer": "Kilometerstand instellen",
   "setTemperature": "Temperatuur instellen",
-  "allVehicleFeaturesPlus": "Alle voertuigfuncties, plus:",
   "description": "Beschrijving",
   "viewRealtimeAndHistoricalVehicleActivity": "Bekijk realtime en historische voertuigactiviteit",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Ga naar developer.tessie.com voor handleidingen en documentatie",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Krijg direct toegang tot de Tesla Fleet API",
   "getInstantAccessToTeslaFleetTelemetry": "Krijg direct toegang tot Tesla Fleet Telemetrie",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Krijg toegang tot de telemetriedatastroom van uw voertuig zonder complexe installatie en hosting",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Maak met elke WebSocket-client verbinding met: streaming.tessie.com/UW_VIN"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Maak met elke WebSocket-client verbinding met: streaming.tessie.com/UW_VIN",
+  "allProFeaturesPlus": "Alle Pro-functies, plus:"
 }

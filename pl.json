@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Ustaw poziom naładowania baterii",
   "setOdometer": "Ustaw licznik kilometrów",
   "setTemperature": "Ustaw temperaturę",
-  "allVehicleFeaturesPlus": "Wszystkie funkcje pojazdu oraz:",
   "description": "Opis",
   "viewRealtimeAndHistoricalVehicleActivity": "Wyświetl aktywność pojazdu w czasie rzeczywistym i historię",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Odwiedź developer.tessie.com, aby uzyskać przewodniki i dokumentację",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Zyskaj natychmiastowy dostęp do interfejsu API floty Tesli",
   "getInstantAccessToTeslaFleetTelemetry": "Uzyskaj natychmiastowy dostęp do danych telemetrycznych floty Tesli",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Uzyskaj dostęp do strumienia danych telemetrycznych swojego pojazdu bez skomplikowanej konfiguracji i hostingu",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Używając dowolnego klienta WebSocket, połącz się z: streaming.tessie.com/TWÓJ_VIN"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Używając dowolnego klienta WebSocket, połącz się z: streaming.tessie.com/TWÓJ_VIN",
+  "allProFeaturesPlus": "Wszystkie funkcje Pro oraz:"
 }

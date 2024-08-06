@@ -750,7 +750,7 @@
   "day": "Tag",
   "viewReleaseNotesForHistoryindexversion": "Versionshinweise für {historyIndexVersion} anzeigen",
   "installationHistory": "Installationsverlauf",
-  "loading": "Wird geladen...",
+  "loading": "Ladevorgang",
   "dayCount": "{count} Tag",
   "daysCount": "{count} Tage",
   "averageDay": "{averageDays} Tag",
@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "Batteriestand einstellen",
   "setOdometer": "Kilometerstand einstellen",
   "setTemperature": "Temperatur einstellen",
-  "allVehicleFeaturesPlus": "Alle Fahrzeugfunktionen und zusätzlich:",
   "description": "Beschreibung",
   "viewRealtimeAndHistoricalVehicleActivity": "Fahrzeugaktivitäten in Echtzeit und Historie anzeigen",
   "visitDevelopertessiecomForGuidesAndDocumentation": "Unter developer.tessie.com finden Sie Anleitungen und Dokumentation",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "Sofortiger Zugriff auf die Tesla Fleet API",
   "getInstantAccessToTeslaFleetTelemetry": "Sofortiger Zugriff auf die Tesla Fleet Telemetrie",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Greifen Sie auf den Telemetriedatenstrom Ihres Fahrzeugs ohne komplexe Einrichtung und Hosting zu",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Verwenden Sie einen beliebigen WebSocket-Client, um eine Verbindung zu folgendem Ziel herzustellen: streaming.tessie.com/IHRE_VIN"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Verwenden Sie einen beliebigen WebSocket-Client, um eine Verbindung zu folgendem Ziel herzustellen: streaming.tessie.com/IHRE_VIN",
+  "allProFeaturesPlus": "Todas as funcionalidades Pro, além de:"
 }

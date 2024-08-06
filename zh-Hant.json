@@ -2180,7 +2180,6 @@
   "setBatteryLevel": "設定電池電量",
   "setOdometer": "設定里程表",
   "setTemperature": "設定溫度",
-  "allVehicleFeaturesPlus": "所有車輛功能，以及：",
   "description": "描述",
   "viewRealtimeAndHistoricalVehicleActivity": "查看實時和歷史車輛活動",
   "visitDevelopertessiecomForGuidesAndDocumentation": "訪問 developer.tessie.com 以獲取指南和文檔",
@@ -2218,5 +2217,6 @@
   "getInstantAccessToTeslaFleetApi": "立即訪問 Tesla 車隊 API",
   "getInstantAccessToTeslaFleetTelemetry": "立即訪問 Tesla 車隊遙測",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "無需複雜的設置和託管，即可訪問您車輛的遙測數據流",
-  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "使用任何 WebSocket 客戶端，連接到：streaming.tessie.com/YOUR_VIN"
+  "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "使用任何 WebSocket 客戶端，連接到：streaming.tessie.com/YOUR_VIN",
+  "allProFeaturesPlus": "所有專業功能，以及："
 }
