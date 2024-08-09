@@ -2224,5 +2224,11 @@
   "costPerVehicle": "每辆车 {cost}",
   "aboutTeslaFees": "关于特斯拉费用",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "特斯拉每月对每辆车收取费用。我们将为您支付费用。",
-  "pricesIncludeTeslaFees": "价格包含特斯拉费用"
+  "pricesIncludeTeslaFees": "价格包含特斯拉费用",
+  "howTessieMakesMoney": "Tessie 如何盈利",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie 由个人开发者维护，不会出售您的数据，因此完全依赖您的经济支持。",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "您的订阅费用最多有 30% 支付给 Apple 和 Google 作为佣金。",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "剩余金额支付给 Tessie 用于数据和运营成本。",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "您的大部分订阅费用用于支付特斯拉对您车辆的费用。",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "您的大部分订阅费用用于支付特斯拉对您车辆的费用。"
 }

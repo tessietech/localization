@@ -2224,5 +2224,11 @@
   "costPerVehicle": "{cost} / ajoneuvo",
   "aboutTeslaFees": "Teslan maksuista",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla veloittaa kuukausimaksun jokaisesta ajoneuvosta. Maksamme maksut puolestasi.",
-  "pricesIncludeTeslaFees": "Hinnat sisältävät Teslan maksut"
+  "pricesIncludeTeslaFees": "Hinnat sisältävät Teslan maksut",
+  "howTessieMakesMoney": "Miten Tessie ansaitsee rahaa",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie on yhden henkilön kehittämä, eikä se myy tietojasi, joten se on täysin riippuvainen taloudellisesta tuestasi.",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "Jopa 30% tilauksestasi menee Applelle ja Googlelle palkkioina.",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "Loppuosa menee Tessielle data- ja toimintakustannuksiin.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "Suurin osa tilauksestasi menee Teslan ajoneuvosi maksuihin.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "Suurin osa tilauksestasi menee Teslan ajoneuvoidesi maksuihin."
 }

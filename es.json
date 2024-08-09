@@ -2224,5 +2224,11 @@
   "costPerVehicle": "{cost} por veículo",
   "aboutTeslaFees": "Acerca de las tarifas de Tesla",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla cobra una tarifa mensual por cada vehículo. Nosotros nos haremos cargo de las tarifas por ti.",
-  "pricesIncludeTeslaFees": "Los precios incluyen las tarifas de Tesla"
+  "pricesIncludeTeslaFees": "Los precios incluyen las tarifas de Tesla",
+  "howTessieMakesMoney": "Cómo gana dinero Tessie",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie es obra de una sola persona y no vende tus datos, por lo que depende completamente de tu apoyo financiero.",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "Hasta un 30% de tu suscripción se destina a Apple y Google por comisiones.",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "La cantidad restante se destina a Tessie para datos y costes operativos.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "La mayor parte de tu suscripción se destina a pagar las tarifas de Tesla por tu vehículo.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "La mayor parte de tu suscripción se destina a pagar las tarifas de Tesla por tus vehículos."
 }

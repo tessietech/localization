@@ -2224,5 +2224,11 @@
   "costPerVehicle": "{cost} per vehicle",
   "aboutTeslaFees": "About Tesla fees",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla charges a monthly fee for every vehicle. We'll pay the fees for you.",
-  "pricesIncludeTeslaFees": "Prices include Tesla fees"
+  "pricesIncludeTeslaFees": "Prices include Tesla fees",
+  "howTessieMakesMoney": "How Tessie makes money",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie is the work of just one person, and doesn't sell your data, so it relies entirely on your financial support.",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "Up to 30% of your subscription goes to Apple and Google for commissions.",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "The remaining amount goes to Tessie for data and operational costs.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "The majority of your subscription goes to paying Tesla's fees for your vehicle.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "The majority of your subscription goes to paying Tesla's fees for your vehicles."
 }

@@ -2224,5 +2224,11 @@
   "costPerVehicle": "{cost} per kjøretøy",
   "aboutTeslaFees": "Om Tesla-avgifter",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla tar et månedlig gebyr for hvert kjøretøy. Vi betaler gebyrene for deg.",
-  "pricesIncludeTeslaFees": "Prisene inkluderer Tesla-avgifter"
+  "pricesIncludeTeslaFees": "Prisene inkluderer Tesla-avgifter",
+  "howTessieMakesMoney": "Hvordan Tessie tjener penger",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie er arbeidet til én enkelt person og selger ikke dataene dine, så den er helt avhengig av din økonomiske støtte.",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "Opptil 30 % av abonnementet ditt går til Apple og Google i provisjon.",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "Resten går til Tessie for data og driftskostnader.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "Størstedelen av abonnementet ditt går til å betale Teslas avgifter for bilen din.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "Størstedelen av abonnementet ditt går til å betale Teslas avgifter for bilene dine."
 }

@@ -2224,5 +2224,11 @@
   "costPerVehicle": "차량당 {cost}",
   "aboutTeslaFees": "Tesla 수수료 정보",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "Tesla는 차량당 월 수수료를 부과합니다. 당사에서 수수료를 결제해 드립니다.",
-  "pricesIncludeTeslaFees": "가격에는 Tesla 수수료가 포함되어 있습니다."
+  "pricesIncludeTeslaFees": "가격에는 Tesla 수수료가 포함되어 있습니다.",
+  "howTessieMakesMoney": "Tessie는 어떻게 돈을 버나요?",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie는 한 사람이 만든 앱이며 사용자 데이터를 판매하지 않으므로 전적으로 사용자의 재정적 지원에 의존합니다.",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "구독료의 최대 30%는 Apple과 Google에 수수료로 지불됩니다.",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "나머지 금액은 Tessie의 데이터 및 운영 비용으로 사용됩니다.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "구독료의 대부분은 귀하의 차량에 대한 Tesla 수수료를 지불하는 데 사용됩니다.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "구독료의 대부분은 귀하의 차량에 대한 Tesla 수수료를 지불하는 데 사용됩니다."
 }

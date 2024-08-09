@@ -2224,5 +2224,11 @@
   "costPerVehicle": "{cost} / jármű",
   "aboutTeslaFees": "A Tesla díjairól",
   "teslaChargesAMonthlyFeeForEveryVehicleWellPay": "A Tesla havi díjat számít fel minden jármű után. Mi álljuk a díjakat.",
-  "pricesIncludeTeslaFees": "Az árak tartalmazzák a Tesla díjait"
+  "pricesIncludeTeslaFees": "Az árak tartalmazzák a Tesla díjait",
+  "howTessieMakesMoney": "Hogyan termel bevételt a Tessie?",
+  "tessieIsTheWorkOfJustOnePersonAndDoesnt": "A Tessie egyetlen ember munkája, és nem adja el az adataidat, ezért teljes mértékben a pénzügyi támogatásodra támaszkodik.",
+  "upTo30OfYourSubscriptionGoesToAppleAnd": "Előfizetésed akár 30%-a az Apple-höz és a Google-höz kerül jutalékként.",
+  "theRemainingAmountGoesToTessieForDataAndOperational": "A fennmaradó összeg a Tessie-hez kerül az adatokhoz és a működési költségekhez.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicle": "Előfizetésed nagy részét a Tesla járművedre vonatkozó díjainak kifizetésére fordítjuk.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasFeesForYourVehicles": "Előfizetésed nagy részét a Tesla járműveidre vonatkozó díjainak kifizetésére fordítjuk."
 }
