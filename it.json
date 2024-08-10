@@ -2218,7 +2218,7 @@
   "getInstantAccessToTeslaFleetTelemetry": "Ottieni accesso immediato alla telemetria della flotta Tesla",
   "accessYourVehiclesTelemetryDataStreamWithoutComplexSetupAnd": "Accedi al flusso di dati di telemetria del tuo veicolo senza complesse configurazioni e hosting",
   "usingAnyWebsocketClientConnectToStreamingtessiecomyourvin": "Utilizzando qualsiasi client WebSocket, connettiti a: streaming.tessie.com/YOUR_VIN",
-  "allProFeaturesPlus": "Todas as funcionalidades Pro, além de:",
+  "allProFeaturesPlus": "Tutte le funzionalità Pro, più:",
   "plan": "Piano",
   "comparePlans": "Confronta i piani",
   "costPerVehicle": "{cost} per veicolo",
@@ -2229,6 +2229,7 @@
   "tessieIsTheWorkOfJustOnePersonAndDoesnt": "Tessie è il lavoro di una sola persona e non vende i tuoi dati, quindi si basa interamente sul tuo supporto finanziario.",
   "upTo30OfYourSubscriptionGoesToAppleAnd": "Fino al 30% del tuo abbonamento va ad Apple e Google per le commissioni.",
   "theRemainingAmountGoesToTessieForDataAndOperational": "L'importo rimanente va a Tessie per i dati e i costi operativi.",
-  "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "A maior parte da sua subscrição é usada para pagar as taxas mensais da Tesla pelo seu veículo.",
-  "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição é usada para pagar as taxas mensais da Tesla pelos seus veículos."
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "La maggior parte del tuo abbonamento viene utilizzata per pagare le tariffe mensili di Tesla per il tuo veicolo.",
+  "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "La maggior parte del tuo abbonamento viene utilizzata per pagare le tariffe mensili di Tesla per i tuoi veicoli.",
+  "neverSeen": "Mai visto"
 }
