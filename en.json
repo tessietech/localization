@@ -2236,5 +2236,6 @@
   "aware": "Aware",
   "sentryEvents": "Sentry Events",
   "aboutSentryEvents": "About Sentry Events",
-  "allSecurityEventsDetectedByYourVehicle": "All security events detected by your vehicle."
+  "allSecurityEventsDetectedByYourVehicle": "All security events detected by your vehicle.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla doesn't support scheduling via third party apps in 2024.26+ firmware. Please use the Tesla app or the vehicle touchscreen."
 }

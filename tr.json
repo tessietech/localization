@@ -2236,5 +2236,6 @@
   "aware": "Bilinçli",
   "sentryEvents": "Sentry Olayları",
   "aboutSentryEvents": "Sentry Olayları Hakkında",
-  "allSecurityEventsDetectedByYourVehicle": "Aracınız tarafından algılanan tüm güvenlik olayları."
+  "allSecurityEventsDetectedByYourVehicle": "Aracınız tarafından algılanan tüm güvenlik olayları.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla, 2024.26 ve üzeri yazılımlarda üçüncü taraf uygulamalar aracılığıyla planlamayı desteklemiyor. Lütfen Tesla uygulamasını veya aracın dokunmatik ekranını kullanın."
 }

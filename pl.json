@@ -2236,5 +2236,6 @@
   "aware": "Świadomy",
   "sentryEvents": "Zdarzenia Sentry",
   "aboutSentryEvents": "Informacje o zdarzeniach Sentry",
-  "allSecurityEventsDetectedByYourVehicle": "Wszystkie zdarzenia bezpieczeństwa wykryte przez Twój pojazd."
+  "allSecurityEventsDetectedByYourVehicle": "Wszystkie zdarzenia bezpieczeństwa wykryte przez Twój pojazd.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla nie obsługuje planowania za pośrednictwem aplikacji innych firm w oprogramowaniu układowym 2024.26+. Użyj aplikacji Tesla lub ekranu dotykowego w pojeździe."
 }

@@ -2236,5 +2236,6 @@
   "aware": "Klar over",
   "sentryEvents": "Sentry-hendelser",
   "aboutSentryEvents": "Om Sentry-hendelser",
-  "allSecurityEventsDetectedByYourVehicle": "Alle sikkerhetshendelser oppdaget av kjøretøyet ditt."
+  "allSecurityEventsDetectedByYourVehicle": "Alle sikkerhetshendelser oppdaget av kjøretøyet ditt.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla não suporta o agendamento através de aplicações de terceiros no firmware 2024.26+. Utilize a aplicação Tesla ou o ecrã tátil do veículo."
 }

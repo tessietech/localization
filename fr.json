@@ -2236,5 +2236,6 @@
   "aware": "Au courant",
   "sentryEvents": "Événements Sentry",
   "aboutSentryEvents": "À propos des événements Sentry",
-  "allSecurityEventsDetectedByYourVehicle": "Tous les événements de sécurité détectés par votre véhicule."
+  "allSecurityEventsDetectedByYourVehicle": "Tous les événements de sécurité détectés par votre véhicule.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ne prend pas en charge la programmation via des applications tierces dans le firmware 2024.26+. Veuillez utiliser l'application Tesla ou l'écran tactile du véhicule."
 }

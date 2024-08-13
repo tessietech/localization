@@ -2236,5 +2236,6 @@
   "aware": "Consciente",
   "sentryEvents": "Eventos de segurança",
   "aboutSentryEvents": "Sobre eventos de segurança",
-  "allSecurityEventsDetectedByYourVehicle": "Todos os eventos de segurança detetados pelo seu veículo."
+  "allSecurityEventsDetectedByYourVehicle": "Todos os eventos de segurança detetados pelo seu veículo.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla no admite la programación a través de aplicaciones de terceros en el firmware 2024.26 o posterior. Utilice la aplicación Tesla o la pantalla táctil del vehículo."
 }
