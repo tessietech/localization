@@ -2233,5 +2233,8 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "您的大部分訂閱費用都用於支付特斯拉每月向您的車輛收取的費用。",
   "neverSeen": "從未見過",
   "noSentryEventsFound": "未找到 Sentry 事件",
-  "aware": "已察覺"
+  "aware": "已察覺",
+  "sentryEvents": "Sentry 事件",
+  "aboutSentryEvents": "關於 Sentry 事件",
+  "allSecurityEventsDetectedByYourVehicle": "您的車輛偵測到的所有安全事件。"
 }

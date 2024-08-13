@@ -2233,5 +2233,8 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maioria da sua subscrição é usada para pagar as taxas mensais da Tesla pelos seus veículos.",
   "neverSeen": "Jamais vu",
   "noSentryEventsFound": "Aucun événement Sentry trouvé",
-  "aware": "Au courant"
+  "aware": "Au courant",
+  "sentryEvents": "Événements Sentry",
+  "aboutSentryEvents": "À propos des événements Sentry",
+  "allSecurityEventsDetectedByYourVehicle": "Tous les événements de sécurité détectés par votre véhicule."
 }

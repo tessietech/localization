@@ -2233,5 +2233,8 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maioria da sua subscrição destina-se a pagar as taxas mensais da Tesla para os seus veículos.",
   "neverSeen": "Ei koskaan nähty",
   "noSentryEventsFound": "Ei Sentry-tapahtumia löydy",
-  "aware": "Tiedossa"
+  "aware": "Tiedossa",
+  "sentryEvents": "Sentry-tapahtumat",
+  "aboutSentryEvents": "Tietoja Sentry-tapahtumista",
+  "allSecurityEventsDetectedByYourVehicle": "Kaikki ajoneuvosi tunnistamat turvallisuustapahtumat."
 }

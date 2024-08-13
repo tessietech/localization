@@ -2233,5 +2233,8 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "The majority of your subscription goes to paying Tesla's monthly fees for your vehicles.",
   "neverSeen": "Never seen",
   "noSentryEventsFound": "No Sentry events found",
-  "aware": "Aware"
+  "aware": "Aware",
+  "sentryEvents": "Sentry Events",
+  "aboutSentryEvents": "About Sentry Events",
+  "allSecurityEventsDetectedByYourVehicle": "All security events detected by your vehicle."
 }

@@ -2233,5 +2233,8 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maioria da sua subscrição destina-se a pagar as taxas mensais da Tesla pelos seus veículos.",
   "neverSeen": "Hiç görülmedi",
   "noSentryEventsFound": "Sentry olayı bulunamadı",
-  "aware": "Bilinçli"
+  "aware": "Bilinçli",
+  "sentryEvents": "Sentry Olayları",
+  "aboutSentryEvents": "Sentry Olayları Hakkında",
+  "allSecurityEventsDetectedByYourVehicle": "Aracınız tarafından algılanan tüm güvenlik olayları."
 }
