@@ -2231,5 +2231,7 @@
   "theRemainingAmountGoesToTessieForDataAndOperational": "剩餘款項則用於 Tessie 的資料與營運成本。",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "您的大部分訂閱費用都用於支付特斯拉每月向您的車輛收取的費用。",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "您的大部分訂閱費用都用於支付特斯拉每月向您的車輛收取的費用。",
-  "neverSeen": "從未見過"
+  "neverSeen": "從未見過",
+  "noSentryEventsFound": "未找到 Sentry 事件",
+  "aware": "已察覺"
 }

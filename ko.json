@@ -2231,5 +2231,7 @@
   "theRemainingAmountGoesToTessieForDataAndOperational": "나머지 금액은 Tessie의 데이터 및 운영 비용으로 사용됩니다.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "A maior parte da sua subscrição destina-se a pagar as taxas mensais da Tesla pelo seu veículo.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição destina-se a pagar as taxas mensais da Tesla pelos seus veículos.",
-  "neverSeen": "본 적 없음"
+  "neverSeen": "본 적 없음",
+  "noSentryEventsFound": "센트리 이벤트를 찾을 수 없습니다.",
+  "aware": "인지"
 }

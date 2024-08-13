@@ -2231,5 +2231,7 @@
   "theRemainingAmountGoesToTessieForDataAndOperational": "A fennmaradó összeg a Tessie-hez kerül az adatokhoz és a működési költségekhez.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "A maior parte da sua subscrição destina-se a pagar as taxas mensais da Tesla pelo seu veículo.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição destina-se a pagar as taxas mensais da Tesla pelos seus veículos.",
-  "neverSeen": "Soha nem látott"
+  "neverSeen": "Soha nem látott",
+  "noSentryEventsFound": "Nincsenek Sentry események",
+  "aware": "Tudatában van"
 }

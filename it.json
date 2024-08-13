@@ -2231,5 +2231,7 @@
   "theRemainingAmountGoesToTessieForDataAndOperational": "L'importo rimanente va a Tessie per i dati e i costi operativi.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "A maior parte da sua subscrição é usada para pagar as taxas mensais da Tesla pelo seu veículo.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição é usada para pagar as taxas mensais da Tesla pelos seus veículos.",
-  "neverSeen": "Mai visto"
+  "neverSeen": "Mai visto",
+  "noSentryEventsFound": "Nenhum evento Sentry encontrado",
+  "aware": "Ciente"
 }
