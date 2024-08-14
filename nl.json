@@ -2241,5 +2241,7 @@
   "movement": "Beweging",
   "openInGoogleMaps": "Abrir no Google Maps",
   "sentryEvent": "Evento do Sentry",
-  "openInMaps": "Abrir no Mapas"
+  "openInMaps": "Abrir no Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Bekijk firmwarewaarschuwingen en servicecodes die door uw voertuig zijn gegenereerd",
+  "viewAllSecurityEventsDetectedByYourVehicle": "Bekijk alle beveiligingsgebeurtenissen die door uw voertuig zijn gedetecteerd"
 }

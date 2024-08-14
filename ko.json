@@ -2241,5 +2241,7 @@
   "movement": "움직임",
   "openInGoogleMaps": "Abrir no Google Maps",
   "sentryEvent": "Evento do Sentry",
-  "openInMaps": "Abrir no Mapas"
+  "openInMaps": "Abrir no Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "차량에서 생성된 펌웨어 알림 및 서비스 코드를 확인하세요.",
+  "viewAllSecurityEventsDetectedByYourVehicle": "차량에서 감지된 모든 보안 이벤트를 확인하세요."
 }

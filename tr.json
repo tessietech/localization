@@ -2241,5 +2241,7 @@
   "movement": "Hareket",
   "openInGoogleMaps": "Abrir no Google Maps",
   "sentryEvent": "Evento do Sentry",
-  "openInMaps": "Abrir nos Mapas"
+  "openInMaps": "Abrir nos Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Arabanız tarafından oluşturulan ürün yazılımı uyarılarını ve servis kodlarını görüntüleyin",
+  "viewAllSecurityEventsDetectedByYourVehicle": "Arabanız tarafından algılanan tüm güvenlik olaylarını görüntüleyin"
 }

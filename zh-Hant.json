@@ -2241,5 +2241,7 @@
   "movement": "移動",
   "openInGoogleMaps": "在 Google 地圖中開啟",
   "sentryEvent": "Sentry 事件",
-  "openInMaps": "在地圖中開啟"
+  "openInMaps": "在地圖中開啟",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "查看車輛產生的固件警報和維修代碼",
+  "viewAllSecurityEventsDetectedByYourVehicle": "查看車輛檢測到的所有安全事件"
 }

@@ -2241,5 +2241,7 @@
   "movement": "Movimento",
   "openInGoogleMaps": "Abrir no Google Maps",
   "sentryEvent": "Evento do Sentry",
-  "openInMaps": "Abrir no Mapas"
+  "openInMaps": "Abrir no Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Alertas de firmware e códigos de serviço gerados pelo seu veículo",
+  "viewAllSecurityEventsDetectedByYourVehicle": "Ver todos os eventos de segurança detetados pelo seu veículo"
 }
