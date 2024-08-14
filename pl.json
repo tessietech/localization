@@ -2233,9 +2233,10 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição é para pagar as taxas mensais dos seus veículos à Tesla.",
   "neverSeen": "Nigdy nie widziany",
   "noSentryEventsFound": "Nie znaleziono zdarzeń Sentry",
-  "aware": "Świadomy",
   "sentryEvents": "Zdarzenia Sentry",
   "aboutSentryEvents": "Informacje o zdarzeniach Sentry",
   "allSecurityEventsDetectedByYourVehicle": "Wszystkie zdarzenia bezpieczeństwa wykryte przez Twój pojazd.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla nie obsługuje planowania za pośrednictwem aplikacji innych firm w oprogramowaniu układowym 2024.26+. Użyj aplikacji Tesla lub ekranu dotykowego w pojeździe."
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla nie obsługuje planowania za pośrednictwem aplikacji innych firm w oprogramowaniu układowym 2024.26+. Użyj aplikacji Tesla lub ekranu dotykowego w pojeździe.",
+  "alarm": "Alarm",
+  "movement": "Ruch"
 }

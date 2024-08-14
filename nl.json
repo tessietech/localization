@@ -2233,9 +2233,10 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição destina-se a pagar as taxas mensais da Tesla pelos seus veículos.",
   "neverSeen": "Nooit gezien",
   "noSentryEventsFound": "Geen Sentry-gebeurtenissen gevonden",
-  "aware": "Op de hoogte",
   "sentryEvents": "Sentry-gebeurtenissen",
   "aboutSentryEvents": "Informatie over Sentry-gebeurtenissen",
   "allSecurityEventsDetectedByYourVehicle": "Alle beveiligingsgebeurtenissen die door uw voertuig zijn gedetecteerd.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ondersteunt het plannen van oplaadtijden via apps van derden niet in firmware 2024.26 of hoger. Gebruik de Tesla-app of het touchscreen van de auto."
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ondersteunt het plannen van oplaadtijden via apps van derden niet in firmware 2024.26 of hoger. Gebruik de Tesla-app of het touchscreen van de auto.",
+  "alarm": "Alarm",
+  "movement": "Beweging"
 }

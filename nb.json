@@ -2233,9 +2233,10 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maior parte da sua subscrição destina-se a pagar as taxas mensais da Tesla pelos seus veículos.",
   "neverSeen": "Nunca visto",
   "noSentryEventsFound": "Fant ingen Sentry-hendelser",
-  "aware": "Klar over",
   "sentryEvents": "Sentry-hendelser",
   "aboutSentryEvents": "Om Sentry-hendelser",
   "allSecurityEventsDetectedByYourVehicle": "Alle sikkerhetshendelser oppdaget av kjøretøyet ditt.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla não suporta o agendamento através de aplicações de terceiros no firmware 2024.26+. Utilize a aplicação Tesla ou o ecrã tátil do veículo."
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla não suporta o agendamento através de aplicações de terceiros no firmware 2024.26+. Utilize a aplicação Tesla ou o ecrã tátil do veículo.",
+  "alarm": "Alarm",
+  "movement": "Bevegelse"
 }
