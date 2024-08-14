@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "차량에서 감지된 모든 보안 이벤트",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla는 2024.26 이상 펌웨어에서 타사 앱을 통한 예약을 지원하지 않습니다. Tesla 앱 또는 차량 터치스크린을 사용하세요.",
   "alarm": "알람",
-  "movement": "움직임"
+  "movement": "움직임",
+  "openInGoogleMaps": "Abrir no Google Maps"
 }

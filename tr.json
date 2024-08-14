@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "Aracınız tarafından algılanan tüm güvenlik olayları.",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla, 2024.26 ve üzeri yazılımlarda üçüncü taraf uygulamalar aracılığıyla planlamayı desteklemiyor. Lütfen Tesla uygulamasını veya aracın dokunmatik ekranını kullanın.",
   "alarm": "Alarm",
-  "movement": "Hareket"
+  "movement": "Hareket",
+  "openInGoogleMaps": "Abrir no Google Maps"
 }

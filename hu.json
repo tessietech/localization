@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "A jármű által észlelt összes biztonsági esemény.",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "A Tesla nem támogatja az ütemezést harmadik féltől származó alkalmazásokon keresztül a 2024.26-os vagy újabb firmware-ben. Kérjük, használd a Tesla alkalmazást vagy a jármű érintőképernyőjét.",
   "alarm": "Riasztás",
-  "movement": "Mozgás"
+  "movement": "Mozgás",
+  "openInGoogleMaps": "Abrir no Google Maps"
 }

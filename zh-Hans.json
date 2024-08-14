@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "您的车辆检测到的所有安全事件。",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "特斯拉 2024.26 及更高版本的固件不支持通过第三方应用进行日程安排。请使用特斯拉应用程序或车辆触摸屏。",
   "alarm": "警报",
-  "movement": "移动"
+  "movement": "移动",
+  "openInGoogleMaps": "在 Google 地图中打开"
 }

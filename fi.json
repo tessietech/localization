@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "Kaikki ajoneuvosi tunnistamat turvallisuustapahtumat.",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ei tue aikataulutusta kolmansien osapuolten sovelluksilla laiteohjelmistoversiossa 2024.26 tai uudemmassa. Käytä Teslan sovellusta tai ajoneuvon kosketusnäyttöä.",
   "alarm": "Hälytys",
-  "movement": "Liike"
+  "movement": "Liike",
+  "openInGoogleMaps": "Abrir no Google Maps"
 }

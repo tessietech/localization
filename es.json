@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "Todos os eventos de segurança detetados pelo seu veículo.",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla no admite la programación a través de aplicaciones de terceros en el firmware 2024.26 o posterior. Utilice la aplicación Tesla o la pantalla táctil del vehículo.",
   "alarm": "Alarma",
-  "movement": "Movimento"
+  "movement": "Movimento",
+  "openInGoogleMaps": "Abrir no Google Maps"
 }

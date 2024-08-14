@@ -2238,5 +2238,6 @@
   "allSecurityEventsDetectedByYourVehicle": "Wszystkie zdarzenia bezpieczeństwa wykryte przez Twój pojazd.",
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla nie obsługuje planowania za pośrednictwem aplikacji innych firm w oprogramowaniu układowym 2024.26+. Użyj aplikacji Tesla lub ekranu dotykowego w pojeździe.",
   "alarm": "Alarm",
-  "movement": "Ruch"
+  "movement": "Ruch",
+  "openInGoogleMaps": "Abrir no Google Maps"
 }
