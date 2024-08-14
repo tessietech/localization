@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla는 2024.26 이상 펌웨어에서 타사 앱을 통한 예약을 지원하지 않습니다. Tesla 앱 또는 차량 터치스크린을 사용하세요.",
   "alarm": "알람",
   "movement": "움직임",
-  "openInGoogleMaps": "Abrir no Google Maps"
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento do Sentry",
+  "openInMaps": "Abrir no Mapas"
 }

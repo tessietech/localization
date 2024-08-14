@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ei tue aikataulutusta kolmansien osapuolten sovelluksilla laiteohjelmistoversiossa 2024.26 tai uudemmassa. Käytä Teslan sovellusta tai ajoneuvon kosketusnäyttöä.",
   "alarm": "Hälytys",
   "movement": "Liike",
-  "openInGoogleMaps": "Abrir no Google Maps"
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento Sentry",
+  "openInMaps": "Abrir no Mapas"
 }

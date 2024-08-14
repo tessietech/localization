@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla doesn't support scheduling via third party apps in 2024.26+ firmware. Please use the Tesla app or the vehicle touchscreen.",
   "alarm": "Alarm",
   "movement": "Movement",
-  "openInGoogleMaps": "Open in Google Maps"
+  "openInGoogleMaps": "Open in Google Maps",
+  "sentryEvent": "Sentry Event",
+  "openInMaps": "Open in Maps"
 }

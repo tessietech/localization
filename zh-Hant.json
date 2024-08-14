@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla 車輛從 2024.26+ 韌體版本開始，不支援透過第三方應用程式進行行程安排。請使用 Tesla 應用程式或車輛觸控螢幕。",
   "alarm": "警報",
   "movement": "移動",
-  "openInGoogleMaps": "在 Google 地圖中開啟"
+  "openInGoogleMaps": "在 Google 地圖中開啟",
+  "sentryEvent": "Sentry 事件",
+  "openInMaps": "在地圖中開啟"
 }

@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla nie obsługuje planowania za pośrednictwem aplikacji innych firm w oprogramowaniu układowym 2024.26+. Użyj aplikacji Tesla lub ekranu dotykowego w pojeździe.",
   "alarm": "Alarm",
   "movement": "Ruch",
-  "openInGoogleMaps": "Abrir no Google Maps"
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento Sentry",
+  "openInMaps": "Abrir no Mapas"
 }

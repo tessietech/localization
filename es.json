@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla no admite la programación a través de aplicaciones de terceros en el firmware 2024.26 o posterior. Utilice la aplicación Tesla o la pantalla táctil del vehículo.",
   "alarm": "Alarma",
   "movement": "Movimento",
-  "openInGoogleMaps": "Abrir no Google Maps"
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento do Sentry",
+  "openInMaps": "Abrir no Mapas"
 }

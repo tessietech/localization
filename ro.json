@@ -2239,5 +2239,7 @@
   "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla não suporta agendamento por meio de aplicações de terceiros no firmware 2024.26+. Por favor, utilize a aplicação Tesla ou o ecrã tátil do veículo.",
   "alarm": "Alarmă",
   "movement": "Mișcare",
-  "openInGoogleMaps": "Abrir no Google Maps"
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento Sentry",
+  "openInMaps": "Abrir no Mapas"
 }
