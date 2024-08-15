@@ -2231,5 +2231,18 @@
   "theRemainingAmountGoesToTessieForDataAndOperational": "O valor restante vai para a Tessie para cobrir os custos com dados e operacionais.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "A maioria da sua subscrição é para pagar as taxas mensais da Tesla para o seu veículo.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maioria da sua subscrição é para pagar as taxas mensais da Tesla para os seus veículos.",
-  "neverSeen": "Nunca visto"
+  "neverSeen": "Nunca visto",
+  "noSentryEventsFound": "Não foram encontrados eventos do Sentry",
+  "sentryEvents": "Eventos Sentry",
+  "aboutSentryEvents": "Acerca dos eventos Sentry",
+  "allSecurityEventsDetectedByYourVehicle": "Todos os eventos de segurança detetados pelo seu veículo.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "O Tesla não suporta o agendamento através de aplicações de terceiros no firmware 2024.26+. Utilize a aplicação Tesla ou o ecrã tátil do veículo.",
+  "alarm": "Alarme",
+  "movement": "Movimento",
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento do Sentry",
+  "openInMaps": "Abrir no Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Ver alertas de firmware e códigos de serviço gerados pelo seu veículo",
+  "viewAllSecurityEventsDetectedByYourVehicle": "Ver todos os eventos de segurança detetados pelo seu veículo",
+  "alarmSilent": "Alarme (Silêncio)"
 }

@@ -2231,5 +2231,18 @@
   "theRemainingAmountGoesToTessieForDataAndOperational": "Kalan tutar, veri ve operasyonel maliyetler için Tessie'ye gider.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "A maioria da sua subscrição destina-se a pagar as taxas mensais da Tesla pelo seu veículo.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "A maioria da sua subscrição destina-se a pagar as taxas mensais da Tesla pelos seus veículos.",
-  "neverSeen": "Hiç görülmedi"
+  "neverSeen": "Hiç görülmedi",
+  "noSentryEventsFound": "Sentry olayı bulunamadı",
+  "sentryEvents": "Sentry Olayları",
+  "aboutSentryEvents": "Sentry Olayları Hakkında",
+  "allSecurityEventsDetectedByYourVehicle": "Aracınız tarafından algılanan tüm güvenlik olayları.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla, 2024.26 ve üzeri yazılımlarda üçüncü taraf uygulamalar aracılığıyla planlamayı desteklemiyor. Lütfen Tesla uygulamasını veya aracın dokunmatik ekranını kullanın.",
+  "alarm": "Alarm",
+  "movement": "Hareket",
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento do Sentry",
+  "openInMaps": "Abrir nos Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Arabanız tarafından oluşturulan ürün yazılımı uyarılarını ve servis kodlarını görüntüleyin",
+  "viewAllSecurityEventsDetectedByYourVehicle": "Arabanız tarafından algılanan tüm güvenlik olaylarını görüntüleyin",
+  "alarmSilent": "Alarm (Sessiz)"
 }

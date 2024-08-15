@@ -2232,4 +2232,17 @@
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicle": "La maggior parte del tuo abbonamento viene utilizzata per pagare le tariffe mensili di Tesla per il tuo veicolo.",
   "theMajorityOfYourSubscriptionGoesToPayingTeslasMonthlyFeesForYourVehicles": "La maggior parte del tuo abbonamento viene utilizzata per pagare le tariffe mensili di Tesla per i tuoi veicoli.",
   "neverSeen": "Mai visto"
+  "noSentryEventsFound": "Nenhum evento Sentry encontrado",
+  "sentryEvents": "Eventi Sentry",
+  "aboutSentryEvents": "Informazioni sugli eventi Sentry",
+  "allSecurityEventsDetectedByYourVehicle": "Tutti gli eventi di sicurezza rilevati dal tuo veicolo.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "A Tesla não suporta agendamento por meio de aplicações de terceiros no firmware 2024.26 ou posterior. Utilize a aplicação Tesla ou o ecrã tátil do veículo.",
+  "alarm": "Allarme",
+  "movement": "Movimento",
+  "openInGoogleMaps": "Abrir no Google Maps",
+  "sentryEvent": "Evento Sentry",
+  "openInMaps": "Abrir no Mapas",
+  "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Visualizza gli avvisi del firmware e i codici di assistenza generati dal tuo veicolo",
+  "viewAllSecurityEventsDetectedByYourVehicle": "Visualizza tutti gli eventi di sicurezza rilevati dal tuo veicolo",
+  "alarmSilent": "Allarme (Silenzioso)"
 }
