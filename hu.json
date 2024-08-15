@@ -2243,5 +2243,6 @@
   "sentryEvent": "Evento do Sentry",
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Tekintse meg a jármű által generált firmware-riasztásokat és hibakódokat",
-  "viewAllSecurityEventsDetectedByYourVehicle": "Tekintse meg a jármű által észlelt összes biztonsági eseményt"
+  "viewAllSecurityEventsDetectedByYourVehicle": "Tekintse meg a jármű által észlelt összes biztonsági eseményt",
+  "alarmQuiet": "Riasztás (Csendes)"
 }

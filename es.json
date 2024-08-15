@@ -2243,5 +2243,6 @@
   "sentryEvent": "Evento do Sentry",
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Ver alertas de firmware y códigos de servicio generados por su vehículo",
-  "viewAllSecurityEventsDetectedByYourVehicle": "Ver todos los eventos de seguridad detectados por su vehículo"
+  "viewAllSecurityEventsDetectedByYourVehicle": "Ver todos los eventos de seguridad detectados por su vehículo",
+  "alarmQuiet": "Alarma (silenciosa)"
 }

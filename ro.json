@@ -2243,5 +2243,6 @@
   "sentryEvent": "Evento Sentry",
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Vizualizați alertele firmware și codurile de service generate de vehiculul dvs.",
-  "viewAllSecurityEventsDetectedByYourVehicle": "Vizualizați toate evenimentele de securitate detectate de vehiculul dvs."
+  "viewAllSecurityEventsDetectedByYourVehicle": "Vizualizați toate evenimentele de securitate detectate de vehiculul dvs.",
+  "alarmQuiet": "Alarme (Silêncio)"
 }
