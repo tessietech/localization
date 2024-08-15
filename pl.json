@@ -2244,5 +2244,5 @@
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Wyświetl alerty oprogramowania układowego i kody serwisowe wygenerowane przez Twój pojazd",
   "viewAllSecurityEventsDetectedByYourVehicle": "Wyświetl wszystkie zdarzenia bezpieczeństwa wykryte przez Twój pojazd",
-  "alarmQuiet": "Alarm (Cichy)"
+  "alarmSilent": "Alarm (bez dźwięku)"
 }

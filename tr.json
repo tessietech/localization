@@ -2244,5 +2244,5 @@
   "openInMaps": "Abrir nos Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Arabanız tarafından oluşturulan ürün yazılımı uyarılarını ve servis kodlarını görüntüleyin",
   "viewAllSecurityEventsDetectedByYourVehicle": "Arabanız tarafından algılanan tüm güvenlik olaylarını görüntüleyin",
-  "alarmQuiet": "Alarm (Sessiz)"
+  "alarmSilent": "Alarm (Sessiz)"
 }

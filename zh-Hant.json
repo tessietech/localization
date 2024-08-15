@@ -2244,5 +2244,5 @@
   "openInMaps": "在地圖中開啟",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "查看車輛產生的固件警報和維修代碼",
   "viewAllSecurityEventsDetectedByYourVehicle": "查看車輛檢測到的所有安全事件",
-  "alarmQuiet": "警報（靜音）"
+  "alarmSilent": "警報（靜音）"
 }
