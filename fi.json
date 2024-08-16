@@ -2244,5 +2244,6 @@
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Näytä ajoneuvosi luomat laiteohjelmistohälytykset ja palvelukoodit",
   "viewAllSecurityEventsDetectedByYourVehicle": "Näytä kaikki ajoneuvosi havaitsemat tietoturvatapahtumat",
-  "alarmSilent": "Hälytys (äänetön)"
+  "alarmSilent": "Hälytys (äänetön)",
+  "restore": "Palauta"
 }

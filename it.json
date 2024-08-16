@@ -2244,5 +2244,6 @@
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Visualizza gli avvisi del firmware e i codici di assistenza generati dal tuo veicolo",
   "viewAllSecurityEventsDetectedByYourVehicle": "Visualizza tutti gli eventi di sicurezza rilevati dal tuo veicolo",
-  "alarmSilent": "Allarme (Silenzioso)"
+  "alarmSilent": "Allarme (Silenzioso)",
+  "restore": "Ripristina"
 }

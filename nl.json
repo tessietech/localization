@@ -2244,5 +2244,6 @@
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Bekijk firmwarewaarschuwingen en servicecodes die door uw voertuig zijn gegenereerd",
   "viewAllSecurityEventsDetectedByYourVehicle": "Bekijk alle beveiligingsgebeurtenissen die door uw voertuig zijn gedetecteerd",
-  "alarmSilent": "Alarm (stil)"
+  "alarmSilent": "Alarm (stil)",
+  "restore": "Herstellen"
 }

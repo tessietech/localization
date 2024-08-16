@@ -2244,5 +2244,6 @@
   "openInMaps": "Abrir no Mapas",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Tekintse meg a jármű által generált firmware-riasztásokat és hibakódokat",
   "viewAllSecurityEventsDetectedByYourVehicle": "Tekintse meg a jármű által észlelt összes biztonsági eseményt",
-  "alarmSilent": "Riasztás (Néma)"
+  "alarmSilent": "Riasztás (Néma)",
+  "restore": "Visszaállítás"
 }

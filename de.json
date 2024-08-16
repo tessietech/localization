@@ -2244,5 +2244,6 @@
   "openInMaps": "In Maps öffnen",
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Firmware-Warnungen und Service-Codes anzeigen, die von Ihrem Fahrzeug generiert wurden",
   "viewAllSecurityEventsDetectedByYourVehicle": "Alle von Ihrem Fahrzeug erkannten Sicherheitsereignisse anzeigen",
-  "alarmSilent": "Alarm (Stumm)"
+  "alarmSilent": "Alarm (Stumm)",
+  "restore": "Wiederherstellen"
 }
