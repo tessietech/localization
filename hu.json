@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Tekintse meg a jármű által észlelt összes biztonsági eseményt",
   "alarmSilent": "Riasztás (Néma)",
   "restore": "Visszaállítás",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Az autó csak akkor állítható vissza, ha új fiókot hoz létre."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Az autó csak akkor állítható vissza, ha új fiókot hoz létre.",
+  "climateSafety": "Klímabíztosság",
+  "alarms": "Riasztások",
+  "whenAnAlarmIsTriggeredBySentry": "Amikor a Sentry riasztást észlel",
+  "whenMovementIsDetectedBySentry": "Amikor a Sentry mozgást észlel"
 }

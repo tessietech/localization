@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Se alle sikkerhetshendelser oppdaget av kjøretøyet ditt",
   "alarmSilent": "Alarm (Stillegående)",
   "restore": "Gjenopprett",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Du kan ikke gjenopprette bilen med mindre du oppretter en ny konto."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Du kan ikke gjenopprette bilen med mindre du oppretter en ny konto.",
+  "climateSafety": "Klimasikkerhet",
+  "alarms": "Varsler",
+  "whenAnAlarmIsTriggeredBySentry": "Når Sentry utløser en alarm",
+  "whenMovementIsDetectedBySentry": "Når Sentry oppdager bevegelse"
 }

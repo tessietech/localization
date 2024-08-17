@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "차량에서 감지된 모든 보안 이벤트를 확인하세요.",
   "alarmSilent": "알람(무음)",
   "restore": "복원",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "새 계정을 만들지 않으면 차량을 복원할 수 없습니다."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "새 계정을 만들지 않으면 차량을 복원할 수 없습니다.",
+  "climateSafety": "기후 안전",
+  "alarms": "알람",
+  "whenAnAlarmIsTriggeredBySentry": "센트리에서 알람이 트릭될 때",
+  "whenMovementIsDetectedBySentry": "센트리에서 움직임이 감지될 때"
 }

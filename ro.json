@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Vizualizați toate evenimentele de securitate detectate de vehiculul dvs.",
   "alarmSilent": "Alarmă (silențioasă)",
   "restore": "Restaurare",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Vehiculul nu poate fi restaurat decât dacă creezi un cont nou."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Vehiculul nu poate fi restaurat decât dacă creezi un cont nou.",
+  "climateSafety": "Siguranța climei",
+  "alarms": "Alarme",
+  "whenAnAlarmIsTriggeredBySentry": "Când este declanșată o alarmă de către Sentry",
+  "whenMovementIsDetectedBySentry": "Când este detectată o mișcare de către Sentry"
 }

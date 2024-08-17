@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "View all security events detected by your vehicle",
   "alarmSilent": "Alarm (Silent)",
   "restore": "Restore",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "The vehicle cannot be restored unless you create a new account."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "The vehicle cannot be restored unless you create a new account.",
+  "climateSafety": "Climate Safety",
+  "alarms": "Alarms",
+  "whenAnAlarmIsTriggeredBySentry": "When an alarm is triggered by Sentry",
+  "whenMovementIsDetectedBySentry": "When movement is detected by Sentry"
 }

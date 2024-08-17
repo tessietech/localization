@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Arabanız tarafından algılanan tüm güvenlik olaylarını görüntüleyin",
   "alarmSilent": "Alarm (Sessiz)",
   "restore": "Geri Yükle",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Yeni bir hesap oluşturmadığınız sürece araç geri yüklenemiyor."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Yeni bir hesap oluşturmadığınız sürece araç geri yüklenemiyor.",
+  "climateSafety": "İklimlendirme Güvenliği",
+  "alarms": "Alarmlar",
+  "whenAnAlarmIsTriggeredBySentry": "Sentry tarafından bir alarm tetiklendiğinde",
+  "whenMovementIsDetectedBySentry": "Sentry tarafından hareket algılandığında"
 }

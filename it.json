@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Visualizza tutti gli eventi di sicurezza rilevati dal tuo veicolo",
   "alarmSilent": "Allarme (Silenzioso)",
   "restore": "Ripristina",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Impossibile ripristinare il veicolo se non crei un nuovo account."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Impossibile ripristinare il veicolo se non crei un nuovo account.",
+  "climateSafety": "Sicurezza climatica",
+  "alarms": "Allarmi",
+  "whenAnAlarmIsTriggeredBySentry": "Quando la modalità Sentry rileva un allarme",
+  "whenMovementIsDetectedBySentry": "Quando la modalità Sentry rileva un movimento"
 }

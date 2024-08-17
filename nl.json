@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Bekijk alle beveiligingsgebeurtenissen die door uw voertuig zijn gedetecteerd",
   "alarmSilent": "Alarm (stil)",
   "restore": "Herstellen",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "U kunt de auto alleen herstellen als u een nieuw account maakt."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "U kunt de auto alleen herstellen als u een nieuw account maakt.",
+  "climateSafety": "Klimaatveiligheid",
+  "alarms": "Alarmen",
+  "whenAnAlarmIsTriggeredBySentry": "Wanneer een alarm wordt geactiveerd door Sentry",
+  "whenMovementIsDetectedBySentry": "Wanneer beweging wordt gedetecteerd door Sentry"
 }

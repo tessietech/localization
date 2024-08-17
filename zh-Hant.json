@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "查看車輛檢測到的所有安全事件",
   "alarmSilent": "警報（靜音）",
   "restore": "恢復",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "除非您創建一個新帳戶，否則將無法恢復車輛狀態。"
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "除非您創建一個新帳戶，否則將無法恢復車輛狀態。",
+  "climateSafety": "氣候安全",
+  "alarms": "警報",
+  "whenAnAlarmIsTriggeredBySentry": "當哨兵觸發警報時",
+  "whenMovementIsDetectedBySentry": "當哨兵偵測到移動時"
 }

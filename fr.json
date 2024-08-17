@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Afficher tous les événements de sécurité détectés par votre véhicule",
   "alarmSilent": "Alarme (silencieux)",
   "restore": "Restaurer",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Le véhicule ne peut pas être restauré à moins que vous ne créiez un nouveau compte."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Le véhicule ne peut pas être restauré à moins que vous ne créiez un nouveau compte.",
+  "climateSafety": "Sécurité climatique",
+  "alarms": "Alertes",
+  "whenAnAlarmIsTriggeredBySentry": "Lorsqu'une alarme est déclenchée par Sentinelle",
+  "whenMovementIsDetectedBySentry": "Lorsqu'un mouvement est détecté par Sentinelle"
 }

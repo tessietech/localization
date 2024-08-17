@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Alle von deinem Fahrzeug erkannten Sicherheitsereignisse anzeigen",
   "alarmSilent": "Alarm (Stumm)",
   "restore": "Wiederherstellen",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Das Fahrzeug kann nur wiederhergestellt werden, wenn du ein neues Konto erstellst."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Das Fahrzeug kann nur wiederhergestellt werden, wenn du ein neues Konto erstellst.",
+  "climateSafety": "Klimasicherheit",
+  "alarms": "Alarme",
+  "whenAnAlarmIsTriggeredBySentry": "Wenn ein Alarm von Sentry ausgelöst wird",
+  "whenMovementIsDetectedBySentry": "Wenn eine Bewegung von Sentry erkannt wird"
 }

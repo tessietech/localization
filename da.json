@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Se alle sikkerhedshændelser registreret af dit køretøj",
   "alarmSilent": "Alarm (lydløs)",
   "restore": "Gendan",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Bilen kan ikke gendannes, medmindre du opretter en ny konto."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Bilen kan ikke gendannes, medmindre du opretter en ny konto.",
+  "climateSafety": "Klimasikkerhed",
+  "alarms": "Alarmer",
+  "whenAnAlarmIsTriggeredBySentry": "Når der udløses en alarm af Sentry",
+  "whenMovementIsDetectedBySentry": "Når der registreres bevægelse af Sentry"
 }

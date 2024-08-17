@@ -2246,5 +2246,9 @@
   "viewAllSecurityEventsDetectedByYourVehicle": "Näytä kaikki ajoneuvosi havaitsemat tietoturvatapahtumat",
   "alarmSilent": "Hälytys (äänetön)",
   "restore": "Palauta",
-  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Autoa ei voi palauttaa, ellet luo uutta tiliä."
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Autoa ei voi palauttaa, ellet luo uutta tiliä.",
+  "climateSafety": "Ilmaston turvallisuus",
+  "alarms": "Hälytykset",
+  "whenAnAlarmIsTriggeredBySentry": "Kun Sentry laukaisee hälytyksen",
+  "whenMovementIsDetectedBySentry": "Kun Sentry havaitsee liikettä"
 }
