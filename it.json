@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Visualizza gli avvisi del firmware e i codici di assistenza generati dal tuo veicolo",
   "viewAllSecurityEventsDetectedByYourVehicle": "Visualizza tutti gli eventi di sicurezza rilevati dal tuo veicolo",
   "alarmSilent": "Allarme (Silenzioso)",
-  "restore": "Ripristina"
+  "restore": "Ripristina",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Impossibile ripristinare il veicolo se non crei un nuovo account."
 }

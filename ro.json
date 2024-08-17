@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Vizualizați alertele firmware și codurile de service generate de vehiculul dvs.",
   "viewAllSecurityEventsDetectedByYourVehicle": "Vizualizați toate evenimentele de securitate detectate de vehiculul dvs.",
   "alarmSilent": "Alarmă (silențioasă)",
-  "restore": "Restaurare"
+  "restore": "Restaurare",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Vehiculul nu poate fi restaurat decât dacă creezi un cont nou."
 }

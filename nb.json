@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Vis varsler om fastvare og servicekoder generert av kjøretøyet ditt",
   "viewAllSecurityEventsDetectedByYourVehicle": "Se alle sikkerhetshendelser oppdaget av kjøretøyet ditt",
   "alarmSilent": "Alarm (Stillegående)",
-  "restore": "Gjenopprett"
+  "restore": "Gjenopprett",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Du kan ikke gjenopprette bilen med mindre du oppretter en ny konto."
 }

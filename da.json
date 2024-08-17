@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Se firmwareadvarsler og servicekoder genereret af dit køretøj",
   "viewAllSecurityEventsDetectedByYourVehicle": "Se alle sikkerhedshændelser registreret af dit køretøj",
   "alarmSilent": "Alarm (lydløs)",
-  "restore": "Gendan"
+  "restore": "Gendan",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Bilen kan ikke gendannes, medmindre du opretter en ny konto."
 }

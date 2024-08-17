@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Afficher les alertes de micrologiciel et les codes d’entretien générés par votre véhicule",
   "viewAllSecurityEventsDetectedByYourVehicle": "Afficher tous les événements de sécurité détectés par votre véhicule",
   "alarmSilent": "Alarme (silencieux)",
-  "restore": "Restaurer"
+  "restore": "Restaurer",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Le véhicule ne peut pas être restauré à moins que vous ne créiez un nouveau compte."
 }

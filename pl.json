@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Wyświetl alerty oprogramowania układowego i kody serwisowe wygenerowane przez Twój pojazd",
   "viewAllSecurityEventsDetectedByYourVehicle": "Wyświetl wszystkie zdarzenia bezpieczeństwa wykryte przez Twój pojazd",
   "alarmSilent": "Alarm (bez dźwięku)",
-  "restore": "Przywróć"
+  "restore": "Przywróć",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Pojazdu nie można przywrócić, chyba że utworzysz nowe konto."
 }

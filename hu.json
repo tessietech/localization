@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Tekintse meg a jármű által generált firmware-riasztásokat és hibakódokat",
   "viewAllSecurityEventsDetectedByYourVehicle": "Tekintse meg a jármű által észlelt összes biztonsági eseményt",
   "alarmSilent": "Riasztás (Néma)",
-  "restore": "Visszaállítás"
+  "restore": "Visszaállítás",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Az autó csak akkor állítható vissza, ha új fiókot hoz létre."
 }

@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Arabanız tarafından oluşturulan ürün yazılımı uyarılarını ve servis kodlarını görüntüleyin",
   "viewAllSecurityEventsDetectedByYourVehicle": "Arabanız tarafından algılanan tüm güvenlik olaylarını görüntüleyin",
   "alarmSilent": "Alarm (Sessiz)",
-  "restore": "Geri Yükle"
+  "restore": "Geri Yükle",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Yeni bir hesap oluşturmadığınız sürece araç geri yüklenemiyor."
 }

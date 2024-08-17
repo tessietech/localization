@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Näytä ajoneuvosi luomat laiteohjelmistohälytykset ja palvelukoodit",
   "viewAllSecurityEventsDetectedByYourVehicle": "Näytä kaikki ajoneuvosi havaitsemat tietoturvatapahtumat",
   "alarmSilent": "Hälytys (äänetön)",
-  "restore": "Palauta"
+  "restore": "Palauta",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Autoa ei voi palauttaa, ellet luo uutta tiliä."
 }

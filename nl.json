@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Bekijk firmwarewaarschuwingen en servicecodes die door uw voertuig zijn gegenereerd",
   "viewAllSecurityEventsDetectedByYourVehicle": "Bekijk alle beveiligingsgebeurtenissen die door uw voertuig zijn gedetecteerd",
   "alarmSilent": "Alarm (stil)",
-  "restore": "Herstellen"
+  "restore": "Herstellen",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "U kunt de auto alleen herstellen als u een nieuw account maakt."
 }

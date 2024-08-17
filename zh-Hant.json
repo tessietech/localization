@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "查看車輛產生的固件警報和維修代碼",
   "viewAllSecurityEventsDetectedByYourVehicle": "查看車輛檢測到的所有安全事件",
   "alarmSilent": "警報（靜音）",
-  "restore": "恢復"
+  "restore": "恢復",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "除非您創建一個新帳戶，否則將無法恢復車輛狀態。"
 }

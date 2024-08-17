@@ -2245,5 +2245,6 @@
   "viewFirmwareAlertsAndServiceCodesGeneratedByYourVehicle": "Firmware-Warnungen und Service-Codes anzeigen, die von Ihrem Fahrzeug generiert wurden",
   "viewAllSecurityEventsDetectedByYourVehicle": "Alle von Ihrem Fahrzeug erkannten Sicherheitsereignisse anzeigen",
   "alarmSilent": "Alarm (Stumm)",
-  "restore": "Wiederherstellen"
+  "restore": "Wiederherstellen",
+  "theVehicleCannotBeRestoredUnlessYouCreateANew": "Das Fahrzeug kann nur wiederhergestellt werden, wenn du ein neues Konto erstellst."
 }
