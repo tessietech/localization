@@ -2250,5 +2250,7 @@
   "climateSafety": "Klimaatveiligheid",
   "alarms": "Alarmen",
   "whenAnAlarmIsTriggeredBySentry": "Wanneer een alarm wordt geactiveerd door Sentry",
-  "whenMovementIsDetectedBySentry": "Wanneer beweging wordt gedetecteerd door Sentry"
+  "whenMovementIsDetectedBySentry": "Wanneer beweging wordt gedetecteerd door Sentry",
+  "sentryMovementAtTime": "Sentry heeft op {time} beweging gedetecteerd.",
+  "sentryAlarmAtTime": "Sentry heeft op {time} een alarm geactiveerd."
 }

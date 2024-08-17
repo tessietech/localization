@@ -2250,5 +2250,7 @@
   "climateSafety": "Klimasikkerhet",
   "alarms": "Varsler",
   "whenAnAlarmIsTriggeredBySentry": "Når Sentry utløser en alarm",
-  "whenMovementIsDetectedBySentry": "Når Sentry oppdager bevegelse"
+  "whenMovementIsDetectedBySentry": "Når Sentry oppdager bevegelse",
+  "sentryMovementAtTime": "Sentry oppdaget bevegelse klokken {time}.",
+  "sentryAlarmAtTime": "Sentry utløste en alarm klokken {time}."
 }

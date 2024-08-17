@@ -2250,5 +2250,7 @@
   "climateSafety": "Klímabíztosság",
   "alarms": "Riasztások",
   "whenAnAlarmIsTriggeredBySentry": "Amikor a Sentry riasztást észlel",
-  "whenMovementIsDetectedBySentry": "Amikor a Sentry mozgást észlel"
+  "whenMovementIsDetectedBySentry": "Amikor a Sentry mozgást észlel",
+  "sentryMovementAtTime": "A Sentry mozgást észlelt {time} időpontban.",
+  "sentryAlarmAtTime": "A Sentry riasztást váltott ki {time} időpontban."
 }

@@ -2250,5 +2250,7 @@
   "climateSafety": "氣候安全",
   "alarms": "警報",
   "whenAnAlarmIsTriggeredBySentry": "當哨兵觸發警報時",
-  "whenMovementIsDetectedBySentry": "當哨兵偵測到移動時"
+  "whenMovementIsDetectedBySentry": "當哨兵偵測到移動時",
+  "sentryMovementAtTime": "{time} 偵測到移動。",
+  "sentryAlarmAtTime": "{time} 觸發警報。"
 }

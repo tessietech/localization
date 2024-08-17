@@ -2250,5 +2250,7 @@
   "climateSafety": "기후 안전",
   "alarms": "알람",
   "whenAnAlarmIsTriggeredBySentry": "센트리에서 알람이 트릭될 때",
-  "whenMovementIsDetectedBySentry": "센트리에서 움직임이 감지될 때"
+  "whenMovementIsDetectedBySentry": "센트리에서 움직임이 감지될 때",
+  "sentryMovementAtTime": "{time}에 센트리가 움직임을 감지했습니다.",
+  "sentryAlarmAtTime": "{time}에 센트리가 경보를 발령했습니다."
 }

@@ -2250,5 +2250,7 @@
   "climateSafety": "İklimlendirme Güvenliği",
   "alarms": "Alarmlar",
   "whenAnAlarmIsTriggeredBySentry": "Sentry tarafından bir alarm tetiklendiğinde",
-  "whenMovementIsDetectedBySentry": "Sentry tarafından hareket algılandığında"
+  "whenMovementIsDetectedBySentry": "Sentry tarafından hareket algılandığında",
+  "sentryMovementAtTime": "{time} saatinde Sentry hareketi algıladı.",
+  "sentryAlarmAtTime": "Sentry, {time} saatinde alarm tetikledi."
 }

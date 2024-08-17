@@ -2250,5 +2250,7 @@
   "climateSafety": "Sicurezza climatica",
   "alarms": "Allarmi",
   "whenAnAlarmIsTriggeredBySentry": "Quando la modalità Sentry rileva un allarme",
-  "whenMovementIsDetectedBySentry": "Quando la modalità Sentry rileva un movimento"
+  "whenMovementIsDetectedBySentry": "Quando la modalità Sentry rileva un movimento",
+  "sentryMovementAtTime": "Sentry ha rilevato un movimento alle {time}.",
+  "sentryAlarmAtTime": "Sentry ha attivato un allarme alle {time}."
 }

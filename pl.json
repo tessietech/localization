@@ -2250,5 +2250,7 @@
   "climateSafety": "Bezpieczeństwo klimatyczne",
   "alarms": "Alarmy",
   "whenAnAlarmIsTriggeredBySentry": "Gdy alarm zostanie wyzwolony przez Sentry",
-  "whenMovementIsDetectedBySentry": "Gdy Sentry wykryje ruch"
+  "whenMovementIsDetectedBySentry": "Gdy Sentry wykryje ruch",
+  "sentryMovementAtTime": "Czujnik ruchu Sentry wykrył ruch o godzinie {time}.",
+  "sentryAlarmAtTime": "Czujnik Sentry uruchomił alarm o godzinie {time}."
 }
