@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "Amikor a Sentry riasztást észlel",
   "whenMovementIsDetectedBySentry": "Amikor a Sentry mozgást észlel",
   "sentryMovementAtTime": "A Sentry mozgást észlelt {time} időpontban.",
-  "sentryAlarmAtTime": "A Sentry riasztást váltott ki {time} időpontban."
+  "sentryAlarmAtTime": "A Sentry riasztást váltott ki {time} időpontban.",
+  "directTelemetryRequired": "Közvetlen telemetria szükséges",
+  "enableDirectTelemetryToActivateThisFeature": "A funkció aktiválásához engedélyezze a közvetlen telemetriát"
 }

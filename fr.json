@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "Lorsqu'une alarme est déclenchée par Sentinelle",
   "whenMovementIsDetectedBySentry": "Lorsqu'un mouvement est détecté par Sentinelle",
   "sentryMovementAtTime": "Sentry a détecté un mouvement à {time}.",
-  "sentryAlarmAtTime": "Sentry a déclenché une alarme à {time}."
+  "sentryAlarmAtTime": "Sentry a déclenché une alarme à {time}.",
+  "directTelemetryRequired": "Télémétrie directe requise",
+  "enableDirectTelemetryToActivateThisFeature": "Activez la télémétrie directe pour activer cette fonctionnalité"
 }

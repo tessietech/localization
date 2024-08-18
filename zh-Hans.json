@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "当哨兵模式触发警报时",
   "whenMovementIsDetectedBySentry": "当哨兵模式检测到移动时",
   "sentryMovementAtTime": "哨兵在 {time} 检测到移动。",
-  "sentryAlarmAtTime": "哨兵在 {time} 触发了警报。"
+  "sentryAlarmAtTime": "哨兵在 {time} 触发了警报。",
+  "directTelemetryRequired": "需要直接遥测",
+  "enableDirectTelemetryToActivateThisFeature": "启用直接遥测以激活此功能"
 }

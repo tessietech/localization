@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "Gdy alarm zostanie wyzwolony przez Sentry",
   "whenMovementIsDetectedBySentry": "Gdy Sentry wykryje ruch",
   "sentryMovementAtTime": "Czujnik ruchu Sentry wykrył ruch o godzinie {time}.",
-  "sentryAlarmAtTime": "Czujnik Sentry uruchomił alarm o godzinie {time}."
+  "sentryAlarmAtTime": "Czujnik Sentry uruchomił alarm o godzinie {time}.",
+  "directTelemetryRequired": "Wymagana telemetria bezpośrednia",
+  "enableDirectTelemetryToActivateThisFeature": "Włącz telemetrię bezpośrednią, aby aktywować tę funkcję"
 }

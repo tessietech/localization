@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "Quando la modalità Sentry rileva un allarme",
   "whenMovementIsDetectedBySentry": "Quando la modalità Sentry rileva un movimento",
   "sentryMovementAtTime": "Sentry ha rilevato un movimento alle {time}.",
-  "sentryAlarmAtTime": "Sentry ha attivato un allarme alle {time}."
+  "sentryAlarmAtTime": "Sentry ha attivato un allarme alle {time}.",
+  "directTelemetryRequired": "Telemetria diretta richiesta",
+  "enableDirectTelemetryToActivateThisFeature": "Abilita la telemetria diretta per attivare questa funzionalità"
 }

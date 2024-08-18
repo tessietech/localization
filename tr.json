@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "Sentry tarafından bir alarm tetiklendiğinde",
   "whenMovementIsDetectedBySentry": "Sentry tarafından hareket algılandığında",
   "sentryMovementAtTime": "{time} saatinde Sentry hareketi algıladı.",
-  "sentryAlarmAtTime": "Sentry, {time} saatinde alarm tetikledi."
+  "sentryAlarmAtTime": "Sentry, {time} saatinde alarm tetikledi.",
+  "directTelemetryRequired": "Doğrudan Telemetri gerekiyor",
+  "enableDirectTelemetryToActivateThisFeature": "Bu özelliği etkinleştirmek için Doğrudan Telemetri'yi etkinleştirin"
 }

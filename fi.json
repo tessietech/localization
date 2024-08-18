@@ -2252,5 +2252,7 @@
   "whenAnAlarmIsTriggeredBySentry": "Kun Sentry laukaisee hälytyksen",
   "whenMovementIsDetectedBySentry": "Kun Sentry havaitsee liikettä",
   "sentryMovementAtTime": "Sentry havaitsi liikettä klo {time}.",
-  "sentryAlarmAtTime": "Sentry laukaisi hälytyksen klo {time}."
+  "sentryAlarmAtTime": "Sentry laukaisi hälytyksen klo {time}.",
+  "directTelemetryRequired": "Suora telemetria tarvitaan",
+  "enableDirectTelemetryToActivateThisFeature": "Ota käyttöön suora telemetria tämän ominaisuuden aktivoimiseksi"
 }
