@@ -2236,7 +2236,7 @@
   "sentryEvents": "Evenimente Sentry",
   "aboutSentryEvents": "Despre evenimentele Sentry",
   "allSecurityEventsDetectedByYourVehicle": "Toate evenimentele de securitate detectate de vehiculul dumneavoastră.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla não suporta agendamento por meio de aplicações de terceiros no firmware 2024.26+. Por favor, utilize a aplicação Tesla ou o ecrã tátil do veículo.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla nu mai acceptă programarea prin aplicații terțe începând cu versiunea de firmware 2024.26. Folosiți aplicația Tesla sau ecranul tactil al vehiculului.",
   "alarm": "Alarmă",
   "movement": "Mișcare",
   "openInGoogleMaps": "Abrir no Google Maps",
