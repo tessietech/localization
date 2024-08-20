@@ -2254,5 +2254,7 @@
   "sentryMovementAtTime": "{time}: Sentry registrerede bevægelse.",
   "sentryAlarmAtTime": "{time}: Sentry aktiverede en alarm.",
   "directTelemetryRequired": "Direkte telemetri kræves",
-  "enableDirectTelemetryToActivateThisFeature": "Aktivér direkte telemetri for at aktivere denne funktion"
+  "enableDirectTelemetryToActivateThisFeature": "Aktivér direkte telemetri for at aktivere denne funktion",
+  "app": "App",
+  "openTheApp": "Åbn appen"
 }

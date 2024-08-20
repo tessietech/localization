@@ -2254,5 +2254,7 @@
   "sentryMovementAtTime": "Sentry havaitsi liikettä klo {time}.",
   "sentryAlarmAtTime": "Sentry laukaisi hälytyksen klo {time}.",
   "directTelemetryRequired": "Suora telemetria tarvitaan",
-  "enableDirectTelemetryToActivateThisFeature": "Ota käyttöön suora telemetria tämän ominaisuuden aktivoimiseksi"
+  "enableDirectTelemetryToActivateThisFeature": "Ota käyttöön suora telemetria tämän ominaisuuden aktivoimiseksi",
+  "app": "Sovellus",
+  "openTheApp": "Avaa sovellus"
 }

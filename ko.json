@@ -2254,5 +2254,7 @@
   "sentryMovementAtTime": "{time}에 센트리가 움직임을 감지했습니다.",
   "sentryAlarmAtTime": "{time}에 센트리가 경보를 발령했습니다.",
   "directTelemetryRequired": "직접 원격 측정 필요",
-  "enableDirectTelemetryToActivateThisFeature": "이 기능을 활성화하려면 직접 원격 측정을 사용하세요."
+  "enableDirectTelemetryToActivateThisFeature": "이 기능을 활성화하려면 직접 원격 측정을 사용하세요.",
+  "app": "앱",
+  "openTheApp": "앱을 여세요"
 }

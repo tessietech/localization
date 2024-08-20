@@ -2254,5 +2254,7 @@
   "sentryMovementAtTime": "Sentry detetou movimento às {time}.",
   "sentryAlarmAtTime": "Sentry acionou um alarme às {time}.",
   "directTelemetryRequired": "Telemetria direta necessária",
-  "enableDirectTelemetryToActivateThisFeature": "Ative a Telemetria direta para ativar esta funcionalidade"
+  "enableDirectTelemetryToActivateThisFeature": "Ative a Telemetria direta para ativar esta funcionalidade",
+  "app": "Aplicação",
+  "openTheApp": "Abrir a aplicação"
 }

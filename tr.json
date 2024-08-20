@@ -2254,5 +2254,7 @@
   "sentryMovementAtTime": "{time} saatinde Sentry hareketi algıladı.",
   "sentryAlarmAtTime": "Sentry, {time} saatinde alarm tetikledi.",
   "directTelemetryRequired": "Doğrudan Telemetri gerekiyor",
-  "enableDirectTelemetryToActivateThisFeature": "Bu özelliği etkinleştirmek için Doğrudan Telemetri'yi etkinleştirin"
+  "enableDirectTelemetryToActivateThisFeature": "Bu özelliği etkinleştirmek için Doğrudan Telemetri'yi etkinleştirin",
+  "app": "Uygulama",
+  "openTheApp": "Uygulamayı aç"
 }
