@@ -2236,7 +2236,7 @@
   "sentryEvents": "Sentry-hændelser",
   "aboutSentryEvents": "Om Sentry-hændelser",
   "allSecurityEventsDetectedByYourVehicle": "Alle sikkerhedshændelser registreret af dit køretøj.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla understøtter ikke planlægning via tredjepartsapps i 2024.26+ firmware. Brug venligst Tesla-appen eller køretøjets berøringsskærm.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla understøtter i øjeblikket ikke planlægning via tredjepartsapps i firmware 2024.26+. Brug Tesla-appen eller bilens touchskærm, indtil der føjes support.",
   "alarm": "Alarm",
   "movement": "Bevægelse",
   "openInGoogleMaps": "Åbn i Google Maps",

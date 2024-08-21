@@ -2236,7 +2236,7 @@
   "sentryEvents": "Sentry-tapahtumat",
   "aboutSentryEvents": "Tietoja Sentry-tapahtumista",
   "allSecurityEventsDetectedByYourVehicle": "Kaikki ajoneuvosi tunnistamat turvallisuustapahtumat.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ei tue aikataulutusta kolmansien osapuolten sovelluksilla laiteohjelmistoversiossa 2024.26 tai uudemmassa. Käytä Teslan sovellusta tai ajoneuvon kosketusnäyttöä.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ei tue tällä hetkellä aikatauluttamista kolmannen osapuolen sovellusten kautta 2024.26+:n laiteohjelmistossa. Käytä Teslan sovellusta tai auton kosketusnäyttöä, kunnes tuki lisätään.",
   "alarm": "Hälytys",
   "movement": "Liike",
   "openInGoogleMaps": "Abrir no Google Maps",

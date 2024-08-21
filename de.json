@@ -2236,7 +2236,7 @@
   "sentryEvents": "Sentry-Ereignisse",
   "aboutSentryEvents": "Über Sentry-Ereignisse",
   "allSecurityEventsDetectedByYourVehicle": "Alle von deinem Fahrzeug erkannten Sicherheitsereignisse.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla unterstützt die Zeitplan-Funktion über Drittanbieter-Apps in Firmware 2024.26+ nicht. Bitte verwende die Tesla-App oder den Touchscreen des Fahrzeugs.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla unterstützt die Planung über Drittanbieter-Apps in Firmware 2024.26+ derzeit nicht. Bitte verwenden Sie die Tesla-App oder den Touchscreen des Fahrzeugs, bis die Unterstützung hinzugefügt wird.",
   "alarm": "Alarm",
   "movement": "Bewegung",
   "openInGoogleMaps": "In Google Maps öffnen",

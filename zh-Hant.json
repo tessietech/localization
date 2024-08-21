@@ -2236,7 +2236,7 @@
   "sentryEvents": "Sentry 事件",
   "aboutSentryEvents": "關於 Sentry 事件",
   "allSecurityEventsDetectedByYourVehicle": "您的車輛偵測到的所有安全事件。",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla 車輛從 2024.26+ 韌體版本開始，不支援透過第三方應用程式進行行程安排。請使用 Tesla 應用程式或車輛觸控螢幕。",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla 目前不支援 2024.26+ 韌體版本透過協力廠商應用程式進行排程。在新增支援之前，請使用 Tesla 應用程式或車輛觸控螢幕。",
   "alarm": "警報",
   "movement": "移動",
   "openInGoogleMaps": "在 Google 地圖中開啟",

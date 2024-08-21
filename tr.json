@@ -2236,7 +2236,7 @@
   "sentryEvents": "Sentry Olayları",
   "aboutSentryEvents": "Sentry Olayları Hakkında",
   "allSecurityEventsDetectedByYourVehicle": "Aracınız tarafından algılanan tüm güvenlik olayları.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla, 2024.26 ve üzeri yazılımlarda üçüncü taraf uygulamalar aracılığıyla planlamayı desteklemiyor. Lütfen Tesla uygulamasını veya aracın dokunmatik ekranını kullanın.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla, 2024.26 ve üzeri yazılımlarda üçüncü taraf uygulamaları aracılığıyla planlama yapmayı şu anda desteklememektedir. Destek eklenene kadar lütfen Tesla uygulamasını veya aracın dokunmatik ekranını kullanın.",
   "alarm": "Alarm",
   "movement": "Hareket",
   "openInGoogleMaps": "Abrir no Google Maps",

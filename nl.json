@@ -2236,7 +2236,7 @@
   "sentryEvents": "Sentry-gebeurtenissen",
   "aboutSentryEvents": "Informatie over Sentry-gebeurtenissen",
   "allSecurityEventsDetectedByYourVehicle": "Alle beveiligingsgebeurtenissen die door uw voertuig zijn gedetecteerd.",
-  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ondersteunt het plannen van oplaadtijden via apps van derden niet in firmware 2024.26 of hoger. Gebruik de Tesla-app of het touchscreen van de auto.",
+  "teslaDoesntSupportSchedulingViaThirdPartyAppsIn202426": "Tesla ondersteunt momenteel geen planning via apps van derden in firmware 2024.26 of hoger. Gebruik de Tesla-app of het touchscreen van de auto totdat er ondersteuning is toegevoegd.",
   "alarm": "Alarm",
   "movement": "Beweging",
   "openInGoogleMaps": "Abrir no Google Maps",
