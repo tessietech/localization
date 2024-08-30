@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "需要直接遥测",
   "enableDirectTelemetryToActivateThisFeature": "启用直接遥测以激活此功能",
   "app": "应用",
-  "openTheApp": "打开应用"
+  "openTheApp": "打开应用",
+  "chargeAtLocation": "在{location}充电",
+  "driveToLocation": "驾驶至{location}",
+  "idleAtLocation": "在{location}闲置"
 }

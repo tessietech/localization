@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Doğrudan Telemetri gerekiyor",
   "enableDirectTelemetryToActivateThisFeature": "Bu özelliği etkinleştirmek için Doğrudan Telemetri'yi etkinleştirin",
   "app": "Uygulama",
-  "openTheApp": "Uygulamayı aç"
+  "openTheApp": "Uygulamayı aç",
+  "chargeAtLocation": "{location} konumunda şarj et",
+  "driveToLocation": "{location} konumuna git",
+  "idleAtLocation": "{location} konumunda beklemede"
 }

@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Telemetrie directă necesară",
   "enableDirectTelemetryToActivateThisFeature": "Activați telemetria directă pentru a activa această funcție",
   "app": "Aplicație",
-  "openTheApp": "Deschideți aplicația"
+  "openTheApp": "Deschideți aplicația",
+  "chargeAtLocation": "Încarcă la {location}",
+  "driveToLocation": "Conduceți până la {location}",
+  "idleAtLocation": "Staționare la {location}"
 }

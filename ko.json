@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "직접 원격 측정 필요",
   "enableDirectTelemetryToActivateThisFeature": "이 기능을 활성화하려면 직접 원격 측정을 사용하세요.",
   "app": "앱",
-  "openTheApp": "앱을 여세요"
+  "openTheApp": "앱을 여세요",
+  "chargeAtLocation": "{location}에서 충전",
+  "driveToLocation": "{location}(으)로 운전",
+  "idleAtLocation": "{location}에서 대기"
 }

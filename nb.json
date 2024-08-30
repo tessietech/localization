@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Direkte telemetri kreves",
   "enableDirectTelemetryToActivateThisFeature": "Aktiver direkte telemetri for å aktivere denne funksjonen",
   "app": "App",
-  "openTheApp": "Åpne appen"
+  "openTheApp": "Åpne appen",
+  "chargeAtLocation": "Lad på {location}",
+  "driveToLocation": "Kjør til {location}",
+  "idleAtLocation": "Står parkert på {location}"
 }

@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Közvetlen telemetria szükséges",
   "enableDirectTelemetryToActivateThisFeature": "A funkció aktiválásához engedélyezze a közvetlen telemetriát",
   "app": "Alkalmazás",
-  "openTheApp": "Nyissa meg az alkalmazást"
+  "openTheApp": "Nyissa meg az alkalmazást",
+  "chargeAtLocation": "{location} helyen tölt",
+  "driveToLocation": "{location} helyre vezetés",
+  "idleAtLocation": "{location} helyen várakozás"
 }

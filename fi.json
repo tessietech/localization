@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Suora telemetria tarvitaan",
   "enableDirectTelemetryToActivateThisFeature": "Ota käyttöön suora telemetria tämän ominaisuuden aktivoimiseksi",
   "app": "Sovellus",
-  "openTheApp": "Avaa sovellus"
+  "openTheApp": "Avaa sovellus",
+  "chargeAtLocation": "Lataa sijainnissa {location}",
+  "driveToLocation": "Aja sijaintiin {location}",
+  "idleAtLocation": "Odota sijainnissa {location}"
 }
