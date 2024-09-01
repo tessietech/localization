@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Directe telemetrie vereist",
   "enableDirectTelemetryToActivateThisFeature": "Schakel directe telemetrie in om deze functie te activeren",
   "app": "App",
-  "openTheApp": "Open de app"
+  "openTheApp": "Open de app",
+  "chargeAtLocation": "Opladen op {location}",
+  "driveToLocation": "Rijden naar {location}",
+  "idleAtLocation": "Inactief op {location}"
 }

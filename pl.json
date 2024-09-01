@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Wymagana telemetria bezpośrednia",
   "enableDirectTelemetryToActivateThisFeature": "Włącz telemetrię bezpośrednią, aby aktywować tę funkcję",
   "app": "Aplikacja",
-  "openTheApp": "Otwórz aplikację"
+  "openTheApp": "Otwórz aplikację",
+  "chargeAtLocation": "Ładuj w lokalizacji {location}",
+  "driveToLocation": "Jedź do lokalizacji {location}",
+  "idleAtLocation": "Postój w lokalizacji {location}"
 }

@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "Direct Telemetry required",
   "enableDirectTelemetryToActivateThisFeature": "Enable Direct Telemetry to activate this feature",
   "app": "App",
-  "openTheApp": "Open the app"
+  "openTheApp": "Open the app",
+  "chargeAtLocation": "Charge at {location}",
+  "driveToLocation": "Drive to {location}",
+  "idleAtLocation": "Idle at {location}"
 }

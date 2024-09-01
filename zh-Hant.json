@@ -2256,5 +2256,8 @@
   "directTelemetryRequired": "需要直接遙測",
   "enableDirectTelemetryToActivateThisFeature": "啟用直接遙測以啟動此功能",
   "app": "應用程式",
-  "openTheApp": "開啟應用程式"
+  "openTheApp": "開啟應用程式",
+  "chargeAtLocation": "{location} 充電",
+  "driveToLocation": "行駛到 {location}",
+  "idleAtLocation": "在 {location} 閒置"
 }
