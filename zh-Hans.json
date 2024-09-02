@@ -2265,5 +2265,13 @@
   "startAtTime": "{time} 开始",
   "startAt": "开始时间",
   "endBy": "结束时间",
-  "endByTime": "{time} 结束"
+  "endByTime": "{time} 结束",
+  "connectYourTeslaToHomekitViaHomebridge": "通过 Homebridge 将您的特斯拉连接到 HomeKit",
+  "learnMoreAboutHomeAssistant": "了解更多关于 Home Assistant 的信息",
+  "learnMoreAboutHomebridge": "了解更多关于 Homebridge 的信息",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "将您的特斯拉和特斯拉能源产品连接到 Home Assistant",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "公开特斯拉能源产品的控件和传感器，用于控制和自动化",
+  "controlYourTeslaAsAHomekitDevice": "将您的特斯拉作为 HomeKit 设备进行控制",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "在 Homebridge 用户界面中搜索“homebridge-tessie”插件以安装和配置",
+  "visitManualInstallationPage": "访问手动安装页面"
 }

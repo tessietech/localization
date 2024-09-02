@@ -2265,5 +2265,13 @@
   "startAtTime": "Începeți la {time}",
   "startAt": "Începeți la",
   "endBy": "Finalizează până la",
-  "endByTime": "Finalizează până la {time}"
+  "endByTime": "Finalizează până la {time}",
+  "connectYourTeslaToHomekitViaHomebridge": "Conectează-ți Tesla la HomeKit prin Homebridge",
+  "learnMoreAboutHomeAssistant": "Aflați mai multe despre Home Assistant",
+  "learnMoreAboutHomebridge": "Aflați mai multe despre Homebridge",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "Conectați-vă Tesla și produsele energetice Tesla la Home Assistant",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Expune controale și senzori din produsele dvs. energetice Tesla pentru control și automatizare",
+  "controlYourTeslaAsAHomekitDevice": "Controlați-vă Tesla ca pe un dispozitiv HomeKit",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Căutați pluginul „homebridge-tessie” în interfața Homebridge pentru a-l instala și configura",
+  "visitManualInstallationPage": "Vizitați pagina de instalare manuală"
 }

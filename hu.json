@@ -2265,5 +2265,13 @@
   "startAtTime": "{time}-kor indul",
   "startAt": "Kezdés ideje",
   "endBy": "Befejezés ideje",
-  "endByTime": "{time}-ig"
+  "endByTime": "{time}-ig",
+  "connectYourTeslaToHomekitViaHomebridge": "Csatlakoztassa Tesla autóját a HomeKithez a Homebridge segítségével",
+  "learnMoreAboutHomeAssistant": "További információ a Home Assistantről",
+  "learnMoreAboutHomebridge": "További információ a Homebridge-ről",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "Csatlakoztassa Tesla autóját és Tesla energiatermékeit a Home Assistanthoz",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Hozzáférésvezérlőket és érzékelőket tesz elérhetővé a Tesla energiatermékeiből vezérlés és automatizálás céljából",
+  "controlYourTeslaAsAHomekitDevice": "Vezérelje Tesla autóját HomeKit eszközként",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Keresse meg a „homebridge-tessie” beépülőt a Homebridge felhasználói felületén a telepítéshez és konfiguráláshoz",
+  "visitManualInstallationPage": "Látogasson el a kézi telepítési oldalra"
 }

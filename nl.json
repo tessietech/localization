@@ -2265,5 +2265,13 @@
   "startAtTime": "Begin om {time}",
   "startAt": "Begintijd",
   "endBy": "Eindtijd",
-  "endByTime": "Eindigt om {time}"
+  "endByTime": "Eindigt om {time}",
+  "connectYourTeslaToHomekitViaHomebridge": "Verbind je Tesla met HomeKit via Homebridge",
+  "learnMoreAboutHomeAssistant": "Meer informatie over Home Assistant",
+  "learnMoreAboutHomebridge": "Meer informatie over Homebridge",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "Verbind je Tesla en Tesla-energieproducten met Home Assistant",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Biedt besturingselementen en sensoren van je Tesla-energieproducten voor bediening en automatisering",
+  "controlYourTeslaAsAHomekitDevice": "Bedien je Tesla als een HomeKit-apparaat",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Zoek naar de \"homebridge-tessie\"-plug-in in de Homebridge UI om deze te installeren en te configureren",
+  "visitManualInstallationPage": "Ga naar de pagina voor handmatige installatie"
 }

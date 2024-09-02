@@ -2265,5 +2265,13 @@
   "startAtTime": "Empezar a las {time}",
   "startAt": "Hora de inicio",
   "endBy": "Hora de finalización",
-  "endByTime": "Finalizar a las {time}"
+  "endByTime": "Finalizar a las {time}",
+  "connectYourTeslaToHomekitViaHomebridge": "Conecta tu Tesla a HomeKit mediante Homebridge",
+  "learnMoreAboutHomeAssistant": "Más información sobre Home Assistant",
+  "learnMoreAboutHomebridge": "Más información sobre Homebridge",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "Conecta tu Tesla y tus productos de energía Tesla a Home Assistant",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Expone los controles y sensores de tus productos de energía Tesla para su control y automatización",
+  "controlYourTeslaAsAHomekitDevice": "Controla tu Tesla como un dispositivo HomeKit",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Busca el complemento \"homebridge-tessie\" en la interfaz de usuario de Homebridge para instalarlo y configurarlo",
+  "visitManualInstallationPage": "Visita la página de instalación manual"
 }

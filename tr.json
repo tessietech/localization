@@ -2265,5 +2265,13 @@
   "startAtTime": "{time} tarihinde başlat",
   "startAt": "Başlangıç",
   "endBy": "Bitiş",
-  "endByTime": "{time} tarihine kadar"
+  "endByTime": "{time} tarihine kadar",
+  "connectYourTeslaToHomekitViaHomebridge": "Tesla'nızı Homebridge aracılığıyla HomeKit'e bağlayın",
+  "learnMoreAboutHomeAssistant": "Home Assistant hakkında daha fazla bilgi edinin",
+  "learnMoreAboutHomebridge": "Homebridge hakkında daha fazla bilgi edinin",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "Tesla ve Tesla enerji ürünlerinizi Home Assistant'a bağlayın",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Tesla enerji ürünlerinizdeki kontrolleri ve sensörleri kontrol ve otomasyon için kullanıma sunar",
+  "controlYourTeslaAsAHomekitDevice": "Tesla'nızı bir HomeKit cihazı olarak kontrol edin",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Yüklemek ve yapılandırmak için Homebridge kullanıcı arayüzünde \"homebridge-tessie\" eklentisini arayın",
+  "visitManualInstallationPage": "Manuel kurulum sayfasını ziyaret edin"
 }

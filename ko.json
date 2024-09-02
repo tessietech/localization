@@ -2265,5 +2265,13 @@
   "startAtTime": "{time}에 시작",
   "startAt": "시작 시간",
   "endBy": "종료 시간",
-  "endByTime": "{time}에 종료"
+  "endByTime": "{time}에 종료",
+  "connectYourTeslaToHomekitViaHomebridge": "Homebridge를 통해 Tesla를 HomeKit에 연결하세요.",
+  "learnMoreAboutHomeAssistant": "Home Assistant에 대해 자세히 알아보세요.",
+  "learnMoreAboutHomebridge": "Homebridge에 대해 자세히 알아보세요.",
+  "connectYourTeslaAndTeslaEnergyProductsToHomeAssistant": "Tesla 및 Tesla 에너지 제품을 Home Assistant에 연결하세요.",
+  "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "제어 및 자동화를 위해 Tesla 에너지 제품의 제어 장치와 센서를 노출합니다.",
+  "controlYourTeslaAsAHomekitDevice": "Tesla를 HomeKit 기기로 제어하세요.",
+  "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Homebridge UI에서 \"homebridge-tessie\" 플러그인을 검색하여 설치하고 구성하세요.",
+  "visitManualInstallationPage": "수동 설치 페이지를 방문하세요."
 }
