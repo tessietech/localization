@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Avaa Teslan energiapalveluiden säätimiä ja sensoreita ohjausta ja automaatiota varten",
   "controlYourTeslaAsAHomekitDevice": "Ohjaa Teslaasi HomeKit-laitteena",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Etsi \"homebridge-tessie\"-lisäosa Homebridgen käyttöliittymästä asentaaksesi ja määrittääksesi sen",
-  "visitManualInstallationPage": "Siirry manuaalisen asennuksen sivulle"
+  "visitManualInstallationPage": "Siirry manuaalisen asennuksen sivulle",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Tämä komento ei toimi tällä hetkellä Tesla-kolmannen osapuolen API:ssa ajoneuvosi mallin ja vuoden osalta. Tesla työskentelee korjauksen parissa. Yritä myöhemmin uudelleen."
 }

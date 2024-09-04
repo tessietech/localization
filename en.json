@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Exposes controls and sensors from your Tesla energy products for control and automation",
   "controlYourTeslaAsAHomekitDevice": "Control your Tesla as a HomeKit device",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Search for the \"homebridge-tessie\" plugin in Homebridge UI to install and configure it",
-  "visitManualInstallationPage": "Visit manual installation page"
+  "visitManualInstallationPage": "Visit manual installation page",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "This command is currently broken on the Tesla third party API for your vehicle's model and year. Tesla is working on a fix. Please try again later."
 }

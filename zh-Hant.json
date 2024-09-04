@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "公開 Tesla 能源產品的控制項和感應器，以進行控制和自動化",
   "controlYourTeslaAsAHomekitDevice": "將您的 Tesla 作為 HomeKit 裝置進行控制",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "在 Homebridge UI 中搜尋「homebridge-tessie」外掛程式以進行安裝和設定",
-  "visitManualInstallationPage": "前往手動安裝頁面"
+  "visitManualInstallationPage": "前往手動安裝頁面",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "此指令目前在您車輛型號和年份的 Tesla 第三方 API 上已損壞。 Tesla 正在努力修復中。請稍後再試。"
 }

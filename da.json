@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Viser kontroller og sensorer fra dine Tesla-energiprodukter til styring og automatisering",
   "controlYourTeslaAsAHomekitDevice": "Styr din Tesla som en HomeKit-enhed",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Søg efter \"homebridge-tessie\"-plugin'et i Homebridge UI for at installere og konfigurere det",
-  "visitManualInstallationPage": "Besøg siden med manuel installation"
+  "visitManualInstallationPage": "Besøg siden med manuel installation",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Denne kommando virker i øjeblikket ikke i Teslas tredjeparts-API for din bils model og årgang. Tesla arbejder på en løsning. Prøv igen senere."
 }

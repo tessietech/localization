@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Tesla enerji ürünlerinizdeki kontrolleri ve sensörleri kontrol ve otomasyon için kullanıma sunar",
   "controlYourTeslaAsAHomekitDevice": "Tesla'nızı bir HomeKit cihazı olarak kontrol edin",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Yüklemek ve yapılandırmak için Homebridge kullanıcı arayüzünde \"homebridge-tessie\" eklentisini arayın",
-  "visitManualInstallationPage": "Manuel kurulum sayfasını ziyaret edin"
+  "visitManualInstallationPage": "Manuel kurulum sayfasını ziyaret edin",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Bu komut, aracınızın modeli ve yılı için Tesla üçüncü taraf API'sinde şu anda bozuk. Tesla bir düzeltme üzerinde çalışıyor. Lütfen daha sonra tekrar deneyin."
 }

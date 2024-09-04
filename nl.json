@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Biedt besturingselementen en sensoren van je Tesla-energieproducten voor bediening en automatisering",
   "controlYourTeslaAsAHomekitDevice": "Bedien je Tesla als een HomeKit-apparaat",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Zoek naar de \"homebridge-tessie\"-plug-in in de Homebridge UI om deze te installeren en te configureren",
-  "visitManualInstallationPage": "Ga naar de pagina voor handmatige installatie"
+  "visitManualInstallationPage": "Ga naar de pagina voor handmatige installatie",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Deze opdracht is momenteel defect in de externe API van Tesla voor het model en bouwjaar van uw auto. Tesla werkt aan een oplossing. Probeer het later opnieuw."
 }

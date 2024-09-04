@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "제어 및 자동화를 위해 Tesla 에너지 제품의 제어 장치와 센서를 노출합니다.",
   "controlYourTeslaAsAHomekitDevice": "Tesla를 HomeKit 기기로 제어하세요.",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Homebridge UI에서 \"homebridge-tessie\" 플러그인을 검색하여 설치하고 구성하세요.",
-  "visitManualInstallationPage": "수동 설치 페이지를 방문하세요."
+  "visitManualInstallationPage": "수동 설치 페이지를 방문하세요.",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "이 명령은 현재 해당 차량의 모델 및 연식에 대한 Tesla 타사 API에서 작동하지 않습니다. Tesla에서 수정 중입니다. 나중에 다시 시도하세요."
 }

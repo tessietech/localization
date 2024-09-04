@@ -2273,5 +2273,6 @@
   "exposesControlsAndSensorsFromYourTeslaEnergyProductsFor": "Expune controale și senzori din produsele dvs. energetice Tesla pentru control și automatizare",
   "controlYourTeslaAsAHomekitDevice": "Controlați-vă Tesla ca pe un dispozitiv HomeKit",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Căutați pluginul „homebridge-tessie” în interfața Homebridge pentru a-l instala și configura",
-  "visitManualInstallationPage": "Vizitați pagina de instalare manuală"
+  "visitManualInstallationPage": "Vizitați pagina de instalare manuală",
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Această comandă este momentan nefuncțională în API-ul terț Tesla pentru modelul și anul mașinii tale. Tesla lucrează la o remediere. Te rugăm să încerci din nou mai târziu."
 }
