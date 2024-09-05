@@ -2274,5 +2274,6 @@
   "controlYourTeslaAsAHomekitDevice": "将您的特斯拉作为 HomeKit 设备进行控制",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "在 Homebridge 用户界面中搜索“homebridge-tessie”插件以安装和配置",
   "visitManualInstallationPage": "访问手动安装页面",
-  "commandBrokenForVehicleOnTeslaThirdPartyApi": "此指令目前在您的车辆型号和年份的特斯拉第三方 API 上已损坏。特斯拉正在努力修复。请稍后再试。"
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "此指令目前在您的车辆型号和年份的特斯拉第三方 API 上已损坏。特斯拉正在努力修复。请稍后再试。",
+  "youCanCreateAChargingScheduleToRestrictChargingTo": "您可以创建充电时间表，将充电限制在非高峰时段。"
 }

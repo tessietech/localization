@@ -2274,5 +2274,6 @@
   "controlYourTeslaAsAHomekitDevice": "Styr Teslaen din som en HomeKit-enhet",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Søk etter «homebridge-tessie»-pluginet i Homebridge-brukergrensesnittet for å installere og konfigurere det",
   "visitManualInstallationPage": "Gå til siden for manuell installasjon",
-  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Denne kommandoen fungerer ikke for øyeblikket på Teslas tredjeparts-API for bilmodellens årgang. Tesla jobber med en løsning. Prøv igjen senere."
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Denne kommandoen fungerer ikke for øyeblikket på Teslas tredjeparts-API for bilmodellens årgang. Tesla jobber med en løsning. Prøv igjen senere.",
+  "youCanCreateAChargingScheduleToRestrictChargingTo": "Du kan opprette en ladetidsplan for å begrense lading til tider med lav belastning."
 }

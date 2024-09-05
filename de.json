@@ -2274,5 +2274,6 @@
   "controlYourTeslaAsAHomekitDevice": "Steuern Sie Ihren Tesla wie ein HomeKit-Gerät",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Suchen Sie in der Homebridge-Benutzeroberfläche nach dem Plugin \"homebridge-tessie\", um es zu installieren und zu konfigurieren",
   "visitManualInstallationPage": "Manuelle Installationsseite besuchen",
-  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Dieser Befehl funktioniert derzeit über die Tesla Drittanbieter-API für das Modell und Baujahr Ihres Fahrzeugs nicht. Tesla arbeitet an einer Lösung. Bitte versuchen Sie es später erneut."
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Dieser Befehl funktioniert derzeit über die Tesla Drittanbieter-API für das Modell und Baujahr Ihres Fahrzeugs nicht. Tesla arbeitet an einer Lösung. Bitte versuchen Sie es später erneut.",
+  "youCanCreateAChargingScheduleToRestrictChargingTo": "Sie können einen Ladezeitplan erstellen, um das Laden auf Zeiten außerhalb der Stoßzeiten zu beschränken."
 }

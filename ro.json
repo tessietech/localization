@@ -2274,5 +2274,6 @@
   "controlYourTeslaAsAHomekitDevice": "Controlați-vă Tesla ca pe un dispozitiv HomeKit",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Căutați pluginul „homebridge-tessie” în interfața Homebridge pentru a-l instala și configura",
   "visitManualInstallationPage": "Vizitați pagina de instalare manuală",
-  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Această comandă este momentan nefuncțională în API-ul terț Tesla pentru modelul și anul mașinii tale. Tesla lucrează la o remediere. Te rugăm să încerci din nou mai târziu."
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Această comandă este momentan nefuncțională în API-ul terț Tesla pentru modelul și anul mașinii tale. Tesla lucrează la o remediere. Te rugăm să încerci din nou mai târziu.",
+  "youCanCreateAChargingScheduleToRestrictChargingTo": "Puteți crea un program de încărcare pentru a restricționa încărcarea la orele de vârf."
 }

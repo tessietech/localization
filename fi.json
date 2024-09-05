@@ -2274,5 +2274,6 @@
   "controlYourTeslaAsAHomekitDevice": "Ohjaa Teslaasi HomeKit-laitteena",
   "searchForTheHomebridgetessiePluginInHomebridgeUiToInstall": "Etsi \"homebridge-tessie\"-lisäosa Homebridgen käyttöliittymästä asentaaksesi ja määrittääksesi sen",
   "visitManualInstallationPage": "Siirry manuaalisen asennuksen sivulle",
-  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Tämä komento ei toimi tällä hetkellä Tesla-kolmannen osapuolen API:ssa ajoneuvosi mallin ja vuoden osalta. Tesla työskentelee korjauksen parissa. Yritä myöhemmin uudelleen."
+  "commandBrokenForVehicleOnTeslaThirdPartyApi": "Tämä komento ei toimi tällä hetkellä Tesla-kolmannen osapuolen API:ssa ajoneuvosi mallin ja vuoden osalta. Tesla työskentelee korjauksen parissa. Yritä myöhemmin uudelleen.",
+  "youCanCreateAChargingScheduleToRestrictChargingTo": "Voit luoda latausaikataulun, joka rajoittaa lataamisen ruuhka-ajan ulkopuolelle."
 }
