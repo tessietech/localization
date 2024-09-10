@@ -2280,7 +2280,6 @@
   "pro": "Pro",
   "chooseYourPlan": "Kies uw abonnement",
   "includesTeslaFees": "Inclusief Tesla-kosten",
-  "pricesInUsd": "Prijzen in USD",
   "freeDaysdayTrial": "{days} dagen gratis proberen",
   "priceMonth": "{price} / maand",
   "priceYear": "{price} / jaar",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "Sentry-, weer- en onderhoudswaarschuwingen",
   "upgradeToPro": "Upgraden naar Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Bekijk een kaart en tijdlijn van alle beveiligingsgebeurtenissen die door uw auto zijn gedetecteerd",
-  "currentPlan": "Huidig abonnement"
+  "currentPlan": "Huidig abonnement",
+  "pricesInCurrency": "Prijzen in {currencyCode}"
 }

@@ -2280,7 +2280,6 @@
   "pro": "Pro",
   "chooseYourPlan": "Alegeți abonamentul",
   "includesTeslaFees": "Include taxele Tesla",
-  "pricesInUsd": "Prețuri în USD",
   "freeDaysdayTrial": "Încercare gratuită timp de {days} zile",
   "priceMonth": "{price} / lună",
   "priceYear": "{price} / an",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "Alerte Sentry, meteo și de întreținere",
   "upgradeToPro": "Faceți upgrade la Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Vizualizați o hartă și o cronologie a tuturor evenimentelor de securitate detectate de vehiculul dvs.",
-  "currentPlan": "Abonament curent"
+  "currentPlan": "Abonament curent",
+  "pricesInCurrency": "Prețuri în {currencyCode}"
 }

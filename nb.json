@@ -2280,7 +2280,6 @@
   "pro": "Pro",
   "chooseYourPlan": "Velg abonnement",
   "includesTeslaFees": "Inkluderer Tesla-avgifter",
-  "pricesInUsd": "Priser i USD",
   "freeDaysdayTrial": "Gratis prøveperiode på {days} dager",
   "priceMonth": "{price} / måned",
   "priceYear": "{price} / år",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "Sentry-, vær- og vedlikeholdsvarsler",
   "upgradeToPro": "Oppgrader til Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Se et kart og en tidslinje for alle sikkerhetshendelser som er oppdaget av kjøretøyet ditt",
-  "currentPlan": "Gjeldende abonnement"
+  "currentPlan": "Gjeldende abonnement",
+  "pricesInCurrency": "Priser i {currencyCode}"
 }

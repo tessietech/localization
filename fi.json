@@ -2280,7 +2280,6 @@
   "pro": "Pro",
   "chooseYourPlan": "Valitse sopivin paketti",
   "includesTeslaFees": "Sisältää Teslan maksut",
-  "pricesInUsd": "Hinnat USD",
   "freeDaysdayTrial": "{days} päivän ilmainen kokeilu",
   "priceMonth": "{price} / kk",
   "priceYear": "{price} / vuosi",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "Sentry-, sää- ja huoltoilmoitukset",
   "upgradeToPro": "Päivitä Pro-versioon",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Näytä kartta ja aikajana kaikista ajoneuvosi havaitsemista tietoturvatapahtumista",
-  "currentPlan": "Nykyinen paketti"
+  "currentPlan": "Nykyinen paketti",
+  "pricesInCurrency": "Hinnat valuutassa {currencyCode}"
 }

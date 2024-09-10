@@ -2280,7 +2280,6 @@
   "pro": "专业版",
   "chooseYourPlan": "选择您的套餐",
   "includesTeslaFees": "包含特斯拉费用",
-  "pricesInUsd": "价格单位为美元",
   "freeDaysdayTrial": "{days} 天免费试用",
   "priceMonth": "{price} / 月",
   "priceYear": "{price} / 年",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "哨兵模式、天气和维护提醒",
   "upgradeToPro": "升级到专业版",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "查看地图和时间线，了解车辆检测到的所有安全事件",
-  "currentPlan": "当前套餐"
+  "currentPlan": "当前套餐",
+  "pricesInCurrency": "{currencyCode} 的价格"
 }

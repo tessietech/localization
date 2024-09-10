@@ -2280,7 +2280,6 @@
   "pro": "Pro",
   "chooseYourPlan": "Escolha o seu plano",
   "includesTeslaFees": "Inclui taxas da Tesla",
-  "pricesInUsd": "Preços em USD",
   "freeDaysdayTrial": "Teste gratuito de {days} dias",
   "priceMonth": "{price} / mês",
   "priceYear": "{price} / ano",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "Alertas Sentry, meteorológicos e de manutenção",
   "upgradeToPro": "Atualizar para Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Veja um mapa e uma linha temporal de todos os eventos de segurança detetados pelo seu veículo",
-  "currentPlan": "Plano atual"
+  "currentPlan": "Plano atual",
+  "pricesInCurrency": "Preços em {currencyCode}"
 }

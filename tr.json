@@ -2280,7 +2280,6 @@
   "pro": "Pro",
   "chooseYourPlan": "Planınızı Seçin",
   "includesTeslaFees": "Tesla ücretlerini içerir",
-  "pricesInUsd": "Fiyatlar USD cinsindendir",
   "freeDaysdayTrial": "{days} Günlük Ücretsiz Deneme",
   "priceMonth": "Aylık {price}",
   "priceYear": "Yıllık {price}",
@@ -2296,5 +2295,6 @@
   "sentryWeatherMaintenanceAlerts": "Sentry, Hava Durumu ve Bakım Uyarıları",
   "upgradeToPro": "Pro'ya Yükselt",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Aracınız tarafından algılanan tüm güvenlik olaylarının haritasını ve zaman çizelgesini görüntüleyin",
-  "currentPlan": "Mevcut Plan"
+  "currentPlan": "Mevcut Plan",
+  "pricesInCurrency": "{currencyCode} para birimindeki fiyatlar"
 }
