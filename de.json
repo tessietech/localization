@@ -1984,7 +1984,7 @@
   "sources": "Quellen",
   "versionVersion": "Version {version}",
   "requireConfirmationForSensitiveActions": "Bestätigung für kritische Aktionen erforderlich",
-  "visitTessieComKeyToEnableControls": "Besuche tessie.com/de/key, um die Steuerung freizuschalten.",
+  "visitTessieComKeyToEnableControls": "Besuche tessie.com/key, um die Steuerung freizuschalten.",
   "commandForbidden": "Befehl verboten",
   "commandNotFound": "Befehl nicht gefunden",
   "unauthorized": "Nicht autorisiert",
