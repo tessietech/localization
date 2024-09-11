@@ -2296,5 +2296,6 @@
   "upgradeToPro": "Päivitä Pro-versioon",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Näytä kartta ja aikajana kaikista ajoneuvosi havaitsemista tietoturvatapahtumista",
   "currentPlan": "Nykyinen paketti",
-  "pricesInCurrency": "Hinnat valuutassa {currencyCode}"
+  "pricesInCurrency": "Hinnat valuutassa {currencyCode}",
+  "vehiclesAreCompatible": "Ajoneuvot ovat yhteensopivia"
 }

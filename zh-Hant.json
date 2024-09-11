@@ -2296,5 +2296,6 @@
   "upgradeToPro": "升級至專業版",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "查看地圖和時間軸，了解您的車輛偵測到的所有安全事件",
   "currentPlan": "目前方案",
-  "pricesInCurrency": "{currencyCode} 的價格"
+  "pricesInCurrency": "{currencyCode} 的價格",
+  "vehiclesAreCompatible": "車輛相容"
 }

@@ -2296,5 +2296,6 @@
   "upgradeToPro": "Pro'ya Yükselt",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Aracınız tarafından algılanan tüm güvenlik olaylarının haritasını ve zaman çizelgesini görüntüleyin",
   "currentPlan": "Mevcut Plan",
-  "pricesInCurrency": "{currencyCode} para birimindeki fiyatlar"
+  "pricesInCurrency": "{currencyCode} para birimindeki fiyatlar",
+  "vehiclesAreCompatible": "Araçlar uyumlu"
 }

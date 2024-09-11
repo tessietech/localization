@@ -2296,5 +2296,6 @@
   "upgradeToPro": "Oppgrader til Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Se et kart og en tidslinje for alle sikkerhetshendelser som er oppdaget av kjøretøyet ditt",
   "currentPlan": "Gjeldende abonnement",
-  "pricesInCurrency": "Priser i {currencyCode}"
+  "pricesInCurrency": "Priser i {currencyCode}",
+  "vehiclesAreCompatible": "Kjøretøyene er kompatible"
 }

@@ -2296,5 +2296,6 @@
   "upgradeToPro": "Upgrade to Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "View a map and timeline of all security events detected by your vehicle",
   "currentPlan": "Current Plan",
-  "pricesInCurrency": "Prices in {currencyCode}"
+  "pricesInCurrency": "Prices in {currencyCode}",
+  "vehiclesAreCompatible": "Vehicles are compatible"
 }

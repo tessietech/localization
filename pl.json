@@ -2296,5 +2296,6 @@
   "upgradeToPro": "Uaktualnij do wersji Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Wyświetl mapę i oś czasu wszystkich zdarzeń bezpieczeństwa wykrytych przez pojazd",
   "currentPlan": "Bieżący plan",
-  "pricesInCurrency": "Ceny w {currencyCode}"
+  "pricesInCurrency": "Ceny w {currencyCode}",
+  "vehiclesAreCompatible": "Pojazdy są kompatybilne"
 }

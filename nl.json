@@ -2296,5 +2296,6 @@
   "upgradeToPro": "Upgraden naar Pro",
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Bekijk een kaart en tijdlijn van alle beveiligingsgebeurtenissen die door uw auto zijn gedetecteerd",
   "currentPlan": "Huidig abonnement",
-  "pricesInCurrency": "Prijzen in {currencyCode}"
+  "pricesInCurrency": "Prijzen in {currencyCode}",
+  "vehiclesAreCompatible": "Voertuigen zijn compatibel"
 }
