@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Aracınız tarafından algılanan tüm güvenlik olaylarının haritasını ve zaman çizelgesini görüntüleyin",
   "currentPlan": "Mevcut Plan",
   "pricesInCurrency": "{currencyCode} para birimindeki fiyatlar",
-  "vehiclesAreCompatible": "Araçlar uyumlu"
+  "vehiclesAreCompatible": "Araçlar uyumlu",
+  "vehicleIsCompatible": "Araç uyumlu"
 }

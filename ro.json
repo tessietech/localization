@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Vizualizați o hartă și o cronologie a tuturor evenimentelor de securitate detectate de vehiculul dvs.",
   "currentPlan": "Abonament curent",
   "pricesInCurrency": "Prețuri în {currencyCode}",
-  "vehiclesAreCompatible": "Vehiculele sunt compatibile"
+  "vehiclesAreCompatible": "Vehiculele sunt compatibile",
+  "vehicleIsCompatible": "Vehiculul este compatibil"
 }

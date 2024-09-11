@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Veja um mapa e uma linha temporal de todos os eventos de segurança detetados pelo seu veículo",
   "currentPlan": "Plano atual",
   "pricesInCurrency": "Preços em {currencyCode}",
-  "vehiclesAreCompatible": "Os veículos são compatíveis"
+  "vehiclesAreCompatible": "Os veículos são compatíveis",
+  "vehicleIsCompatible": "O veículo é compatível"
 }

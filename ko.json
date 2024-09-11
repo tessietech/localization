@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "차량에서 감지된 모든 보안 이벤트의 지도 및 타임라인 보기",
   "currentPlan": "현재 플랜",
   "pricesInCurrency": "{currencyCode} 통화로 표시된 가격",
-  "vehiclesAreCompatible": "차량이 호환됩니다"
+  "vehiclesAreCompatible": "호환 가능 차량",
+  "vehicleIsCompatible": "호환 가능 차량"
 }

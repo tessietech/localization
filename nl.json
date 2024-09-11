@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Bekijk een kaart en tijdlijn van alle beveiligingsgebeurtenissen die door uw auto zijn gedetecteerd",
   "currentPlan": "Huidig abonnement",
   "pricesInCurrency": "Prijzen in {currencyCode}",
-  "vehiclesAreCompatible": "Voertuigen zijn compatibel"
+  "vehiclesAreCompatible": "Voertuigen zijn compatibel",
+  "vehicleIsCompatible": "Voertuig is compatibel"
 }

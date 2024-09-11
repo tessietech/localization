@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "查看地圖和時間軸，了解您的車輛偵測到的所有安全事件",
   "currentPlan": "目前方案",
   "pricesInCurrency": "{currencyCode} 的價格",
-  "vehiclesAreCompatible": "車輛相容"
+  "vehiclesAreCompatible": "車輛相容",
+  "vehicleIsCompatible": "車輛相容"
 }

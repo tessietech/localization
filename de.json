@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Eine Karte und einen zeitlichen Ablauf aller von deinem Fahrzeug erkannten Sicherheitsereignisse anzeigen",
   "currentPlan": "Aktueller Tarif",
   "pricesInCurrency": "Preise in {currencyCode}",
-  "vehiclesAreCompatible": "Fahrzeuge sind kompatibel"
+  "vehiclesAreCompatible": "Fahrzeuge sind kompatibel",
+  "vehicleIsCompatible": "Fahrzeug ist kompatibel"
 }

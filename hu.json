@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Tekintsd meg az autó által észlelt összes biztonsági esemény térképét és idővonalát",
   "currentPlan": "Jelenlegi csomag",
   "pricesInCurrency": "{currencyCode} -ban kifejezett árak",
-  "vehiclesAreCompatible": "A járművek kompatibilisek"
+  "vehiclesAreCompatible": "A járművek kompatibilisek",
+  "vehicleIsCompatible": "A jármű kompatibilis"
 }

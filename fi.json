@@ -2297,5 +2297,6 @@
   "viewAMapAndTimelineOfAllSecurityEventsDetected": "Näytä kartta ja aikajana kaikista ajoneuvosi havaitsemista tietoturvatapahtumista",
   "currentPlan": "Nykyinen paketti",
   "pricesInCurrency": "Hinnat valuutassa {currencyCode}",
-  "vehiclesAreCompatible": "Ajoneuvot ovat yhteensopivia"
+  "vehiclesAreCompatible": "Ajoneuvot ovat yhteensopivia",
+  "vehicleIsCompatible": "Ajoneuvo on yhteensopiva"
 }
