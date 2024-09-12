@@ -2298,5 +2298,6 @@
   "currentPlan": "Plan actual",
   "pricesInCurrency": "Precios en {currencyCode}",
   "vehiclesAreCompatible": "Los vehículos son compatibles",
-  "vehicleIsCompatible": "El vehículo es compatible"
+  "vehicleIsCompatible": "El vehículo es compatible",
+  "updateYourSubscriptionToManageAdditionalVehicles": "Actualiza tu suscripción para administrar vehículos adicionales."
 }

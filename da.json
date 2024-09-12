@@ -2298,5 +2298,6 @@
   "currentPlan": "Nuværende abonnement",
   "pricesInCurrency": "Priser i {currencyCode}",
   "vehiclesAreCompatible": "Kompatible køretøjer",
-  "vehicleIsCompatible": "Kompatibelt køretøj"
+  "vehicleIsCompatible": "Kompatibelt køretøj",
+  "updateYourSubscriptionToManageAdditionalVehicles": "Opgrader dit abonnement for at administrere flere køretøjer."
 }

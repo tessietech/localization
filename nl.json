@@ -2298,5 +2298,6 @@
   "currentPlan": "Huidig abonnement",
   "pricesInCurrency": "Prijzen in {currencyCode}",
   "vehiclesAreCompatible": "Voertuigen zijn compatibel",
-  "vehicleIsCompatible": "Voertuig is compatibel"
+  "vehicleIsCompatible": "Voertuig is compatibel",
+  "updateYourSubscriptionToManageAdditionalVehicles": "Werk uw abonnement bij om extra voertuigen te beheren."
 }
