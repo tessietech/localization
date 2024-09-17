@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Az Apple Watch napi néhány alkalommal korlátozza az automatikus feloldást, amikor az alkalmazás be van zárva. Nyissa meg az alkalmazást a korlát visszaállításához és az automatikus feloldáshoz.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Az automatikus feloldás és a Távozáskori zárás az alkalmazás bezárásakor Series 6 és watchOS 9 vagy újabb verziót igényel.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Az Apple Watch szigorúan korlátozza a Bluetooth-kapcsolatok számát. A legjobb élmény érdekében azt javasoljuk, hogy párosítsa az órakulcsot egyetlen járművel.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Az óra szigorúan korlátozza a Bluetooth-kapcsolatok számát. A legjobb élmény érdekében javasoljuk, hogy a Watch Key alkalmazást csak egy járművel párosítsa.",
   "overview": "Áttekintés",
   "yourTeslaAtAGlance": "A Teslád egy pillantásra.",
   "rate": "Ráta",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "{currencyCode} -ban kifejezett árak",
   "vehiclesAreCompatible": "A járművek kompatibilisek",
   "vehicleIsCompatible": "A jármű kompatibilis",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Frissítse előfizetését további járművek kezeléséhez."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Frissítse előfizetését további járművek kezeléséhez.",
+  "firmwareAlertsTracking": "Firmware-értesítések nyomon követése",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Az órája szigorúan korlátozza a Bluetooth-kapcsolatok számát.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "A legjobb élmény érdekében javasoljuk, hogy a Watch Key-t csak egy járműhöz párosítsa.",
+  "softwareUpdateTracking": "Szoftverfrissítés-követés",
+  "pricePerVehiclePerMonth": "{price}/jármű/hónap",
+  "pricePerVehiclePerYear": "{price}/jármű/év",
+  "pricePerVehicle": "{price}/jármű"
 }

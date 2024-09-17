@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch beperkt Auto Unlock wanneer de app is gesloten tot een paar keer per dag. Open de app om de limiet te resetten en Auto Unlock te gebruiken.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Auto Unlock en Walk Away Lock als de app gesloten is, vereisen Serie 6 en watchOS 9 of nieuwer.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch beperkt het aantal Bluetooth-verbindingen strikt. Voor de beste ervaring raden we aan om Watch Key te koppelen met slechts één voertuig.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Uw horloge beperkt het aantal Bluetooth-verbindingen strikt. Voor de beste ervaring raden we aan om Watch Key met slechts één voertuig te koppelen.",
   "overview": "Overzicht",
   "yourTeslaAtAGlance": "Uw Tesla in één oogopslag.",
   "rate": "Tarief",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Prijzen in {currencyCode}",
   "vehiclesAreCompatible": "Voertuigen zijn compatibel",
   "vehicleIsCompatible": "Voertuig is compatibel",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Werk uw abonnement bij om extra voertuigen te beheren."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Werk uw abonnement bij om extra voertuigen te beheren.",
+  "firmwareAlertsTracking": "Firmwarewaarschuwingen volgen",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Je horloge beperkt het aantal Bluetooth-verbindingen sterk.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Voor de beste ervaring raden we aan Watch Key te koppelen met slechts één voertuig.",
+  "softwareUpdateTracking": "Software-update volgen",
+  "pricePerVehiclePerMonth": "{price} per voertuig / maand",
+  "pricePerVehiclePerYear": "{price} per voertuig / jaar",
+  "pricePerVehicle": "{price} per voertuig"
 }

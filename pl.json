@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch ogranicza automatyczne odblokowywanie, gdy aplikacja jest zamknięta, do kilku razy dziennie. Otwórz aplikację, aby zresetować limit i automatycznie ją odblokować.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Automatyczne odblokowywanie i blokowanie przy oddaleniu się, gdy aplikacja jest zamknięta, wymaga zegarka Series 6 i systemu watchOS 9 lub nowszego.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch ściśle ogranicza liczbę połączeń Bluetooth. Aby uzyskać najlepsze rezultaty, zalecamy sparowanie klucza zegarka Watch tylko z jednym pojazdem.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Twoja aplikacja ściśle ogranicza liczbę połączeń Bluetooth. Aby zapewnić najlepszą jakość działania, polecamy sparować klucz zegarka tylko z jednym pojazdem.",
   "overview": "Przegląd",
   "yourTeslaAtAGlance": "Twój samochód w skrócie.",
   "rate": "Oceń",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Ceny w {currencyCode}",
   "vehiclesAreCompatible": "Samochody są ze sobą kompatybilne",
   "vehicleIsCompatible": "Samochód jest kompatybilny",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Zaktualizuj subskrypcję, aby móc zarządzać większą liczbą pojazdów."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Zaktualizuj subskrypcję, aby móc zarządzać większą liczbą pojazdów.",
+  "firmwareAlertsTracking": "Śledzenie alertów oprogramowania układowego",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Twój zegarek ściśle ogranicza liczbę połączeń Bluetooth.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Aby zapewnić najlepszą jakość korzystania, zalecamy sparowanie klucza zegarka tylko z jednym pojazdem.",
+  "softwareUpdateTracking": "Śledzenie aktualizacji oprogramowania",
+  "pricePerVehiclePerMonth": "{price} za pojazd / miesiąc",
+  "pricePerVehiclePerYear": "{price} za pojazd / rok",
+  "pricePerVehicle": "{price} za pojazd"
 }

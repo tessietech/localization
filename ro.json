@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch limitează deblocarea automată când aplicația este închisă de câteva ori pe zi. Deschideți aplicația pentru a reseta limita și a debloca automat.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Deblocarea automată și blocarea la plecare când aplicația este închisă necesită Series 6 și watchOS 9 sau o versiune ulterioară.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch limitează strict numărul de conexiuni Bluetooth. Pentru cea mai bună experiență, vă recomandăm să asociați Watch Key cu un singur vehicul.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Ceasul dumneavoastră limitează strict numărul de conexiuni Bluetooth. Pentru cea mai bună experiență, vă recomandăm să asociați Watch Key cu un singur vehicul.",
   "overview": "Prezentare generală",
   "yourTeslaAtAGlance": "Tesla dumneavoastră în linii mari.",
   "rate": "Evaluați",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Prețuri în {currencyCode}",
   "vehiclesAreCompatible": "Vehiculele sunt compatibile",
   "vehicleIsCompatible": "Vehiculul este compatibil",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Actualizează-ți abonamentul pentru a gestiona vehicule suplimentare."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Actualizează-ți abonamentul pentru a gestiona vehicule suplimentare.",
+  "firmwareAlertsTracking": "Urmărire alerte firmware",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Ceasul limitează strict numărul de conexiuni Bluetooth.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Pentru o experiență optimă, îți recomandăm să asociezi Watch Key cu un singur vehicul.",
+  "softwareUpdateTracking": "Urmărire actualizare software",
+  "pricePerVehiclePerMonth": "{price} / vehicul / lună",
+  "pricePerVehiclePerYear": "{price} / vehicul / an",
+  "pricePerVehicle": "{price} / vehicul"
 }

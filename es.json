@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch limita el desbloqueo automático cuando la aplicación está cerrada a unas pocas veces por día. Abre la aplicación para restablecer el límite y desbloquear automáticamente.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "El desbloqueo automático y el bloqueo de alejamiento cuando la aplicación está cerrada requieren la Serie 6 y watchOS 9 o más reciente.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch limita estrictamente el número de conexiones Bluetooth. Para una mejor experiencia, recomendamos emparejar Watch Key con un solo vehículo.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Su reloj limita estrictamente el número de conexiones Bluetooth. Para obtener la mejor experiencia, le recomendamos emparejar la clave del reloj con un solo vehículo",
   "overview": "Información general",
   "yourTeslaAtAGlance": "Tu Tesla de un vistazo.",
   "rate": "Valorar",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Precios en {currencyCode}",
   "vehiclesAreCompatible": "Los vehículos son compatibles",
   "vehicleIsCompatible": "El vehículo es compatible",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Actualiza tu suscripción para administrar vehículos adicionales."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Actualiza tu suscripción para administrar vehículos adicionales.",
+  "firmwareAlertsTracking": "Seguimiento de alertas de firmware",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Tu reloj limita estrictamente el número de conexiones Bluetooth.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Para una mejor experiencia, te recomendamos que emparejes la llave del reloj con un solo vehículo.",
+  "softwareUpdateTracking": "Seguimiento de actualizaciones de software",
+  "pricePerVehiclePerMonth": "{price} por vehículo / mes",
+  "pricePerVehiclePerYear": "{price} por vehículo / año",
+  "pricePerVehicle": "{price} por vehículo"
 }

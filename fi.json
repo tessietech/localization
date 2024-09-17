@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch rajoittaa automaattisen lukituksen avaamisen muutamaan kertaan päivässä, kun sovellus on suljettu. Avaa sovellus nollataksesi rajoituksen ja avataksesi lukituksen automaattisesti.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Automaattinen lukituksen avaaminen ja Walk Away -lukitus, kun sovellus on suljettu, edellyttää Series 6 -kelloa ja watchOS 9:ää tai uudempaa.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch rajoittaa tiukasti Bluetooth-yhteyksien määrää. Parhaan käyttökokemuksen takaamiseksi suosittelemme, että yhdistät Watch Keyn vain yhteen ajoneuvoon.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Kellosi rajoittaa tiukasti Bluetooth-yhteyksien määrää. Parhaan käyttökokemuksen takaamiseksi suosittelemme, että yhdistät Watch Keyn vain yhteen ajoneuvoon.",
   "overview": "Yleiskatsaus",
   "yourTeslaAtAGlance": "Teslasi yhdellä silmäyksellä.",
   "rate": "Hinta",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Hinnat valuutassa {currencyCode}",
   "vehiclesAreCompatible": "Ajoneuvot ovat yhteensopivia",
   "vehicleIsCompatible": "Ajoneuvo on yhteensopiva",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Hallitaksesi useampia ajoneuvoja, päivitä tilaustasi."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Hallitaksesi useampia ajoneuvoja, päivitä tilaustasi.",
+  "firmwareAlertsTracking": "Laiteohjelmistohälytysten seuranta",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Kellosi rajoittaa tiukasti Bluetooth-yhteyksien määrää.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Suosittelemme pariliittämään Watch Keyn vain yhteen ajoneuvoon parhaan käyttökokemuksen takaamiseksi.",
+  "softwareUpdateTracking": "Ohjelmistopäivitysten seuranta",
+  "pricePerVehiclePerMonth": "{price} per ajoneuvo / kuukausi",
+  "pricePerVehiclePerYear": "{price} per ajoneuvo / vuosi",
+  "pricePerVehicle": "{price} per ajoneuvo"
 }

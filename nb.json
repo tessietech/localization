@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch begrenser automatisk opplåsing når appen er lukket til noen få ganger per dag. Åpne appen for å tilbakestille grensen og automatisk opplåsing.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Automatisk opplåsing og automatisk låsing når appen er lukket, krever serie 6 og watchOS 9 eller nyere.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch begrenser strengt antall Bluetooth-tilkoblinger. For best mulig opplevelse anbefaler vi at du parer Watch Key med bare ett kjøretøy.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Klokken din begrenser antall Bluetooth-tilkoblinger strengt. For optimal opplevelse anbefaler vi å pare Watch Key med bare ett kjøretøy.",
   "overview": "Oversikt",
   "yourTeslaAtAGlance": "Din Tesla i korthet.",
   "rate": "Vurder",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Priser i {currencyCode}",
   "vehiclesAreCompatible": "Kjøretøyene er kompatible",
   "vehicleIsCompatible": "Kjøretøyet er kompatibelt",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Oppgrader abonnementet ditt for å administrere flere kjøretøy."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Oppgrader abonnementet ditt for å administrere flere kjøretøy.",
+  "firmwareAlertsTracking": "Overvåking av fastvarevarsler",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Klokken din begrenser antallet Bluetooth-tilkoblinger.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Vi anbefaler at du kobler klokke-nøkkelen til bare ett kjøretøy for å få en best mulig opplevelse.",
+  "softwareUpdateTracking": "Sporing av programvareoppdatering",
+  "pricePerVehiclePerMonth": "{price} per kjøretøy / måned",
+  "pricePerVehiclePerYear": "{price} per kjøretøy / år",
+  "pricePerVehicle": "{price} per kjøretøy"
 }

@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "當應用程式關閉時，Apple Watch 每天只會自動解鎖幾次。開啟應用程式以重設限制並自動解鎖。",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "應用程式關閉時的自動解鎖和離開時上鎖功能需要 Series 6 和 watchOS 9 或更新版本。",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch 嚴格限制藍牙連線的數量。為了獲得最佳體驗，我們建議您僅將 Watch Key 與一輛車輛配對。",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "您的手錶嚴格限制藍牙連線的數量。為了獲得最佳體驗，我們建議您僅將 Watch Key 與一輛車輛配對。",
   "overview": "概覽",
   "yourTeslaAtAGlance": "您的 Tesla 概覽。",
   "rate": "評分",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "{currencyCode} 的價格",
   "vehiclesAreCompatible": "車輛相容",
   "vehicleIsCompatible": "車輛相容",
-  "updateYourSubscriptionToManageAdditionalVehicles": "更新您的訂閱以管理更多車輛。"
+  "updateYourSubscriptionToManageAdditionalVehicles": "更新您的訂閱以管理更多車輛。",
+  "firmwareAlertsTracking": "韌體警報追蹤",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "您的手錶嚴格限制了藍牙連線的數量。",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "為了獲得最佳體驗，建議您僅將手錶鑰匙與一輛車配對。",
+  "softwareUpdateTracking": "軟體更新追蹤",
+  "pricePerVehiclePerMonth": "每輛車每月 {price}",
+  "pricePerVehiclePerYear": "每輛車每年 {price}",
+  "pricePerVehicle": "每輛車 {price}"
 }

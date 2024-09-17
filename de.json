@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Die Apple Watch begrenzt das automatische Entriegeln, wenn die App geschlossen ist, auf wenige Male pro Tag. Öffne die App, um das Limit zurückzusetzen und automatisch zu entriegeln.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Automatisches Entriegeln und automatisches Verriegeln beim Weggehen, wenn die App geschlossen ist, erfordert eine Apple Watch Series 6 mit watchOS 9 oder neuer.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Die Apple Watch begrenzt die Anzahl der Bluetooth-Verbindungen strikt. Für die beste Benutzererfahrung empfehlen wir, den Watch Key nur mit einem Fahrzeug zu koppeln.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Deine Watch begrenzt die Anzahl von Bluetooth-Verbindungen strikt. Um bestmögliche Ergebnisse zu erzielen, empfehlen wir, Watch Key nur mit einem Fahrzeug zu koppeln.",
   "overview": "Übersicht",
   "yourTeslaAtAGlance": "Dein Tesla auf einen Blick.",
   "rate": "Bewertungen",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Preise in {currencyCode}",
   "vehiclesAreCompatible": "Fahrzeuge sind kompatibel",
   "vehicleIsCompatible": "Fahrzeug ist kompatibel",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Aktualisieren Sie Ihr Abonnement, um zusätzliche Fahrzeuge zu verwalten."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Aktualisieren Sie Ihr Abonnement, um zusätzliche Fahrzeuge zu verwalten.",
+  "firmwareAlertsTracking": "Firmware-Benachrichtigungen",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Deine Uhr limitiert die Anzahl der Bluetooth-Verbindungen.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Für das beste Erlebnis empfehlen wir dir, den Autoschlüssel mit nur einem Fahrzeug zu koppeln.",
+  "softwareUpdateTracking": "Software-Update-Verfolgung",
+  "pricePerVehiclePerMonth": "{price} pro Fahrzeug / Monat",
+  "pricePerVehiclePerYear": "{price} pro Fahrzeug / Jahr",
+  "pricePerVehicle": "{price} pro Fahrzeug"
 }

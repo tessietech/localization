@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "L'Apple Watch limite le déverrouillage automatique lorsque l'application est fermée à quelques fois par jour. Ouvrez l'application pour réinitialiser la limite et le déverrouillage automatique.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Les options Déverrouillage automatique et Verrouillage absence lorsque l'application est fermée nécessitent la série 6 et watchOS 9 ou une version ultérieure.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "L'Apple Watch limite strictement le nombre de connexions Bluetooth. Pour une expérience optimale, nous vous recommandons d'appairer Watch Key avec un seul véhicule.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Votre montre limite strictement le nombre de connexions Bluetooth. Pour une expérience optimale, nous vous recommandons de coupler Watch Key avec un seul véhicule.",
   "overview": "Aperçu",
   "yourTeslaAtAGlance": "Votre Tesla en un clin d'œil.",
   "rate": "Taux",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Prix en {currencyCode}",
   "vehiclesAreCompatible": "Les véhicules sont compatibles",
   "vehicleIsCompatible": "Le véhicule est compatible",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Mettez à jour votre abonnement pour gérer des véhicules supplémentaires."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Mettez à jour votre abonnement pour gérer des véhicules supplémentaires.",
+  "firmwareAlertsTracking": "Suivi des alertes de micrologiciel",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Votre montre limite strictement le nombre de connexions Bluetooth.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "Pour une expérience optimale, nous vous recommandons de n'appairer Watch Key qu'avec un seul véhicule.",
+  "softwareUpdateTracking": "Suivi des mises à jour logicielles",
+  "pricePerVehiclePerMonth": "{price} par véhicule / mois",
+  "pricePerVehiclePerYear": "{price} par véhicule / an",
+  "pricePerVehicle": "{price} par véhicule"
 }

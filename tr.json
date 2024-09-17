@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch, uygulama kapalıyken Oto Kilidi Aç'ı günde birkaç kezle sınırlar. Sınırı sıfırlamak ve oto kilidi açmak için uygulamayı açın.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Uygulama kapalıyken Otomatik Kilidi Aç ve Git ve Gel Kilidi, Seri 6 ve watchOS 9 veya daha yenisi gerektirir.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch, Bluetooth bağlantı sayısını kesinlikle sınırlar. En iyi deneyim için Watch Key'i yalnızca bir araçla eşlemenizi öneririz.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Saatinız Bluetooth bağlantı sayısını kesinlikle sınırlar. En iyi deneyim için, Watch Key'i yalnızca bir araçla eşleştirmenizi öneririz.",
   "overview": "Genel Bakış",
   "yourTeslaAtAGlance": "Tesla'nız bir bakışta.",
   "rate": "Puan ver",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "{currencyCode} para birimindeki fiyatlar",
   "vehiclesAreCompatible": "Araçlar uyumlu",
   "vehicleIsCompatible": "Araç uyumlu",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Daha fazla araç yönetmek için aboneliğinizi güncelleyin."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Daha fazla araç yönetmek için aboneliğinizi güncelleyin.",
+  "firmwareAlertsTracking": "Ürün Yazılımı Uyarıları Takibi",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Saatiniz, Bluetooth bağlantı sayısını sıkı bir şekilde sınırlandırmaktadır.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "En iyi deneyim için Watch Key'i yalnızca bir araçla eşleştirmenizi öneririz.",
+  "softwareUpdateTracking": "Yazılım Güncellemesi Takibi",
+  "pricePerVehiclePerMonth": "Araç başına/aylık {price}",
+  "pricePerVehiclePerYear": "Araç başına/yıllık {price}",
+  "pricePerVehicle": "Araç başına {price}"
 }

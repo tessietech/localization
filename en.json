@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch limits Auto Unlock when the app is closed to a few times per day. Open the app to reset the limit and auto unlock.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "Auto Unlock and Walk Away Lock when the app is closed requires Series 6 and watchOS 9 or newer.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch strictly limits the number of Bluetooth connections. For the best experience, we recommend pairing Watch Key with just one vehicle.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Your watch strictly limits the number of Bluetooth connections. For the best experience, we recommend pairing Watch Key with just one vehicle.",
   "overview": "Overview",
   "yourTeslaAtAGlance": "Your Tesla at a glance.",
   "rate": "Rate",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "Prices in {currencyCode}",
   "vehiclesAreCompatible": "Vehicles are compatible",
   "vehicleIsCompatible": "Vehicle is compatible",
-  "updateYourSubscriptionToManageAdditionalVehicles": "Update your subscription to manage additional vehicles."
+  "updateYourSubscriptionToManageAdditionalVehicles": "Update your subscription to manage additional vehicles.",
+  "firmwareAlertsTracking": "Firmware Alerts Tracking",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Your watch strictly limits the number of Bluetooth connections.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "For the best experience, we recommend pairing Watch Key with just one vehicle.",
+  "softwareUpdateTracking": "Software Update Tracking",
+  "pricePerVehiclePerMonth": "{price} per vehicle / month",
+  "pricePerVehiclePerYear": "{price} per vehicle / year",
+  "pricePerVehicle": "{price} per vehicle"
 }

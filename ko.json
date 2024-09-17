@@ -1796,7 +1796,6 @@
   "appleWatchLimitsAutoUnlock": "Apple Watch는 앱이 닫혀 있는 경우 하루에 몇 번으로 자동 잠금 해제를 제한합니다. 앱을 열어서 제한을 재설정하고 자동 잠금 해제하세요.",
   "autoUnlockAndWalkAWayLockWhenTheAppIsClosedRequires": "앱이 닫힌 경우의 자동 잠금 해제 및 걸어서 잠금 기능은 Series 6과 watchOS 9 이상이 필요.",
   "appleWatchStrictlyLimitsTheNumberOfBluetoothConnections": "Apple Watch는 Bluetooth 연결 수를 엄격히 제한합니다. 최상의 환경을 위해서 Watch Key를 단 한 대의 차량과 페어링하는 것이 좋습니다.",
-  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "귀하의 시계는 블루투스 연결 수를 엄격히 제한합니다. 최상의 환경을 위해 Watch Key를 하나의 차량에만 페어링하는 것이 좋습니다.",
   "overview": "개요",
   "yourTeslaAtAGlance": "귀하의 Tesla를 한 눈에 볼 수 있습니다.",
   "rate": "평가",
@@ -2299,5 +2298,12 @@
   "pricesInCurrency": "{currencyCode} 통화로 표시된 가격",
   "vehiclesAreCompatible": "호환 가능 차량",
   "vehicleIsCompatible": "호환 가능 차량",
-  "updateYourSubscriptionToManageAdditionalVehicles": "추가 차량을 관리하려면 구독을 업데이트하세요."
+  "updateYourSubscriptionToManageAdditionalVehicles": "추가 차량을 관리하려면 구독을 업데이트하세요.",
+  "firmwareAlertsTracking": "펌웨어 알림 추적",
+  "yourWatchStrictlyLimitsTheNumberOfBluetoothConnections": "시계에서 허용하는 Bluetooth 연결 수가 제한적입니다.",
+  "forTheBestExperiencePairWatchKeyOneVehicle": "최상의 환경을 위해 Watch Key를 한 대의 차량에만 페어링하는 것이 좋습니다.",
+  "softwareUpdateTracking": "소프트웨어 업데이트 추적",
+  "pricePerVehiclePerMonth": "차량당 월 {price}",
+  "pricePerVehiclePerYear": "차량당 연 {price}",
+  "pricePerVehicle": "차량당 {price}"
 }
