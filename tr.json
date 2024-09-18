@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Yazılım Güncellemesi Takibi",
   "pricePerVehiclePerMonth": "Araç başına/aylık {price}",
   "pricePerVehiclePerYear": "Araç başına/yıllık {price}",
-  "pricePerVehicle": "Araç başına {price}"
+  "pricePerVehicle": "Araç başına {price}",
+  "trackSoftwareVersionUpdatesOverTime": "Yazılım sürümü güncellemelerini zaman içinde izleyin"
 }

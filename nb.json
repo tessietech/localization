@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Sporing av programvareoppdatering",
   "pricePerVehiclePerMonth": "{price} per kjøretøy / måned",
   "pricePerVehiclePerYear": "{price} per kjøretøy / år",
-  "pricePerVehicle": "{price} per kjøretøy"
+  "pricePerVehicle": "{price} per kjøretøy",
+  "trackSoftwareVersionUpdatesOverTime": "Spor programvareversjonsoppdateringer over tid"
 }

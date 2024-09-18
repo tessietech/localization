@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Software Update Tracking",
   "pricePerVehiclePerMonth": "{price} per vehicle / month",
   "pricePerVehiclePerYear": "{price} per vehicle / year",
-  "pricePerVehicle": "{price} per vehicle"
+  "pricePerVehicle": "{price} per vehicle",
+  "trackSoftwareVersionUpdatesOverTime": "Track software version updates over time"
 }

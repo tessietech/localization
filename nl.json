@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Software-update volgen",
   "pricePerVehiclePerMonth": "{price} per voertuig / maand",
   "pricePerVehiclePerYear": "{price} per voertuig / jaar",
-  "pricePerVehicle": "{price} per voertuig"
+  "pricePerVehicle": "{price} per voertuig",
+  "trackSoftwareVersionUpdatesOverTime": "Software-versie-updates in de loop van de tijd volgen"
 }

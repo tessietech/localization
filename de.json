@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Software-Update-Verfolgung",
   "pricePerVehiclePerMonth": "{price} pro Fahrzeug / Monat",
   "pricePerVehiclePerYear": "{price} pro Fahrzeug / Jahr",
-  "pricePerVehicle": "{price} pro Fahrzeug"
+  "pricePerVehicle": "{price} pro Fahrzeug",
+  "trackSoftwareVersionUpdatesOverTime": "Software-Versionsupdates im Zeitverlauf verfolgen"
 }

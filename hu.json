@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Szoftverfrissítés-követés",
   "pricePerVehiclePerMonth": "{price}/jármű/hónap",
   "pricePerVehiclePerYear": "{price}/jármű/év",
-  "pricePerVehicle": "{price}/jármű"
+  "pricePerVehicle": "{price}/jármű",
+  "trackSoftwareVersionUpdatesOverTime": "Szoftverfrissítések nyomon követése idővel"
 }

@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Urmărire actualizare software",
   "pricePerVehiclePerMonth": "{price} / vehicul / lună",
   "pricePerVehiclePerYear": "{price} / vehicul / an",
-  "pricePerVehicle": "{price} / vehicul"
+  "pricePerVehicle": "{price} / vehicul",
+  "trackSoftwareVersionUpdatesOverTime": "Urmăriți actualizările versiunii de software în timp"
 }

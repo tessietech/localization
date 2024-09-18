@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "소프트웨어 업데이트 추적",
   "pricePerVehiclePerMonth": "차량당 월 {price}",
   "pricePerVehiclePerYear": "차량당 연 {price}",
-  "pricePerVehicle": "차량당 {price}"
+  "pricePerVehicle": "차량당 {price}",
+  "trackSoftwareVersionUpdatesOverTime": "시간에 따라 소프트웨어 버전 업데이트 추적"
 }

@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "Ohjelmistopäivitysten seuranta",
   "pricePerVehiclePerMonth": "{price} per ajoneuvo / kuukausi",
   "pricePerVehiclePerYear": "{price} per ajoneuvo / vuosi",
-  "pricePerVehicle": "{price} per ajoneuvo"
+  "pricePerVehicle": "{price} per ajoneuvo",
+  "trackSoftwareVersionUpdatesOverTime": "Seuraa ohjelmistoversiopäivityksiä ajan mittaan"
 }

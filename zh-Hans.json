@@ -2305,5 +2305,6 @@
   "softwareUpdateTracking": "软件更新跟踪",
   "pricePerVehiclePerMonth": "{price} 每辆车/每月",
   "pricePerVehiclePerYear": "{price} 每辆车/每年",
-  "pricePerVehicle": "{price} 每辆车"
+  "pricePerVehicle": "{price} 每辆车",
+  "trackSoftwareVersionUpdatesOverTime": "跟踪一段时间内的软件版本更新"
 }
