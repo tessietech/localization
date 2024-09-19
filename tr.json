@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "Araç başına/aylık {price}",
   "pricePerVehiclePerYear": "Araç başına/yıllık {price}",
   "pricePerVehicle": "Araç başına {price}",
-  "trackSoftwareVersionUpdatesOverTime": "Yazılım sürümü güncellemelerini zaman içinde izleyin"
+  "trackSoftwareVersionUpdatesOverTime": "Yazılım sürümü güncellemelerini zaman içinde izleyin",
+  "billing": "Faturalandırma",
+  "activeVehicles": "Aktif Araçlar",
+  "changePlan": "Planı Değiştir",
+  "store": "Mağaza",
+  "updatePlan": "Planı Güncelle"
 }

@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "{price}/jármű/hónap",
   "pricePerVehiclePerYear": "{price}/jármű/év",
   "pricePerVehicle": "{price}/jármű",
-  "trackSoftwareVersionUpdatesOverTime": "Szoftverfrissítések nyomon követése idővel"
+  "trackSoftwareVersionUpdatesOverTime": "Szoftverfrissítések nyomon követése idővel",
+  "billing": "Számlázás",
+  "activeVehicles": "Aktív járművek",
+  "changePlan": "Csomag módosítása",
+  "store": "Áruház",
+  "updatePlan": "Csomag frissítése"
 }

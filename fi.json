@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "{price} per ajoneuvo / kuukausi",
   "pricePerVehiclePerYear": "{price} per ajoneuvo / vuosi",
   "pricePerVehicle": "{price} per ajoneuvo",
-  "trackSoftwareVersionUpdatesOverTime": "Seuraa ohjelmistoversiopäivityksiä ajan mittaan"
+  "trackSoftwareVersionUpdatesOverTime": "Seuraa ohjelmistoversiopäivityksiä ajan mittaan",
+  "billing": "Laskutus",
+  "activeVehicles": "Aktiiviset ajoneuvot",
+  "changePlan": "Vaihda sopimusta",
+  "store": "Kauppa",
+  "updatePlan": "Päivitä sopimus"
 }

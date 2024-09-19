@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "{price} pro Fahrzeug / Monat",
   "pricePerVehiclePerYear": "{price} pro Fahrzeug / Jahr",
   "pricePerVehicle": "{price} pro Fahrzeug",
-  "trackSoftwareVersionUpdatesOverTime": "Software-Versionsupdates im Zeitverlauf verfolgen"
+  "trackSoftwareVersionUpdatesOverTime": "Software-Versionsupdates im Zeitverlauf verfolgen",
+  "billing": "Abrechnung",
+  "activeVehicles": "Aktive Fahrzeuge",
+  "changePlan": "Tarif ändern",
+  "store": "Shop",
+  "updatePlan": "Tarif aktualisieren"
 }

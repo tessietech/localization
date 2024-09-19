@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "{price} per kjøretøy / måned",
   "pricePerVehiclePerYear": "{price} per kjøretøy / år",
   "pricePerVehicle": "{price} per kjøretøy",
-  "trackSoftwareVersionUpdatesOverTime": "Spor programvareversjonsoppdateringer over tid"
+  "trackSoftwareVersionUpdatesOverTime": "Spor programvareversjonsoppdateringer over tid",
+  "billing": "Fakturering",
+  "activeVehicles": "Aktive kjøretøy",
+  "changePlan": "Endre abonnement",
+  "store": "Lagre",
+  "updatePlan": "Oppdater abonnement"
 }

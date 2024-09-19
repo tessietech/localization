@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "{price} / vehicul / lună",
   "pricePerVehiclePerYear": "{price} / vehicul / an",
   "pricePerVehicle": "{price} / vehicul",
-  "trackSoftwareVersionUpdatesOverTime": "Urmăriți actualizările versiunii de software în timp"
+  "trackSoftwareVersionUpdatesOverTime": "Urmăriți actualizările versiunii de software în timp",
+  "billing": "Facturare",
+  "activeVehicles": "Vehicule active",
+  "changePlan": "Schimbă abonamentul",
+  "store": "Magazin",
+  "updatePlan": "Actualizare abonament"
 }

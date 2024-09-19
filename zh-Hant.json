@@ -2306,5 +2306,10 @@
   "pricePerVehiclePerMonth": "每輛車每月 {price}",
   "pricePerVehiclePerYear": "每輛車每年 {price}",
   "pricePerVehicle": "每輛車 {price}",
-  "trackSoftwareVersionUpdatesOverTime": "持續追蹤軟體版本更新"
+  "trackSoftwareVersionUpdatesOverTime": "持續追蹤軟體版本更新",
+  "billing": "計費",
+  "activeVehicles": "使用中的車輛",
+  "changePlan": "變更方案",
+  "store": "商店",
+  "updatePlan": "更新方案"
 }
