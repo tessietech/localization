@@ -2311,5 +2311,7 @@
   "activeVehicles": "Aktive Fahrzeuge",
   "changePlan": "Tarif ändern",
   "store": "Shop",
-  "updatePlan": "Tarif aktualisieren"
+  "updatePlan": "Tarif aktualisieren",
+  "renewPlan": "Tarif verlängern",
+  "cancelPlan": "Tarif kündigen"
 }

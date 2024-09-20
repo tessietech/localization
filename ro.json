@@ -2309,7 +2309,9 @@
   "trackSoftwareVersionUpdatesOverTime": "Urmăriți actualizările versiunii de software în timp",
   "billing": "Facturare",
   "activeVehicles": "Vehicule active",
-  "changePlan": "Schimbă abonamentul",
+  "changePlan": "Schimbare abonament",
   "store": "Magazin",
-  "updatePlan": "Actualizare abonament"
+  "updatePlan": "Actualizare abonament",
+  "renewPlan": "Reînnoire abonament",
+  "cancelPlan": "Anulare abonament"
 }

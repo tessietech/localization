@@ -2307,9 +2307,11 @@
   "pricePerVehiclePerYear": "{price} per voertuig / jaar",
   "pricePerVehicle": "{price} per voertuig",
   "trackSoftwareVersionUpdatesOverTime": "Software-versie-updates in de loop van de tijd volgen",
-  "billing": "Facturering",
+  "billing": "Facturatie",
   "activeVehicles": "Actieve voertuigen",
   "changePlan": "Abonnement wijzigen",
-  "store": "Wwinkel",
-  "updatePlan": "Abonnement bijwerken"
+  "store": "Winkel",
+  "updatePlan": "Abonnement bijwerken",
+  "renewPlan": "Abonnement verlengen",
+  "cancelPlan": "Abonnement opzeggen"
 }

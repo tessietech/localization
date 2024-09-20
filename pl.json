@@ -2311,5 +2311,7 @@
   "activeVehicles": "Aktywne pojazdy",
   "changePlan": "Zmień plan",
   "store": "Sklep",
-  "updatePlan": "Zaktualizuj plan"
+  "updatePlan": "Zaktualizuj plan",
+  "renewPlan": "Odnów plan",
+  "cancelPlan": "Anuluj plan"
 }

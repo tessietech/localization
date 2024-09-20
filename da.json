@@ -2310,6 +2310,8 @@
   "billing": "Fakturering",
   "activeVehicles": "Aktive køretøjer",
   "changePlan": "Skift abonnement",
-  "store": "Lagre",
-  "updatePlan": "Opdater abonnement"
+  "store": "Butik",
+  "updatePlan": "Opdater abonnement",
+  "renewPlan": "Forny abonnement",
+  "cancelPlan": "Annuller abonnement"
 }

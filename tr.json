@@ -2307,9 +2307,11 @@
   "pricePerVehiclePerYear": "Araç başına/yıllık {price}",
   "pricePerVehicle": "Araç başına {price}",
   "trackSoftwareVersionUpdatesOverTime": "Yazılım sürümü güncellemelerini zaman içinde izleyin",
-  "billing": "Faturalandırma",
+  "billing": "Fatura",
   "activeVehicles": "Aktif Araçlar",
-  "changePlan": "Planı Değiştir",
+  "changePlan": "Planı değiştir",
   "store": "Mağaza",
-  "updatePlan": "Planı Güncelle"
+  "updatePlan": "Planı Güncelle",
+  "renewPlan": "Planı yenile",
+  "cancelPlan": "Planı iptal et"
 }

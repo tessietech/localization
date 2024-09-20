@@ -2311,5 +2311,7 @@
   "activeVehicles": "Véhicules actifs",
   "changePlan": "Changer de forfait",
   "store": "Boutique",
-  "updatePlan": "Mettre à jour le forfait"
+  "updatePlan": "Mettre à jour le forfait",
+  "renewPlan": "Renouveler le forfait",
+  "cancelPlan": "Annuler le forfait"
 }

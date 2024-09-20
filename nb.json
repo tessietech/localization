@@ -2310,6 +2310,8 @@
   "billing": "Fakturering",
   "activeVehicles": "Aktive kjøretøy",
   "changePlan": "Endre abonnement",
-  "store": "Lagre",
-  "updatePlan": "Oppdater abonnement"
+  "store": "Butikk",
+  "updatePlan": "Oppdater abonnement",
+  "renewPlan": "Forny abonnement",
+  "cancelPlan": "Avslutt abonnement"
 }

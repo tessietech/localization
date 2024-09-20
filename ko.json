@@ -2308,8 +2308,10 @@
   "pricePerVehicle": "차량당 {price}",
   "trackSoftwareVersionUpdatesOverTime": "시간에 따라 소프트웨어 버전 업데이트 추적",
   "billing": "결제",
-  "activeVehicles": "활성 차량",
+  "activeVehicles": "활성화된 차량",
   "changePlan": "요금제 변경",
   "store": "스토어",
-  "updatePlan": "요금제 업데이트"
+  "updatePlan": "요금제 업데이트",
+  "renewPlan": "요금제 갱신",
+  "cancelPlan": "요금제 해지"
 }

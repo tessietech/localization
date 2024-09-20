@@ -2309,7 +2309,9 @@
   "trackSoftwareVersionUpdatesOverTime": "Acompanhar as atualizações de versão do software ao longo do tempo",
   "billing": "Faturação",
   "activeVehicles": "Veículos ativos",
-  "changePlan": "Alterar plano",
+  "changePlan": "Mudar plano",
   "store": "Loja",
-  "updatePlan": "Atualizar plano"
+  "updatePlan": "Atualizar plano",
+  "renewPlan": "Renovar plano",
+  "cancelPlan": "Cancelar plano"
 }

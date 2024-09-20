@@ -2311,5 +2311,7 @@
   "activeVehicles": "Aktív járművek",
   "changePlan": "Csomag módosítása",
   "store": "Áruház",
-  "updatePlan": "Csomag frissítése"
+  "updatePlan": "Csomag frissítése",
+  "renewPlan": "Csomag megújítása",
+  "cancelPlan": "Csomag lemondása"
 }
