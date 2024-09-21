@@ -2313,5 +2313,8 @@
   "store": "Negozio",
   "updatePlan": "Aggiorna piano",
   "renewPlan": "Rinnova piano",
-  "cancelPlan": "Annulla piano"
+  "cancelPlan": "Annulla piano",
+  "contactUsForHelpChangingPlans": "Contattaci per assistenza sulla modifica dei piani.",
+  "youreOnALifetimePlan": "Hai un piano a vita",
+  "managePlan": "Gestisci piano"
 }

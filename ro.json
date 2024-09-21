@@ -2313,5 +2313,8 @@
   "store": "Magazin",
   "updatePlan": "Actualizare abonament",
   "renewPlan": "Reînnoire abonament",
-  "cancelPlan": "Anulare abonament"
+  "cancelPlan": "Anulare abonament",
+  "contactUsForHelpChangingPlans": "Contactați-ne pentru ajutor privind schimbarea abonamentelor.",
+  "youreOnALifetimePlan": "Beneficiați de un abonament pe viață",
+  "managePlan": "Gestionați abonamentul"
 }

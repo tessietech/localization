@@ -2313,5 +2313,8 @@
   "store": "Tallenna",
   "updatePlan": "Päivitä sopimus",
   "renewPlan": "Uudista sopimus",
-  "cancelPlan": "Peruuta sopimus"
+  "cancelPlan": "Peruuta sopimus",
+  "contactUsForHelpChangingPlans": "Ota yhteyttä, jos haluat apua sopimuksen vaihtamiseen.",
+  "youreOnALifetimePlan": "Sinulla on elinikäinen sopimus",
+  "managePlan": "Hallitse sopimusta"
 }

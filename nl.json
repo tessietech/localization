@@ -2313,5 +2313,8 @@
   "store": "Winkel",
   "updatePlan": "Abonnement bijwerken",
   "renewPlan": "Abonnement verlengen",
-  "cancelPlan": "Abonnement opzeggen"
+  "cancelPlan": "Abonnement opzeggen",
+  "contactUsForHelpChangingPlans": "Neem contact met ons op voor hulp bij het wijzigen van abonnementen.",
+  "youreOnALifetimePlan": "Je hebt een levenslang abonnement",
+  "managePlan": "Abonnement beheren"
 }

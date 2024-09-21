@@ -2313,5 +2313,8 @@
   "store": "Tienda",
   "updatePlan": "Actualizar plan",
   "renewPlan": "Renovar plan",
-  "cancelPlan": "Cancelar plan"
+  "cancelPlan": "Cancelar plan",
+  "contactUsForHelpChangingPlans": "Contáctanos para obtener ayuda con el cambio de planes.",
+  "youreOnALifetimePlan": "Tienes un plan de por vida",
+  "managePlan": "Administrar plan"
 }

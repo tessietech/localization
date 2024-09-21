@@ -2313,5 +2313,8 @@
   "store": "Áruház",
   "updatePlan": "Csomag frissítése",
   "renewPlan": "Csomag megújítása",
-  "cancelPlan": "Csomag lemondása"
+  "cancelPlan": "Csomag lemondása",
+  "contactUsForHelpChangingPlans": "A csomagváltással kapcsolatban forduljon hozzánk.",
+  "youreOnALifetimePlan": "Ön egy életre szóló csomaggal rendelkezik",
+  "managePlan": "Előfizetés kezelése"
 }

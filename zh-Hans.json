@@ -2313,5 +2313,8 @@
   "store": "商店",
   "updatePlan": "更新套餐",
   "renewPlan": "续订套餐",
-  "cancelPlan": "取消套餐"
+  "cancelPlan": "取消套餐",
+  "contactUsForHelpChangingPlans": "如需更改套餐，请联系我们。",
+  "youreOnALifetimePlan": "您使用的是终身套餐",
+  "managePlan": "管理套餐"
 }

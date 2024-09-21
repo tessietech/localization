@@ -2313,5 +2313,8 @@
   "store": "Butikk",
   "updatePlan": "Oppdater abonnement",
   "renewPlan": "Forny abonnement",
-  "cancelPlan": "Avslutt abonnement"
+  "cancelPlan": "Avslutt abonnement",
+  "contactUsForHelpChangingPlans": "Kontakt oss for å få hjelp til å endre abonnement.",
+  "youreOnALifetimePlan": "Du har et livstidsabonnement",
+  "managePlan": "Administrer abonnement"
 }

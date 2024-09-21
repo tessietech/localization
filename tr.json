@@ -2313,5 +2313,8 @@
   "store": "Mağaza",
   "updatePlan": "Planı Güncelle",
   "renewPlan": "Planı yenile",
-  "cancelPlan": "Planı iptal et"
+  "cancelPlan": "Planı iptal et",
+  "contactUsForHelpChangingPlans": "Plan değişikliği için bizimle iletişime geçin.",
+  "youreOnALifetimePlan": "Sınırsız plan kullanıyorsunuz",
+  "managePlan": "Planı yönet"
 }
