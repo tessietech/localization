@@ -2316,5 +2316,6 @@
   "cancelPlan": "Peruuta sopimus",
   "contactUsForHelpChangingPlans": "Ota yhteyttä, jos haluat apua sopimuksen vaihtamiseen.",
   "youreOnALifetimePlan": "Sinulla on elinikäinen sopimus",
-  "managePlan": "Hallitse sopimusta"
+  "managePlan": "Hallitse sopimusta",
+  "plans": "Tilaukset"
 }

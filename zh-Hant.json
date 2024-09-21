@@ -2316,5 +2316,6 @@
   "cancelPlan": "取消方案",
   "contactUsForHelpChangingPlans": "如需變更方案，請聯絡我們。",
   "youreOnALifetimePlan": "您目前使用的是終身方案",
-  "managePlan": "管理計劃"
+  "managePlan": "管理計劃",
+  "plans": "方案"
 }

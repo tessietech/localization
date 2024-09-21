@@ -2316,5 +2316,6 @@
   "cancelPlan": "Tarif kündigen",
   "contactUsForHelpChangingPlans": "Wende dich an uns, wenn du Hilfe beim Ändern des Tarifs benötigst.",
   "youreOnALifetimePlan": "Du hast einen Tarif auf Lebenszeit",
-  "managePlan": "Tarif verwalten"
+  "managePlan": "Tarif verwalten",
+  "plans": "Abos"
 }

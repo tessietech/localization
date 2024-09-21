@@ -2316,5 +2316,6 @@
   "cancelPlan": "Csomag lemondása",
   "contactUsForHelpChangingPlans": "A csomagváltással kapcsolatban forduljon hozzánk.",
   "youreOnALifetimePlan": "Ön egy életre szóló csomaggal rendelkezik",
-  "managePlan": "Előfizetés kezelése"
+  "managePlan": "Előfizetés kezelése",
+  "plans": "Csomagok"
 }

@@ -2316,5 +2316,6 @@
   "cancelPlan": "요금제 해지",
   "contactUsForHelpChangingPlans": "요금제 변경과 관련하여 도움이 필요하면 Google에 문의하세요.",
   "youreOnALifetimePlan": "평생 요금제를 사용 중입니다.",
-  "managePlan": "요금제 관리"
+  "managePlan": "요금제 관리",
+  "plans": "플랜"
 }

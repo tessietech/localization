@@ -2316,5 +2316,6 @@
   "cancelPlan": "取消套餐",
   "contactUsForHelpChangingPlans": "如需更改套餐，请联系我们。",
   "youreOnALifetimePlan": "您使用的是终身套餐",
-  "managePlan": "管理套餐"
+  "managePlan": "管理套餐",
+  "plans": "套餐"
 }
