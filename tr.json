@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Plan değişikliği için bizimle iletişime geçin.",
   "youreOnALifetimePlan": "Sınırsız plan kullanıyorsunuz",
   "managePlan": "Planı yönet",
-  "plans": "Planlar"
+  "plans": "Planlar",
+  "addAdditionalLicense": "Ek lisans ekle",
+  "activeVehicleLicenses": "Etkin Araç Lisansları",
+  "upgradeToFleetToManageAdditionalVehicles": "Ek araçları yönetmek için Filoya yükseltin.",
+  "youreAlreadyUsingThisPlan": "Zaten bu planı kullanıyorsunuz"
 }

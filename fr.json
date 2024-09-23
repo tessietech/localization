@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Contactez-nous pour obtenir de l'aide sur la modification des forfaits.",
   "youreOnALifetimePlan": "Vous avez souscrit à un forfait à vie",
   "managePlan": "Gérer l'abonnement",
-  "plans": "Abonnements"
+  "plans": "Abonnements",
+  "addAdditionalLicense": "Ajouter une licence supplémentaire",
+  "activeVehicleLicenses": "Licences de véhicule actives",
+  "upgradeToFleetToManageAdditionalVehicles": "Passez à la solution Flotte pour gérer plus de véhicules.",
+  "youreAlreadyUsingThisPlan": "Vous utilisez déjà ce forfait"
 }

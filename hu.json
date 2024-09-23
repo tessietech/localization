@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "A csomagváltással kapcsolatban forduljon hozzánk.",
   "youreOnALifetimePlan": "Ön egy életre szóló csomaggal rendelkezik",
   "managePlan": "Előfizetés kezelése",
-  "plans": "Csomagok"
+  "plans": "Csomagok",
+  "addAdditionalLicense": "További licenc hozzáadása",
+  "activeVehicleLicenses": "Aktív járműlicencek",
+  "upgradeToFleetToManageAdditionalVehicles": "Váltson Flotta verzióra további járművek kezeléséhez.",
+  "youreAlreadyUsingThisPlan": "Ezt a csomagot már használja"
 }

@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Ota yhteyttä, jos haluat apua sopimuksen vaihtamiseen.",
   "youreOnALifetimePlan": "Sinulla on elinikäinen sopimus",
   "managePlan": "Hallitse sopimusta",
-  "plans": "Tilaukset"
+  "plans": "Tilaukset",
+  "addAdditionalLicense": "Lisää lisenssi",
+  "activeVehicleLicenses": "Aktiiviset ajoneuvolisenssit",
+  "upgradeToFleetToManageAdditionalVehicles": "Päivitä Fleet-tilaukseen hallinnoidaksesi useampia ajoneuvoja.",
+  "youreAlreadyUsingThisPlan": "Käytät jo tätä tilausta"
 }

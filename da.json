@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Kontakt os for at få hjælp til at ændre abonnement.",
   "youreOnALifetimePlan": "Du har et livstidsabonnement",
   "managePlan": "Administrer abonnement",
-  "plans": "Abonnementer"
+  "plans": "Abonnementer",
+  "addAdditionalLicense": "Tilføj ekstra licens",
+  "activeVehicleLicenses": "Aktive køretøjslicenser",
+  "upgradeToFleetToManageAdditionalVehicles": "Opgrader til Flåde for at administrere yderligere køretøjer.",
+  "youreAlreadyUsingThisPlan": "Du bruger allerede dette abonnement"
 }

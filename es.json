@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Contáctanos para obtener ayuda con el cambio de planes.",
   "youreOnALifetimePlan": "Tienes un plan de por vida",
   "managePlan": "Administrar plan",
-  "plans": "Planes"
+  "plans": "Planes",
+  "addAdditionalLicense": "Añadir licencia adicional",
+  "activeVehicleLicenses": "Licencias de vehículos activas",
+  "upgradeToFleetToManageAdditionalVehicles": "Actualiza a Flota para gestionar vehículos adicionales.",
+  "youreAlreadyUsingThisPlan": "Ya estás usando este plan"
 }

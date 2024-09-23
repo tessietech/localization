@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Wende dich an uns, wenn du Hilfe beim Ändern des Tarifs benötigst.",
   "youreOnALifetimePlan": "Du hast einen Tarif auf Lebenszeit",
   "managePlan": "Tarif verwalten",
-  "plans": "Abos"
+  "plans": "Abos",
+  "addAdditionalLicense": "Zusätzliche Lizenz hinzufügen",
+  "activeVehicleLicenses": "Aktive Fahrzeuglizenzen",
+  "upgradeToFleetToManageAdditionalVehicles": "Führen Sie ein Upgrade auf Fleet durch, um zusätzliche Fahrzeuge zu verwalten.",
+  "youreAlreadyUsingThisPlan": "Diesen Plan verwenden Sie bereits"
 }

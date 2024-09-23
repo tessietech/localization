@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Contactați-ne pentru ajutor privind schimbarea abonamentelor.",
   "youreOnALifetimePlan": "Beneficiați de un abonament pe viață",
   "managePlan": "Gestionați abonamentul",
-  "plans": "Planuri"
+  "plans": "Planuri",
+  "addAdditionalLicense": "Adăugați o licență suplimentară",
+  "activeVehicleLicenses": "Licențe vehicul active",
+  "upgradeToFleetToManageAdditionalVehicles": "Faceți upgrade la flotă pentru a gestiona vehicule suplimentare.",
+  "youreAlreadyUsingThisPlan": "Utilizați deja acest plan"
 }

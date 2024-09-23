@@ -2317,5 +2317,9 @@
   "contactUsForHelpChangingPlans": "Neem contact met ons op voor hulp bij het wijzigen van abonnementen.",
   "youreOnALifetimePlan": "Je hebt een levenslang abonnement",
   "managePlan": "Abonnement beheren",
-  "plans": "Abonnementen"
+  "plans": "Abonnementen",
+  "addAdditionalLicense": "Extra licentie toevoegen",
+  "activeVehicleLicenses": "Actieve voertuiglicenties",
+  "upgradeToFleetToManageAdditionalVehicles": "Voer een upgrade uit naar Fleet om extra voertuigen te beheren.",
+  "youreAlreadyUsingThisPlan": "Je gebruikt dit abonnement al"
 }
