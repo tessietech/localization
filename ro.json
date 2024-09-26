@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Adăugați o licență suplimentară",
   "activeVehicleLicenses": "Licențe vehicul active",
   "upgradeToFleetToManageAdditionalVehicles": "Faceți upgrade la flotă pentru a gestiona vehicule suplimentare.",
-  "youreAlreadyUsingThisPlan": "Utilizați deja acest plan"
+  "youreAlreadyUsingThisPlan": "Utilizați deja acest plan",
+  "autopilot": "Pilot automat"
 }

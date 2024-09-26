@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "További licenc hozzáadása",
   "activeVehicleLicenses": "Aktív járműlicencek",
   "upgradeToFleetToManageAdditionalVehicles": "Váltson Flotta verzióra további járművek kezeléséhez.",
-  "youreAlreadyUsingThisPlan": "Ezt a csomagot már használja"
+  "youreAlreadyUsingThisPlan": "Ezt a csomagot már használja",
+  "autopilot": "Autopilot"
 }

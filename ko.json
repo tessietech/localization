@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "추가 라이선스 추가",
   "activeVehicleLicenses": "활성 차량 라이선스",
   "upgradeToFleetToManageAdditionalVehicles": "추가 차량을 관리하려면 Fleet으로 업그레이드하세요.",
-  "youreAlreadyUsingThisPlan": "이미 이 요금제를 사용하고 있습니다."
+  "youreAlreadyUsingThisPlan": "이미 이 요금제를 사용하고 있습니다.",
+  "autopilot": "오토파일럿"
 }

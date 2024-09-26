@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Tilføj ekstra licens",
   "activeVehicleLicenses": "Aktive køretøjslicenser",
   "upgradeToFleetToManageAdditionalVehicles": "Opgrader til Flåde for at administrere yderligere køretøjer.",
-  "youreAlreadyUsingThisPlan": "Du bruger allerede dette abonnement"
+  "youreAlreadyUsingThisPlan": "Du bruger allerede dette abonnement",
+  "autopilot": "Autopilot"
 }

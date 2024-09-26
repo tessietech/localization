@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Ek lisans ekle",
   "activeVehicleLicenses": "Etkin Araç Lisansları",
   "upgradeToFleetToManageAdditionalVehicles": "Ek araçları yönetmek için Filoya yükseltin.",
-  "youreAlreadyUsingThisPlan": "Zaten bu planı kullanıyorsunuz"
+  "youreAlreadyUsingThisPlan": "Zaten bu planı kullanıyorsunuz",
+  "autopilot": "Otopilot"
 }

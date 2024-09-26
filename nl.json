@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Extra licentie toevoegen",
   "activeVehicleLicenses": "Actieve voertuiglicenties",
   "upgradeToFleetToManageAdditionalVehicles": "Voer een upgrade uit naar Fleet om extra voertuigen te beheren.",
-  "youreAlreadyUsingThisPlan": "Je gebruikt dit abonnement al"
+  "youreAlreadyUsingThisPlan": "Je gebruikt dit abonnement al",
+  "autopilot": "Autopilot"
 }

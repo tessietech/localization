@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "添加额外许可证",
   "activeVehicleLicenses": "活动车辆许可证",
   "upgradeToFleetToManageAdditionalVehicles": "升级到车队以管理其他车辆。",
-  "youreAlreadyUsingThisPlan": "您已经在使用此套餐"
+  "youreAlreadyUsingThisPlan": "您已经在使用此套餐",
+  "autopilot": "自动辅助驾驶"
 }
