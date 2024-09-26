@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Adicionar licença adicional",
   "activeVehicleLicenses": "Licenças de Veículo Ativas",
   "upgradeToFleetToManageAdditionalVehicles": "Atualize para a Frota para gerir veículos adicionais.",
-  "youreAlreadyUsingThisPlan": "Já está a utilizar este plano"
+  "youreAlreadyUsingThisPlan": "Já está a utilizar este plano",
+  "autopilot": "Piloto automático"
 }

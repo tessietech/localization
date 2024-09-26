@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Přidat další licenci",
   "activeVehicleLicenses": "Aktivní licence vozidel",
   "upgradeToFleetToManageAdditionalVehicles": "Přejděte na tarif Fleet a spravujte další vozidla.",
-  "youreAlreadyUsingThisPlan": "Tento tarif již používáte"
+  "youreAlreadyUsingThisPlan": "Tento tarif již používáte",
+  "autopilot": "Autopilot"
 }

@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Ajouter une licence supplémentaire",
   "activeVehicleLicenses": "Licences de véhicule actives",
   "upgradeToFleetToManageAdditionalVehicles": "Passez à la solution Flotte pour gérer plus de véhicules.",
-  "youreAlreadyUsingThisPlan": "Vous utilisez déjà ce forfait"
+  "youreAlreadyUsingThisPlan": "Vous utilisez déjà ce forfait",
+  "autopilot": "Pilotage automatique"
 }
