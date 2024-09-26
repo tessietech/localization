@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "新增額外授權",
   "activeVehicleLicenses": "有效的車輛授權",
   "upgradeToFleetToManageAdditionalVehicles": "升級至車隊以管理更多車輛。",
-  "youreAlreadyUsingThisPlan": "您已在使用此方案"
+  "youreAlreadyUsingThisPlan": "您已在使用此方案",
+  "autopilot": "自動輔助駕駛"
 }

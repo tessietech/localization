@@ -638,7 +638,7 @@
   "km": "km",
   "mi": "mi",
   "every": "Každé",
-  "rotatingTiresEveryDurationOrWhenTreadDepthDifferenceIs": "Pro rovnoměrné opotřebení, lepší trakci a delší životnost pneumatik se doporučuje jejich střídání každých {duration} nebo při rozdílu hloubky dezénu 2/32 palce nebo více.",
+  "rotatingTiresEveryDurationOrWhenTreadDepthDifferenceIs": "Pro rovnoměrné opotřebení, lepší trakci a delší životnost pneumatik se doporučuje jejich střídání každých {duration} nebo při rozdílu hloubky dezénu 1,5 milimetru nebo více.",
   "anyBattery": "Jakákoli baterie",
   "afterUnpluggedafter": "Po {unpluggedAfter}",
   "belowBatterylevelthreshold": "Pod {batteryLevelThreshold} %",
@@ -675,7 +675,7 @@
   "time": "Čas",
   "setTime": "Nastavit čas",
   "chargeLimit": "Limit nabití",
-  "amps": "Ampéry",
+  "amps": "Ampér",
   "seat": "Sedadlo",
   "protection": "Ochrana",
   "activationTemperature": "Aktivační teplota",
@@ -826,7 +826,7 @@
   "basedOnTheVehiclesEnergyUsagePatterns": "Na základě vzorců spotřeby energie vozidla.",
   "readingsFromYourTeslasBatteryManagementSystem": "Hodnoty z systému správy baterií vašeho vozu Tesla. Sbírá se po každém nabití o více než 5 kWh.",
   "degradation": "Degradace",
-  "setnewbatterycapacityKwh": "{setNewBatteryCapacity} kWh",
+  "setnewbatterycapacityKwh": "Kapacita nové baterie {setNewBatteryCapacity} kWh",
   "chargingComplete": "Nabíjení dokončeno",
   "chargingStarting": "Zahájení nabíjení",
   "chargingStopped": "Nabíjení zastaveno",
@@ -901,7 +901,7 @@
   "honk": "Zatroubit",
   "honking": "Troubí.",
   "chargePort": "Nabíjecí port",
-  "fart": "Prník",
+  "fart": "Prdík",
   "farting": "Pouští se prd.",
   "allDoors": "Všechny dveře",
   "activateAllDoors": "Aktivovat všechny dveře.",
@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Přidat další licenci",
   "activeVehicleLicenses": "Aktivní licence vozidel",
   "upgradeToFleetToManageAdditionalVehicles": "Přejděte na tarif Fleet a spravujte další vozidla.",
-  "youreAlreadyUsingThisPlan": "Tento tarif již používáte"
+  "youreAlreadyUsingThisPlan": "Tento tarif již používáte",
+  "autopilot": "Autopilot"
 }

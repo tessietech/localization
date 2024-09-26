@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Add additional license",
   "activeVehicleLicenses": "Active Vehicle Licenses",
   "upgradeToFleetToManageAdditionalVehicles": "Upgrade to Fleet to manage additional vehicles.",
-  "youreAlreadyUsingThisPlan": "You're already using this plan"
+  "youreAlreadyUsingThisPlan": "You're already using this plan",
+  "autopilot": "Autopilot"
 }

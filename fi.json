@@ -2321,5 +2321,6 @@
   "addAdditionalLicense": "Lisää lisenssi",
   "activeVehicleLicenses": "Aktiiviset ajoneuvolisenssit",
   "upgradeToFleetToManageAdditionalVehicles": "Päivitä Fleet-tilaukseen hallinnoidaksesi useampia ajoneuvoja.",
-  "youreAlreadyUsingThisPlan": "Käytät jo tätä tilausta"
+  "youreAlreadyUsingThisPlan": "Käytät jo tätä tilausta",
+  "autopilot": "Autopilotti"
 }
