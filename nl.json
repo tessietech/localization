@@ -1051,6 +1051,7 @@
   "copy": "Kopiëren",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Wagenparkdashboard",
+  "fleetDashboardTitle": "Vlootdashboard",
   "fleetManagement": "Wagenparkbeheer",
   "lockToFleet": "Vergrendelen voor wagenpark",
   "lockToMe": "Vergrendel voor mij",
@@ -2332,5 +2333,6 @@
   "notification": "Melding",
   "redeem": "Inwisselen",
   "recentlySeen1Time": "Recent 1 keer gezien",
-  "recentlySeenCountTimes": "Recent {count} keer gezien"
+  "recentlySeenCountTimes": "Recent {count} keer gezien",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Onderhoudsgeschiedenis, verzekering of iets anders"
 }

@@ -1051,6 +1051,7 @@
   "copy": "Copy",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Fleet dashboard",
+  "fleetDashboardTitle": "Fleet Dashboard",
   "fleetManagement": "Fleet Management",
   "lockToFleet": "Lock to Fleet",
   "lockToMe": "Lock to Me",
@@ -2332,5 +2333,6 @@
   "notification": "Notification",
   "redeem": "Redeem",
   "recentlySeen1Time": "Recently seen 1 time",
-  "recentlySeenCountTimes": "Recently seen {count} times"
+  "recentlySeenCountTimes": "Recently seen {count} times",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Maintenance history, insurance or anything else"
 }

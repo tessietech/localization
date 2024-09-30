@@ -1051,6 +1051,7 @@
   "copy": "Copiază",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Tablou de bord al flotei",
+  "fleetDashboardTitle": "Panoul de control al flotei",
   "fleetManagement": "Managementul flotei",
   "lockToFleet": "Blochează în flotă",
   "lockToMe": "Blocare la mine",
@@ -2332,5 +2333,6 @@
   "notification": "Notificare",
   "redeem": "Răscumpărați",
   "recentlySeen1Time": "Văzut recent o dată",
-  "recentlySeenCountTimes": "Văzut recent de {count} ori"
+  "recentlySeenCountTimes": "Văzut recent de {count} ori",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Istoric de întreținere, asigurare sau orice altceva"
 }

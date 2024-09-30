@@ -1051,6 +1051,7 @@
   "copy": "Copiar",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Painel da frota",
+  "fleetDashboardTitle": "Painel de Frota",
   "fleetManagement": "Gestão de Frota",
   "lockToFleet": "Bloquear para Frota",
   "lockToMe": "Bloquear para Mim",
@@ -2332,5 +2333,6 @@
   "notification": "Notificação",
   "redeem": "Resgatar",
   "recentlySeen1Time": "Visto recentemente 1 vez",
-  "recentlySeenCountTimes": "Visto recentemente {count} vezes"
+  "recentlySeenCountTimes": "Visto recentemente {count} vezes",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Histórico de manutenção, seguro ou qualquer outra coisa"
 }

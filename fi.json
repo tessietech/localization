@@ -1051,6 +1051,7 @@
   "copy": "Kopioi",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Kaluston kojelauta",
+  "fleetDashboardTitle": "Kaluston kojelauta",
   "fleetManagement": "Kaluston hallinta",
   "lockToFleet": "Lukitse kalustoon",
   "lockToMe": "Lukitse minulle",
@@ -2332,5 +2333,6 @@
   "notification": "Ilmoitus",
   "redeem": "Lunasta",
   "recentlySeen1Time": "Nähty äskettäin yhden kerran",
-  "recentlySeenCountTimes": "Nähty äskettäin {count} kertaa"
+  "recentlySeenCountTimes": "Nähty äskettäin {count} kertaa",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Huoltohistoria, vakuutus tai muu"
 }

@@ -1051,6 +1051,7 @@
   "copy": "Kopier",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Kontrollpanel for kjøretøyflåten",
+  "fleetDashboardTitle": "Flåtedashboard",
   "fleetManagement": "Administrasjon av kjøretøyflåte",
   "lockToFleet": "Lås til flåte",
   "lockToMe": "Lås til meg",
@@ -2332,5 +2333,6 @@
   "notification": "Varsel",
   "redeem": "Løs inn",
   "recentlySeen1Time": "Nylig sett 1 gang",
-  "recentlySeenCountTimes": "Nylig sett {count} ganger"
+  "recentlySeenCountTimes": "Nylig sett {count} ganger",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Vedlikeholdshistorikk, forsikring eller annet"
 }

@@ -1051,6 +1051,7 @@
   "copy": "Kopírovat",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Panel vozového parku",
+  "fleetDashboardTitle": "Řídicí panel vozového parku",
   "fleetManagement": "Správa vozového parku",
   "lockToFleet": "Zamknout do vozového parku",
   "lockToMe": "Zamknout pro mě",
@@ -2332,5 +2333,6 @@
   "notification": "Oznámení",
   "redeem": "Uplatnit",
   "recentlySeen1Time": "Naposledy viděno před chvílí",
-  "recentlySeenCountTimes": "Naposledy viděno ({count}krát)"
+  "recentlySeenCountTimes": "Naposledy viděno ({count}krát)",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Historie údržby, pojištění nebo cokoli jiného"
 }

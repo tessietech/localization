@@ -1051,6 +1051,7 @@
   "copy": "Kopiér",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Flådeoversigt",
+  "fleetDashboardTitle": "Flådeoversigt",
   "fleetManagement": "Flådestyring",
   "lockToFleet": "Lås til flåde",
   "lockToMe": "Lås til mig",
@@ -2332,5 +2333,6 @@
   "notification": "Notifikation",
   "redeem": "Indløs",
   "recentlySeen1Time": "Set for nylig 1 gang",
-  "recentlySeenCountTimes": "Set for nylig {count} gange"
+  "recentlySeenCountTimes": "Set for nylig {count} gange",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Vedligeholdelseshistorik, forsikring eller andet"
 }

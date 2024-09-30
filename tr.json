@@ -1051,6 +1051,7 @@
   "copy": "Kopyala",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Filo gösterge tablosu",
+  "fleetDashboardTitle": "Filo Gösterge Paneli",
   "fleetManagement": "Filo Yönetimi",
   "lockToFleet": "Filoya Kilitle",
   "lockToMe": "Bana Kilitle",
@@ -2332,5 +2333,6 @@
   "notification": "Bildirim",
   "redeem": "Kullan",
   "recentlySeen1Time": "Son zamanlarda 1 kez görüldü",
-  "recentlySeenCountTimes": "Son zamanlarda {count} kez görüldü"
+  "recentlySeenCountTimes": "Son zamanlarda {count} kez görüldü",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Bakım geçmişi, sigorta veya başka bir şey"
 }

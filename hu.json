@@ -1051,6 +1051,7 @@
   "copy": "Másolat",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} kWh",
   "fleetDashboard": "Fleet vezérlőpult",
+  "fleetDashboardTitle": "Flottanyilvántartás",
   "fleetManagement": "Flotta menedzsment",
   "lockToFleet": "Zár a flottához",
   "lockToMe": "Zárj hozzám",
@@ -2332,5 +2333,6 @@
   "notification": "Értesítés",
   "redeem": "Beváltás",
   "recentlySeen1Time": "Nemrég láttuk 1 alkalommal",
-  "recentlySeenCountTimes": "Nemrég láttuk {count} alkalommal"
+  "recentlySeenCountTimes": "Nemrég láttuk {count} alkalommal",
+  "maintenanceHistoryInsuranceOrAnythingElse": "Karbantartási előzmények, biztosítás vagy bármi más"
 }

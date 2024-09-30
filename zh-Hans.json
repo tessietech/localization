@@ -1051,6 +1051,7 @@
   "copy": "复制",
   "invoiceEnergyUsedKwh": "{invoiceEnergyUsed} 千瓦时",
   "fleetDashboard": "车队仪表盘",
+  "fleetDashboardTitle": "车队仪表板",
   "fleetManagement": "车队管理",
   "lockToFleet": "锁定到车队",
   "lockToMe": "锁定到我",
@@ -2332,5 +2333,6 @@
   "notification": "通知",
   "redeem": "兑换",
   "recentlySeen1Time": "最近看过 1 次",
-  "recentlySeenCountTimes": "最近看过 {count} 次"
+  "recentlySeenCountTimes": "最近看过 {count} 次",
+  "maintenanceHistoryInsuranceOrAnythingElse": "维护历史记录、保险或其他任何内容"
 }
