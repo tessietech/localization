@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "An Ihre E-Mail-Adresse wird ein Bestätigungscode gesendet.",
   "checkYourEmail": "Schau in deinen E-Mails nach.",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store-Abonnements unterstützen nur ein einzelnes Fahrzeug.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Wir haben dir Informationen zur Verwaltung mehrerer Fahrzeuge per E-Mail gesendet."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Wir haben dir Informationen zur Verwaltung mehrerer Fahrzeuge per E-Mail gesendet.",
+  "opensAllDoors": "Öffnet alle Türen",
+  "navigatesToASpecifiedLocation": "Navigiert zu einem angegebenen Ort",
+  "startsClimateAndPreconditionsBattery": "Startet die Klimaanlage und bereitet die Batterie vor",
+  "stopsClimateAndBatteryPreconditioning": "Stoppt die Klimaanlage und die Batteriekonditionierung"
 }

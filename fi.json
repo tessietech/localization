@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "Vahvistuskoodi lähetetään sähköpostiisi.",
   "checkYourEmail": "Tarkista sähköpostisi",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store -tilaukset tukevat vain yhtä ajoneuvoa.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Olemme lähettäneet sinulle sähköpostia, jossa on tietoa useiden ajoneuvojen hallinnasta."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Olemme lähettäneet sinulle sähköpostia, jossa on tietoa useiden ajoneuvojen hallinnasta.",
+  "opensAllDoors": "Avaa kaikki ovet",
+  "navigatesToASpecifiedLocation": "Navigoi annettuun sijaintiin",
+  "startsClimateAndPreconditionsBattery": "Käynnistää ilmastoinnin ja esilämmittää akun",
+  "stopsClimateAndBatteryPreconditioning": "Sammuttaa ilmastoinnin ja akun esilämmityksen"
 }

@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "En bekreftelseskode vil bli sendt til e-postadressen din.",
   "checkYourEmail": "Sjekk e-posten din",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store-abonnementer støtter bare ett kjøretøy.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Vi har sendt deg en e-post med informasjon om hvordan du administrerer flere kjøretøy."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Vi har sendt deg en e-post med informasjon om hvordan du administrerer flere kjøretøy.",
+  "opensAllDoors": "Åpner alle dører",
+  "navigatesToASpecifiedLocation": "Navigerer til et spesifisert sted",
+  "startsClimateAndPreconditionsBattery": "Starter klimaanlegget og forbereder batteriet",
+  "stopsClimateAndBatteryPreconditioning": "Stopper klimaanlegget og forberedelse av batteriet"
 }

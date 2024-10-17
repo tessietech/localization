@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "A verification code will be sent to your email.",
   "checkYourEmail": "Check your email",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store subscriptions only support a single vehicle.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "We've emailed you information on how to manage multiple vehicles."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "We've emailed you information on how to manage multiple vehicles.",
+  "opensAllDoors": "Opens all doors",
+  "navigatesToASpecifiedLocation": "Navigates to a specified location",
+  "startsClimateAndPreconditionsBattery": "Starts the climate and preconditions the battery",
+  "stopsClimateAndBatteryPreconditioning": "Stops the climate and battery preconditioning"
 }

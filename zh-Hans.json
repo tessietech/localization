@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "验证码将发送至您的电子邮箱。",
   "checkYourEmail": "查看您的电子邮件",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store 订阅仅支持一辆汽车。",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "我们已向您发送电子邮件，其中包含有关如何管理多辆汽车的信息。"
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "我们已向您发送电子邮件，其中包含有关如何管理多辆汽车的信息。",
+  "opensAllDoors": "打开所有车门",
+  "navigatesToASpecifiedLocation": "导航到指定位置",
+  "startsClimateAndPreconditionsBattery": "启动空调并预处理电池",
+  "stopsClimateAndBatteryPreconditioning": "停止空调和电池预处理"
 }

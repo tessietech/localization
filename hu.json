@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "Egy ellenőrző kódot küldünk az e-mail címére.",
   "checkYourEmail": "Ellenőrizd az e-mailjeidet",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "Az App Store-előfizetések csak egy járművet támogatnak.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "E-mailben elküldtük az információkat a több jármű kezeléséről."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "E-mailben elküldtük az információkat a több jármű kezeléséről.",
+  "opensAllDoors": "Minden ajtó kinyitása",
+  "navigatesToASpecifiedLocation": "Navigálás egy adott helyre",
+  "startsClimateAndPreconditionsBattery": "Klíma bekapcsolása és az akkumulátor előkészítése",
+  "stopsClimateAndBatteryPreconditioning": "Klíma kikapcsolása és az akkumulátor előkészítésének leállítása"
 }

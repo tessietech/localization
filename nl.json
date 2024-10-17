@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "Er wordt een verificatiecode naar je e-mailadres gestuurd.",
   "checkYourEmail": "Controleer uw e-mail",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store-abonnementen zijn alleen geldig voor één voertuig.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "We hebben u een e-mail gestuurd met informatie over het beheren van meerdere voertuigen."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "We hebben u een e-mail gestuurd met informatie over het beheren van meerdere voertuigen.",
+  "opensAllDoors": "Opent alle deuren",
+  "navigatesToASpecifiedLocation": "Navigeert naar een opgegeven locatie",
+  "startsClimateAndPreconditionsBattery": "Start de klimaatregeling en bereidt de batterij voor",
+  "stopsClimateAndBatteryPreconditioning": "Stopt de klimaatregeling en de voorbereiding van de batterij"
 }

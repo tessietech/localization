@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "驗證碼將發送至您的電子郵件地址。",
   "checkYourEmail": "請查看您的電子郵件",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store 訂閱僅支援單一車輛。",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "我們已將如何管理多輛車輛的資訊通過電子郵件發送給您。"
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "我們已將如何管理多輛車輛的資訊通過電子郵件發送給您。",
+  "opensAllDoors": "開啟所有車門",
+  "navigatesToASpecifiedLocation": "導航到指定位置",
+  "startsClimateAndPreconditionsBattery": "啟動空調並預熱電池",
+  "stopsClimateAndBatteryPreconditioning": "關閉空調和電池預熱"
 }

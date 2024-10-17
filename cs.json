@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "Na váš e-mail bude zaslán ověřovací kód.",
   "checkYourEmail": "Zkontrolujte svůj e-mail",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "Předplatná v App Storu podporují pouze jedno vozidlo.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Poslali jsme vám e-mailem informace o správě více vozidel."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Poslali jsme vám e-mailem informace o správě více vozidel.",
+  "opensAllDoors": "Otevírá všechny dveře",
+  "navigatesToASpecifiedLocation": "Naviguje na zadané místo",
+  "startsClimateAndPreconditionsBattery": "Spustí klimatizaci a připraví baterii",
+  "stopsClimateAndBatteryPreconditioning": "Zastaví klimatizaci a přípravu baterie"
 }

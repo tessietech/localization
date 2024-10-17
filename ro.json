@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "Veți primi un cod de verificare pe e-mail.",
   "checkYourEmail": "Verificați e-mailul",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "Abonamentele App Store acceptă un singur vehicul.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Ți-am trimis prin e-mail informații despre cum să gestionezi mai multe vehicule."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Ți-am trimis prin e-mail informații despre cum să gestionezi mai multe vehicule.",
+  "opensAllDoors": "Deschide toate ușile",
+  "navigatesToASpecifiedLocation": "Navighează către o locație specificată",
+  "startsClimateAndPreconditionsBattery": "Pornește climatizarea și precondiționează bateria",
+  "stopsClimateAndBatteryPreconditioning": "Oprește climatizarea și precondiționarea bateriei"
 }

@@ -2354,5 +2354,9 @@
   "aVerificationCodeWillBeSentToYourEmail": "E-posta adresinize bir doğrulama kodu gönderilecek.",
   "checkYourEmail": "E-postanızı kontrol edin",
   "appStoreSubscriptionsOnlySupportASingleVehicle": "App Store abonelikleri yalnızca tek bir aracı destekler.",
-  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Size birden fazla aracı nasıl yöneteceğinizle ilgili bilgi içeren bir e-posta gönderdik."
+  "weveEmailedYouInformationOnHowToManageMultipleVehicles": "Size birden fazla aracı nasıl yöneteceğinizle ilgili bilgi içeren bir e-posta gönderdik.",
+  "opensAllDoors": "Tüm Kapıları Açar",
+  "navigatesToASpecifiedLocation": "Belirtilen Konuma Gider",
+  "startsClimateAndPreconditionsBattery": "Klimayı Başlatır ve Aküyü Önceden Koşullandırır",
+  "stopsClimateAndBatteryPreconditioning": "Klimayı ve Akü Ön Koşullandırmayı Durdurur"
 }
