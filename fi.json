@@ -1850,6 +1850,7 @@
   "stoppedClimate": "Ilmastointi pysäytetty.",
   "locking": "Lukitaan.",
   "locked": "Lukittu.",
+  "lockedTitle": "Lukittu",
   "unlocking": "Avataan lukitusta.",
   "activatedHomelink": "HomeLink aktivoitu.",
   "enablingKeylessDriving": "Otetaan avaimeton ajo käyttöön.",

@@ -1850,6 +1850,7 @@
   "stoppedClimate": "已停止恆溫系統。",
   "locking": "正在上鎖。",
   "locked": "已上鎖。",
+  "lockedTitle": "已鎖定",
   "unlocking": "正在解鎖。",
   "activatedHomelink": "已啟用 HomeLink。",
   "enablingKeylessDriving": "正在啟用免鑰匙駕駛。",

@@ -1850,6 +1850,7 @@
   "stoppedClimate": "已关闭空调。",
   "locking": "正在锁定",
   "locked": "已锁定",
+  "lockedTitle": "已锁定",
   "unlocking": "正在解锁",
   "activatedHomelink": "已激活 HomeLink。",
   "enablingKeylessDriving": "正在启用无钥匙驾驶。",

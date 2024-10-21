@@ -1850,6 +1850,7 @@
   "stoppedClimate": "실내 온도 조절을 중지했습니다.",
   "locking": "잠금",
   "locked": "잠김",
+  "lockedTitle": "잠김",
   "unlocking": "잠금 해제",
   "activatedHomelink": "HomeLink를 활성화했습니다.",
   "enablingKeylessDriving": "키리스 주행을 활성화하는 중입니다.",
