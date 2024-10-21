@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Otevírá všechny dveře",
   "navigatesToASpecifiedLocation": "Naviguje na zadané místo",
   "startsClimateAndPreconditionsBattery": "Spustí klimatizaci a připraví baterii",
-  "stopsClimateAndBatteryPreconditioning": "Zastaví klimatizaci a přípravu baterie"
+  "stopsClimateAndBatteryPreconditioning": "Zastaví klimatizaci a přípravu baterie",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch se připojí k naposledy vybranému vozidlu.",
+  "subscribeToEnableIntegration": "Přihlaste se k odběru a povolte integraci"
 }

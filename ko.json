@@ -2358,5 +2358,7 @@
   "opensAllDoors": "모든 문 열기",
   "navigatesToASpecifiedLocation": "지정된 위치로 안내",
   "startsClimateAndPreconditionsBattery": "실내 온도 조절을 시작하고 배터리를 예열합니다.",
-  "stopsClimateAndBatteryPreconditioning": "실내 온도 조절 및 배터리 예열을 중지합니다."
+  "stopsClimateAndBatteryPreconditioning": "실내 온도 조절 및 배터리 예열을 중지합니다.",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch가 마지막으로 선택한 차량에 연결됩니다.",
+  "subscribeToEnableIntegration": "통합을 활성화하려면 구독하세요"
 }

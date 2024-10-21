@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Minden ajtó kinyitása",
   "navigatesToASpecifiedLocation": "Navigálás egy adott helyre",
   "startsClimateAndPreconditionsBattery": "Klíma bekapcsolása és az akkumulátor előkészítése",
-  "stopsClimateAndBatteryPreconditioning": "Klíma kikapcsolása és az akkumulátor előkészítésének leállítása"
+  "stopsClimateAndBatteryPreconditioning": "Klíma kikapcsolása és az akkumulátor előkészítésének leállítása",
+  "appleWatchConnectsToLastSelectedVehicle": "Az Apple Watch a legutóbb kiválasztott járműhöz csatlakozik.",
+  "subscribeToEnableIntegration": "Az integráció engedélyezéséhez iratkozzon fel"
 }

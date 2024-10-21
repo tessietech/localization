@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Avaa kaikki ovet",
   "navigatesToASpecifiedLocation": "Navigoi annettuun sijaintiin",
   "startsClimateAndPreconditionsBattery": "Käynnistää ilmastoinnin ja esilämmittää akun",
-  "stopsClimateAndBatteryPreconditioning": "Sammuttaa ilmastoinnin ja akun esilämmityksen"
+  "stopsClimateAndBatteryPreconditioning": "Sammuttaa ilmastoinnin ja akun esilämmityksen",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch yhdistetään viimeksi valittuun ajoneuvoon.",
+  "subscribeToEnableIntegration": "Tilaa integroinnin käyttöönotto"
 }

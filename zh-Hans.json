@@ -2358,5 +2358,7 @@
   "opensAllDoors": "打开所有车门",
   "navigatesToASpecifiedLocation": "导航到指定位置",
   "startsClimateAndPreconditionsBattery": "启动空调并预处理电池",
-  "stopsClimateAndBatteryPreconditioning": "停止空调和电池预处理"
+  "stopsClimateAndBatteryPreconditioning": "停止空调和电池预处理",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch 会连接到上次选择的车辆。",
+  "subscribeToEnableIntegration": "订阅以启用集成"
 }

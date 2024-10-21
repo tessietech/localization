@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Öffnet alle Türen",
   "navigatesToASpecifiedLocation": "Navigiert zu einem angegebenen Ort",
   "startsClimateAndPreconditionsBattery": "Startet die Klimaanlage und bereitet die Batterie vor",
-  "stopsClimateAndBatteryPreconditioning": "Stoppt die Klimaanlage und die Batteriekonditionierung"
+  "stopsClimateAndBatteryPreconditioning": "Stoppt die Klimaanlage und die Batteriekonditionierung",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch verbindet sich mit dem zuletzt ausgewählten Fahrzeug.",
+  "subscribeToEnableIntegration": "Abonnieren, um die Integration zu aktivieren"
 }

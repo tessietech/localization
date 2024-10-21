@@ -1315,7 +1315,7 @@
   "lockToVehicle": "Lock to Vehicle",
   "toggleRangeMap": "Toggle Range Map",
   "bluetoothMode": "Bluetooth Mode",
-  "notConnected": "Not Connected",
+  "notConnected": "Not connected",
   "waking": "Waking",
   "wake": "Wake",
   "limitedConnectivity": "Limited connectivity",
@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Opens all doors",
   "navigatesToASpecifiedLocation": "Navigates to a specified location",
   "startsClimateAndPreconditionsBattery": "Starts the climate and preconditions the battery",
-  "stopsClimateAndBatteryPreconditioning": "Stops the climate and battery preconditioning"
+  "stopsClimateAndBatteryPreconditioning": "Stops the climate and battery preconditioning",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch connects to the last selected vehicle.",
+  "subscribeToEnableIntegration": "Subscribe to enable integration"
 }

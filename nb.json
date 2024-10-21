@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Åpner alle dører",
   "navigatesToASpecifiedLocation": "Navigerer til et spesifisert sted",
   "startsClimateAndPreconditionsBattery": "Starter klimaanlegget og forbereder batteriet",
-  "stopsClimateAndBatteryPreconditioning": "Stopper klimaanlegget og forberedelse av batteriet"
+  "stopsClimateAndBatteryPreconditioning": "Stopper klimaanlegget og forberedelse av batteriet",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch kobler til sist valgte kjøretøy.",
+  "subscribeToEnableIntegration": "Abonner for å aktivere integrasjon"
 }

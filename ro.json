@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Deschide toate ușile",
   "navigatesToASpecifiedLocation": "Navighează către o locație specificată",
   "startsClimateAndPreconditionsBattery": "Pornește climatizarea și precondiționează bateria",
-  "stopsClimateAndBatteryPreconditioning": "Oprește climatizarea și precondiționarea bateriei"
+  "stopsClimateAndBatteryPreconditioning": "Oprește climatizarea și precondiționarea bateriei",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch se conectează la ultima mașină selectată.",
+  "subscribeToEnableIntegration": "Abonează-te pentru a activa integrarea"
 }

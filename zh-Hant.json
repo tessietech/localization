@@ -2358,5 +2358,7 @@
   "opensAllDoors": "開啟所有車門",
   "navigatesToASpecifiedLocation": "導航到指定位置",
   "startsClimateAndPreconditionsBattery": "啟動空調並預熱電池",
-  "stopsClimateAndBatteryPreconditioning": "關閉空調和電池預熱"
+  "stopsClimateAndBatteryPreconditioning": "關閉空調和電池預熱",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch 會連線到上次選取的車輛。",
+  "subscribeToEnableIntegration": "訂閱以啟用整合"
 }

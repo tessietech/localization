@@ -1315,7 +1315,7 @@
   "lockToVehicle": "Araca Kilitle",
   "toggleRangeMap": "Menzil Haritasını Açıp/Kapat",
   "bluetoothMode": "Bluetooth Modu",
-  "notConnected": "Bağlı Değil",
+  "notConnected": "Bağlı değil",
   "waking": "Uyandırılıyor",
   "wake": "Uyandır",
   "limitedConnectivity": "Sınırlı bağlantı",
@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Tüm Kapıları Açar",
   "navigatesToASpecifiedLocation": "Belirtilen Konuma Gider",
   "startsClimateAndPreconditionsBattery": "Klimayı Başlatır ve Aküyü Önceden Koşullandırır",
-  "stopsClimateAndBatteryPreconditioning": "Klimayı ve Akü Ön Koşullandırmayı Durdurur"
+  "stopsClimateAndBatteryPreconditioning": "Klimayı ve Akü Ön Koşullandırmayı Durdurur",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch, en son seçilen araca bağlanır.",
+  "subscribeToEnableIntegration": "Entegrasyonu etkinleştirmek için abone olun"
 }

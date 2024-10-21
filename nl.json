@@ -2358,5 +2358,7 @@
   "opensAllDoors": "Opent alle deuren",
   "navigatesToASpecifiedLocation": "Navigeert naar een opgegeven locatie",
   "startsClimateAndPreconditionsBattery": "Start de klimaatregeling en bereidt de batterij voor",
-  "stopsClimateAndBatteryPreconditioning": "Stopt de klimaatregeling en de voorbereiding van de batterij"
+  "stopsClimateAndBatteryPreconditioning": "Stopt de klimaatregeling en de voorbereiding van de batterij",
+  "appleWatchConnectsToLastSelectedVehicle": "Apple Watch maakt verbinding met het laatst geselecteerde voertuig.",
+  "subscribeToEnableIntegration": "Abonneer u om integratie mogelijk te maken"
 }
