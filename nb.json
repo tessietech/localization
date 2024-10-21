@@ -2276,7 +2276,7 @@
   "thisScheduleWillBeDeleted": "Denne tidsplanen slettes.",
   "preconditioningSchedule": "Tidsplan for forvarming",
   "preconditionBy": "Forvarm innen",
-  "preconditioning": "Preconditioning",
+  "preconditioning": "Forvarming",
   "byTime": "Etter {time}",
   "startAtTime": "Start {time}",
   "startAt": "Starttid",
