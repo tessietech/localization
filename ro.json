@@ -2373,5 +2373,6 @@
   "windows": "Geamuri",
   "connectYourFleet": "Conectați-vă flota",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorizați contul Tesla pentru ca Tessie să poată comunica cu flota dvs.",
-  "openTheAppToDisableDogMode": "Deschideți aplicația pentru a dezactiva Modul câine."
+  "openTheAppToDisableDogMode": "Deschideți aplicația pentru a dezactiva Modul câine.",
+  "refreshing": "Se reîmprospătează"
 }

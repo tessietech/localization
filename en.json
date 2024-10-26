@@ -2373,5 +2373,6 @@
   "windows": "Windows",
   "connectYourFleet": "Connect your fleet",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Authorize your Tesla account so Tessie can communicate with your fleet",
-  "openTheAppToDisableDogMode": "Open the app to disable Dog Mode."
+  "openTheAppToDisableDogMode": "Open the app to disable Dog Mode.",
+  "refreshing": "Refreshing"
 }

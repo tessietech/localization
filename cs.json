@@ -2373,5 +2373,6 @@
   "windows": "Okna",
   "connectYourFleet": "Propojte svou flotilu",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorizujte svůj účet Tesla, aby Tessie mohla komunikovat s vaší flotilou",
-  "openTheAppToDisableDogMode": "Otevřete aplikaci a vypněte režim psa."
+  "openTheAppToDisableDogMode": "Otevřete aplikaci a vypněte režim psa.",
+  "refreshing": "Aktualizace"
 }

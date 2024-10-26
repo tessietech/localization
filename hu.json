@@ -2373,5 +2373,6 @@
   "windows": "Ablakok",
   "connectYourFleet": "Csatlakoztassa flottáját",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tesla-fiókja engedélyezésével a Tessie kommunikálhat flottájával",
-  "openTheAppToDisableDogMode": "A Kutya mód letiltásához nyissa meg az alkalmazást."
+  "openTheAppToDisableDogMode": "A Kutya mód letiltásához nyissa meg az alkalmazást.",
+  "refreshing": "Frissítés"
 }

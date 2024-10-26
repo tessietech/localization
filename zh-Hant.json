@@ -2373,5 +2373,6 @@
   "windows": "車窗",
   "connectYourFleet": "連接您的車隊",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "授權您的 Tesla 帳戶，以便 Tessie 可以與您的車隊通訊",
-  "openTheAppToDisableDogMode": "開啟應用程式以停用狗狗模式。"
+  "openTheAppToDisableDogMode": "開啟應用程式以停用狗狗模式。",
+  "refreshing": "正在刷新"
 }

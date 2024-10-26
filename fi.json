@@ -2373,5 +2373,6 @@
   "windows": "Ikkunat",
   "connectYourFleet": "Yhdistä autokantasi",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Valtuuta Tesla-tilisi, jotta Tessie voi viestiä autokantasi kanssa",
-  "openTheAppToDisableDogMode": "Avaa sovellus ja poista Koira-tila käytöstä."
+  "openTheAppToDisableDogMode": "Avaa sovellus ja poista Koira-tila käytöstä.",
+  "refreshing": "Päivitetään"
 }

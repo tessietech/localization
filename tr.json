@@ -2373,5 +2373,6 @@
   "windows": "Camlar",
   "connectYourFleet": "Filonuzu bağlayın",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tessie filonuzla iletişim kurabilsin diye Tesla hesabınızı yetkilendirin",
-  "openTheAppToDisableDogMode": "Köpek Modunu devre dışı bırakmak için uygulamayı açın."
+  "openTheAppToDisableDogMode": "Köpek Modunu devre dışı bırakmak için uygulamayı açın.",
+  "refreshing": "Yenileniyor"
 }

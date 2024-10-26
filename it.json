@@ -2373,5 +2373,6 @@
   "windows": "Finestre",
   "connectYourFleet": "Collega la tua flotta",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorizza il tuo account Tesla in modo che Tessie possa comunicare con la tua flotta",
-  "openTheAppToDisableDogMode": "Apri l'app per disattivare la Modalità cane."
+  "openTheAppToDisableDogMode": "Apri l'app per disattivare la Modalità cane.",
+  "refreshing": "Aggiornamento"
 }

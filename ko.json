@@ -2373,5 +2373,6 @@
   "windows": "창문",
   "connectYourFleet": "차량을 연결하세요",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tessie가 차량과 통신할 수 있도록 Tesla 계정을 승인하세요",
-  "openTheAppToDisableDogMode": "개 모드를 비활성화하려면 앱을 여세요."
+  "openTheAppToDisableDogMode": "개 모드를 비활성화하려면 앱을 여세요.",
+  "refreshing": "새로 고치는 중"
 }

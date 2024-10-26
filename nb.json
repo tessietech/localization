@@ -2373,5 +2373,6 @@
   "windows": "Vinduer",
   "connectYourFleet": "Koble til bilparken din",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Godkjenn Tesla-kontoen din slik at Tessie kan kommunisere med bilparken din",
-  "openTheAppToDisableDogMode": "Åpne appen for å deaktivere hundemodus."
+  "openTheAppToDisableDogMode": "Åpne appen for å deaktivere hundemodus.",
+  "refreshing": "Oppdaterer"
 }
