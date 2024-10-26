@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "啟動空調並預熱電池",
   "stopsClimateAndBatteryPreconditioning": "關閉空調和電池預熱",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch 會連線到上次選取的車輛。",
-  "subscribeToEnableIntegration": "訂閱以啟用整合"
+  "subscribeToEnableIntegration": "訂閱以啟用整合",
+  "closed": "已關閉",
+  "opened": "已開啟",
+  "opening": "開啟中",
+  "frontLeftTitle": "左前",
+  "frontRightTitle": "右前",
+  "rearLeftTitle": "左後",
+  "rearRightTitle": "右後",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "需要藍牙連線。請使用手機鑰匙將應用程式與您的車輛配對。",
+  "windows": "車窗",
+  "connectYourFleet": "連接您的車隊",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "授權您的 Tesla 帳戶，以便 Tessie 可以與您的車隊通訊",
+  "openTheAppToDisableDogMode": "開啟應用程式以停用狗狗模式。"
 }

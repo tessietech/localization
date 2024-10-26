@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Spustí klimatizaci a připraví baterii",
   "stopsClimateAndBatteryPreconditioning": "Zastaví klimatizaci a přípravu baterie",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch se připojí k naposledy vybranému vozidlu.",
-  "subscribeToEnableIntegration": "Přihlaste se k odběru a povolte integraci"
+  "subscribeToEnableIntegration": "Přihlaste se k odběru a povolte integraci",
+  "closed": "Zavřeno",
+  "opened": "Otevřeno",
+  "opening": "Otevírání",
+  "frontLeftTitle": "Levá přední",
+  "frontRightTitle": "Pravá přední",
+  "rearLeftTitle": "Levá zadní",
+  "rearRightTitle": "Pravá zadní",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Je vyžadováno připojení Bluetooth. Spárujte aplikaci s vozidlem pomocí funkce Phone Key.",
+  "windows": "Okna",
+  "connectYourFleet": "Propojte svou flotilu",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorizujte svůj účet Tesla, aby Tessie mohla komunikovat s vaší flotilou",
+  "openTheAppToDisableDogMode": "Otevřete aplikaci a vypněte režim psa."
 }

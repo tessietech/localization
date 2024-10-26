@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Pornește climatizarea și precondiționează bateria",
   "stopsClimateAndBatteryPreconditioning": "Oprește climatizarea și precondiționarea bateriei",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch se conectează la ultima mașină selectată.",
-  "subscribeToEnableIntegration": "Abonează-te pentru a activa integrarea"
+  "subscribeToEnableIntegration": "Abonează-te pentru a activa integrarea",
+  "closed": "Închis",
+  "opened": "Deschis",
+  "opening": "Se deschide",
+  "frontLeftTitle": "Față stânga",
+  "frontRightTitle": "Față dreapta",
+  "rearLeftTitle": "Spate stânga",
+  "rearRightTitle": "Spate dreapta",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Este necesarӑ o conexiune Bluetooth. Asociați aplicația cu vehiculul utilizând cheia telefonului.",
+  "windows": "Geamuri",
+  "connectYourFleet": "Conectați-vă flota",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorizați contul Tesla pentru ca Tessie să poată comunica cu flota dvs.",
+  "openTheAppToDisableDogMode": "Deschideți aplicația pentru a dezactiva Modul câine."
 }

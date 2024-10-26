@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Starts the climate and preconditions the battery",
   "stopsClimateAndBatteryPreconditioning": "Stops the climate and battery preconditioning",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch connects to the last selected vehicle.",
-  "subscribeToEnableIntegration": "Subscribe to enable integration"
+  "subscribeToEnableIntegration": "Subscribe to enable integration",
+  "closed": "Closed",
+  "opened": "Opened",
+  "opening": "Opening",
+  "frontLeftTitle": "Front Left",
+  "frontRightTitle": "Front Right",
+  "rearLeftTitle": "Rear Left",
+  "rearRightTitle": "Rear Right",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Requires Bluetooth connection. Pair the app with your vehicle using Phone Key.",
+  "windows": "Windows",
+  "connectYourFleet": "Connect your fleet",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Authorize your Tesla account so Tessie can communicate with your fleet",
+  "openTheAppToDisableDogMode": "Open the app to disable Dog Mode."
 }

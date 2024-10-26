@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Start de klimaatregeling en bereidt de batterij voor",
   "stopsClimateAndBatteryPreconditioning": "Stopt de klimaatregeling en de voorbereiding van de batterij",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch maakt verbinding met het laatst geselecteerde voertuig.",
-  "subscribeToEnableIntegration": "Abonneer u om integratie mogelijk te maken"
+  "subscribeToEnableIntegration": "Abonneer u om integratie mogelijk te maken",
+  "closed": "Gesloten",
+  "opened": "Geopend",
+  "opening": "Openen",
+  "frontLeftTitle": "Links voor",
+  "frontRightTitle": "Rechts voor",
+  "rearLeftTitle": "Links achter",
+  "rearRightTitle": "Rechts achter",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Vereist een Bluetooth-verbinding. Koppel de app met uw auto via Telefoonsleutel.",
+  "windows": "Ramen",
+  "connectYourFleet": "Verbind uw vloot",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autoriseer uw Tesla-account zodat Tessie met uw vloot kan communiceren",
+  "openTheAppToDisableDogMode": "Open de app om Hondmodus uit te schakelen."
 }

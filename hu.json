@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Klíma bekapcsolása és az akkumulátor előkészítése",
   "stopsClimateAndBatteryPreconditioning": "Klíma kikapcsolása és az akkumulátor előkészítésének leállítása",
   "appleWatchConnectsToLastSelectedVehicle": "Az Apple Watch a legutóbb kiválasztott járműhöz csatlakozik.",
-  "subscribeToEnableIntegration": "Az integráció engedélyezéséhez iratkozzon fel"
+  "subscribeToEnableIntegration": "Az integráció engedélyezéséhez iratkozzon fel",
+  "closed": "Zárva",
+  "opened": "Nyitva",
+  "opening": "Megnyitás",
+  "frontLeftTitle": "Bal első",
+  "frontRightTitle": "Jobb első",
+  "rearLeftTitle": "Bal hátsó",
+  "rearRightTitle": "Jobb hátsó",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Bluetooth-kapcsolat szükséges. Párosítsa az alkalmazást a járművel a Telefonkulcs segítségével.",
+  "windows": "Ablakok",
+  "connectYourFleet": "Csatlakoztassa flottáját",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tesla-fiókja engedélyezésével a Tessie kommunikálhat flottájával",
+  "openTheAppToDisableDogMode": "A Kutya mód letiltásához nyissa meg az alkalmazást."
 }

@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Starter klimaanlegget og forbereder batteriet",
   "stopsClimateAndBatteryPreconditioning": "Stopper klimaanlegget og forberedelse av batteriet",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch kobler til sist valgte kjøretøy.",
-  "subscribeToEnableIntegration": "Abonner for å aktivere integrasjon"
+  "subscribeToEnableIntegration": "Abonner for å aktivere integrasjon",
+  "closed": "Lukket",
+  "opened": "Åpen",
+  "opening": "Åpner",
+  "frontLeftTitle": "Venstre foran",
+  "frontRightTitle": "Høyre foran",
+  "rearLeftTitle": "Venstre bak",
+  "rearRightTitle": "Høyre bak",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Krever Bluetooth-tilkobling. Par applikasjonen med bilen din med telefonnøkkel.",
+  "windows": "Vinduer",
+  "connectYourFleet": "Koble til bilparken din",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Godkjenn Tesla-kontoen din slik at Tessie kan kommunisere med bilparken din",
+  "openTheAppToDisableDogMode": "Åpne appen for å deaktivere hundemodus."
 }

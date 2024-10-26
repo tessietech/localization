@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Klimayı Başlatır ve Aküyü Önceden Koşullandırır",
   "stopsClimateAndBatteryPreconditioning": "Klimayı ve Akü Ön Koşullandırmayı Durdurur",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch, en son seçilen araca bağlanır.",
-  "subscribeToEnableIntegration": "Entegrasyonu etkinleştirmek için abone olun"
+  "subscribeToEnableIntegration": "Entegrasyonu etkinleştirmek için abone olun",
+  "closed": "Kapalı",
+  "opened": "Açık",
+  "opening": "Açılıyor",
+  "frontLeftTitle": "Ön sol",
+  "frontRightTitle": "Ön sağ",
+  "rearLeftTitle": "Arka sol",
+  "rearRightTitle": "Arka sağ",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Bluetooth bağlantısı gerekiyor. Uygulamayı Telefon Anahtarı kullanarak aracınızla eşleştirin.",
+  "windows": "Camlar",
+  "connectYourFleet": "Filonuzu bağlayın",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tessie filonuzla iletişim kurabilsin diye Tesla hesabınızı yetkilendirin",
+  "openTheAppToDisableDogMode": "Köpek Modunu devre dışı bırakmak için uygulamayı açın."
 }

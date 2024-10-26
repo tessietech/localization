@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Käynnistää ilmastoinnin ja esilämmittää akun",
   "stopsClimateAndBatteryPreconditioning": "Sammuttaa ilmastoinnin ja akun esilämmityksen",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch yhdistetään viimeksi valittuun ajoneuvoon.",
-  "subscribeToEnableIntegration": "Tilaa integroinnin käyttöönotto"
+  "subscribeToEnableIntegration": "Tilaa integroinnin käyttöönotto",
+  "closed": "Suljettu",
+  "opened": "Avattu",
+  "opening": "Avataan",
+  "frontLeftTitle": "Vasen etu",
+  "frontRightTitle": "Oikea etu",
+  "rearLeftTitle": "Vasen taka",
+  "rearRightTitle": "Oikea taka",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Vaaditaan Bluetooth-yhteys. Yhdistä sovellus ajoneuvoon Puhelinavaimella.",
+  "windows": "Ikkunat",
+  "connectYourFleet": "Yhdistä autokantasi",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Valtuuta Tesla-tilisi, jotta Tessie voi viestiä autokantasi kanssa",
+  "openTheAppToDisableDogMode": "Avaa sovellus ja poista Koira-tila käytöstä."
 }

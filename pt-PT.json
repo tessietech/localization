@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "Liga o sistema de climatização e precondiciona a bateria",
   "stopsClimateAndBatteryPreconditioning": "Desliga o sistema de climatização e o precondicionamento da bateria",
   "appleWatchConnectsToLastSelectedVehicle": "O Apple Watch conecta-se ao último veículo selecionado.",
-  "subscribeToEnableIntegration": "Subscrever para ativar a integração"
+  "subscribeToEnableIntegration": "Subscrever para ativar a integração",
+  "closed": "Fechado",
+  "opened": "Aberto",
+  "opening": "A abrir",
+  "frontLeftTitle": "Dianteiro esquerdo",
+  "frontRightTitle": "Dianteiro direito",
+  "rearLeftTitle": "Traseiro esquerdo",
+  "rearRightTitle": "Traseiro direito",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "É necessária uma ligação Bluetooth. Emparelhe a aplicação com o seu veículo usando a Chave Telefónica.",
+  "windows": "Janelas",
+  "connectYourFleet": "Ligue a sua frota",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorize a sua conta Tesla para que a Tessie possa comunicar com a sua frota",
+  "openTheAppToDisableDogMode": "Abra a aplicação para desativar o Modo Cão."
 }

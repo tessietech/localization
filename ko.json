@@ -2361,5 +2361,17 @@
   "startsClimateAndPreconditionsBattery": "실내 온도 조절을 시작하고 배터리를 예열합니다.",
   "stopsClimateAndBatteryPreconditioning": "실내 온도 조절 및 배터리 예열을 중지합니다.",
   "appleWatchConnectsToLastSelectedVehicle": "Apple Watch가 마지막으로 선택한 차량에 연결됩니다.",
-  "subscribeToEnableIntegration": "통합을 활성화하려면 구독하세요"
+  "subscribeToEnableIntegration": "통합을 활성화하려면 구독하세요",
+  "closed": "닫힘",
+  "opened": "열림",
+  "opening": "열림",
+  "frontLeftTitle": "앞 왼쪽",
+  "frontRightTitle": "앞 오른쪽",
+  "rearLeftTitle": "뒤 왼쪽",
+  "rearRightTitle": "뒤 오른쪽",
+  "requiresBluetoothConnectionPairAppViaPhoneKey": "Bluetooth 연결이 필요합니다. 휴대폰 키를 사용하여 앱을 차량과 페어링하세요.",
+  "windows": "창문",
+  "connectYourFleet": "차량을 연결하세요",
+  "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tessie가 차량과 통신할 수 있도록 Tesla 계정을 승인하세요",
+  "openTheAppToDisableDogMode": "개 모드를 비활성화하려면 앱을 여세요."
 }
