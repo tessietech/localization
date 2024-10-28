@@ -2374,5 +2374,7 @@
   "connectYourFleet": "Verbinden Sie Ihre Flotte",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorisieren Sie Ihr Tesla-Konto, damit Tessie mit Ihrer Flotte kommunizieren kann",
   "openTheAppToDisableDogMode": "Öffnen Sie die App, um den Hundemodus zu deaktivieren.",
-  "refreshing": "Aktualisieren"
+  "refreshing": "Aktualisieren",
+  "automationsAreUsingTheTimezoneTimezone": "Automatisierungen verwenden die Zeitzone {timezone}.",
+  "syncToYourCurrentTimezoneTimezone": "Mit deiner aktuellen Zeitzone {timezone} synchronisieren?"
 }

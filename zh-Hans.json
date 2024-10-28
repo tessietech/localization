@@ -2374,5 +2374,7 @@
   "connectYourFleet": "连接您的车队",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "授权您的 Tesla 帐户，以便 Tessie 可以与您的车队通信",
   "openTheAppToDisableDogMode": "打开应用程序以禁用狗狗模式。",
-  "refreshing": "刷新中"
+  "refreshing": "刷新中",
+  "automationsAreUsingTheTimezoneTimezone": "自动化正在使用 {timezone} 时区。",
+  "syncToYourCurrentTimezoneTimezone": "是否同步到您当前的时区 {timezone}？"
 }

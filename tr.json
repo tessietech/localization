@@ -2374,5 +2374,7 @@
   "connectYourFleet": "Filonuzu bağlayın",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tessie filonuzla iletişim kurabilsin diye Tesla hesabınızı yetkilendirin",
   "openTheAppToDisableDogMode": "Köpek Modunu devre dışı bırakmak için uygulamayı açın.",
-  "refreshing": "Yenileniyor"
+  "refreshing": "Yenileniyor",
+  "automationsAreUsingTheTimezoneTimezone": "Otomasyonlar {timezone} zaman dilimini kullanıyor.",
+  "syncToYourCurrentTimezoneTimezone": "Geçerli zaman diliminiz olan {timezone} ile eşitlensin mi?"
 }

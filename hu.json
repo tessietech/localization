@@ -2374,5 +2374,7 @@
   "connectYourFleet": "Csatlakoztassa flottáját",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Tesla-fiókja engedélyezésével a Tessie kommunikálhat flottájával",
   "openTheAppToDisableDogMode": "A Kutya mód letiltásához nyissa meg az alkalmazást.",
-  "refreshing": "Frissítés"
+  "refreshing": "Frissítés",
+  "automationsAreUsingTheTimezoneTimezone": "Az automatizálások a(z) {timezone} időzónát használják.",
+  "syncToYourCurrentTimezoneTimezone": "Szinkronizálja az aktuális időzónájával, {timezone}?"
 }

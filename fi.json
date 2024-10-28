@@ -2374,5 +2374,7 @@
   "connectYourFleet": "Yhdistä autokantasi",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Valtuuta Tesla-tilisi, jotta Tessie voi viestiä autokantasi kanssa",
   "openTheAppToDisableDogMode": "Avaa sovellus ja poista Koira-tila käytöstä.",
-  "refreshing": "Päivitetään"
+  "refreshing": "Päivitetään",
+  "automationsAreUsingTheTimezoneTimezone": "Automaatiot käyttävät aikavyöhykettä {timezone}.",
+  "syncToYourCurrentTimezoneTimezone": "Synkronoidaanko nykyiseen aikavyöhykkeeseesi {timezone}?"
 }

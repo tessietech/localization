@@ -2374,5 +2374,7 @@
   "connectYourFleet": "Verbind uw vloot",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autoriseer uw Tesla-account zodat Tessie met uw vloot kan communiceren",
   "openTheAppToDisableDogMode": "Open de app om Hondmodus uit te schakelen.",
-  "refreshing": "Vernieuwen"
+  "refreshing": "Vernieuwen",
+  "automationsAreUsingTheTimezoneTimezone": "Automatiseringen gebruiken de tijdzone {timezone}.",
+  "syncToYourCurrentTimezoneTimezone": "Synchroniseren met je huidige tijdzone, {timezone}?"
 }

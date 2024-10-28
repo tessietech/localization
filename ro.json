@@ -2374,5 +2374,7 @@
   "connectYourFleet": "Conectați-vă flota",
   "authorizeYourTeslaAccountSoTessieCanCommunicateWithYourFleet": "Autorizați contul Tesla pentru ca Tessie să poată comunica cu flota dvs.",
   "openTheAppToDisableDogMode": "Deschideți aplicația pentru a dezactiva Modul câine.",
-  "refreshing": "Se reîmprospătează"
+  "refreshing": "Se reîmprospătează",
+  "automationsAreUsingTheTimezoneTimezone": "Automatizările folosesc fusul orar {timezone}.",
+  "syncToYourCurrentTimezoneTimezone": "Sincronizați cu fusul orar curent, {timezone}?"
 }
