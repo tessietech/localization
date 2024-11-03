@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Open de app om Hondmodus uit te schakelen.",
   "refreshing": "Vernieuwen",
   "automationsAreUsingTheTimezoneTimezone": "Automatiseringen gebruiken de tijdzone {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Synchroniseren met je huidige tijdzone, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Synchroniseren met je huidige tijdzone, {timezone}?",
+  "interiorTemperature": "Binnentemperatuur",
+  "exteriorTemperature": "Buitentemperatuur"
 }

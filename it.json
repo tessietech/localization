@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Apri l'app per disattivare la Modalità cane.",
   "refreshing": "Aggiornamento",
   "automationsAreUsingTheTimezoneTimezone": "Le automazioni utilizzano il fuso orario {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Sincronizzare con il fuso orario corrente, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Sincronizzare con il fuso orario corrente, {timezone}?",
+  "interiorTemperature": "Temperatura interna",
+  "exteriorTemperature": "Temperatura esterna"
 }

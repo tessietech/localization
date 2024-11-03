@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Abre la aplicación para desactivar el Modo Perro.",
   "refreshing": "Actualizando",
   "automationsAreUsingTheTimezoneTimezone": "Las automatizaciones utilizan la zona horaria {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "¿Sincronizar con tu zona horaria actual, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "¿Sincronizar con tu zona horaria actual, {timezone}?",
+  "interiorTemperature": "Temperatura interior",
+  "exteriorTemperature": "Temperatura exterior"
 }

@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Open the app to disable Dog Mode.",
   "refreshing": "Refreshing",
   "automationsAreUsingTheTimezoneTimezone": "Automations are using the {timezone} timezone.",
-  "syncToYourCurrentTimezoneTimezone": "Sync to your current timezone, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Sync to your current timezone, {timezone}?",
+  "interiorTemperature": "Interior temperature",
+  "exteriorTemperature": "Exterior temperature"
 }

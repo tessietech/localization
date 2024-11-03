@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Otwórz aplikację, aby wyłączyć Tryb psa.",
   "refreshing": "Odświeżanie",
   "automationsAreUsingTheTimezoneTimezone": "Automatyzacje używają strefy czasowej {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Zsynchronizować z bieżącą strefą czasową: {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Zsynchronizować z bieżącą strefą czasową: {timezone}?",
+  "interiorTemperature": "Temperatura wewnętrzna",
+  "exteriorTemperature": "Temperatura zewnętrzna"
 }

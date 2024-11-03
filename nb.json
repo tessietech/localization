@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Åpne appen for å deaktivere hundemodus.",
   "refreshing": "Oppdaterer",
   "automationsAreUsingTheTimezoneTimezone": "Automatiseringer bruker tidssonen {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Vil du synkronisere til din gjeldende tidssone, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Vil du synkronisere til din gjeldende tidssone, {timezone}?",
+  "interiorTemperature": "Innvendig temperatur",
+  "exteriorTemperature": "Utvendig temperatur"
 }

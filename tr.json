@@ -2376,5 +2376,7 @@
   "openTheAppToDisableDogMode": "Köpek Modunu devre dışı bırakmak için uygulamayı açın.",
   "refreshing": "Yenileniyor",
   "automationsAreUsingTheTimezoneTimezone": "Otomasyonlar {timezone} zaman dilimini kullanıyor.",
-  "syncToYourCurrentTimezoneTimezone": "Geçerli zaman diliminiz olan {timezone} ile eşitlensin mi?"
+  "syncToYourCurrentTimezoneTimezone": "Geçerli zaman diliminiz olan {timezone} ile eşitlensin mi?",
+  "interiorTemperature": "İç sıcaklık",
+  "exteriorTemperature": "Dış sıcaklık"
 }
