@@ -1089,7 +1089,7 @@
   "charger": "Lader",
   "chargerEnergyUsedKwh": "{chargerEnergyUsed} kWh",
   "idleFinished": "Hviletiden er ferdig",
-  "idleInProgress": "Innsovning pågår",
+  "idleInProgress": "Hvilemodus",
   "inProgress": "Pågår",
   "deleteIdle": "Slett hviletid",
   "thisIdleWillBeDeletedThisCannotBeUndone": "Denne hviletiden vil bli slettet. Dette kan ikke omgjøres.",
