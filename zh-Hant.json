@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "自動化功能正在使用 {timezone} 時區。",
   "syncToYourCurrentTimezoneTimezone": "要同步到您目前所在的時區 {timezone} 嗎？",
   "interiorTemperature": "車內溫度",
-  "exteriorTemperature": "車外溫度"
+  "exteriorTemperature": "車外溫度",
+  "enablePreciseLocation": "啟用精確位置資訊"
 }

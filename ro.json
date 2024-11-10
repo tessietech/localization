@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Automatizările folosesc fusul orar {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Sincronizați cu fusul orar curent, {timezone}?",
   "interiorTemperature": "Temperatura interioară",
-  "exteriorTemperature": "Temperatura exterioară"
+  "exteriorTemperature": "Temperatura exterioară",
+  "enablePreciseLocation": "Activați locația precisă"
 }

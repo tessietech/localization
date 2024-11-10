@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "As automatizações estão a usar o fuso horário {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Sincronizar com o seu fuso horário atual, {timezone}?",
   "interiorTemperature": "Temperatura interior",
-  "exteriorTemperature": "Temperatura exterior"
+  "exteriorTemperature": "Temperatura exterior",
+  "enablePreciseLocation": "Ativar localização precisa"
 }

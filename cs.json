@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Automatizace používají časové pásmo {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Chcete synchronizovat s vaším aktuálním časovým pásmem, {timezone}?",
   "interiorTemperature": "Vnitřní teplota",
-  "exteriorTemperature": "Venkovní teplota"
+  "exteriorTemperature": "Venkovní teplota",
+  "enablePreciseLocation": "Povolit přesnou polohu"
 }

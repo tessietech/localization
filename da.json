@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Automationer bruger tidszonen {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Synkroniser til din nuværende tidszone, {timezone}?",
   "interiorTemperature": "Kabinetemperatur",
-  "exteriorTemperature": "Udetemperatur"
+  "exteriorTemperature": "Udetemperatur",
+  "enablePreciseLocation": "Aktivér præcis placering"
 }

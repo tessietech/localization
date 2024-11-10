@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Otomasyonlar {timezone} zaman dilimini kullanıyor.",
   "syncToYourCurrentTimezoneTimezone": "Geçerli zaman diliminiz olan {timezone} ile eşitlensin mi?",
   "interiorTemperature": "İç sıcaklık",
-  "exteriorTemperature": "Dış sıcaklık"
+  "exteriorTemperature": "Dış sıcaklık",
+  "enablePreciseLocation": "Kesin konumu etkinleştir"
 }

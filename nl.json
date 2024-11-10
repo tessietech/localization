@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Automatiseringen gebruiken de tijdzone {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Synchroniseren met je huidige tijdzone, {timezone}?",
   "interiorTemperature": "Binnentemperatuur",
-  "exteriorTemperature": "Buitentemperatuur"
+  "exteriorTemperature": "Buitentemperatuur",
+  "enablePreciseLocation": "Nauwkeurige locatie inschakelen"
 }

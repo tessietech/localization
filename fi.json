@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Automaatiot käyttävät aikavyöhykettä {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Synkronoidaanko nykyiseen aikavyöhykkeeseesi {timezone}?",
   "interiorTemperature": "Sisälämpötila",
-  "exteriorTemperature": "Ulkolämpötila"
+  "exteriorTemperature": "Ulkolämpötila",
+  "enablePreciseLocation": "Ota tarkka sijainti käyttöön"
 }

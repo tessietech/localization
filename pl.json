@@ -2378,5 +2378,6 @@
   "automationsAreUsingTheTimezoneTimezone": "Automatyzacje używają strefy czasowej {timezone}.",
   "syncToYourCurrentTimezoneTimezone": "Zsynchronizować z bieżącą strefą czasową: {timezone}?",
   "interiorTemperature": "Temperatura wewnętrzna",
-  "exteriorTemperature": "Temperatura zewnętrzna"
+  "exteriorTemperature": "Temperatura zewnętrzna",
+  "enablePreciseLocation": "Włącz dokładną lokalizację"
 }
