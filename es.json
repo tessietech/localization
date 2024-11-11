@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "¿Sincronizar con tu zona horaria actual, {timezone}?",
   "interiorTemperature": "Temperatura interior",
   "exteriorTemperature": "Temperatura exterior",
-  "enablePreciseLocation": "Activar ubicación precisa"
+  "enablePreciseLocation": "Activar ubicación precisa",
+  "tonneau": "Caja de carga",
+  "openTonneau": "Abrir caja de carga",
+  "closeTonneau": "Cerrar caja de carga",
+  "tonneauOpen": "Caja de carga abierta"
 }

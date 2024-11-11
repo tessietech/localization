@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Synkroniser til din nuværende tidszone, {timezone}?",
   "interiorTemperature": "Kabinetemperatur",
   "exteriorTemperature": "Udetemperatur",
-  "enablePreciseLocation": "Aktivér præcis placering"
+  "enablePreciseLocation": "Aktivér præcis placering",
+  "tonneau": "Ladekasse",
+  "openTonneau": "Åbn ladekassen",
+  "closeTonneau": "Luk ladekassen",
+  "tonneauOpen": "Ladekassen er åben"
 }

@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Zsynchronizować z bieżącą strefą czasową: {timezone}?",
   "interiorTemperature": "Temperatura wewnętrzna",
   "exteriorTemperature": "Temperatura zewnętrzna",
-  "enablePreciseLocation": "Włącz dokładną lokalizację"
+  "enablePreciseLocation": "Włącz dokładną lokalizację",
+  "tonneau": "Pokrywa bagażnika",
+  "openTonneau": "Otwórz pokrywę bagażnika",
+  "closeTonneau": "Zamknij pokrywę bagażnika",
+  "tonneauOpen": "Pokrywa bagażnika otwarta"
 }

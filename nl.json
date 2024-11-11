@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Synchroniseren met je huidige tijdzone, {timezone}?",
   "interiorTemperature": "Binnentemperatuur",
   "exteriorTemperature": "Buitentemperatuur",
-  "enablePreciseLocation": "Nauwkeurige locatie inschakelen"
+  "enablePreciseLocation": "Nauwkeurige locatie inschakelen",
+  "tonneau": "Laadklep",
+  "openTonneau": "Laadklep openen",
+  "closeTonneau": "Laadklep sluiten",
+  "tonneauOpen": "Laadklep open"
 }

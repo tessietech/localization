@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Synchroniser avec votre fuseau horaire actuel, {timezone} ?",
   "interiorTemperature": "Température intérieure",
   "exteriorTemperature": "Température extérieure",
-  "enablePreciseLocation": "Activer la localisation précise"
+  "enablePreciseLocation": "Activer la localisation précise",
+  "tonneau": "Benne",
+  "openTonneau": "Ouvrir la benne",
+  "closeTonneau": "Fermer la benne",
+  "tonneauOpen": "Benne ouverte"
 }

@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Sincronizați cu fusul orar curent, {timezone}?",
   "interiorTemperature": "Temperatura interioară",
   "exteriorTemperature": "Temperatura exterioară",
-  "enablePreciseLocation": "Activați locația precisă"
+  "enablePreciseLocation": "Activați locația precisă",
+  "tonneau": "Benă",
+  "openTonneau": "Deschideți bena",
+  "closeTonneau": "Închideți bena",
+  "tonneauOpen": "Benă deschisă"
 }

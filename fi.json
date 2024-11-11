@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Synkronoidaanko nykyiseen aikavyöhykkeeseesi {timezone}?",
   "interiorTemperature": "Sisälämpötila",
   "exteriorTemperature": "Ulkolämpötila",
-  "enablePreciseLocation": "Ota tarkka sijainti käyttöön"
+  "enablePreciseLocation": "Ota tarkka sijainti käyttöön",
+  "tonneau": "Lavapeite",
+  "openTonneau": "Avaa lavapeite",
+  "closeTonneau": "Sulje lavapeite",
+  "tonneauOpen": "Lavapeite auki"
 }

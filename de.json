@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Mit deiner aktuellen Zeitzone {timezone} synchronisieren?",
   "interiorTemperature": "Innentemperatur",
   "exteriorTemperature": "Außentemperatur",
-  "enablePreciseLocation": "Genauen Standort aktivieren"
+  "enablePreciseLocation": "Genauen Standort aktivieren",
+  "tonneau": "Ladefläche",
+  "openTonneau": "Ladefläche öffnen",
+  "closeTonneau": "Ladefläche schließen",
+  "tonneauOpen": "Ladefläche geöffnet"
 }

@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "是否同步到您当前的时区 {timezone}？",
   "interiorTemperature": "车内温度",
   "exteriorTemperature": "车外温度",
-  "enablePreciseLocation": "启用精准定位"
+  "enablePreciseLocation": "启用精准定位",
+  "tonneau": "后车斗盖",
+  "openTonneau": "打开后车斗盖",
+  "closeTonneau": "关闭后车斗盖",
+  "tonneauOpen": "后车斗盖已打开"
 }

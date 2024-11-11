@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Sync to your current timezone, {timezone}?",
   "interiorTemperature": "Interior temperature",
   "exteriorTemperature": "Exterior temperature",
-  "enablePreciseLocation": "Enable precise location"
+  "enablePreciseLocation": "Enable precise location",
+  "tonneau": "Tonneau",
+  "openTonneau": "Open tonneau",
+  "closeTonneau": "Close tonneau",
+  "tonneauOpen": "Tonneau open"
 }

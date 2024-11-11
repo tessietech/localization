@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Chcete synchronizovat s vaším aktuálním časovým pásmem, {timezone}?",
   "interiorTemperature": "Vnitřní teplota",
   "exteriorTemperature": "Venkovní teplota",
-  "enablePreciseLocation": "Povolit přesnou polohu"
+  "enablePreciseLocation": "Povolit přesnou polohu",
+  "tonneau": "Kryt korby",
+  "openTonneau": "Otevřít kryt korby",
+  "closeTonneau": "Zavřít kryt korby",
+  "tonneauOpen": "Kryt korby je otevřený"
 }

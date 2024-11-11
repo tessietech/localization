@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Szinkronizálja az aktuális időzónájával, {timezone}?",
   "interiorTemperature": "Belső hőmérséklet",
   "exteriorTemperature": "Külső hőmérséklet",
-  "enablePreciseLocation": "Pontos helymeghatározás engedélyezése"
+  "enablePreciseLocation": "Pontos helymeghatározás engedélyezése",
+  "tonneau": "Raktér",
+  "openTonneau": "Raktér nyitása",
+  "closeTonneau": "Raktér zárása",
+  "tonneauOpen": "Raktér nyitva"
 }

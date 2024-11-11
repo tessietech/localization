@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Vil du synkronisere til din gjeldende tidssone, {timezone}?",
   "interiorTemperature": "Innvendig temperatur",
   "exteriorTemperature": "Utvendig temperatur",
-  "enablePreciseLocation": "Aktiver presis posisjon"
+  "enablePreciseLocation": "Aktiver presis posisjon",
+  "tonneau": "Plan",
+  "openTonneau": "Åpne plan",
+  "closeTonneau": "Lukk plan",
+  "tonneauOpen": "Plan åpen"
 }

@@ -2379,5 +2379,9 @@
   "syncToYourCurrentTimezoneTimezone": "Geçerli zaman diliminiz olan {timezone} ile eşitlensin mi?",
   "interiorTemperature": "İç sıcaklık",
   "exteriorTemperature": "Dış sıcaklık",
-  "enablePreciseLocation": "Kesin konumu etkinleştir"
+  "enablePreciseLocation": "Kesin konumu etkinleştir",
+  "tonneau": "Bagaj Kapağı",
+  "openTonneau": "Bagaj Kapağını Aç",
+  "closeTonneau": "Bagaj Kapağını Kapat",
+  "tonneauOpen": "Bagaj Kapağı Açık"
 }
