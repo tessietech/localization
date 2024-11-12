@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "Avaa sovellus ja poista Koira-tila käytöstä.",
   "refreshing": "Päivitetään",
   "automationsAreUsingTheTimezoneTimezone": "Automaatiot käyttävät aikavyöhykettä {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Synkronoidaanko nykyiseen aikavyöhykkeeseesi {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Synkronoidaanko nykyiseen aikavyöhykkeeseesi {timezone}?",
+  "interiorTemperature": "Sisälämpötila",
+  "exteriorTemperature": "Ulkolämpötila",
+  "enablePreciseLocation": "Ota tarkka sijainti käyttöön",
+  "tonneau": "Lavapeite",
+  "openTonneau": "Avaa lavapeite",
+  "closeTonneau": "Sulje lavapeite",
+  "tonneauOpen": "Lavapeite auki",
+  "openingTonneau": "Avaa lavapeite",
+  "closingTonneau": "Sulje lavapeite"
 }

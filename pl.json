@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "Otwórz aplikację, aby wyłączyć Tryb psa.",
   "refreshing": "Odświeżanie",
   "automationsAreUsingTheTimezoneTimezone": "Automatyzacje używają strefy czasowej {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Zsynchronizować z bieżącą strefą czasową: {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Zsynchronizować z bieżącą strefą czasową: {timezone}?",
+  "interiorTemperature": "Temperatura wewnętrzna",
+  "exteriorTemperature": "Temperatura zewnętrzna",
+  "enablePreciseLocation": "Włącz dokładną lokalizację",
+  "tonneau": "Pokrywa bagażnika",
+  "openTonneau": "Otwórz pokrywę bagażnika",
+  "closeTonneau": "Zamknij pokrywę bagażnika",
+  "tonneauOpen": "Pokrywa bagażnika otwarta",
+  "openingTonneau": "Otwieranie pokrywy bagażnika",
+  "closingTonneau": "Zamykanie pokrywy bagażnika"
 }

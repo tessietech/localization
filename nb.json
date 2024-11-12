@@ -1089,7 +1089,7 @@
   "charger": "Lader",
   "chargerEnergyUsedKwh": "{chargerEnergyUsed} kWh",
   "idleFinished": "Hviletiden er ferdig",
-  "idleInProgress": "Innsovning pågår",
+  "idleInProgress": "Tomgang pågår",
   "inProgress": "Pågår",
   "deleteIdle": "Slett hviletid",
   "thisIdleWillBeDeletedThisCannotBeUndone": "Denne hviletiden vil bli slettet. Dette kan ikke omgjøres.",
@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "Åpne appen for å deaktivere hundemodus.",
   "refreshing": "Oppdaterer",
   "automationsAreUsingTheTimezoneTimezone": "Automatiseringer bruker tidssonen {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "Vil du synkronisere til din gjeldende tidssone, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Vil du synkronisere til din gjeldende tidssone, {timezone}?",
+  "interiorTemperature": "Innvendig temperatur",
+  "exteriorTemperature": "Utvendig temperatur",
+  "enablePreciseLocation": "Aktiver presis posisjon",
+  "tonneau": "Plan",
+  "openTonneau": "Åpne plan",
+  "closeTonneau": "Lukk plan",
+  "tonneauOpen": "Plan åpen",
+  "openingTonneau": "Åpner lasteplan",
+  "closingTonneau": "Lukker lasteplan"
 }

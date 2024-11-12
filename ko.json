@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "개 모드를 비활성화하려면 앱을 여세요.",
   "refreshing": "새로 고치는 중",
   "automationsAreUsingTheTimezoneTimezone": "자동화에 {timezone} 시간대가 사용되고 있습니다.",
-  "syncToYourCurrentTimezoneTimezone": "현재 시간대인 {timezone}(으)로 동기화하시겠습니까?"
+  "syncToYourCurrentTimezoneTimezone": "현재 시간대인 {timezone}(으)로 동기화하시겠습니까?",
+  "interiorTemperature": "실내 온도",
+  "exteriorTemperature": "외부 온도",
+  "enablePreciseLocation": "정확한 위치 사용 설정",
+  "tonneau": "덮개",
+  "openTonneau": "덮개 열기",
+  "closeTonneau": "덮개 닫기",
+  "tonneauOpen": "덮개 열림",
+  "openingTonneau": "트렁크 열림",
+  "closingTonneau": "트렁크 닫힘"
 }

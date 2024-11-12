@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "Abre la aplicación para desactivar el Modo Perro.",
   "refreshing": "Actualizando",
   "automationsAreUsingTheTimezoneTimezone": "Las automatizaciones utilizan la zona horaria {timezone}.",
-  "syncToYourCurrentTimezoneTimezone": "¿Sincronizar con tu zona horaria actual, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "¿Sincronizar con tu zona horaria actual, {timezone}?",
+  "interiorTemperature": "Temperatura interior",
+  "exteriorTemperature": "Temperatura exterior",
+  "enablePreciseLocation": "Activar ubicación precisa",
+  "tonneau": "Caja de carga",
+  "openTonneau": "Abrir caja de carga",
+  "closeTonneau": "Cerrar caja de carga",
+  "tonneauOpen": "Caja de carga abierta",
+  "openingTonneau": "Abriendo la caja de carga",
+  "closingTonneau": "Cerrando la caja de carga"
 }

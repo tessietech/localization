@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "Open the app to disable Dog Mode.",
   "refreshing": "Refreshing",
   "automationsAreUsingTheTimezoneTimezone": "Automations are using the {timezone} timezone.",
-  "syncToYourCurrentTimezoneTimezone": "Sync to your current timezone, {timezone}?"
+  "syncToYourCurrentTimezoneTimezone": "Sync to your current timezone, {timezone}?",
+  "interiorTemperature": "Interior temperature",
+  "exteriorTemperature": "Exterior temperature",
+  "enablePreciseLocation": "Enable precise location",
+  "tonneau": "Tonneau",
+  "openTonneau": "Open tonneau",
+  "closeTonneau": "Close tonneau",
+  "tonneauOpen": "Tonneau open",
+  "openingTonneau": "Opening tonneau",
+  "closingTonneau": "Closing tonneau"
 }

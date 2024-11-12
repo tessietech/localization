@@ -2376,5 +2376,14 @@
   "openTheAppToDisableDogMode": "打开应用程序以禁用狗狗模式。",
   "refreshing": "刷新中",
   "automationsAreUsingTheTimezoneTimezone": "自动化正在使用 {timezone} 时区。",
-  "syncToYourCurrentTimezoneTimezone": "是否同步到您当前的时区 {timezone}？"
+  "syncToYourCurrentTimezoneTimezone": "是否同步到您当前的时区 {timezone}？",
+  "interiorTemperature": "车内温度",
+  "exteriorTemperature": "车外温度",
+  "enablePreciseLocation": "启用精准定位",
+  "tonneau": "后车斗盖",
+  "openTonneau": "打开后车斗盖",
+  "closeTonneau": "关闭后车斗盖",
+  "tonneauOpen": "后车斗盖已打开",
+  "openingTonneau": "正在打开后备箱盖",
+  "closingTonneau": "正在关闭后备箱盖"
 }
