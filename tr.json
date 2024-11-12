@@ -2383,5 +2383,7 @@
   "tonneau": "Bagaj Kapağı",
   "openTonneau": "Bagaj Kapağını Aç",
   "closeTonneau": "Bagaj Kapağını Kapat",
-  "tonneauOpen": "Bagaj Kapağı Açık"
+  "tonneauOpen": "Bagaj Kapağı Açık",
+  "openingTonneau": "Bagaj kapağı açılıyor",
+  "closingTonneau": "Bagaj kapağı kapanıyor"
 }

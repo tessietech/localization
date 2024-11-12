@@ -2383,5 +2383,7 @@
   "tonneau": "Lavapeite",
   "openTonneau": "Avaa lavapeite",
   "closeTonneau": "Sulje lavapeite",
-  "tonneauOpen": "Lavapeite auki"
+  "tonneauOpen": "Lavapeite auki",
+  "openingTonneau": "Avaa lavapeite",
+  "closingTonneau": "Sulje lavapeite"
 }

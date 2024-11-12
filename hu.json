@@ -2383,5 +2383,7 @@
   "tonneau": "Raktér",
   "openTonneau": "Raktér nyitása",
   "closeTonneau": "Raktér zárása",
-  "tonneauOpen": "Raktér nyitva"
+  "tonneauOpen": "Raktér nyitva",
+  "openingTonneau": "Platófedél nyitása",
+  "closingTonneau": "Platófedél zárása"
 }

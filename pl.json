@@ -2383,5 +2383,7 @@
   "tonneau": "Pokrywa bagażnika",
   "openTonneau": "Otwórz pokrywę bagażnika",
   "closeTonneau": "Zamknij pokrywę bagażnika",
-  "tonneauOpen": "Pokrywa bagażnika otwarta"
+  "tonneauOpen": "Pokrywa bagażnika otwarta",
+  "openingTonneau": "Otwieranie pokrywy bagażnika",
+  "closingTonneau": "Zamykanie pokrywy bagażnika"
 }

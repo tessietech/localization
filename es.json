@@ -2383,5 +2383,7 @@
   "tonneau": "Caja de carga",
   "openTonneau": "Abrir caja de carga",
   "closeTonneau": "Cerrar caja de carga",
-  "tonneauOpen": "Caja de carga abierta"
+  "tonneauOpen": "Caja de carga abierta",
+  "openingTonneau": "Abriendo la caja de carga",
+  "closingTonneau": "Cerrando la caja de carga"
 }

@@ -2383,5 +2383,7 @@
   "tonneau": "덮개",
   "openTonneau": "덮개 열기",
   "closeTonneau": "덮개 닫기",
-  "tonneauOpen": "덮개 열림"
+  "tonneauOpen": "덮개 열림",
+  "openingTonneau": "트렁크 열림",
+  "closingTonneau": "트렁크 닫힘"
 }

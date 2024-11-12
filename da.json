@@ -2383,5 +2383,7 @@
   "tonneau": "Ladekasse",
   "openTonneau": "Åbn ladekassen",
   "closeTonneau": "Luk ladekassen",
-  "tonneauOpen": "Ladekassen er åben"
+  "tonneauOpen": "Ladekassen er åben",
+  "openingTonneau": "Åbner bagklap",
+  "closingTonneau": "Lukker bagklap"
 }

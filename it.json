@@ -2383,5 +2383,7 @@
   "tonneau": "Cassone",
   "openTonneau": "Apri cassone",
   "closeTonneau": "Chiudi cassone",
-  "tonneauOpen": "Cassone aperto"
+  "tonneauOpen": "Cassone aperto",
+  "openingTonneau": "Apertura del cassone",
+  "closingTonneau": "Chiusura del cassone"
 }

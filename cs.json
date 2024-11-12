@@ -2383,5 +2383,7 @@
   "tonneau": "Kryt korby",
   "openTonneau": "Otevřít kryt korby",
   "closeTonneau": "Zavřít kryt korby",
-  "tonneauOpen": "Kryt korby je otevřený"
+  "tonneauOpen": "Kryt korby je otevřený",
+  "openingTonneau": "Otevírání korby",
+  "closingTonneau": "Zavírání korby"
 }

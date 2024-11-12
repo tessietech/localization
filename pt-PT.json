@@ -2383,5 +2383,7 @@
   "tonneau": "Capota da mala",
   "openTonneau": "Abrir a capota da mala",
   "closeTonneau": "Fechar a capota da mala",
-  "tonneauOpen": "Capota da mala aberta"
+  "tonneauOpen": "Capota da mala aberta",
+  "openingTonneau": "A abrir a tampa da caixa",
+  "closingTonneau": "A fechar a tampa da caixa"
 }

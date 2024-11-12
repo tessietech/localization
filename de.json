@@ -2383,5 +2383,7 @@
   "tonneau": "Ladefläche",
   "openTonneau": "Ladefläche öffnen",
   "closeTonneau": "Ladefläche schließen",
-  "tonneauOpen": "Ladefläche geöffnet"
+  "tonneauOpen": "Ladefläche geöffnet",
+  "openingTonneau": "Ladeflächenabdeckung öffnen",
+  "closingTonneau": "Ladeflächenabdeckung schließen"
 }

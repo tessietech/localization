@@ -2383,5 +2383,7 @@
   "tonneau": "Benă",
   "openTonneau": "Deschideți bena",
   "closeTonneau": "Închideți bena",
-  "tonneauOpen": "Benă deschisă"
+  "tonneauOpen": "Benă deschisă",
+  "openingTonneau": "Deschidere benă",
+  "closingTonneau": "Închidere benă"
 }

@@ -2383,5 +2383,7 @@
   "tonneau": "Benne",
   "openTonneau": "Ouvrir la benne",
   "closeTonneau": "Fermer la benne",
-  "tonneauOpen": "Benne ouverte"
+  "tonneauOpen": "Benne ouverte",
+  "openingTonneau": "Ouverture du coffre arrière",
+  "closingTonneau": "Fermeture du coffre arrière"
 }

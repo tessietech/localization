@@ -2383,5 +2383,7 @@
   "tonneau": "Laadklep",
   "openTonneau": "Laadklep openen",
   "closeTonneau": "Laadklep sluiten",
-  "tonneauOpen": "Laadklep open"
+  "tonneauOpen": "Laadklep open",
+  "openingTonneau": "Laadbakklep openen",
+  "closingTonneau": "Laadbakklep sluiten"
 }

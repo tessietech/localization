@@ -2383,5 +2383,7 @@
   "tonneau": "Plan",
   "openTonneau": "Åpne plan",
   "closeTonneau": "Lukk plan",
-  "tonneauOpen": "Plan åpen"
+  "tonneauOpen": "Plan åpen",
+  "openingTonneau": "Åpner lasteplan",
+  "closingTonneau": "Lukker lasteplan"
 }

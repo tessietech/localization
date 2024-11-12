@@ -2383,5 +2383,7 @@
   "tonneau": "后车斗盖",
   "openTonneau": "打开后车斗盖",
   "closeTonneau": "关闭后车斗盖",
-  "tonneauOpen": "后车斗盖已打开"
+  "tonneauOpen": "后车斗盖已打开",
+  "openingTonneau": "正在打开后备箱盖",
+  "closingTonneau": "正在关闭后备箱盖"
 }

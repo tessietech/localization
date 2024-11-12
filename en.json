@@ -2383,5 +2383,7 @@
   "tonneau": "Tonneau",
   "openTonneau": "Open tonneau",
   "closeTonneau": "Close tonneau",
-  "tonneauOpen": "Tonneau open"
+  "tonneauOpen": "Tonneau open",
+  "openingTonneau": "Opening tonneau",
+  "closingTonneau": "Closing tonneau"
 }
