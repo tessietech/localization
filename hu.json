@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA szűrő",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "A Tessie nagy hatékonyságú részecskeszűrőt (HEPA) észlelt a Teslában. Rendszeres cseréje csökkenti a belső szennyezést és növeli a légkondicionáló hatékonyságát.",
   "liveDrive": "Élő vezetés",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Tekintse meg élőben a vezetést a lezárási képernyőn és a Dynamic Islanden (iPhone 14 Pro vagy újabb verzió szükséges).",
   "liveCharge": "Élő töltés",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Lásd: Élő töltés a lezárási képernyőn és a Dynamic Islanden (iPhone 14 Pro vagy újabb szükséges.)",
   "brakeCalipers": "Féknyereg",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "A féknyergek rendszeres tisztítása és kenése segíthet megelőzni a korróziót és javítani a fékezést azokon a területeken, ahol télen sózva vannak az utak.",
   "setLevel": "Szint beállítása",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Raktér zárása",
   "tonneauOpen": "Raktér nyitva",
   "openingTonneau": "Platófedél nyitása",
-  "closingTonneau": "Platófedél zárása"
+  "closingTonneau": "Platófedél zárása",
+  "whenCharging": "Töltés közben",
+  "whenDriving": "Vezetés közben",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Élő tevékenységek jelennek meg a lezárt képernyőn és a Dinamikus szigeten. Az iOS korlátozhatja az élő tevékenységeket, ha több is elindult a közelmúltban."
 }

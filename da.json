@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA-filter",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie har registreret et HEPA-filter (High Efficiency Particulate Air) i din Tesla. Regelmæssig udskiftning af filteret reducerer forurening indvendigt og øger A/C-effektiviteten.",
   "liveDrive": "Live drive",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Se kørsel live på din låseskærm og dynamiske ø (kræver iPhone 14 Pro eller nyere).",
   "liveCharge": "Live charge",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Se opladning live på din låseskærm og dynamiske ø (kræver iPhone 14 Pro eller nyere).",
   "brakeCalipers": "Bremsekalibre",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Regelmæssig rensning og smøring af bremser kan bidrage til at forhindre korrosion og forbedre bremseevnen i områder, hvor veje saltes i løbet af vinteren.",
   "setLevel": "Angiv niveau",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Luk ladekassen",
   "tonneauOpen": "Ladekassen er åben",
   "openingTonneau": "Åbner bagklap",
-  "closingTonneau": "Lukker bagklap"
+  "closingTonneau": "Lukker bagklap",
+  "whenCharging": "Ved opladning",
+  "whenDriving": "Under kørsel",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Liveaktiviteter vises på din låseskærm og dynamiske ø. iOS kan begrænse liveaktiviteter, hvis flere er blevet startet for nylig."
 }

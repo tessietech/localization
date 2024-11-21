@@ -574,9 +574,7 @@
   "hepaFilter": "Filtr HEPA",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie wykryła, że Twoja Tesla ma filtr HEPA. Jego okresowa wymiana zmniejsza zanieczyszczenie wnętrza, zwiększa czystość powietrza oraz polepsza efektywność klimatyzacji.",
   "liveDrive": "Aktualne dane jazdy",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Zobacz aktualne dane z jazdy na zablokowanym ekranie i w polu Dynamic Island (wymaga iPhone 14 Pro lub nowszego.)",
   "liveCharge": "Aktualne dane naładowania",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Zobacz aktualne dane naładowania na zablokowanym ekranie i w polu Dynamic Island (wymaga iPhone 14 Pro lub nowszego.)",
   "brakeCalipers": "Zaciski hamulcowe",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Okresowe czyszczenie i smarowanie zacisków hamulcowych chroni przed korozją i polepsza skuteczność hamowania w rejonach, gdzie drogi są zimą posypywane solą.",
   "setLevel": "Ustaw poziom",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Zamknij pokrywę bagażnika",
   "tonneauOpen": "Pokrywa bagażnika otwarta",
   "openingTonneau": "Otwieranie pokrywy bagażnika",
-  "closingTonneau": "Zamykanie pokrywy bagażnika"
+  "closingTonneau": "Zamykanie pokrywy bagażnika",
+  "whenCharging": "Podczas ładowania",
+  "whenDriving": "Podczas jazdy",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Aktywności na żywo pojawią się na ekranie blokady i Dynamic Island. System iOS może ograniczać liczbę aktywności na żywo, jeśli kilka zostało uruchomionych ostatnio."
 }

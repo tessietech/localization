@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA filtresi",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie, Tesla'nızda Yüksek Verimliliğe Sahip Hava Partikül Filtresi (HEPA) tespit etti. Periyodik olarak değiştirilmesi iç kirliliğini azaltır ve A/C verimliliğini artırır.",
   "liveDrive": "Canlı sürüş",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Kilit Ekranınızda ve Dinamik Adanızda canlı sürüşü görün (iPhone 14 Pro veya daha yenisi gerekir).",
   "liveCharge": "Canlı şarj",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Kilit Ekranınızda ve Dinamik Adanızda canlı şarjı görün (iPhone 14 Pro veya daha yenisi gerekir).",
   "brakeCalipers": "Fren kaliperleri",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Fren kaliperlerinin periyodik olarak temizlenmesi ve yağlanması, kış aylarında yolların tuzlandığı bölgelerde korozyonu önlemeye ve frenlemenin iyileştirilmesine yardımcı olabilir.",
   "setLevel": "Seviye ayarla",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Bagaj Kapağını Kapat",
   "tonneauOpen": "Bagaj Kapağı Açık",
   "openingTonneau": "Bagaj kapağı açılıyor",
-  "closingTonneau": "Bagaj kapağı kapanıyor"
+  "closingTonneau": "Bagaj kapağı kapanıyor",
+  "whenCharging": "Şarj olurken",
+  "whenDriving": "Sürüş sırasında",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Canlı Etkinlikler Kilit Ekranınızda ve Dinamik Ada'da görünecektir. Yakın zamanda birden fazla başlatılmışsa iOS, Canlı Etkinlikleri sınırlayabilir."
 }
