@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA-filter",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie heeft een High Efficiency Particulate Air (HEPA)-filter in uw Tesla gedetecteerd. Regelmatig vervangen vermindert de binnenluchtverontreiniging en verhoogt de efficiëntie van de airconditioning.",
   "liveDrive": "Live rijden",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Zie het rijden live op uw vergrendelscherm en Dynamic Island (vereist iPhone 14 Pro of nieuwer.)",
   "liveCharge": "Live opladen",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Zie het opladen live op uw vergrendelscherm en Dynamic Island (vereist iPhone 14 Pro of nieuwer.)",
   "brakeCalipers": "Remklauwen",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Regelmatig reinigen en smeren van remklauwen kan corrosie helpen voorkomen en het remmen verbeteren in gebieden waar wegen in de winter worden gezouten.",
   "setLevel": "Stel niveau in",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Laadklep sluiten",
   "tonneauOpen": "Laadklep open",
   "openingTonneau": "Laadbakklep openen",
-  "closingTonneau": "Laadbakklep sluiten"
+  "closingTonneau": "Laadbakklep sluiten",
+  "whenCharging": "Tijdens het opladen",
+  "whenDriving": "Tijdens het rijden",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Liveactiviteiten verschijnen op je vergrendelscherm en Dynamic Island. iOS kan Liveactiviteiten beperken als er onlangs meerdere zijn gestart."
 }

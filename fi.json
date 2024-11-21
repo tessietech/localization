@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA-suodatin",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie on havainnut Teslaan asennetun HEPA-suodattimen (High Efficiency Particulate Air). Sen säännöllinen vaihto vähentää sisäilman saastumista ja lisää ilmastoinnin tehokkuutta.",
   "liveDrive": "Live-ajo",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Näe ajo reaaliajassa lukitusnäytöllä ja Dynamic Islandilla (vaatii iPhone 14 Pron tai uudemman).",
   "liveCharge": "Live-lataus",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Näe lataus reaaliajassa lukitusnäytöllä ja Dynamic Islandilla (vaatii iPhone 14 Pron tai uudemman).",
   "brakeCalipers": "Jarrujarrusatulat",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Jarrujarrusatulajen säännöllinen puhdistus ja voitelu voi auttaa estämään korroosiota ja parantamaan jarrutusta alueilla, joilla teitä suolataan talvella.",
   "setLevel": "Aseta taso",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Sulje lavapeite",
   "tonneauOpen": "Lavapeite auki",
   "openingTonneau": "Avaa lavapeite",
-  "closingTonneau": "Sulje lavapeite"
+  "closingTonneau": "Sulje lavapeite",
+  "whenCharging": "Ladattaessa",
+  "whenDriving": "Ajettaessa",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-aktiviteetit näkyvät lukitusnäytöllä ja Dynamic Islandilla. iOS voi rajoittaa Live-aktiviteetteja, jos useita on käynnistetty hiljattain."
 }

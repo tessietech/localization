@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA filtr",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie ve vašem voze Tesla detekovala filtr pevných částic s vysokou účinností (HEPA). Pravidelná výměna snižuje znečištění interiéru a zvyšuje účinnost klimatizace.",
   "liveDrive": "Živá jízda",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Sledujte jízdu živě na zamykací obrazovce a dynamickém ostrůvku (vyžaduje iPhone 14 Pro nebo novější).",
   "liveCharge": "Živé nabíjení",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Sledujte nabíjení živě na zamykací obrazovce a dynamickém ostrůvku (vyžaduje iPhone 14 Pro nebo novější).",
   "brakeCalipers": "Brzdové třmeny",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Pravidelné čištění a mazání brzdových třmenů může pomoci zabránit korozi a zlepšit brzdění v oblastech, kde se v zimě solí silnice.",
   "setLevel": "Nastavit úroveň",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Zavřít kryt korby",
   "tonneauOpen": "Kryt korby je otevřený",
   "openingTonneau": "Otevírání korby",
-  "closingTonneau": "Zavírání korby"
+  "closingTonneau": "Zavírání korby",
+  "whenCharging": "Při nabíjení",
+  "whenDriving": "Během jízdy",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Živé aktivity se zobrazí na zamykací obrazovce a v dynamickém ostrůvku. Systém iOS může omezit živé aktivity, pokud jich bylo v poslední době spuštěno několik."
 }

@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA 濾網",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie 在您的 Tesla 中偵測到高效微粒空氣 (HEPA) 濾網。定期更換可以減少車內污染並提高空調效率。",
   "liveDrive": "即時駕駛",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "在鎖定畫面和動態島上觀看即時駕駛（需要 iPhone 14 Pro 或更新機型）。",
   "liveCharge": "即時充電",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "在鎖定畫面和動態島上觀看即時充電（需要 iPhone 14 Pro 或更新機型）。",
   "brakeCalipers": "煞車卡鉗",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "定期清潔和潤滑煞車卡鉗有助於防止腐蝕，並改善冬季道路撒鹽地區的煞車性能。",
   "setLevel": "設定等級",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "關閉後車廂蓋",
   "tonneauOpen": "後車廂蓋已打開",
   "openingTonneau": "開啟後車廂蓋",
-  "closingTonneau": "關閉後車廂蓋"
+  "closingTonneau": "關閉後車廂蓋",
+  "whenCharging": "充電時",
+  "whenDriving": "駕駛時",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "即時動態將顯示在你的鎖定畫面和動態島上。如果最近啟動了多個即時動態，iOS 系統可能會限制即時動態。"
 }
