@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA-filter",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie hat einen hocheffizienten Partikelfilter (HEPA-Filter) in deinem Tesla entdeckt. Durch regelmäßiges Ersetzen werden Schadstoffe im Innenraum reduziert und die Effizienz der Klimaanlage erhöht.",
   "liveDrive": "Live-fahrt",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Sieh dir die Fahrt live auf deinem Sperrbildschirm und der dynamischen Insel an (erfordert iPhone 14 Pro oder neuer).",
   "liveCharge": "Live-ladung",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Sieh dir das Laden live auf deinem Sperrbildschirm und der dynamischen Insel an (erfordert iPhone 14 Pro oder neuer).",
   "brakeCalipers": "Bremssättel",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Regelmäßige Reinigung und Schmierung der Bremssättel kann Korrosion vorbeugen und die Bremsleistung in Regionen verbessern, in denen die Straßen im Winter gesalzen werden.",
   "setLevel": "Wert einstellen",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "Ladefläche schließen",
   "tonneauOpen": "Ladefläche geöffnet",
   "openingTonneau": "Ladeflächenabdeckung öffnen",
-  "closingTonneau": "Ladeflächenabdeckung schließen"
+  "closingTonneau": "Ladeflächenabdeckung schließen",
+  "whenCharging": "Beim Laden",
+  "whenDriving": "Beim Fahren",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-Aktivitäten werden auf deinem Sperrbildschirm und der Dynamic Island angezeigt. iOS kann Live-Aktivitäten einschränken, wenn in letzter Zeit mehrere gestartet wurden."
 }

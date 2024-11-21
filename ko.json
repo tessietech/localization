@@ -574,9 +574,7 @@
   "hepaFilter": "HEPA 필터",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie는 귀하의 Tesla에서 HEPA(고효율 미립자 공기) 필터를 감지했습니다. 정기적으로 교체하면 실내 오염을 줄이고 에어컨 효율을 높입니다.",
   "liveDrive": "라이브 주행",
-  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "잠금 화면과 동적 아일랜드에서 생방송으로 주행하기(iPhone 14 Pro 이상 필요)",
   "liveCharge": "라이브 충전",
-  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "잠금 화면과 동적 아일랜드에서 생방송으로 충전 보기(iPhone 14 Pro 이상 필요)",
   "brakeCalipers": "브레이크 캘리퍼",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "브레이크 캘리퍼를 정기적으로 청소하고 윤활유를 바르면 부식을 방지하고 눈보라가 내리는 지역에서 브레이크가 향상될 수 있습니다.",
   "setLevel": "레벨 설정",
@@ -2385,5 +2383,8 @@
   "closeTonneau": "덮개 닫기",
   "tonneauOpen": "덮개 열림",
   "openingTonneau": "트렁크 열림",
-  "closingTonneau": "트렁크 닫힘"
+  "closingTonneau": "트렁크 닫힘",
+  "whenCharging": "충전 중",
+  "whenDriving": "주행 중",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "실시간 활동이 잠금 화면 및 다이내믹 아일랜드에 나타납니다. 최근에 여러 개의 실시간 활동이 시작된 경우 iOS에서 제한할 수 있습니다."
 }
