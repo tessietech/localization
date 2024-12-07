@@ -574,7 +574,9 @@
   "hepaFilter": "Filtro HEPA",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "A Tessie detetou um filtro de ar de partículas de alta eficiência (HEPA) no seu Tesla. A sua substituição periódica reduz a poluição interior e aumenta a eficiência do ar condicionado.",
   "liveDrive": "Condução em direto",
+  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Veja a condução em direto no seu Ecrã Bloqueado e Ilha Dinâmica (requer iPhone 14 Pro ou mais recente).",
   "liveCharge": "Carregamento em direto",
+  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Veja o carregamento em direto no seu Ecrã Bloqueado e Ilha Dinâmica (requer iPhone 14 Pro ou mais recente).",
   "brakeCalipers": "Pinças de travão",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "A limpeza e lubrificação periódicas das pinças de travão podem ajudar a prevenir a corrosão e a melhorar a travagem em regiões onde as estradas são salgadas durante o inverno.",
   "setLevel": "Definir nível",
@@ -2384,7 +2386,5 @@
   "tonneauOpen": "Capota da mala aberta",
   "openingTonneau": "A abrir a tampa da caixa",
   "closingTonneau": "A fechar a tampa da caixa",
-  "whenCharging": "A carregar",
-  "whenDriving": "A conduzir",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "As Atividades em Tempo Real aparecerão no seu Ecrã Bloqueado e Ilha Dinâmica. O iOS pode limitar as Atividades em Tempo Real se várias tiverem sido iniciadas recentemente."
+  "telemetry": "Telemetria"
 }

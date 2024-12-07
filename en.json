@@ -574,7 +574,9 @@
   "hepaFilter": "HEPA filter",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie has detected a High Efficiency Particulate Air (HEPA) filter in your Tesla. Periodically replacing it decreases interior pollution and increases A/C efficiency.",
   "liveDrive": "Live drive",
+  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "See driving live on your Lock Screen and Dynamic Island (requires iPhone 14 Pro or newer.)",
   "liveCharge": "Live charge",
+  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "See charging live on your Lock Screen and Dynamic Island (requires iPhone 14 Pro or newer.)",
   "brakeCalipers": "Brake calipers",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Periodically cleaning and lubricating brake calipers can help prevent corrosion and improve braking in regions where roads are salted during winter.",
   "setLevel": "Set level",
@@ -2384,7 +2386,5 @@
   "tonneauOpen": "Tonneau open",
   "openingTonneau": "Opening tonneau",
   "closingTonneau": "Closing tonneau",
-  "whenCharging": "When charging",
-  "whenDriving": "When driving",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live Activities will appear on your Lock Screen and Dynamic Island. iOS may limit Live Activities if several have been started recently."
+  "telemetry": "Telemetry"
 }

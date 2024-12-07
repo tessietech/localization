@@ -574,7 +574,9 @@
   "hepaFilter": "Filtru HEPA",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie a detectat un filtru de aer cu particule de înaltă eficiență (HEPA) în Tesla ta. Înlocuirea periodică a acestuia reduce poluarea interioară și crește eficiența AC.",
   "liveDrive": "Conducere live",
+  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Vezi condusul live pe ecranul tău de blocare și Dynamic Island (necesită iPhone 14 Pro sau mai nou.)",
   "liveCharge": "Încărcare live",
+  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Vezi încărcarea live pe ecranul tău de blocare și Dynamic Island (necesită iPhone 14 Pro sau mai nou.)",
   "brakeCalipers": "Etriere de frână",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Curățarea și ungerea periodică a etrierelor de frână poate ajuta la prevenirea coroziunii și la îmbunătățirea frânării în regiunile în care drumurile sunt murdare cu material antiderapant iarna.",
   "setLevel": "Setează nivelul",
@@ -2384,7 +2386,5 @@
   "tonneauOpen": "Benă deschisă",
   "openingTonneau": "Deschidere benă",
   "closingTonneau": "Închidere benă",
-  "whenCharging": "În timpul încărcării",
-  "whenDriving": "În timpul conducerii",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Activitățile live vor apărea pe ecranul de blocare și pe Dynamic Island. iOS poate limita activitățile live dacă au fost pornite mai multe recent."
+  "telemetry": "Telemetrie"
 }
