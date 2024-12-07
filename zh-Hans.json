@@ -574,7 +574,9 @@
   "hepaFilter": "HEPA 过滤器",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie 在您的特斯拉中检测到一个高效微粒空气（HEPA）过滤器。定期更换它可以减少车厢内的污染，并提高空调效率。",
   "liveDrive": "实时驾驶",
+  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "在锁屏和动态岛上实时查看驾驶（需要 iPhone 14 Pro 或更新机型）。",
   "liveCharge": "实时充电",
+  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "在锁屏和动态岛上实时查看充电（需要 iPhone 14 Pro 或更新机型）。",
   "brakeCalipers": "制动卡钳",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "定期清洁和润滑制动卡钳有助于防止腐蚀，并改善冬季道路上撒盐地区的制动效果。",
   "setLevel": "设定级别",
@@ -2384,7 +2386,5 @@
   "tonneauOpen": "后车斗盖已打开",
   "openingTonneau": "正在打开后备箱盖",
   "closingTonneau": "正在关闭后备箱盖",
-  "whenCharging": "充电时",
-  "whenDriving": "驾驶时",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "实时活动将显示在您的锁定屏幕和灵动岛上。如果最近启动了多个实时活动，iOS 可能会限制实时活动。"
+  "telemetry": "遥测"
 }

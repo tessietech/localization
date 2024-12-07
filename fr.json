@@ -574,7 +574,9 @@
   "hepaFilter": "Filtre HEPA",
   "tessieHasDetectedAHighEfficiencyParticulateAirHepaFilter": "Tessie a détecté un filtre à air à particules haute efficacité (HEPA) dans votre Tesla. Son remplacement périodique réduit la pollution intérieure et augmente l'efficacité de la climatisation.",
   "liveDrive": "Conduite en direct",
+  "seeDrivingLiveOnYourLockScreenAndDynamicIsland": "Consultez la conduite en direct sur votre écran verrouillé et votre Dynamic Island (nécessite un iPhone 14 Pro ou ultérieur.)",
   "liveCharge": "Charge en direct",
+  "seeChargingLiveOnYourLockScreenAndDynamicIsland": "Consultez la charge en direct sur votre écran verrouillé et votre Dynamic Island (nécessite un iPhone 14 Pro ou ultérieur.)",
   "brakeCalipers": "Étriers de frein",
   "periodicallyCleaningAndLubricatingBrakeCalipersCanHelpPreventCorrosion": "Le nettoyage et la lubrification périodiques des étriers de frein peuvent aider à prévenir la corrosion et à améliorer le freinage dans les régions où les routes sont salées en hiver.",
   "setLevel": "Définir le niveau",
@@ -2384,7 +2386,5 @@
   "tonneauOpen": "Benne ouverte",
   "openingTonneau": "Ouverture du coffre arrière",
   "closingTonneau": "Fermeture du coffre arrière",
-  "whenCharging": "Pendant la charge",
-  "whenDriving": "Pendant la conduite",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Les activités en direct apparaîtront sur votre écran de verrouillage et sur l’îlot dynamique. iOS peut limiter les activités en direct si plusieurs ont été démarrées récemment."
+  "telemetry": "Télémétrie"
 }
