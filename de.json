@@ -2386,8 +2386,5 @@
   "tonneauOpen": "Ladefläche geöffnet",
   "openingTonneau": "Ladeflächenabdeckung öffnen",
   "closingTonneau": "Ladeflächenabdeckung schließen",
-  "whenCharging": "Beim Laden",
-  "whenDriving": "Beim Fahren",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-Aktivitäten werden auf deinem Sperrbildschirm und der Dynamic Island angezeigt. iOS kann Live-Aktivitäten einschränken, wenn in letzter Zeit mehrere gestartet wurden.",
   "telemetry": "Telemetrie"
 }
