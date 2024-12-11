@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Tonneau open",
   "openingTonneau": "Opening tonneau",
   "closingTonneau": "Closing tonneau",
-  "telemetry": "Telemetry"
+  "telemetry": "Telemetry",
+  "tapToSyncVehicleWithTesla": "Tap to sync vehicle with Tesla",
+  "someFeaturesMayBeDisabled": "Some features may be disabled",
+  "homeScreenRange": "Home screen range"
 }

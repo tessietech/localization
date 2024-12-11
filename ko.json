@@ -2386,5 +2386,8 @@
   "tonneauOpen": "덮개 열림",
   "openingTonneau": "트렁크 열림",
   "closingTonneau": "트렁크 닫힘",
-  "telemetry": "텔레메트리"
+  "telemetry": "텔레메트리",
+  "tapToSyncVehicleWithTesla": "Tesla와 차량을 동기화하려면 탭하세요.",
+  "someFeaturesMayBeDisabled": "일부 기능이 비활성화될 수 있습니다.",
+  "homeScreenRange": "홈 화면 범위"
 }

@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Caja de carga abierta",
   "openingTonneau": "Abriendo la caja de carga",
   "closingTonneau": "Cerrando la caja de carga",
-  "telemetry": "Telemetría"
+  "telemetry": "Telemetría",
+  "tapToSyncVehicleWithTesla": "Pulsa para sincronizar el vehículo con Tesla",
+  "someFeaturesMayBeDisabled": "Algunas funciones pueden estar deshabilitadas",
+  "homeScreenRange": "Alcance de la pantalla de inicio"
 }

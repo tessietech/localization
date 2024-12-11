@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Ladekassen er åben",
   "openingTonneau": "Åbner bagklap",
   "closingTonneau": "Lukker bagklap",
-  "telemetry": "Telemetri"
+  "telemetry": "Telemetri",
+  "tapToSyncVehicleWithTesla": "Tryk for at synkronisere bil med Tesla",
+  "someFeaturesMayBeDisabled": "Nogle funktioner er muligvis deaktiveret",
+  "homeScreenRange": "Rækkevidde på startskærm"
 }

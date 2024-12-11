@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Lavapeite auki",
   "openingTonneau": "Avaa lavapeite",
   "closingTonneau": "Sulje lavapeite",
-  "telemetry": "Telemetria"
+  "telemetry": "Telemetria",
+  "tapToSyncVehicleWithTesla": "Napauta synkronoidaksesi ajoneuvon Teslan kanssa",
+  "someFeaturesMayBeDisabled": "Jotkin ominaisuudet saattavat olla poissa käytöstä",
+  "homeScreenRange": "Aloitusnäytön kantama"
 }

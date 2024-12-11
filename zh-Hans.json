@@ -2386,5 +2386,8 @@
   "tonneauOpen": "后车斗盖已打开",
   "openingTonneau": "正在打开后备箱盖",
   "closingTonneau": "正在关闭后备箱盖",
-  "telemetry": "遥测"
+  "telemetry": "遥测",
+  "tapToSyncVehicleWithTesla": "点击以与特斯拉同步车辆",
+  "someFeaturesMayBeDisabled": "某些功能可能被禁用",
+  "homeScreenRange": "主屏幕范围"
 }

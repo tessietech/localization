@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Benne ouverte",
   "openingTonneau": "Ouverture du coffre arrière",
   "closingTonneau": "Fermeture du coffre arrière",
-  "telemetry": "Télémétrie"
+  "telemetry": "Télémétrie",
+  "tapToSyncVehicleWithTesla": "Appuyez pour synchroniser le véhicule avec Tesla",
+  "someFeaturesMayBeDisabled": "Certaines fonctionnalités peuvent être désactivées",
+  "homeScreenRange": "Autonomie sur l’écran d’accueil"
 }

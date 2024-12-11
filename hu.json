@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Raktér nyitva",
   "openingTonneau": "Platófedél nyitása",
   "closingTonneau": "Platófedél zárása",
-  "telemetry": "Telemetria"
+  "telemetry": "Telemetria",
+  "tapToSyncVehicleWithTesla": "Koppintson a jármű Tesla-fiókkal való szinkronizálásához",
+  "someFeaturesMayBeDisabled": "Előfordulhat, hogy egyes funkciók le vannak tiltva",
+  "homeScreenRange": "Kezdőképernyő hatótávolsága"
 }

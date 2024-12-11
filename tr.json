@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Bagaj Kapağı Açık",
   "openingTonneau": "Bagaj kapağı açılıyor",
   "closingTonneau": "Bagaj kapağı kapanıyor",
-  "telemetry": "Telemetri"
+  "telemetry": "Telemetri",
+  "tapToSyncVehicleWithTesla": "Tesla ile aracı senkronize etmek için dokunun",
+  "someFeaturesMayBeDisabled": "Bazı özellikler devre dışı bırakılmış olabilir",
+  "homeScreenRange": "Ana ekran menzili"
 }

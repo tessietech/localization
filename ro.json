@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Benă deschisă",
   "openingTonneau": "Deschidere benă",
   "closingTonneau": "Închidere benă",
-  "telemetry": "Telemetrie"
+  "telemetry": "Telemetrie",
+  "tapToSyncVehicleWithTesla": "Atingeți pentru a sincroniza vehiculul cu Tesla",
+  "someFeaturesMayBeDisabled": "Este posibil ca unele funcții să fie dezactivate",
+  "homeScreenRange": "Autonomie ecran principal"
 }

@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Ladefläche geöffnet",
   "openingTonneau": "Ladeflächenabdeckung öffnen",
   "closingTonneau": "Ladeflächenabdeckung schließen",
-  "telemetry": "Telemetrie"
+  "telemetry": "Telemetrie",
+  "tapToSyncVehicleWithTesla": "Zum Synchronisieren des Fahrzeugs mit Tesla tippen",
+  "someFeaturesMayBeDisabled": "Einige Funktionen sind möglicherweise deaktiviert",
+  "homeScreenRange": "Reichweite auf dem Startbildschirm"
 }

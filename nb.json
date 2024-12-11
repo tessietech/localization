@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Plan åpen",
   "openingTonneau": "Åpner lasteplan",
   "closingTonneau": "Lukker lasteplan",
-  "telemetry": "Telemetri"
+  "telemetry": "Telemetri",
+  "tapToSyncVehicleWithTesla": "Trykk for å synkronisere kjøretøy med Tesla",
+  "someFeaturesMayBeDisabled": "Noen funksjoner kan være deaktivert",
+  "homeScreenRange": "Rekkevidde på startskjermen"
 }

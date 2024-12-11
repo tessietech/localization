@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Laadklep open",
   "openingTonneau": "Laadbakklep openen",
   "closingTonneau": "Laadbakklep sluiten",
-  "telemetry": "Telemetrie"
+  "telemetry": "Telemetrie",
+  "tapToSyncVehicleWithTesla": "Tik om het voertuig met Tesla te synchroniseren",
+  "someFeaturesMayBeDisabled": "Sommige functies zijn mogelijk uitgeschakeld",
+  "homeScreenRange": "Actieradius startscherm"
 }

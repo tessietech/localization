@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Capota da mala aberta",
   "openingTonneau": "A abrir a tampa da caixa",
   "closingTonneau": "A fechar a tampa da caixa",
-  "telemetry": "Telemetria"
+  "telemetry": "Telemetria",
+  "tapToSyncVehicleWithTesla": "Toque para sincronizar o veículo com a Tesla",
+  "someFeaturesMayBeDisabled": "Algumas funcionalidades podem estar desativadas",
+  "homeScreenRange": "Autonomia no ecrã inicial"
 }

@@ -2386,5 +2386,8 @@
   "tonneauOpen": "後車廂蓋已打開",
   "openingTonneau": "開啟後車廂蓋",
   "closingTonneau": "關閉後車廂蓋",
-  "telemetry": "遙測"
+  "telemetry": "遙測",
+  "tapToSyncVehicleWithTesla": "點一下以與 Tesla 同步車輛",
+  "someFeaturesMayBeDisabled": "某些功能可能已停用",
+  "homeScreenRange": "主屏幕範圍"
 }

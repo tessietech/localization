@@ -2386,5 +2386,8 @@
   "tonneauOpen": "Kryt korby je otevřený",
   "openingTonneau": "Otevírání korby",
   "closingTonneau": "Zavírání korby",
-  "telemetry": "Telemetrie"
+  "telemetry": "Telemetrie",
+  "tapToSyncVehicleWithTesla": "Klepnutím synchronizujete vozidlo se společností Tesla",
+  "someFeaturesMayBeDisabled": "Některé funkce mohou být zakázány",
+  "homeScreenRange": "Dojezd na domovské obrazovce"
 }
