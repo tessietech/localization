@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetria",
   "tapToSyncVehicleWithTesla": "Toque para sincronizar o veículo com a Tesla",
   "someFeaturesMayBeDisabled": "Algumas funcionalidades podem estar desativadas",
-  "homeScreenRange": "Autonomia no ecrã inicial"
+  "homeScreenRange": "Autonomia no ecrã inicial",
+  "vehicleDataOutdated": "Dados do veículo desatualizados",
+  "tapToEnableTelemetry": "Toque para ativar a telemetria"
 }

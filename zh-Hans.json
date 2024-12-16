@@ -2389,5 +2389,7 @@
   "telemetry": "遥测",
   "tapToSyncVehicleWithTesla": "点击以与特斯拉同步车辆",
   "someFeaturesMayBeDisabled": "某些功能可能被禁用",
-  "homeScreenRange": "主屏幕范围"
+  "homeScreenRange": "主屏幕范围",
+  "vehicleDataOutdated": "车辆数据已过期",
+  "tapToEnableTelemetry": "点击启用遥测"
 }

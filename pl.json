@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetria",
   "tapToSyncVehicleWithTesla": "Dotknij, aby zsynchronizować pojazd z Teslą",
   "someFeaturesMayBeDisabled": "Niektóre funkcje mogą być wyłączone",
-  "homeScreenRange": "Zasięg na ekranie głównym"
+  "homeScreenRange": "Zasięg na ekranie głównym",
+  "vehicleDataOutdated": "Dane pojazdu nieaktualne",
+  "tapToEnableTelemetry": "Dotknij, aby włączyć telemetrię"
 }

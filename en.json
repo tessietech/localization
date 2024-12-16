@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetry",
   "tapToSyncVehicleWithTesla": "Tap to sync vehicle with Tesla",
   "someFeaturesMayBeDisabled": "Some features may be disabled",
-  "homeScreenRange": "Home screen range"
+  "homeScreenRange": "Home screen range",
+  "vehicleDataOutdated": "Vehicle data outdated",
+  "tapToEnableTelemetry": "Tap to enable telemetry"
 }

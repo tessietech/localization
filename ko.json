@@ -2389,5 +2389,7 @@
   "telemetry": "텔레메트리",
   "tapToSyncVehicleWithTesla": "Tesla와 차량을 동기화하려면 탭하세요.",
   "someFeaturesMayBeDisabled": "일부 기능이 비활성화될 수 있습니다.",
-  "homeScreenRange": "홈 화면 범위"
+  "homeScreenRange": "홈 화면 범위",
+  "vehicleDataOutdated": "차량 데이터가 오래되었습니다.",
+  "tapToEnableTelemetry": "텔레메트리를 사용하려면 탭하세요."
 }

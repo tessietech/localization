@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetrie",
   "tapToSyncVehicleWithTesla": "Zum Synchronisieren des Fahrzeugs mit Tesla tippen",
   "someFeaturesMayBeDisabled": "Einige Funktionen sind möglicherweise deaktiviert",
-  "homeScreenRange": "Reichweite auf dem Startbildschirm"
+  "homeScreenRange": "Reichweite auf dem Startbildschirm",
+  "vehicleDataOutdated": "Fahrzeugdaten veraltet",
+  "tapToEnableTelemetry": "Tippen, um Telemetrie zu aktivieren"
 }

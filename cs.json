@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetrie",
   "tapToSyncVehicleWithTesla": "Klepnutím synchronizujete vozidlo se společností Tesla",
   "someFeaturesMayBeDisabled": "Některé funkce mohou být zakázány",
-  "homeScreenRange": "Dojezd na domovské obrazovce"
+  "homeScreenRange": "Dojezd na domovské obrazovce",
+  "vehicleDataOutdated": "Data vozidla jsou zastaralá",
+  "tapToEnableTelemetry": "Klepnutím povolíte telemetrii"
 }

@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetrie",
   "tapToSyncVehicleWithTesla": "Tik om het voertuig met Tesla te synchroniseren",
   "someFeaturesMayBeDisabled": "Sommige functies zijn mogelijk uitgeschakeld",
-  "homeScreenRange": "Actieradius startscherm"
+  "homeScreenRange": "Actieradius startscherm",
+  "vehicleDataOutdated": "Voertuiggegevens verouderd",
+  "tapToEnableTelemetry": "Tik om telemetrie in te schakelen"
 }

@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetri",
   "tapToSyncVehicleWithTesla": "Tesla ile aracı senkronize etmek için dokunun",
   "someFeaturesMayBeDisabled": "Bazı özellikler devre dışı bırakılmış olabilir",
-  "homeScreenRange": "Ana ekran menzili"
+  "homeScreenRange": "Ana ekran menzili",
+  "vehicleDataOutdated": "Araç verileri güncel değil",
+  "tapToEnableTelemetry": "Telemetriyi etkinleştirmek için dokunun"
 }

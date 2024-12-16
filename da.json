@@ -2389,5 +2389,7 @@
   "telemetry": "Telemetri",
   "tapToSyncVehicleWithTesla": "Tryk for at synkronisere bil med Tesla",
   "someFeaturesMayBeDisabled": "Nogle funktioner er muligvis deaktiveret",
-  "homeScreenRange": "Rækkevidde på startskærm"
+  "homeScreenRange": "Rækkevidde på startskærm",
+  "vehicleDataOutdated": "Køretøjsdata forældet",
+  "tapToEnableTelemetry": "Tryk for at aktivere telemetri"
 }
