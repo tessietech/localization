@@ -2391,5 +2391,9 @@
   "someFeaturesMayBeDisabled": "Sommige functies zijn mogelijk uitgeschakeld",
   "homeScreenRange": "Actieradius startscherm",
   "vehicleDataOutdated": "Voertuiggegevens verouderd",
-  "tapToEnableTelemetry": "Tik om telemetrie in te schakelen"
+  "tapToEnableTelemetry": "Tik om telemetrie in te schakelen",
+  "visitTessieComKeyToEnableEncryption": "Ga naar tessie.com/key om encryptie in te schakelen",
+  "batteryTemperaturesCurrentVoltage": "Batterijtemperaturen, stroom & spanning",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Om de update handmatig toe te passen, selecteer je Instellingen > Connectiviteit > Telemetrie beheren > Inschakelen.",
+  "unableToApplyTelemetryUpdate": "Kan de telemetrie-update niet toepassen"
 }

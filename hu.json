@@ -2391,5 +2391,9 @@
   "someFeaturesMayBeDisabled": "Előfordulhat, hogy egyes funkciók le vannak tiltva",
   "homeScreenRange": "Kezdőképernyő hatótávolsága",
   "vehicleDataOutdated": "A jármű adatai elavultak",
-  "tapToEnableTelemetry": "Koppintson a telemetria engedélyezéséhez"
+  "tapToEnableTelemetry": "Koppintson a telemetria engedélyezéséhez",
+  "visitTessieComKeyToEnableEncryption": "Látogassa meg a tessie.com/key oldalt a titkosítás engedélyezéséhez",
+  "batteryTemperaturesCurrentVoltage": "Akkumulátor hőmérsékletei, áram és feszültség",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "A frissítés manuális alkalmazásához válassza a Beállítások > Kapcsolat > Telemetria kezelése > Engedélyezés lehetőséget.",
+  "unableToApplyTelemetryUpdate": "Nem sikerült alkalmazni a telemetriai frissítést"
 }

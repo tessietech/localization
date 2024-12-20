@@ -2391,5 +2391,9 @@
   "someFeaturesMayBeDisabled": "Einige Funktionen sind möglicherweise deaktiviert",
   "homeScreenRange": "Reichweite auf dem Startbildschirm",
   "vehicleDataOutdated": "Fahrzeugdaten veraltet",
-  "tapToEnableTelemetry": "Tippen, um Telemetrie zu aktivieren"
+  "tapToEnableTelemetry": "Tippen, um Telemetrie zu aktivieren",
+  "visitTessieComKeyToEnableEncryption": "Besuche tessie.com/key, um die Verschlüsselung zu aktivieren",
+  "batteryTemperaturesCurrentVoltage": "Batterietemperaturen, Strom & Spannung",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Um das Update manuell anzuwenden, wählen Sie Einstellungen > Konnektivität > Telemetrie verwalten > Aktivieren aus.",
+  "unableToApplyTelemetryUpdate": "Telemetrie-Update konnte nicht angewendet werden"
 }

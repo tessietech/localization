@@ -2391,5 +2391,9 @@
   "someFeaturesMayBeDisabled": "Some features may be disabled",
   "homeScreenRange": "Home screen range",
   "vehicleDataOutdated": "Vehicle data outdated",
-  "tapToEnableTelemetry": "Tap to enable telemetry"
+  "tapToEnableTelemetry": "Tap to enable telemetry",
+  "visitTessieComKeyToEnableEncryption": "Visit tessie.com/key to enable encryption",
+  "batteryTemperaturesCurrentVoltage": "Battery temperatures, current & voltage",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "To apply the update manually, select Settings > Connectivity > Manage Telemetry > Enable.",
+  "unableToApplyTelemetryUpdate": "Unable to apply telemetry update"
 }

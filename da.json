@@ -2391,5 +2391,9 @@
   "someFeaturesMayBeDisabled": "Nogle funktioner er muligvis deaktiveret",
   "homeScreenRange": "Rækkevidde på startskærm",
   "vehicleDataOutdated": "Køretøjsdata forældet",
-  "tapToEnableTelemetry": "Tryk for at aktivere telemetri"
+  "tapToEnableTelemetry": "Tryk for at aktivere telemetri",
+  "visitTessieComKeyToEnableEncryption": "Besøg tessie.com/key for at aktivere kryptering",
+  "batteryTemperaturesCurrentVoltage": "Batteritemperaturer, strøm og spænding",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Hvis du vil anvende opdateringen manuelt, skal du vælge Indstillinger > Forbindelse > Administrer telemetri > Aktivér.",
+  "unableToApplyTelemetryUpdate": "Telemetriopdateringen kunne ikke anvendes"
 }
