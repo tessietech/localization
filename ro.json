@@ -2389,5 +2389,11 @@
   "telemetry": "Telemetrie",
   "tapToSyncVehicleWithTesla": "Atingeți pentru a sincroniza vehiculul cu Tesla",
   "someFeaturesMayBeDisabled": "Este posibil ca unele funcții să fie dezactivate",
-  "homeScreenRange": "Autonomie ecran principal"
+  "homeScreenRange": "Autonomie ecran principal",
+  "vehicleDataOutdated": "Datele vehiculului sunt expirate",
+  "tapToEnableTelemetry": "Atingeți pentru a activa telemetria",
+  "visitTessieComKeyToEnableEncryption": "Vizitați tessie.com/key pentru a activa criptarea",
+  "batteryTemperaturesCurrentVoltage": "Temperaturi baterie, curent și tensiune",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Pentru a aplica manual actualizarea, selectați Setări > Conectivitate > Gestionare telemetrie > Activare.",
+  "unableToApplyTelemetryUpdate": "Nu s-a putut aplica actualizarea telemetriei"
 }

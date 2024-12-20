@@ -2389,5 +2389,11 @@
   "telemetry": "遙測",
   "tapToSyncVehicleWithTesla": "點一下以與 Tesla 同步車輛",
   "someFeaturesMayBeDisabled": "某些功能可能已停用",
-  "homeScreenRange": "主屏幕範圍"
+  "homeScreenRange": "主屏幕範圍",
+  "vehicleDataOutdated": "車輛數據已過時",
+  "tapToEnableTelemetry": "點按以啟用遙測",
+  "visitTessieComKeyToEnableEncryption": "請造訪 tessie.com/key 以啟用加密",
+  "batteryTemperaturesCurrentVoltage": "電池溫度、電流和電壓",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "若要手動套用更新，請選取「設定」>「連線」>「管理遙測」>「啟用」。",
+  "unableToApplyTelemetryUpdate": "無法套用遙測更新"
 }

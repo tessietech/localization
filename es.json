@@ -2389,5 +2389,11 @@
   "telemetry": "Telemetría",
   "tapToSyncVehicleWithTesla": "Pulsa para sincronizar el vehículo con Tesla",
   "someFeaturesMayBeDisabled": "Algunas funciones pueden estar deshabilitadas",
-  "homeScreenRange": "Alcance de la pantalla de inicio"
+  "homeScreenRange": "Alcance de la pantalla de inicio",
+  "vehicleDataOutdated": "Datos del vehículo desactualizados",
+  "tapToEnableTelemetry": "Toca para habilitar la telemetría",
+  "visitTessieComKeyToEnableEncryption": "Visita tessie.com/key para habilitar el cifrado",
+  "batteryTemperaturesCurrentVoltage": "Temperaturas, corriente y voltaje de la batería",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Para aplicar la actualización manualmente, selecciona Ajustes > Conectividad > Administrar telemetría > Habilitar.",
+  "unableToApplyTelemetryUpdate": "No se puede aplicar la actualización de telemetría"
 }

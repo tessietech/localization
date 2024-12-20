@@ -2389,5 +2389,11 @@
   "telemetry": "Telemetri",
   "tapToSyncVehicleWithTesla": "Tesla ile aracı senkronize etmek için dokunun",
   "someFeaturesMayBeDisabled": "Bazı özellikler devre dışı bırakılmış olabilir",
-  "homeScreenRange": "Ana ekran menzili"
+  "homeScreenRange": "Ana ekran menzili",
+  "vehicleDataOutdated": "Araç verileri güncel değil",
+  "tapToEnableTelemetry": "Telemetriyi etkinleştirmek için dokunun",
+  "visitTessieComKeyToEnableEncryption": "Şifrelemeyi etkinleştirmek için tessie.com/key adresini ziyaret edin",
+  "batteryTemperaturesCurrentVoltage": "Akü sıcaklıkları, akım ve voltaj",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Güncellemeyi manuel olarak uygulamak için Ayarlar > Bağlanabilirlik > Telemetriyi Yönet > Etkinleştir'i seçin.",
+  "unableToApplyTelemetryUpdate": "Telemetri güncellemesi uygulanamıyor"
 }

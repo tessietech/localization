@@ -2389,5 +2389,11 @@
   "telemetry": "Telemetria",
   "tapToSyncVehicleWithTesla": "Napauta synkronoidaksesi ajoneuvon Teslan kanssa",
   "someFeaturesMayBeDisabled": "Jotkin ominaisuudet saattavat olla poissa käytöstä",
-  "homeScreenRange": "Aloitusnäytön kantama"
+  "homeScreenRange": "Aloitusnäytön kantama",
+  "vehicleDataOutdated": "Ajoneuvon tiedot vanhentuneita",
+  "tapToEnableTelemetry": "Napauta, jos haluat ottaa telemetrian käyttöön",
+  "visitTessieComKeyToEnableEncryption": "Avaa tessie.com/key ja ota käyttöön salaus",
+  "batteryTemperaturesCurrentVoltage": "Akun lämpötilat, virta ja jännite",
+  "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Päivityksen voi asentaa manuaalisesti valitsemalla Asetukset > Yhteydet > Telemetrian hallinta > Ota käyttöön.",
+  "unableToApplyTelemetryUpdate": "Telemetriapäivitystä ei voitu ottaa käyttöön"
 }
