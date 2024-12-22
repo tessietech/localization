@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Látogassa meg a tessie.com/key oldalt a titkosítás engedélyezéséhez",
   "batteryTemperaturesCurrentVoltage": "Akkumulátor hőmérsékletei, áram és feszültség",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "A frissítés manuális alkalmazásához válassza a Beállítások > Kapcsolat > Telemetria kezelése > Engedélyezés lehetőséget.",
-  "unableToApplyTelemetryUpdate": "Nem sikerült alkalmazni a telemetriai frissítést"
+  "unableToApplyTelemetryUpdate": "Nem sikerült alkalmazni a telemetriai frissítést",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiváljon egy aktív járművet, vagy frissítse előfizetését további járművek kezeléséhez."
 }

@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Gå til tessie.com/key for å aktivere kryptering",
   "batteryTemperaturesCurrentVoltage": "Batteritemperaturer, strøm og spenning",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "For å bruke oppdateringen manuelt, velg Innstillinger > Tilkobling > Administrer telemetri > Aktiver.",
-  "unableToApplyTelemetryUpdate": "Kan ikke bruke telemetrioppdatering"
+  "unableToApplyTelemetryUpdate": "Kan ikke bruke telemetrioppdatering",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arkiver et aktivt kjøretøy, eller oppdater abonnementet ditt for å administrere flere kjøretøy."
 }

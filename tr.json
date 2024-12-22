@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Şifrelemeyi etkinleştirmek için tessie.com/key adresini ziyaret edin",
   "batteryTemperaturesCurrentVoltage": "Akü sıcaklıkları, akım ve voltaj",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Güncellemeyi manuel olarak uygulamak için Ayarlar > Bağlanabilirlik > Telemetriyi Yönet > Etkinleştir'i seçin.",
-  "unableToApplyTelemetryUpdate": "Telemetri güncellemesi uygulanamıyor"
+  "unableToApplyTelemetryUpdate": "Telemetri güncellemesi uygulanamıyor",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Aktif bir aracı arşivleyin veya ek araçları yönetmek için aboneliğinizi güncelleyin."
 }

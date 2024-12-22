@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Navštivte tessie.com/key a povolte šifrování",
   "batteryTemperaturesCurrentVoltage": "Teploty baterií, proud a napětí",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Chcete-li aktualizaci použít ručně, vyberte Nastavení > Připojení > Spravovat telemetrii > Povolit.",
-  "unableToApplyTelemetryUpdate": "Aktualizaci telemetrie se nepodařilo použít"
+  "unableToApplyTelemetryUpdate": "Aktualizaci telemetrie se nepodařilo použít",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archivujte aktivní vozidlo nebo aktualizujte své předplatné pro správu dalších vozidel."
 }

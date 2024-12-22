@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Aby włączyć szyfrowanie, odwiedź tessie.com/key",
   "batteryTemperaturesCurrentVoltage": "Temperatury akumulatora, prąd i napięcie",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Aby ręcznie zastosować aktualizację, wybierz Ustawienia > Łączność > Zarządzaj Telemetrią > Włącz.",
-  "unableToApplyTelemetryUpdate": "Nie można zastosować aktualizacji telemetrii"
+  "unableToApplyTelemetryUpdate": "Nie można zastosować aktualizacji telemetrii",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Zarchiwizuj aktywny pojazd lub zaktualizuj subskrypcję, aby zarządzać dodatkowymi pojazdami."
 }

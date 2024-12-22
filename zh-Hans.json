@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "访问 tessie.com/key 以启用加密",
   "batteryTemperaturesCurrentVoltage": "电池温度、电流和电压",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "要手动应用更新，请选择“设置”>“连接”>“管理遥测”>“启用”。",
-  "unableToApplyTelemetryUpdate": "无法应用遥测更新"
+  "unableToApplyTelemetryUpdate": "无法应用遥测更新",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "归档一辆活跃车辆或更新您的订阅以管理更多车辆。"
 }

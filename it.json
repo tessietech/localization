@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Visita tessie.com/key per abilitare la crittografia",
   "batteryTemperaturesCurrentVoltage": "Temperature, corrente e voltaggio della batteria",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Per applicare manualmente l'aggiornamento, seleziona Impostazioni > Connettività > Gestisci telemetria > Attiva.",
-  "unableToApplyTelemetryUpdate": "Impossibile applicare l'aggiornamento della telemetria"
+  "unableToApplyTelemetryUpdate": "Impossibile applicare l'aggiornamento della telemetria",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archivia un veicolo attivo o aggiorna l'abbonamento per gestire altri veicoli."
 }

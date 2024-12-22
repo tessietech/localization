@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Avaa tessie.com/key ja ota käyttöön salaus",
   "batteryTemperaturesCurrentVoltage": "Akun lämpötilat, virta ja jännite",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Päivityksen voi asentaa manuaalisesti valitsemalla Asetukset > Yhteydet > Telemetrian hallinta > Ota käyttöön.",
-  "unableToApplyTelemetryUpdate": "Telemetriapäivitystä ei voitu ottaa käyttöön"
+  "unableToApplyTelemetryUpdate": "Telemetriapäivitystä ei voitu ottaa käyttöön",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arkistoi aktiivinen ajoneuvo tai päivitä tilaustasi hallitaksesi lisää ajoneuvoja."
 }

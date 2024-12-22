@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "암호화를 사용하려면 tessie.com/key를 방문하세요.",
   "batteryTemperaturesCurrentVoltage": "배터리 온도, 전류 및 전압",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "업데이트를 수동으로 적용하려면 설정 > 연결 > 원격 분석 관리 > 사용을 선택하세요.",
-  "unableToApplyTelemetryUpdate": "원격 분석 업데이트를 적용할 수 없습니다."
+  "unableToApplyTelemetryUpdate": "원격 분석 업데이트를 적용할 수 없습니다.",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "활성 차량을 보관하거나 구독을 업데이트하여 추가 차량을 관리하세요."
 }

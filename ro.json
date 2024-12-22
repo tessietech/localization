@@ -2395,5 +2395,6 @@
   "visitTessieComKeyToEnableEncryption": "Vizitați tessie.com/key pentru a activa criptarea",
   "batteryTemperaturesCurrentVoltage": "Temperaturi baterie, curent și tensiune",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Pentru a aplica manual actualizarea, selectați Setări > Conectivitate > Gestionare telemetrie > Activare.",
-  "unableToApplyTelemetryUpdate": "Nu s-a putut aplica actualizarea telemetriei"
+  "unableToApplyTelemetryUpdate": "Nu s-a putut aplica actualizarea telemetriei",
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arhivați un vehicul activ sau actualizați-vă abonamentul pentru a gestiona vehicule suplimentare."
 }
