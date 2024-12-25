@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Figyelemmel kísérjük a firmware-riasztásokat",
   "showVehicleInfo": "Jármű adatainak megjelenítése",
   "theTeslaManagementPlatform": "A Tesla menedzsment platform",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Alkalmazások, elemzések, automatizálások és integrációk a világ legkifinomultabb járműveihez.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Több mint {number} Tesla-sofőr és flottamenedzser bízik benne.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Alkalmazások, elemzések, automatizálások és integrációk a világ legkifinomultabb járműveihez",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Több mint {number} Tesla-sofőr és flottamenedzser bízik benne",
   "subscribeToUnlock": "Feliratkozás a feloldáshoz",
   "theVehicleChargingManagementPermissionIsRequiredFor": "A Járműtöltés-kezelési engedély szükséges a Szupertöltési költségekhez és a töltés ellenőrzéséhez.",
   "noActiveVehiclesInAccount": "Nincsenek aktív járművek a fiókban.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Akkumulátor hőmérsékletei, áram és feszültség",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "A frissítés manuális alkalmazásához válassza a Beállítások > Kapcsolat > Telemetria kezelése > Engedélyezés lehetőséget.",
   "unableToApplyTelemetryUpdate": "Nem sikerült alkalmazni a telemetriai frissítést",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiváljon egy aktív járművet, vagy frissítse előfizetését további járművek kezeléséhez."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiváljon egy aktív járművet, vagy frissítse előfizetését további járművek kezeléséhez.",
+  "factory": "Gyár",
+  "copiedFactory": "Másolt gyár",
+  "jumpToVehicle": "Ugrás a járműhöz",
+  "fleetPlanRequired": "Flottaterv szükséges"
 }

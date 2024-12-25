@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Ürün yazılımı uyarılarını izliyoruz",
   "showVehicleInfo": "Araç bilgilerini göster",
   "theTeslaManagementPlatform": "Tesla yönetim platformu",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Dünyanın en gelişmiş araçları için uygulamalar, analizler, otomasyonlar ve entegrasyonlar.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "{number}’den fazla Tesla sürücüsü ve filo yöneticisi tarafından güveniliyor.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Dünyanın en gelişmiş araçları için uygulamalar, analizler, otomasyonlar ve entegrasyonlar",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "{number}’den fazla Tesla sürücüsü ve filo yöneticisi tarafından güveniliyor",
   "subscribeToUnlock": "Kilidini açmak için abone ol",
   "theVehicleChargingManagementPermissionIsRequiredFor": "Süper Şarj maliyetleri ve şarj kontrolleri için Araç Şarj Yönetimi izni gereklidir.",
   "noActiveVehiclesInAccount": "Hesapta aktif araç yok.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Akü sıcaklıkları, akım ve voltaj",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Güncellemeyi manuel olarak uygulamak için Ayarlar > Bağlanabilirlik > Telemetriyi Yönet > Etkinleştir'i seçin.",
   "unableToApplyTelemetryUpdate": "Telemetri güncellemesi uygulanamıyor",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Aktif bir aracı arşivleyin veya ek araçları yönetmek için aboneliğinizi güncelleyin."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Aktif bir aracı arşivleyin veya ek araçları yönetmek için aboneliğinizi güncelleyin.",
+  "factory": "Fabrika",
+  "copiedFactory": "Kopyalanan fabrika",
+  "jumpToVehicle": "Araca atla",
+  "fleetPlanRequired": "Filo planı gerekli"
 }

@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Monitorujeme výstrahy firmwaru",
   "showVehicleInfo": "Zobrazit informace o vozidle",
   "theTeslaManagementPlatform": "Platforma pro správu vozidel Tesla",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplikace, analýzy, automatizace a integrace pro nejsofistikovanější vozidla na světě.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Důvěřuje nám více než {number} řidičů a správců vozových parků Tesla.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplikace, analýzy, automatizace a integrace pro nejsofistikovanější vozidla na světě",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Důvěřuje nám více než {number} řidičů a správců vozových parků Tesla",
   "subscribeToUnlock": "Odemknout předplatným",
   "theVehicleChargingManagementPermissionIsRequiredFor": "Oprávnění Správa nabíjení vozidla je vyžadováno pro kontrolu nákladů na Supercharging a ovládání nabíjení.",
   "noActiveVehiclesInAccount": "V účtu nejsou žádná aktivní vozidla.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Teploty baterií, proud a napětí",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Chcete-li aktualizaci použít ručně, vyberte Nastavení > Připojení > Spravovat telemetrii > Povolit.",
   "unableToApplyTelemetryUpdate": "Aktualizaci telemetrie se nepodařilo použít",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archivujte aktivní vozidlo nebo aktualizujte své předplatné pro správu dalších vozidel."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archivujte aktivní vozidlo nebo aktualizujte své předplatné pro správu dalších vozidel.",
+  "factory": "Továrna",
+  "copiedFactory": "Zkopírovaná továrna",
+  "jumpToVehicle": "Přejít k vozidlu",
+  "fleetPlanRequired": "Vyžadován tarif pro vozový park"
 }

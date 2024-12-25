@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "我們正在監控韌體警報",
   "showVehicleInfo": "顯示車輛資訊",
   "theTeslaManagementPlatform": "Tesla 管理平台",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "針對全球最先進的車輛提供應用程式、分析、自動化和整合。",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "超過 {number} 位 Tesla 車主和車隊管理員信賴。",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "針對全球最先進的車輛提供應用程式、分析、自動化和整合",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "超過 {number} 位 Tesla 車主和車隊管理員信賴",
   "subscribeToUnlock": "訂閱即可解鎖",
   "theVehicleChargingManagementPermissionIsRequiredFor": "需要有「車輛充電管理」權限，才能使用超級充電成本和充電控制功能。",
   "noActiveVehiclesInAccount": "帳戶中沒有作用中的車輛。",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "電池溫度、電流和電壓",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "若要手動套用更新，請選取「設定」>「連線」>「管理遙測」>「啟用」。",
   "unableToApplyTelemetryUpdate": "無法套用遙測更新",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "封存作用中的車輛或更新訂閱以管理更多車輛。"
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "封存作用中的車輛或更新訂閱以管理更多車輛。",
+  "factory": "工廠",
+  "copiedFactory": "已複製的工廠",
+  "jumpToVehicle": "跳轉至車輛",
+  "fleetPlanRequired": "需要車隊方案"
 }

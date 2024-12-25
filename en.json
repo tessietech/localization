@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "We're monitoring for firmware alerts",
   "showVehicleInfo": "Show vehicle info",
   "theTeslaManagementPlatform": "The Tesla management platform",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Apps, analytics, automations and integrations for the world's most sophisticated vehicles.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Trusted by more than {number} Tesla drivers and fleet managers.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Apps, analytics, automations and integrations for the world's most sophisticated vehicles",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Trusted by more than {number} Tesla drivers and fleet managers",
   "subscribeToUnlock": "Subscribe to unlock",
   "theVehicleChargingManagementPermissionIsRequiredFor": "The Vehicle Charging Management permission is required for Supercharging costs and charging controls.",
   "noActiveVehiclesInAccount": "No active vehicles in account.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Battery temperatures, current & voltage",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "To apply the update manually, select Settings > Connectivity > Manage Telemetry > Enable.",
   "unableToApplyTelemetryUpdate": "Unable to apply telemetry update",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archive an active vehicle or update your subscription to manage additional vehicles."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archive an active vehicle or update your subscription to manage additional vehicles.",
+  "factory": "Factory",
+  "copiedFactory": "Copied factory",
+  "jumpToVehicle": "Jump to vehicle",
+  "fleetPlanRequired": "Fleet plan required"
 }

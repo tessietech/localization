@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Nous surveillons les alertes de micrologiciel",
   "showVehicleInfo": "Afficher les informations du véhicule",
   "theTeslaManagementPlatform": "La plateforme de gestion Tesla",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Applications, analyses, automatisations et intégrations pour les véhicules les plus sophistiqués au monde.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Approuvé par plus de {number} conducteurs et gestionnaires de flotte Tesla.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Applications, analyses, automatisations et intégrations pour les véhicules les plus sophistiqués au monde",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Approuvé par plus de {number} conducteurs et gestionnaires de flotte Tesla",
   "subscribeToUnlock": "Abonnez-vous pour débloquer",
   "theVehicleChargingManagementPermissionIsRequiredFor": "L'autorisation de gestion de la recharge du véhicule est requise pour les coûts de la supercharge et les contrôles de charge.",
   "noActiveVehiclesInAccount": "Aucun véhicule actif dans le compte.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Températures, courant et tension de la batterie",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Pour appliquer la mise à jour manuellement : Paramètres > Connectivité > Gérer la télémétrie > Activer.",
   "unableToApplyTelemetryUpdate": "Impossible d’appliquer la mise à jour de la télémétrie",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archivez un véhicule actif ou mettez à jour votre abonnement pour gérer des véhicules supplémentaires."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archivez un véhicule actif ou mettez à jour votre abonnement pour gérer des véhicules supplémentaires.",
+  "factory": "Usine",
+  "copiedFactory": "Usine copiée",
+  "jumpToVehicle": "Accéder au véhicule",
+  "fleetPlanRequired": "Plan de flotte requis"
 }

@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Seuraamme laiteohjelmistohälytyksiä",
   "showVehicleInfo": "Näytä ajoneuvon tiedot",
   "theTeslaManagementPlatform": "Teslan hallinta-alusta",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Sovelluksia, analytiikkaa, automaatiota ja integrointia maailman edistyksellisimmille ajoneuvoille.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Yli {number} Teslan kuljettajan ja autokannan hallinnoijan luottama.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Sovelluksia, analytiikkaa, automaatiota ja integrointia maailman edistyksellisimmille ajoneuvoille",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Yli {number} Teslan kuljettajan ja autokannan hallinnoijan luottama",
   "subscribeToUnlock": "Tilaa avataksesi",
   "theVehicleChargingManagementPermissionIsRequiredFor": "Ajoneuvon latauksen hallintaa koskeva lupa vaaditaan Supercharger-latauskustannusten ja latauksen ohjainten osalta.",
   "noActiveVehiclesInAccount": "Tilillä ei ole aktiivisia ajoneuvoja.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Akun lämpötilat, virta ja jännite",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Päivityksen voi asentaa manuaalisesti valitsemalla Asetukset > Yhteydet > Telemetrian hallinta > Ota käyttöön.",
   "unableToApplyTelemetryUpdate": "Telemetriapäivitystä ei voitu ottaa käyttöön",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arkistoi aktiivinen ajoneuvo tai päivitä tilaustasi hallitaksesi lisää ajoneuvoja."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arkistoi aktiivinen ajoneuvo tai päivitä tilaustasi hallitaksesi lisää ajoneuvoja.",
+  "factory": "Tehdas",
+  "copiedFactory": "Kopioitu tehdas",
+  "jumpToVehicle": "Siirry ajoneuvoon",
+  "fleetPlanRequired": "Yrityssopimus vaaditaan"
 }

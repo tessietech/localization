@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "我们正在监控固件警报",
   "showVehicleInfo": "显示车辆信息",
   "theTeslaManagementPlatform": "特斯拉管理平台",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "面向全球最先进车辆的应用程序、分析、自动化和集成。",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "超过 {number} 位特斯拉驾驶员和车队管理员信赖。",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "面向全球最先进车辆的应用程序、分析、自动化和集成",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "超过 {number} 位特斯拉驾驶员和车队管理员信赖",
   "subscribeToUnlock": "订阅以解锁",
   "theVehicleChargingManagementPermissionIsRequiredFor": "需要“车辆充电管理”权限才能使用超级充电成本和充电控制功能。",
   "noActiveVehiclesInAccount": "帐户中没有活跃车辆。",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "电池温度、电流和电压",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "要手动应用更新，请选择“设置”>“连接”>“管理遥测”>“启用”。",
   "unableToApplyTelemetryUpdate": "无法应用遥测更新",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "归档一辆活跃车辆或更新您的订阅以管理更多车辆。"
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "归档一辆活跃车辆或更新您的订阅以管理更多车辆。",
+  "factory": "工厂",
+  "copiedFactory": "已复制工厂",
+  "jumpToVehicle": "跳转到车辆",
+  "fleetPlanRequired": "需要车队计划"
 }

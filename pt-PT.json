@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Estamos a monitorizar alertas de firmware",
   "showVehicleInfo": "Mostrar informações do veículo",
   "theTeslaManagementPlatform": "A plataforma de gestão da Tesla",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplicações, análises, automatizações e integrações para os veículos mais sofisticados do mundo.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Confiado por mais de {number} condutores e gestores de frotas Tesla.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplicações, análises, automatizações e integrações para os veículos mais sofisticados do mundo",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Confiado por mais de {number} condutores e gestores de frotas Tesla",
   "subscribeToUnlock": "Subscreva para desbloquear",
   "theVehicleChargingManagementPermissionIsRequiredFor": "A permissão Gestão de Carregamento do Veículo é necessária para os custos de Supercarregamento e controlos de carregamento.",
   "noActiveVehiclesInAccount": "Não há veículos ativos na conta.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Temperaturas, corrente e tensão da bateria",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Para aplicar a atualização manualmente, selecione Definições > Conectividade > Gerir Telemetria > Ativar.",
   "unableToApplyTelemetryUpdate": "Não foi possível aplicar a atualização da telemetria",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arquive um veículo ativo ou atualize a sua subscrição para gerir veículos adicionais."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arquive um veículo ativo ou atualize a sua subscrição para gerir veículos adicionais.",
+  "factory": "Fábrica",
+  "copiedFactory": "Fábrica copiada",
+  "jumpToVehicle": "Saltar para o veículo",
+  "fleetPlanRequired": "É necessário um plano de frota"
 }

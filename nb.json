@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Vi ser etter fastvarevarsler",
   "showVehicleInfo": "Vis kjøretøyinformasjon",
   "theTeslaManagementPlatform": "Teslas administrasjonsplattform",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Apper, analyser, automatiseringer og integrasjoner for verdens mest sofistikerte kjøretøy.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Klarert av mer enn {number} Tesla-førere og flåteledere.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Apper, analyser, automatiseringer og integrasjoner for verdens mest sofistikerte kjøretøy",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Klarert av mer enn {number} Tesla-førere og flåteledere",
   "subscribeToUnlock": "Abonner for å låse opp",
   "theVehicleChargingManagementPermissionIsRequiredFor": "Tillatelse til administrasjon av kjøretøyladning kreves for kostnader for superlading og ladekontroller.",
   "noActiveVehiclesInAccount": "Ingen aktive kjøretøy på kontoen.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Batteritemperaturer, strøm og spenning",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "For å bruke oppdateringen manuelt, velg Innstillinger > Tilkobling > Administrer telemetri > Aktiver.",
   "unableToApplyTelemetryUpdate": "Kan ikke bruke telemetrioppdatering",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arkiver et aktivt kjøretøy, eller oppdater abonnementet ditt for å administrere flere kjøretøy."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arkiver et aktivt kjøretøy, eller oppdater abonnementet ditt for å administrere flere kjøretøy.",
+  "factory": "Fabrikk",
+  "copiedFactory": "Kopiert fabrikk",
+  "jumpToVehicle": "Hopp til kjøretøy",
+  "fleetPlanRequired": "Flåteabonnement kreves"
 }

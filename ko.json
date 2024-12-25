@@ -2151,7 +2151,7 @@
   "showVehicleInfo": "차량 정보 표시",
   "theTeslaManagementPlatform": "Tesla 관리 플랫폼",
   "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "세계에서 가장 정교한 차량을 위한 앱, 분석, 자동화 및 통합",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "{number}명이 넘는 Tesla 운전자와 차량 관리자가 신뢰합니다.",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "{number}명이 넘는 Tesla 운전자와 차량 관리자가 신뢰합니다",
   "subscribeToUnlock": "구독하여 잠금 해제",
   "theVehicleChargingManagementPermissionIsRequiredFor": "슈퍼차징 비용 및 충전 제어에는 차량 충전 관리 권한이 필요합니다.",
   "noActiveVehiclesInAccount": "계정에 활성 차량이 없습니다.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "배터리 온도, 전류 및 전압",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "업데이트를 수동으로 적용하려면 설정 > 연결 > 원격 분석 관리 > 사용을 선택하세요.",
   "unableToApplyTelemetryUpdate": "원격 분석 업데이트를 적용할 수 없습니다.",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "활성 차량을 보관하거나 구독을 업데이트하여 추가 차량을 관리하세요."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "활성 차량을 보관하거나 구독을 업데이트하여 추가 차량을 관리하세요.",
+  "factory": "공장",
+  "copiedFactory": "복사된 공장",
+  "jumpToVehicle": "차량으로 이동",
+  "fleetPlanRequired": "플릿 플랜이 필요합니다."
 }

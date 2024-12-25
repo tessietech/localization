@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "We controleren op firmwarewaarschuwingen",
   "showVehicleInfo": "Voertuiginfo weergeven",
   "theTeslaManagementPlatform": "Het Tesla-beheerplatform",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Apps, analyses, automatiseringen en integraties voor 's werelds meest geavanceerde voertuigen.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Vertrouwd door meer dan {number} Tesla-rijders en wagenparkbeheerders.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Apps, analyses, automatiseringen en integraties voor 's werelds meest geavanceerde voertuigen",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Vertrouwd door meer dan {number} Tesla-rijders en wagenparkbeheerders",
   "subscribeToUnlock": "Abonneer je om te ontgrendelen",
   "theVehicleChargingManagementPermissionIsRequiredFor": "De toestemming 'Voertuigoplading beheren' is vereist voor Supercharger-kosten en oplaadbediening.",
   "noActiveVehiclesInAccount": "Geen actieve voertuigen in account.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Batterijtemperaturen, stroom & spanning",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Om de update handmatig toe te passen, selecteer je Instellingen > Connectiviteit > Telemetrie beheren > Inschakelen.",
   "unableToApplyTelemetryUpdate": "Kan de telemetrie-update niet toepassen",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiveer een actief voertuig of werk je abonnement bij om extra voertuigen te beheren."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiveer een actief voertuig of werk je abonnement bij om extra voertuigen te beheren.",
+  "factory": "Fabriek",
+  "copiedFactory": "Gekopieerde fabriek",
+  "jumpToVehicle": "Ga naar voertuig",
+  "fleetPlanRequired": "Vlootplan vereist"
 }

@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Estamos monitoreando las alertas de firmware",
   "showVehicleInfo": "Mostrar información del vehículo",
   "theTeslaManagementPlatform": "La plataforma de gestión de Tesla",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplicaciones, análisis, automatizaciones e integraciones para los vehículos más sofisticados del mundo.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Con la confianza de más de {number} conductores y administradores de flotas de Tesla.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplicaciones, análisis, automatizaciones e integraciones para los vehículos más sofisticados del mundo",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Con la confianza de más de {number} conductores y administradores de flotas de Tesla",
   "subscribeToUnlock": "Suscríbete para desbloquear",
   "theVehicleChargingManagementPermissionIsRequiredFor": "Se requiere el permiso de gestión de carga del vehículo para los costes de supercarga y los controles de carga.",
   "noActiveVehiclesInAccount": "No hay vehículos activos en la cuenta.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Temperaturas, corriente y voltaje de la batería",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Para aplicar la actualización manualmente, selecciona Ajustes > Conectividad > Administrar telemetría > Habilitar.",
   "unableToApplyTelemetryUpdate": "No se puede aplicar la actualización de telemetría",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiva un vehículo activo o actualiza tu suscripción para administrar vehículos adicionales."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Archiva un vehículo activo o actualiza tu suscripción para administrar vehículos adicionales.",
+  "factory": "Fábrica",
+  "copiedFactory": "Fábrica copiada",
+  "jumpToVehicle": "Saltar al vehículo",
+  "fleetPlanRequired": "Se requiere un plan de flota"
 }

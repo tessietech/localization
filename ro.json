@@ -2150,8 +2150,8 @@
   "wereMonitoringForFirmwareAlerts": "Monitorizăm alertele firmware",
   "showVehicleInfo": "Afișează informații despre vehicul",
   "theTeslaManagementPlatform": "Platforma de administrare Tesla",
-  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplicații, analize, automatizări și integrări pentru cele mai sofisticate vehicule din lume.",
-  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Utilizat de peste {number} de șoferi și administratori de flote Tesla.",
+  "appsAnalyticsAutomationsAndIntegrationsForTheWorldsMostSophisticated": "Aplicații, analize, automatizări și integrări pentru cele mai sofisticate vehicule din lume",
+  "trustedByMoreThanNumberTeslaDriversAndFleetManagers": "Utilizat de peste {number} de șoferi și administratori de flote Tesla",
   "subscribeToUnlock": "Abonează-te pentru a debloca",
   "theVehicleChargingManagementPermissionIsRequiredFor": "Permisiunea de gestionare a încărcării vehiculului este necesară pentru costurile Supercharging și controalele de încărcare.",
   "noActiveVehiclesInAccount": "Niciun vehicul activ în cont.",
@@ -2396,5 +2396,9 @@
   "batteryTemperaturesCurrentVoltage": "Temperaturi baterie, curent și tensiune",
   "toApplyTheUpdateManuallySelectSettingsConnectivityManageTelemetry": "Pentru a aplica manual actualizarea, selectați Setări > Conectivitate > Gestionare telemetrie > Activare.",
   "unableToApplyTelemetryUpdate": "Nu s-a putut aplica actualizarea telemetriei",
-  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arhivați un vehicul activ sau actualizați-vă abonamentul pentru a gestiona vehicule suplimentare."
+  "archiveAnActiveVehicleOrUpdateYourSubscriptionToManage": "Arhivați un vehicul activ sau actualizați-vă abonamentul pentru a gestiona vehicule suplimentare.",
+  "factory": "Fabrică",
+  "copiedFactory": "Fabrică copiată",
+  "jumpToVehicle": "Mergeți la vehicul",
+  "fleetPlanRequired": "Este necesar un plan de flotă"
 }
