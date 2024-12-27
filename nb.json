@@ -2401,5 +2401,5 @@
   "copiedFactory": "Kopiert fabrikk",
   "jumpToVehicle": "Hopp til kjøretøy",
   "fleetPlanRequired": "Flåteabonnement kreves",
-  "unlimitedVehicles": "Ubegrenset antall kjøretøy"
+  "noVehicleLimit": "Ingen kjøretøybegrensning"
 }

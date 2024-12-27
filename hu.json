@@ -2401,5 +2401,5 @@
   "copiedFactory": "Másolt gyár",
   "jumpToVehicle": "Ugrás a járműhöz",
   "fleetPlanRequired": "Flottaterv szükséges",
-  "unlimitedVehicles": "Korlátlan számú jármű"
+  "noVehicleLimit": "Nincs járműkorlátozás"
 }

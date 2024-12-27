@@ -2401,5 +2401,5 @@
   "copiedFactory": "Gekopieerde fabriek",
   "jumpToVehicle": "Ga naar voertuig",
   "fleetPlanRequired": "Vlootplan vereist",
-  "unlimitedVehicles": "Onbeperkt aantal voertuigen"
+  "noVehicleLimit": "Geen limiet voor voertuigen"
 }

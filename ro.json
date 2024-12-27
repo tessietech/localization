@@ -2401,5 +2401,5 @@
   "copiedFactory": "Fabrică copiată",
   "jumpToVehicle": "Mergeți la vehicul",
   "fleetPlanRequired": "Este necesar un plan de flotă",
-  "unlimitedVehicles": "Număr nelimitat de vehicule"
+  "noVehicleLimit": "Fără limită de vehicule"
 }

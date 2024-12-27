@@ -2401,5 +2401,5 @@
   "copiedFactory": "Zkopírovaná továrna",
   "jumpToVehicle": "Přejít k vozidlu",
   "fleetPlanRequired": "Vyžadován tarif pro vozový park",
-  "unlimitedVehicles": "Neomezený počet vozidel"
+  "noVehicleLimit": "Žádné omezení počtu vozidel"
 }

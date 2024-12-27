@@ -2401,5 +2401,5 @@
   "copiedFactory": "Kopierte Fabrik",
   "jumpToVehicle": "Zum Fahrzeug springen",
   "fleetPlanRequired": "Flottenplan erforderlich",
-  "unlimitedVehicles": "Unbegrenzte Anzahl Fahrzeuge"
+  "noVehicleLimit": "Kein Fahrzeuglimit"
 }

@@ -2401,5 +2401,5 @@
   "copiedFactory": "복사된 공장",
   "jumpToVehicle": "차량으로 이동",
   "fleetPlanRequired": "플릿 플랜이 필요합니다.",
-  "unlimitedVehicles": "무제한 차량"
+  "noVehicleLimit": "차량 제한 없음"
 }

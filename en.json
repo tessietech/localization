@@ -2401,5 +2401,5 @@
   "copiedFactory": "Copied factory",
   "jumpToVehicle": "Jump to vehicle",
   "fleetPlanRequired": "Fleet plan required",
-  "unlimitedVehicles": "Unlimited vehicles"
+  "noVehicleLimit": "No vehicle limit"
 }

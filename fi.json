@@ -2401,5 +2401,5 @@
   "copiedFactory": "Kopioitu tehdas",
   "jumpToVehicle": "Siirry ajoneuvoon",
   "fleetPlanRequired": "Yrityssopimus vaaditaan",
-  "unlimitedVehicles": "Rajoittamaton määrä ajoneuvoja"
+  "noVehicleLimit": "Ei ajoneuvorajoitusta"
 }
