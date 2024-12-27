@@ -2400,5 +2400,6 @@
   "factory": "Fabrik",
   "copiedFactory": "Kopieret fabrik",
   "jumpToVehicle": "Spring til køretøj",
-  "fleetPlanRequired": "Flådeabonnement kræves"
+  "fleetPlanRequired": "Flådeabonnement kræves",
+  "unlimitedVehicles": "Ubegrænsede køretøjer"
 }

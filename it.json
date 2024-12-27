@@ -2400,5 +2400,6 @@
   "factory": "Fabbrica",
   "copiedFactory": "Fabbrica copiata",
   "jumpToVehicle": "Vai al veicolo",
-  "fleetPlanRequired": "Piano flotta richiesto"
+  "fleetPlanRequired": "Piano flotta richiesto",
+  "unlimitedVehicles": "Veicoli illimitati"
 }

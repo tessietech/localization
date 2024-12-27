@@ -2400,5 +2400,6 @@
   "factory": "工厂",
   "copiedFactory": "已复制工厂",
   "jumpToVehicle": "跳转到车辆",
-  "fleetPlanRequired": "需要车队计划"
+  "fleetPlanRequired": "需要车队计划",
+  "unlimitedVehicles": "车辆无限制"
 }

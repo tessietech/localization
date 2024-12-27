@@ -2400,5 +2400,6 @@
   "factory": "Fabriek",
   "copiedFactory": "Gekopieerde fabriek",
   "jumpToVehicle": "Ga naar voertuig",
-  "fleetPlanRequired": "Vlootplan vereist"
+  "fleetPlanRequired": "Vlootplan vereist",
+  "unlimitedVehicles": "Onbeperkt aantal voertuigen"
 }

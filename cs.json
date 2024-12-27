@@ -2400,5 +2400,6 @@
   "factory": "Továrna",
   "copiedFactory": "Zkopírovaná továrna",
   "jumpToVehicle": "Přejít k vozidlu",
-  "fleetPlanRequired": "Vyžadován tarif pro vozový park"
+  "fleetPlanRequired": "Vyžadován tarif pro vozový park",
+  "unlimitedVehicles": "Neomezený počet vozidel"
 }

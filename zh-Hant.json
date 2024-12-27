@@ -2400,5 +2400,6 @@
   "factory": "工廠",
   "copiedFactory": "已複製的工廠",
   "jumpToVehicle": "跳轉至車輛",
-  "fleetPlanRequired": "需要車隊方案"
+  "fleetPlanRequired": "需要車隊方案",
+  "unlimitedVehicles": "無限車輛"
 }

@@ -2400,5 +2400,6 @@
   "factory": "Factory",
   "copiedFactory": "Copied factory",
   "jumpToVehicle": "Jump to vehicle",
-  "fleetPlanRequired": "Fleet plan required"
+  "fleetPlanRequired": "Fleet plan required",
+  "unlimitedVehicles": "Unlimited vehicles"
 }

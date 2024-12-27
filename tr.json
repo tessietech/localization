@@ -2400,5 +2400,6 @@
   "factory": "Fabrika",
   "copiedFactory": "Kopyalanan fabrika",
   "jumpToVehicle": "Araca atla",
-  "fleetPlanRequired": "Filo planı gerekli"
+  "fleetPlanRequired": "Filo planı gerekli",
+  "unlimitedVehicles": "Sınırsız araç"
 }
