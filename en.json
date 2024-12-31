@@ -1034,7 +1034,7 @@
   "firmware": "Firmware",
   "firmwareData": "Firmware data",
   "vehicle": "Vehicle",
-  "currentCapacity": "Current Capacity",
+  "currentCapacity": "Current capacity",
   "health": "Health",
   "unableToRetrieveBatteryHealthData": "Unable to retrieve battery health data",
   "pleaseTryAgainLater": "Please try again later",
@@ -1831,7 +1831,7 @@
   "openTessieIntegrationsWearOsOnYourPhoneToSignIn": "Open Tessie > Integrations > Wear OS on your phone to sign in",
   "openTessieIntegrationsWearOsOnYourPhoneToSync": "Open Tessie > Integrations > Wear OS on your phone to sync",
   "syncingVehicleData": "Syncing vehicle data",
-  "connectTeslaAccount": "Connect Tesla Account",
+  "connectTeslaAccount": "Connect Tesla account",
   "disablingSentry": "Disabling Sentry Mode.",
   "disablingValetMode": "Disabling Valet Mode.",
   "enablingValetMode": "Enabling Valet Mode.",
@@ -2401,5 +2401,6 @@
   "copiedFactory": "Copied factory",
   "jumpToVehicle": "Jump to vehicle",
   "fleetPlanRequired": "Fleet plan required",
-  "noVehicleLimit": "No vehicle limit"
+  "noVehicleLimit": "No vehicle limit",
+  "openTheMobileAppToGenerateYourReferralLink": "Open the mobile app to generate your referral link"
 }

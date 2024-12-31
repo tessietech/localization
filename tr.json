@@ -1034,7 +1034,7 @@
   "firmware": "Bellenim",
   "firmwareData": "Bellenim verileri",
   "vehicle": "Araç",
-  "currentCapacity": "Mevcut Kapasite",
+  "currentCapacity": "Mevcut kapasite",
   "health": "Sağlık",
   "unableToRetrieveBatteryHealthData": "Pil sağlığı verileri alınamıyor",
   "pleaseTryAgainLater": "Lütfen daha sonra tekrar deneyin",
@@ -2401,5 +2401,6 @@
   "copiedFactory": "Kopyalanan fabrika",
   "jumpToVehicle": "Araca atla",
   "fleetPlanRequired": "Filo planı gerekli",
-  "noVehicleLimit": "Araç limiti yok"
+  "noVehicleLimit": "Araç limiti yok",
+  "openTheMobileAppToGenerateYourReferralLink": "Referans bağlantınızı oluşturmak için mobil uygulamayı açın"
 }

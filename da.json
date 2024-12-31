@@ -2401,5 +2401,6 @@
   "copiedFactory": "Kopieret fabrik",
   "jumpToVehicle": "Spring til køretøj",
   "fleetPlanRequired": "Flådeabonnement kræves",
-  "noVehicleLimit": "Ingen grænse for antal køretøjer"
+  "noVehicleLimit": "Ingen grænse for antal køretøjer",
+  "openTheMobileAppToGenerateYourReferralLink": "Åbn mobilappen for at generere dit henvisningslink"
 }

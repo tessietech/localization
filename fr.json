@@ -2401,5 +2401,6 @@
   "copiedFactory": "Usine copiée",
   "jumpToVehicle": "Accéder au véhicule",
   "fleetPlanRequired": "Plan de flotte requis",
-  "noVehicleLimit": "Aucune limite de véhicule"
+  "noVehicleLimit": "Aucune limite de véhicule",
+  "openTheMobileAppToGenerateYourReferralLink": "Ouvrez l’app mobile pour générer votre lien de parrainage"
 }

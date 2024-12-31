@@ -2401,5 +2401,6 @@
   "copiedFactory": "Kopioitu tehdas",
   "jumpToVehicle": "Siirry ajoneuvoon",
   "fleetPlanRequired": "Yrityssopimus vaaditaan",
-  "noVehicleLimit": "Ei ajoneuvorajoitusta"
+  "noVehicleLimit": "Ei ajoneuvorajoitusta",
+  "openTheMobileAppToGenerateYourReferralLink": "Avaa mobiilisovellus luodaksesi lähetyskoodisi"
 }

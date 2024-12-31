@@ -2401,5 +2401,6 @@
   "copiedFactory": "Másolt gyár",
   "jumpToVehicle": "Ugrás a járműhöz",
   "fleetPlanRequired": "Flottaterv szükséges",
-  "noVehicleLimit": "Nincs járműkorlátozás"
+  "noVehicleLimit": "Nincs járműkorlátozás",
+  "openTheMobileAppToGenerateYourReferralLink": "Nyisd meg a mobilalkalmazást a meghívóhivatkozás létrehozásához"
 }

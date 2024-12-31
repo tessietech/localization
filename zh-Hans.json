@@ -2401,5 +2401,6 @@
   "copiedFactory": "已复制工厂",
   "jumpToVehicle": "跳转到车辆",
   "fleetPlanRequired": "需要车队计划",
-  "noVehicleLimit": "无车辆限制"
+  "noVehicleLimit": "无车辆限制",
+  "openTheMobileAppToGenerateYourReferralLink": "打开手机应用程序以生成您的推荐链接"
 }

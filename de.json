@@ -1034,7 +1034,7 @@
   "firmware": "Firmware",
   "firmwareData": "Firmware-daten",
   "vehicle": "Fahrzeug",
-  "currentCapacity": "Aktuelle Kapazität",
+  "currentCapacity": "Aktuelle kapazität",
   "health": "Zustand",
   "unableToRetrieveBatteryHealthData": "Kann keine Daten zum Batteriezustand abrufen",
   "pleaseTryAgainLater": "Bitte versuche es später erneut",
@@ -2401,5 +2401,6 @@
   "copiedFactory": "Kopierte Fabrik",
   "jumpToVehicle": "Zum Fahrzeug springen",
   "fleetPlanRequired": "Flottenplan erforderlich",
-  "noVehicleLimit": "Kein Fahrzeuglimit"
+  "noVehicleLimit": "Kein Fahrzeuglimit",
+  "openTheMobileAppToGenerateYourReferralLink": "Öffnen Sie die mobile App, um Ihren Empfehlungslink zu erstellen"
 }

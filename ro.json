@@ -2401,5 +2401,6 @@
   "copiedFactory": "Fabrică copiată",
   "jumpToVehicle": "Mergeți la vehicul",
   "fleetPlanRequired": "Este necesar un plan de flotă",
-  "noVehicleLimit": "Fără limită de vehicule"
+  "noVehicleLimit": "Fără limită de vehicule",
+  "openTheMobileAppToGenerateYourReferralLink": "Deschideți aplicația mobilă pentru a genera linkul de recomandare"
 }

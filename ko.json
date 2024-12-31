@@ -2401,5 +2401,6 @@
   "copiedFactory": "복사된 공장",
   "jumpToVehicle": "차량으로 이동",
   "fleetPlanRequired": "플릿 플랜이 필요합니다.",
-  "noVehicleLimit": "차량 제한 없음"
+  "noVehicleLimit": "차량 제한 없음",
+  "openTheMobileAppToGenerateYourReferralLink": "추천 링크를 생성하려면 모바일 앱을 여세요."
 }

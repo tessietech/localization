@@ -2401,5 +2401,6 @@
   "copiedFactory": "已複製的工廠",
   "jumpToVehicle": "跳轉至車輛",
   "fleetPlanRequired": "需要車隊方案",
-  "noVehicleLimit": "無車輛限制"
+  "noVehicleLimit": "無車輛限制",
+  "openTheMobileAppToGenerateYourReferralLink": "開啟手機應用程式以產生您的推薦連結"
 }

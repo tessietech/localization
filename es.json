@@ -2401,5 +2401,6 @@
   "copiedFactory": "Fábrica copiada",
   "jumpToVehicle": "Saltar al vehículo",
   "fleetPlanRequired": "Se requiere un plan de flota",
-  "noVehicleLimit": "Sin límite de vehículos"
+  "noVehicleLimit": "Sin límite de vehículos",
+  "openTheMobileAppToGenerateYourReferralLink": "Abre la aplicación móvil para generar tu enlace de referencia"
 }

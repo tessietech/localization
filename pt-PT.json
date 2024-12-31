@@ -1034,7 +1034,7 @@
   "firmware": "Firmware",
   "firmwareData": "Dados de firmware",
   "vehicle": "Veículo",
-  "currentCapacity": "Capacidade Atual",
+  "currentCapacity": "Capacidade atual",
   "health": "Integridade",
   "unableToRetrieveBatteryHealthData": "Não foi possível recuperar os dados de integridade da bateria",
   "pleaseTryAgainLater": "Por favor, tente novamente mais tarde",
@@ -2401,5 +2401,6 @@
   "copiedFactory": "Fábrica copiada",
   "jumpToVehicle": "Saltar para o veículo",
   "fleetPlanRequired": "É necessário um plano de frota",
-  "noVehicleLimit": "Sem limite de veículos"
+  "noVehicleLimit": "Sem limite de veículos",
+  "openTheMobileAppToGenerateYourReferralLink": "Abra a aplicação móvel para gerar o seu link de referência"
 }
