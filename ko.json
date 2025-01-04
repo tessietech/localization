@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "차량으로 이동",
   "fleetPlanRequired": "플릿 플랜이 필요합니다.",
   "noVehicleLimit": "차량 제한 없음",
-  "openTheMobileAppToGenerateYourReferralLink": "추천 링크를 생성하려면 모바일 앱을 여세요."
+  "openTheMobileAppToGenerateYourReferralLink": "추천 링크를 생성하려면 모바일 앱을 여세요.",
+  "signInMethods": "로그인 방법",
+  "changeHowYouSignInToYourAccount": "계정 로그인 방식 변경",
+  "accountLinkedSuccessfully": "계정 연결됨",
+  "youCanNowSignInWithProvider": "{provider}으로 로그인할 수 있습니다.",
+  "accountAlreadyInUse": "이미 사용 중인 계정",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "해당 {provider} 계정은 이미 다른 사용자에게 연결되어 있습니다.",
+  "accountUnlinked": "계정 연결 해제됨",
+  "yourProviderAccountHasBeenUnlinked": "{provider} 계정 연결이 해제되었습니다.",
+  "unlinkEmail": "{email} 연결 해제",
+  "enterYourNewEmail": "새 이메일 주소 입력",
+  "linkAccount": "계정 연결",
+  "signInWithProvider": "{provider}으로 로그인",
+  "or": "또는",
+  "byContinuingYouAgreeToOur": "계속하면 다음에 동의하는 것으로 간주됩니다."
 }

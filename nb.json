@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Hopp til kjøretøy",
   "fleetPlanRequired": "Flåteabonnement kreves",
   "noVehicleLimit": "Ingen kjøretøybegrensning",
-  "openTheMobileAppToGenerateYourReferralLink": "Åpne mobilappen for å generere henvisningslenken din"
+  "openTheMobileAppToGenerateYourReferralLink": "Åpne mobilappen for å generere henvisningslenken din",
+  "signInMethods": "Påloggingsmetoder",
+  "changeHowYouSignInToYourAccount": "Endre hvordan du logger på kontoen din",
+  "accountLinkedSuccessfully": "Kontoen er koblet til",
+  "youCanNowSignInWithProvider": "Du kan nå logge på med {provider}.",
+  "accountAlreadyInUse": "Kontoen er allerede i bruk",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Denne {provider}-kontoen er allerede koblet til en annen bruker.",
+  "accountUnlinked": "Kontoen er frakoblet",
+  "yourProviderAccountHasBeenUnlinked": "{provider}-kontoen din er frakoblet.",
+  "unlinkEmail": "Koble fra {email}",
+  "enterYourNewEmail": "Skriv inn den nye e-postadressen din",
+  "linkAccount": "Koble til konto",
+  "signInWithProvider": "Logg på med {provider}",
+  "or": "eller",
+  "byContinuingYouAgreeToOur": "Ved å fortsette godtar du våre"
 }

@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Siirry ajoneuvoon",
   "fleetPlanRequired": "Yrityssopimus vaaditaan",
   "noVehicleLimit": "Ei ajoneuvorajoitusta",
-  "openTheMobileAppToGenerateYourReferralLink": "Avaa mobiilisovellus luodaksesi lähetyskoodisi"
+  "openTheMobileAppToGenerateYourReferralLink": "Avaa mobiilisovellus luodaksesi lähetyskoodisi",
+  "signInMethods": "Kirjautumistavat",
+  "changeHowYouSignInToYourAccount": "Muuta tilisi kirjautumistapaa",
+  "accountLinkedSuccessfully": "Tili linkitetty",
+  "youCanNowSignInWithProvider": "Voit nyt kirjautua sisään palvelulla {provider}.",
+  "accountAlreadyInUse": "Tili on jo käytössä",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "{provider}-tili on jo linkitetty toiseen käyttäjään.",
+  "accountUnlinked": "Tilin linkitys poistettu",
+  "yourProviderAccountHasBeenUnlinked": "{provider}-tilisi linkitys on poistettu.",
+  "unlinkEmail": "Poista sähköpostin {email} linkitys",
+  "enterYourNewEmail": "Anna uusi sähköpostiosoitteesi",
+  "linkAccount": "Linkitä tili",
+  "signInWithProvider": "Kirjaudu sisään {provider}:n avulla",
+  "or": "tai",
+  "byContinuingYouAgreeToOur": "Jatkamalla hyväksyt"
 }

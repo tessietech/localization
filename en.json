@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Jump to vehicle",
   "fleetPlanRequired": "Fleet plan required",
   "noVehicleLimit": "No vehicle limit",
-  "openTheMobileAppToGenerateYourReferralLink": "Open the mobile app to generate your referral link"
+  "openTheMobileAppToGenerateYourReferralLink": "Open the mobile app to generate your referral link",
+  "signInMethods": "Sign in methods",
+  "changeHowYouSignInToYourAccount": "Change how you sign in to your account",
+  "accountLinkedSuccessfully": "Account linked successfully",
+  "youCanNowSignInWithProvider": "You can now sign in with {provider}.",
+  "accountAlreadyInUse": "Account already in use",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "That {provider} account is already linked to another user.",
+  "accountUnlinked": "Account unlinked",
+  "yourProviderAccountHasBeenUnlinked": "Your {provider} account has been unlinked.",
+  "unlinkEmail": "Unlink {email}",
+  "enterYourNewEmail": "Enter your new email",
+  "linkAccount": "Link account",
+  "signInWithProvider": "Sign in with {provider}",
+  "or": "or",
+  "byContinuingYouAgreeToOur": "By continuing, you agree to our"
 }

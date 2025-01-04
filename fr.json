@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Accéder au véhicule",
   "fleetPlanRequired": "Plan de flotte requis",
   "noVehicleLimit": "Aucune limite de véhicule",
-  "openTheMobileAppToGenerateYourReferralLink": "Ouvrez l’app mobile pour générer votre lien de parrainage"
+  "openTheMobileAppToGenerateYourReferralLink": "Ouvrez l’app mobile pour générer votre lien de parrainage",
+  "signInMethods": "Méthodes de connexion",
+  "changeHowYouSignInToYourAccount": "Modifier vos méthodes de connexion à votre compte",
+  "accountLinkedSuccessfully": "Compte lié avec succès",
+  "youCanNowSignInWithProvider": "Vous pouvez maintenant vous connecter avec {provider}.",
+  "accountAlreadyInUse": "Compte déjà utilisé",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Ce compte {provider} est déjà lié à un autre utilisateur.",
+  "accountUnlinked": "Compte dissocié",
+  "yourProviderAccountHasBeenUnlinked": "Votre compte {provider} a été dissocié.",
+  "unlinkEmail": "Dissocier {email}",
+  "enterYourNewEmail": "Saisissez votre nouvelle adresse e-mail",
+  "linkAccount": "Lier un compte",
+  "signInWithProvider": "Se connecter avec {provider}",
+  "or": "ou",
+  "byContinuingYouAgreeToOur": "En continuant, vous acceptez nos"
 }

@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Araca atla",
   "fleetPlanRequired": "Filo planı gerekli",
   "noVehicleLimit": "Araç limiti yok",
-  "openTheMobileAppToGenerateYourReferralLink": "Referans bağlantınızı oluşturmak için mobil uygulamayı açın"
+  "openTheMobileAppToGenerateYourReferralLink": "Referans bağlantınızı oluşturmak için mobil uygulamayı açın",
+  "signInMethods": "Oturum açma yöntemleri",
+  "changeHowYouSignInToYourAccount": "Hesabınıza nasıl oturum açtığınızı değiştirin",
+  "accountLinkedSuccessfully": "Hesap başarıyla bağlandı",
+  "youCanNowSignInWithProvider": "Artık {provider} ile oturum açabilirsiniz.",
+  "accountAlreadyInUse": "Hesap zaten kullanımda",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Bu {provider} hesabı zaten başka bir kullanıcıya bağlı.",
+  "accountUnlinked": "Hesap bağlantısı kaldırıldı",
+  "yourProviderAccountHasBeenUnlinked": "{provider} hesabınızın bağlantısı kaldırıldı.",
+  "unlinkEmail": "{email} bağlantısını kaldır",
+  "enterYourNewEmail": "Yeni e-postanızı girin",
+  "linkAccount": "Hesabı bağla",
+  "signInWithProvider": "{provider} ile oturum aç",
+  "or": "veya",
+  "byContinuingYouAgreeToOur": "Devam ederek şunları kabul etmiş olursunuz:"
 }

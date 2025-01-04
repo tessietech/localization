@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Zum Fahrzeug springen",
   "fleetPlanRequired": "Flottenplan erforderlich",
   "noVehicleLimit": "Kein Fahrzeuglimit",
-  "openTheMobileAppToGenerateYourReferralLink": "Öffnen Sie die mobile App, um Ihren Empfehlungslink zu erstellen"
+  "openTheMobileAppToGenerateYourReferralLink": "Öffnen Sie die mobile App, um Ihren Empfehlungslink zu erstellen",
+  "signInMethods": "Anmeldemethoden",
+  "changeHowYouSignInToYourAccount": "Ändern Sie, wie Sie sich bei Ihrem Konto anmelden",
+  "accountLinkedSuccessfully": "Konto erfolgreich verknüpft",
+  "youCanNowSignInWithProvider": "Sie können sich jetzt mit {provider} anmelden.",
+  "accountAlreadyInUse": "Konto bereits verwendet",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Dieses {provider}-Konto ist bereits mit einem anderen Benutzer verknüpft.",
+  "accountUnlinked": "Konto getrennt",
+  "yourProviderAccountHasBeenUnlinked": "Ihr {provider}-Konto wurde getrennt.",
+  "unlinkEmail": "{email} trennen",
+  "enterYourNewEmail": "Geben Sie Ihre neue E-Mail-Adresse ein",
+  "linkAccount": "Konto verknüpfen",
+  "signInWithProvider": "Mit {provider} anmelden",
+  "or": "oder",
+  "byContinuingYouAgreeToOur": "Indem Sie fortfahren, stimmen Sie unseren zu"
 }

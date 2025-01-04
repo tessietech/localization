@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "跳轉至車輛",
   "fleetPlanRequired": "需要車隊方案",
   "noVehicleLimit": "無車輛限制",
-  "openTheMobileAppToGenerateYourReferralLink": "開啟手機應用程式以產生您的推薦連結"
+  "openTheMobileAppToGenerateYourReferralLink": "開啟手機應用程式以產生您的推薦連結",
+  "signInMethods": "登入方式",
+  "changeHowYouSignInToYourAccount": "變更您的帳號登入方式",
+  "accountLinkedSuccessfully": "帳號已成功連結",
+  "youCanNowSignInWithProvider": "您現在可以使用 {provider} 登入。",
+  "accountAlreadyInUse": "帳號已被使用",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "該 {provider} 帳號已連結至其他使用者。",
+  "accountUnlinked": "帳號已解除連結",
+  "yourProviderAccountHasBeenUnlinked": "您的 {provider} 帳號已解除連結。",
+  "unlinkEmail": "解除連結 {email}",
+  "enterYourNewEmail": "輸入您的新電子郵件",
+  "linkAccount": "連結帳號",
+  "signInWithProvider": "使用 {provider} 登入",
+  "or": "或",
+  "byContinuingYouAgreeToOur": "繼續即表示您同意我們的"
 }

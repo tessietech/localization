@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Ugrás a járműhöz",
   "fleetPlanRequired": "Flottaterv szükséges",
   "noVehicleLimit": "Nincs járműkorlátozás",
-  "openTheMobileAppToGenerateYourReferralLink": "Nyisd meg a mobilalkalmazást a meghívóhivatkozás létrehozásához"
+  "openTheMobileAppToGenerateYourReferralLink": "Nyisd meg a mobilalkalmazást a meghívóhivatkozás létrehozásához",
+  "signInMethods": "Bejelentkezési módok",
+  "changeHowYouSignInToYourAccount": "Fiókjába való bejelentkezés módjának módosítása",
+  "accountLinkedSuccessfully": "Fiók sikeresen csatolva",
+  "youCanNowSignInWithProvider": "Mostantól bejelentkezhet a(z) {provider} szolgáltatással.",
+  "accountAlreadyInUse": "A fiók már használatban van",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Ez a(z) {provider} fiók már egy másik felhasználóhoz van csatolva.",
+  "accountUnlinked": "Fiók leválasztva",
+  "yourProviderAccountHasBeenUnlinked": "A(z) {provider} fiókja le lett választva.",
+  "unlinkEmail": "{email} leválasztása",
+  "enterYourNewEmail": "Adja meg új e-mail-címét",
+  "linkAccount": "Fiók csatolása",
+  "signInWithProvider": "Bejelentkezés {provider} használatával",
+  "or": "vagy",
+  "byContinuingYouAgreeToOur": "A folytatással elfogadja a"
 }

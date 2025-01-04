@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Mergeți la vehicul",
   "fleetPlanRequired": "Este necesar un plan de flotă",
   "noVehicleLimit": "Fără limită de vehicule",
-  "openTheMobileAppToGenerateYourReferralLink": "Deschideți aplicația mobilă pentru a genera linkul de recomandare"
+  "openTheMobileAppToGenerateYourReferralLink": "Deschideți aplicația mobilă pentru a genera linkul de recomandare",
+  "signInMethods": "Metode de conectare",
+  "changeHowYouSignInToYourAccount": "Modificați modul în care vă conectați la contul dvs.",
+  "accountLinkedSuccessfully": "Cont conectat cu succes",
+  "youCanNowSignInWithProvider": "Acum vă puteți conecta cu {provider}.",
+  "accountAlreadyInUse": "Cont deja utilizat",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Contul {provider} este deja conectat la un alt utilizator.",
+  "accountUnlinked": "Cont deconectat",
+  "yourProviderAccountHasBeenUnlinked": "Contul dvs. {provider} a fost deconectat.",
+  "unlinkEmail": "Deconectați {email}",
+  "enterYourNewEmail": "Introduceți noua dvs. adresă de e-mail",
+  "linkAccount": "Conectați contul",
+  "signInWithProvider": "Conectați-vă cu {provider}",
+  "or": "sau",
+  "byContinuingYouAgreeToOur": "Continuând, sunteți de acord cu"
 }

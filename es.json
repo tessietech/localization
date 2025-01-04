@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Saltar al vehículo",
   "fleetPlanRequired": "Se requiere un plan de flota",
   "noVehicleLimit": "Sin límite de vehículos",
-  "openTheMobileAppToGenerateYourReferralLink": "Abre la aplicación móvil para generar tu enlace de referencia"
+  "openTheMobileAppToGenerateYourReferralLink": "Abre la aplicación móvil para generar tu enlace de referencia",
+  "signInMethods": "Métodos de inicio de sesión",
+  "changeHowYouSignInToYourAccount": "Cambiar cómo inicia sesión en su cuenta",
+  "accountLinkedSuccessfully": "Cuenta vinculada correctamente",
+  "youCanNowSignInWithProvider": "Ahora puede iniciar sesión con {provider}.",
+  "accountAlreadyInUse": "Cuenta ya en uso",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Esa cuenta de {provider} ya está vinculada a otro usuario.",
+  "accountUnlinked": "Cuenta desvinculada",
+  "yourProviderAccountHasBeenUnlinked": "Su cuenta de {provider} ha sido desvinculada.",
+  "unlinkEmail": "Desvincular {email}",
+  "enterYourNewEmail": "Ingrese su nuevo correo electrónico",
+  "linkAccount": "Vincular cuenta",
+  "signInWithProvider": "Iniciar sesión con {provider}",
+  "or": "o",
+  "byContinuingYouAgreeToOur": "Al continuar, aceptas nuestro"
 }

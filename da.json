@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Spring til køretøj",
   "fleetPlanRequired": "Flådeabonnement kræves",
   "noVehicleLimit": "Ingen grænse for antal køretøjer",
-  "openTheMobileAppToGenerateYourReferralLink": "Åbn mobilappen for at generere dit henvisningslink"
+  "openTheMobileAppToGenerateYourReferralLink": "Åbn mobilappen for at generere dit henvisningslink",
+  "signInMethods": "Loginmetoder",
+  "changeHowYouSignInToYourAccount": "Rediger din loginmetode",
+  "accountLinkedSuccessfully": "Kontoen er knyttet",
+  "youCanNowSignInWithProvider": "Du kan nu logge ind med {provider}.",
+  "accountAlreadyInUse": "Kontoen er allerede i brug",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Denne {provider}-konto er allerede knyttet til en anden bruger.",
+  "accountUnlinked": "Kontoen er frakoblet",
+  "yourProviderAccountHasBeenUnlinked": "Din {provider}-konto er blevet frakoblet.",
+  "unlinkEmail": "Frakobl {email}",
+  "enterYourNewEmail": "Indtast din nye e-mail",
+  "linkAccount": "Knyt konto",
+  "signInWithProvider": "Log ind med {provider}",
+  "or": "eller",
+  "byContinuingYouAgreeToOur": "Ved at fortsætte accepterer du vores"
 }

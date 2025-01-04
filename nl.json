@@ -2402,5 +2402,19 @@
   "jumpToVehicle": "Ga naar voertuig",
   "fleetPlanRequired": "Vlootplan vereist",
   "noVehicleLimit": "Geen limiet voor voertuigen",
-  "openTheMobileAppToGenerateYourReferralLink": "Open de mobiele app om uw verwijzingslink te genereren"
+  "openTheMobileAppToGenerateYourReferralLink": "Open de mobiele app om uw verwijzingslink te genereren",
+  "signInMethods": "Aanmeldmethoden",
+  "changeHowYouSignInToYourAccount": "Wijzig hoe u zich aanmeldt bij uw account",
+  "accountLinkedSuccessfully": "Account succesvol gekoppeld",
+  "youCanNowSignInWithProvider": "U kunt zich nu aanmelden met {provider}.",
+  "accountAlreadyInUse": "Account is al in gebruik",
+  "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Dat {provider}-account is al gekoppeld aan een andere gebruiker.",
+  "accountUnlinked": "Account ontkoppeld",
+  "yourProviderAccountHasBeenUnlinked": "Uw {provider}-account is ontkoppeld.",
+  "unlinkEmail": "{email} ontkoppelen",
+  "enterYourNewEmail": "Voer uw nieuwe e-mailadres in",
+  "linkAccount": "Account koppelen",
+  "signInWithProvider": "Aanmelden met {provider}",
+  "or": "of",
+  "byContinuingYouAgreeToOur": "Door verder te gaan, gaat u akkoord met onze"
 }
