@@ -2416,5 +2416,9 @@
   "linkAccount": "Fiók csatolása",
   "signInWithProvider": "Bejelentkezés {provider} használatával",
   "or": "vagy",
-  "byContinuingYouAgreeToOur": "A folytatással elfogadja a"
+  "byContinuingYouAgreeToOur": "A folytatással elfogadja a",
+  "linkingAlreadyInProgress": "A csatlakozás folyamatban van",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Egy másik fiók csatlakoztatásához zárja be a meglévő párbeszédpanelt, vagy indítsa újra az alkalmazást.",
+  "unlink": "Leválasztás",
+  "youWillNoLongerBeAbleToLogInWith": "A továbbiakban nem fog tudni bejelentkezni a(z) {provider} szolgáltatással."
 }

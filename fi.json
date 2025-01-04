@@ -2416,5 +2416,9 @@
   "linkAccount": "Linkitä tili",
   "signInWithProvider": "Kirjaudu sisään {provider}:n avulla",
   "or": "tai",
-  "byContinuingYouAgreeToOur": "Jatkamalla hyväksyt"
+  "byContinuingYouAgreeToOur": "Jatkamalla hyväksyt",
+  "linkingAlreadyInProgress": "Linkitys on jo käynnissä",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Sulje nykyinen valintaikkuna tai käynnistä sovellus uudelleen linkittääksesi toisen tilin.",
+  "unlink": "Pura linkitys",
+  "youWillNoLongerBeAbleToLogInWith": "Et voi enää kirjautua sisään käyttämällä {provider}."
 }

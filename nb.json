@@ -2416,5 +2416,9 @@
   "linkAccount": "Koble til konto",
   "signInWithProvider": "Logg på med {provider}",
   "or": "eller",
-  "byContinuingYouAgreeToOur": "Ved å fortsette godtar du våre"
+  "byContinuingYouAgreeToOur": "Ved å fortsette godtar du våre",
+  "linkingAlreadyInProgress": "Kobling pågår allerede",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Lukk den eksisterende dialogboksen eller start appen på nytt for å koble en annen konto.",
+  "unlink": "Opphev kobling",
+  "youWillNoLongerBeAbleToLogInWith": "Du vil ikke lenger kunne logge på med {provider}."
 }

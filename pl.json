@@ -2416,5 +2416,9 @@
   "linkAccount": "Połącz konto",
   "signInWithProvider": "Zaloguj się za pomocą {provider}",
   "or": "lub",
-  "byContinuingYouAgreeToOur": "Kontynuując, akceptujesz nasze"
+  "byContinuingYouAgreeToOur": "Kontynuując, akceptujesz nasze",
+  "linkingAlreadyInProgress": "Trwa już łączenie",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Zamknij istniejące okno dialogowe lub uruchom ponownie aplikację, aby połączyć inne konto.",
+  "unlink": "Odłącz",
+  "youWillNoLongerBeAbleToLogInWith": "Nie będziesz już mógł się logować za pomocą {provider}."
 }

@@ -2416,5 +2416,9 @@
   "linkAccount": "連結帳號",
   "signInWithProvider": "使用 {provider} 登入",
   "or": "或",
-  "byContinuingYouAgreeToOur": "繼續即表示您同意我們的"
+  "byContinuingYouAgreeToOur": "繼續即表示您同意我們的",
+  "linkingAlreadyInProgress": "連結程序已在進行中",
+  "closeTheExistingDialogOrRestartTheAppToLink": "請關閉現有對話框或重新啟動應用程式以連結其他帳戶。",
+  "unlink": "取消連結",
+  "youWillNoLongerBeAbleToLogInWith": "您將無法再使用 {provider} 登入。"
 }

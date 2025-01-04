@@ -2416,5 +2416,9 @@
   "linkAccount": "Link account",
   "signInWithProvider": "Sign in with {provider}",
   "or": "or",
-  "byContinuingYouAgreeToOur": "By continuing, you agree to our"
+  "byContinuingYouAgreeToOur": "By continuing, you agree to our",
+  "linkingAlreadyInProgress": "Linking already in progress",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Close the existing dialog or restart the app to link another account.",
+  "unlink": "Unlink",
+  "youWillNoLongerBeAbleToLogInWith": "You will no longer be able to log in with {provider}."
 }

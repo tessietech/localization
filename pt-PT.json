@@ -2416,5 +2416,9 @@
   "linkAccount": "Associar conta",
   "signInWithProvider": "Iniciar sessão com {provider}",
   "or": "ou",
-  "byContinuingYouAgreeToOur": "Ao continuar, aceita os nossos"
+  "byContinuingYouAgreeToOur": "Ao continuar, aceita os nossos",
+  "linkingAlreadyInProgress": "Ligação em curso",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Feche a caixa de diálogo existente ou reinicie a aplicação para ligar outra conta.",
+  "unlink": "Desassociar",
+  "youWillNoLongerBeAbleToLogInWith": "Já não conseguirá iniciar sessão com {provider}."
 }

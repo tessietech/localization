@@ -2416,5 +2416,9 @@
   "linkAccount": "Konto verknüpfen",
   "signInWithProvider": "Mit {provider} anmelden",
   "or": "oder",
-  "byContinuingYouAgreeToOur": "Indem Sie fortfahren, stimmen Sie unseren zu"
+  "byContinuingYouAgreeToOur": "Indem Sie fortfahren, stimmen Sie unseren zu",
+  "linkingAlreadyInProgress": "Verknüpfung wird bereits durchgeführt",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Schließen Sie den bestehenden Dialog oder starten Sie die App neu, um ein anderes Konto zu verknüpfen.",
+  "unlink": "Trennen",
+  "youWillNoLongerBeAbleToLogInWith": "Sie können sich nicht mehr mit {provider} anmelden."
 }

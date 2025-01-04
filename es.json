@@ -2416,5 +2416,9 @@
   "linkAccount": "Vincular cuenta",
   "signInWithProvider": "Iniciar sesión con {provider}",
   "or": "o",
-  "byContinuingYouAgreeToOur": "Al continuar, aceptas nuestro"
+  "byContinuingYouAgreeToOur": "Al continuar, aceptas nuestro",
+  "linkingAlreadyInProgress": "Vinculación en curso",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Cierra el diálogo existente o reinicia la aplicación para vincular otra cuenta.",
+  "unlink": "Desvincular",
+  "youWillNoLongerBeAbleToLogInWith": "Ya no podrás iniciar sesión con {provider}."
 }

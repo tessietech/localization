@@ -2416,5 +2416,9 @@
   "linkAccount": "Propojit účet",
   "signInWithProvider": "Přihlásit se pomocí {provider}",
   "or": "nebo",
-  "byContinuingYouAgreeToOur": "Pokračováním souhlasíte s našimi"
+  "byContinuingYouAgreeToOur": "Pokračováním souhlasíte s našimi",
+  "linkingAlreadyInProgress": "Probíhá párování",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Zavřete existující dialog nebo restartujte aplikaci pro spárování jiného účtu.",
+  "unlink": "Odpojit",
+  "youWillNoLongerBeAbleToLogInWith": "Již se nebudete moci přihlásit pomocí {provider}."
 }

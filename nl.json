@@ -2416,5 +2416,9 @@
   "linkAccount": "Account koppelen",
   "signInWithProvider": "Aanmelden met {provider}",
   "or": "of",
-  "byContinuingYouAgreeToOur": "Door verder te gaan, gaat u akkoord met onze"
+  "byContinuingYouAgreeToOur": "Door verder te gaan, gaat u akkoord met onze",
+  "linkingAlreadyInProgress": "Koppelen is al bezig",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Sluit het bestaande dialoogvenster of start de app opnieuw om een ander account te koppelen.",
+  "unlink": "Ontkoppelen",
+  "youWillNoLongerBeAbleToLogInWith": "Je kunt niet langer inloggen met {provider}."
 }

@@ -2416,5 +2416,9 @@
   "linkAccount": "계정 연결",
   "signInWithProvider": "{provider}으로 로그인",
   "or": "또는",
-  "byContinuingYouAgreeToOur": "계속하면 다음에 동의하는 것으로 간주됩니다."
+  "byContinuingYouAgreeToOur": "계속하면 다음에 동의하는 것으로 간주됩니다.",
+  "linkingAlreadyInProgress": "연결이 이미 진행 중입니다.",
+  "closeTheExistingDialogOrRestartTheAppToLink": "다른 계정을 연결하려면 기존 대화상자를 닫거나 앱을 다시 시작하세요.",
+  "unlink": "연결 해제",
+  "youWillNoLongerBeAbleToLogInWith": "{provider}(으)로 로그인할 수 없습니다."
 }

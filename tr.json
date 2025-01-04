@@ -2416,5 +2416,9 @@
   "linkAccount": "Hesabı bağla",
   "signInWithProvider": "{provider} ile oturum aç",
   "or": "veya",
-  "byContinuingYouAgreeToOur": "Devam ederek şunları kabul etmiş olursunuz:"
+  "byContinuingYouAgreeToOur": "Devam ederek şunları kabul etmiş olursunuz:",
+  "linkingAlreadyInProgress": "Bağlantı zaten devam ediyor",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Başka bir hesabı bağlamak için mevcut iletişim kutusunu kapatın veya uygulamayı yeniden başlatın.",
+  "unlink": "Bağlantıyı Kes",
+  "youWillNoLongerBeAbleToLogInWith": "{provider} ile artık oturum açamazsınız."
 }

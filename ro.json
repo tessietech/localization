@@ -2416,5 +2416,9 @@
   "linkAccount": "Conectați contul",
   "signInWithProvider": "Conectați-vă cu {provider}",
   "or": "sau",
-  "byContinuingYouAgreeToOur": "Continuând, sunteți de acord cu"
+  "byContinuingYouAgreeToOur": "Continuând, sunteți de acord cu",
+  "linkingAlreadyInProgress": "Conectarea este deja în curs",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Închideți dialogul existent sau reporniți aplicația pentru a conecta un alt cont.",
+  "unlink": "Deconectare",
+  "youWillNoLongerBeAbleToLogInWith": "Nu veți mai putea să vă conectați cu {provider}."
 }

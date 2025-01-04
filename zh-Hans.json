@@ -2416,5 +2416,9 @@
   "linkAccount": "关联帐户",
   "signInWithProvider": "使用{provider}登录",
   "or": "或",
-  "byContinuingYouAgreeToOur": "继续即表示您同意我们的"
+  "byContinuingYouAgreeToOur": "继续即表示您同意我们的",
+  "linkingAlreadyInProgress": "链接已进行中",
+  "closeTheExistingDialogOrRestartTheAppToLink": "关闭现有对话框或重新启动应用以链接其他帐户。",
+  "unlink": "取消关联",
+  "youWillNoLongerBeAbleToLogInWith": "您将无法再使用{provider}登录。"
 }

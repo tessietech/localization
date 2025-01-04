@@ -2416,5 +2416,9 @@
   "linkAccount": "Knyt konto",
   "signInWithProvider": "Log ind med {provider}",
   "or": "eller",
-  "byContinuingYouAgreeToOur": "Ved at fortsætte accepterer du vores"
+  "byContinuingYouAgreeToOur": "Ved at fortsætte accepterer du vores",
+  "linkingAlreadyInProgress": "Der er allerede en tilknytning i gang",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Luk den eksisterende dialog, eller genstart appen for at tilknytte en anden konto.",
+  "unlink": "Fjern tilknytning",
+  "youWillNoLongerBeAbleToLogInWith": "Du vil ikke længere kunne logge ind med {provider}."
 }

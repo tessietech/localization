@@ -2416,5 +2416,9 @@
   "linkAccount": "Collega account",
   "signInWithProvider": "Accedi con {provider}",
   "or": "oppure",
-  "byContinuingYouAgreeToOur": "Continuando, accetti i nostri"
+  "byContinuingYouAgreeToOur": "Continuando, accetti i nostri",
+  "linkingAlreadyInProgress": "Collegamento già in corso",
+  "closeTheExistingDialogOrRestartTheAppToLink": "Chiudi la finestra di dialogo esistente o riavvia l'app per collegare un altro account.",
+  "unlink": "Scollega",
+  "youWillNoLongerBeAbleToLogInWith": "Non potrai più accedere con {provider}."
 }
