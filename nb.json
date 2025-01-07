@@ -2443,5 +2443,6 @@
   "connectYourVehicleToTidbyt": "Koble bilen din til Tidbyt",
   "seeYourVehicleOnYourTidbyt": "Se bilen din på Tidbyt",
   "controlYourVehicleFromYourWearOsSmartwatch": "Kontroller bilen din fra Wear OS-smartklokken din",
-  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatiser bilen din ved hjelp av utløsere fra forskjellige apper og tjenester"
+  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatiser bilen din ved hjelp av utløsere fra forskjellige apper og tjenester",
+  "subscriptionExpired": "Abonnementet er utløpt"
 }
