@@ -2443,5 +2443,6 @@
   "connectYourVehicleToTidbyt": "Connect your vehicle to Tidbyt",
   "seeYourVehicleOnYourTidbyt": "See your vehicle on your Tidbyt",
   "controlYourVehicleFromYourWearOsSmartwatch": "Control your vehicle from your Wear OS smartwatch",
-  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automate your vehicle using triggers from different apps and services"
+  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automate your vehicle using triggers from different apps and services",
+  "subscriptionExpired": "Subscription expired"
 }

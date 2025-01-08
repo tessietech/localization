@@ -2443,5 +2443,6 @@
   "connectYourVehicleToTidbyt": "將您的車輛連接到 Tidbyt",
   "seeYourVehicleOnYourTidbyt": "在 Tidbyt 上查看您的車輛",
   "controlYourVehicleFromYourWearOsSmartwatch": "透過 Wear OS 智慧手錶控制您的車輛",
-  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "使用來自不同應用程式和服務的觸發器將您的車輛自動化"
+  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "使用來自不同應用程式和服務的觸發器將您的車輛自動化",
+  "subscriptionExpired": "訂閱已過期"
 }

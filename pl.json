@@ -2443,5 +2443,6 @@
   "connectYourVehicleToTidbyt": "Połącz pojazd z Tidbyt",
   "seeYourVehicleOnYourTidbyt": "Zobacz swój pojazd na Tidbyt",
   "controlYourVehicleFromYourWearOsSmartwatch": "Steruj pojazdem za pomocą smartwatcha Wear OS",
-  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatyzuj pojazd za pomocą wyzwalaczy z różnych aplikacji i usług"
+  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatyzuj pojazd za pomocą wyzwalaczy z różnych aplikacji i usług",
+  "subscriptionExpired": "Subskrypcja wygasła"
 }

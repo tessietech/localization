@@ -2443,5 +2443,6 @@
   "connectYourVehicleToTidbyt": "Yhdistä ajoneuvosi Tidbytiin",
   "seeYourVehicleOnYourTidbyt": "Näe ajoneuvosi Tidbytissäsi",
   "controlYourVehicleFromYourWearOsSmartwatch": "Ohjaa ajoneuvoasi Wear OS -älykellollasi",
-  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatisoi ajoneuvosi eri sovellusten ja palveluiden käynnistimillä"
+  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatisoi ajoneuvosi eri sovellusten ja palveluiden käynnistimillä",
+  "subscriptionExpired": "Tilaus vanhentunut"
 }

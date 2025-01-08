@@ -2443,5 +2443,6 @@
   "connectYourVehicleToTidbyt": "Csatlakoztassa járművét a Tidbythez",
   "seeYourVehicleOnYourTidbyt": "Tekintse meg járművét a Tidbyten",
   "controlYourVehicleFromYourWearOsSmartwatch": "Irányítsa járművét Wear OS okosórájáról",
-  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizálja járművét különböző alkalmazásokból és szolgáltatásokból származó eseményindítók segítségével"
+  "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizálja járművét különböző alkalmazásokból és szolgáltatásokból származó eseményindítók segítségével",
+  "subscriptionExpired": "Előfizetés lejárt"
 }
