@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "{provider}-tili on jo linkitetty toiseen käyttäjään.",
   "accountUnlinked": "Tilin linkitys poistettu",
   "yourProviderAccountHasBeenUnlinked": "{provider}-tilisi linkitys on poistettu.",
-  "unlinkEmail": "Poista sähköpostin {email} linkitys",
+  "unlinkIdentifier": "Poista sähköpostin {email} linkitys",
   "enterYourNewEmail": "Anna uusi sähköpostiosoitteesi",
   "linkAccount": "Linkitä tili",
   "signInWithProvider": "Kirjaudu sisään {provider}:n avulla",

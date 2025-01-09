@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Dieses {provider}-Konto ist bereits mit einem anderen Benutzer verknüpft.",
   "accountUnlinked": "Konto getrennt",
   "yourProviderAccountHasBeenUnlinked": "Ihr {provider}-Konto wurde getrennt.",
-  "unlinkEmail": "{email} trennen",
+  "unlinkIdentifier": "{email} trennen",
   "enterYourNewEmail": "Geben Sie Ihre neue E-Mail-Adresse ein",
   "linkAccount": "Konto verknüpfen",
   "signInWithProvider": "Mit {provider} anmelden",

@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Bu {provider} hesabı zaten başka bir kullanıcıya bağlı.",
   "accountUnlinked": "Hesap bağlantısı kaldırıldı",
   "yourProviderAccountHasBeenUnlinked": "{provider} hesabınızın bağlantısı kaldırıldı.",
-  "unlinkEmail": "{email} bağlantısını kaldır",
+  "unlinkIdentifier": "{email} bağlantısını kaldır",
   "enterYourNewEmail": "Yeni e-postanızı girin",
   "linkAccount": "Hesabı bağla",
   "signInWithProvider": "{provider} ile oturum aç",

@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "该{provider}帐户已关联到其他用户。",
   "accountUnlinked": "帐户已解除关联",
   "yourProviderAccountHasBeenUnlinked": "您的{provider}帐户已解除关联。",
-  "unlinkEmail": "取消关联{email}",
+  "unlinkIdentifier": "取消关联{email}",
   "enterYourNewEmail": "输入您的新电子邮件",
   "linkAccount": "关联帐户",
   "signInWithProvider": "使用{provider}登录",

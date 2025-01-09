@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Dat {provider}-account is al gekoppeld aan een andere gebruiker.",
   "accountUnlinked": "Account ontkoppeld",
   "yourProviderAccountHasBeenUnlinked": "Uw {provider}-account is ontkoppeld.",
-  "unlinkEmail": "{email} ontkoppelen",
+  "unlinkIdentifier": "{email} ontkoppelen",
   "enterYourNewEmail": "Voer uw nieuwe e-mailadres in",
   "linkAccount": "Account koppelen",
   "signInWithProvider": "Aanmelden met {provider}",

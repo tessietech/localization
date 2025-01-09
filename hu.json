@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Ez a(z) {provider} fiók már egy másik felhasználóhoz van csatolva.",
   "accountUnlinked": "Fiók leválasztva",
   "yourProviderAccountHasBeenUnlinked": "A(z) {provider} fiókja le lett választva.",
-  "unlinkEmail": "{email} leválasztása",
+  "unlinkIdentifier": "{email} leválasztása",
   "enterYourNewEmail": "Adja meg új e-mail-címét",
   "linkAccount": "Fiók csatolása",
   "signInWithProvider": "Bejelentkezés {provider} használatával",

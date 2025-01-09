@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "該 {provider} 帳號已連結至其他使用者。",
   "accountUnlinked": "帳號已解除連結",
   "yourProviderAccountHasBeenUnlinked": "您的 {provider} 帳號已解除連結。",
-  "unlinkEmail": "解除連結 {email}",
+  "unlinkIdentifier": "解除連結 {email}",
   "enterYourNewEmail": "輸入您的新電子郵件",
   "linkAccount": "連結帳號",
   "signInWithProvider": "使用 {provider} 登入",

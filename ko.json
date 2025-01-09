@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "해당 {provider} 계정은 이미 다른 사용자에게 연결되어 있습니다.",
   "accountUnlinked": "계정 연결 해제됨",
   "yourProviderAccountHasBeenUnlinked": "{provider} 계정 연결이 해제되었습니다.",
-  "unlinkEmail": "{email} 연결 해제",
+  "unlinkIdentifier": "{email} 연결 해제",
   "enterYourNewEmail": "새 이메일 주소 입력",
   "linkAccount": "계정 연결",
   "signInWithProvider": "{provider}으로 로그인",

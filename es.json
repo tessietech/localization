@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Esa cuenta de {provider} ya está vinculada a otro usuario.",
   "accountUnlinked": "Cuenta desvinculada",
   "yourProviderAccountHasBeenUnlinked": "Su cuenta de {provider} ha sido desvinculada.",
-  "unlinkEmail": "Desvincular {email}",
+  "unlinkIdentifier": "Desvincular {email}",
   "enterYourNewEmail": "Ingrese su nuevo correo electrónico",
   "linkAccount": "Vincular cuenta",
   "signInWithProvider": "Iniciar sesión con {provider}",

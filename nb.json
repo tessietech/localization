@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Denne {provider}-kontoen er allerede koblet til en annen bruker.",
   "accountUnlinked": "Kontoen er frakoblet",
   "yourProviderAccountHasBeenUnlinked": "{provider}-kontoen din er frakoblet.",
-  "unlinkEmail": "Koble fra {email}",
+  "unlinkIdentifier": "Koble fra {email}",
   "enterYourNewEmail": "Skriv inn den nye e-postadressen din",
   "linkAccount": "Koble til konto",
   "signInWithProvider": "Logg på med {provider}",

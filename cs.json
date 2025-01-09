@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Tento účet {provider} je již propojen s jiným uživatelem.",
   "accountUnlinked": "Účet byl odpojen",
   "yourProviderAccountHasBeenUnlinked": "Váš účet {provider} byl odpojen.",
-  "unlinkEmail": "Odpojit {email}",
+  "unlinkIdentifier": "Odpojit {email}",
   "enterYourNewEmail": "Zadejte nový e-mail",
   "linkAccount": "Propojit účet",
   "signInWithProvider": "Přihlásit se pomocí {provider}",

@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Contul {provider} este deja conectat la un alt utilizator.",
   "accountUnlinked": "Cont deconectat",
   "yourProviderAccountHasBeenUnlinked": "Contul dvs. {provider} a fost deconectat.",
-  "unlinkEmail": "Deconectați {email}",
+  "unlinkIdentifier": "Deconectați {email}",
   "enterYourNewEmail": "Introduceți noua dvs. adresă de e-mail",
   "linkAccount": "Conectați contul",
   "signInWithProvider": "Conectați-vă cu {provider}",

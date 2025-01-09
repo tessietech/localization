@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "Essa conta {provider} já está associada a outro utilizador.",
   "accountUnlinked": "Conta desassociada",
   "yourProviderAccountHasBeenUnlinked": "A sua conta {provider} foi desassociada.",
-  "unlinkEmail": "Desassociar {email}",
+  "unlinkIdentifier": "Desassociar {email}",
   "enterYourNewEmail": "Introduza o seu novo e-mail",
   "linkAccount": "Associar conta",
   "signInWithProvider": "Iniciar sessão com {provider}",

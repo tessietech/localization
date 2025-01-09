@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "That {provider} account is already linked to another user.",
   "accountUnlinked": "Account unlinked",
   "yourProviderAccountHasBeenUnlinked": "Your {provider} account has been unlinked.",
-  "unlinkEmail": "Unlink {email}",
+  "unlinkIdentifier": "Unlink {email}",
   "enterYourNewEmail": "Enter your new email",
   "linkAccount": "Link account",
   "signInWithProvider": "Sign in with {provider}",

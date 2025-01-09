@@ -2411,7 +2411,7 @@
   "thatProviderAccountIsAlreadyLinkedToAnotherUser": "L'account {provider} è già collegato a un altro utente.",
   "accountUnlinked": "Account scollegato",
   "yourProviderAccountHasBeenUnlinked": "Il tuo account {provider} è stato scollegato.",
-  "unlinkEmail": "Scollega {email}",
+  "unlinkIdentifier": "Scollega {email}",
   "enterYourNewEmail": "Inserisci il tuo nuovo indirizzo email",
   "linkAccount": "Collega account",
   "signInWithProvider": "Accedi con {provider}",
