@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "Ovládejte své vozidlo z chytrých hodinek Wear OS",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizujte své vozidlo pomocí spouštěčů z různých aplikací a služeb",
   "subscriptionExpired": "Předplatné vypršelo",
-  "transferableToAnotherVehicle": "Přenosné do jiného vozidla"
+  "transferableToAnotherVehicle": "Přenosné do jiného vozidla",
+  "unlinkAccount": "Odpojit účet"
 }

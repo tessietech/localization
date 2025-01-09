@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "Controle o seu veículo a partir do seu smartwatch Wear OS",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatize o seu veículo usando gatilhos de diferentes aplicações e serviços",
   "subscriptionExpired": "Subscrição expirada",
-  "transferableToAnotherVehicle": "Transferível para outro veículo"
+  "transferableToAnotherVehicle": "Transferível para outro veículo",
+  "unlinkAccount": "Desvincular conta"
 }

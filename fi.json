@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "Ohjaa ajoneuvoasi Wear OS -älykellollasi",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatisoi ajoneuvosi eri sovellusten ja palveluiden käynnistimillä",
   "subscriptionExpired": "Tilaus vanhentunut",
-  "transferableToAnotherVehicle": "Siirrettävissä toiseen ajoneuvoon"
+  "transferableToAnotherVehicle": "Siirrettävissä toiseen ajoneuvoon",
+  "unlinkAccount": "Irrota tili"
 }

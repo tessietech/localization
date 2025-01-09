@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "Kontroller bilen din fra Wear OS-smartklokken din",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatiser bilen din ved hjelp av utløsere fra forskjellige apper og tjenester",
   "subscriptionExpired": "Abonnementet er utløpt",
-  "transferableToAnotherVehicle": "Kan overføres til et annet kjøretøy"
+  "transferableToAnotherVehicle": "Kan overføres til et annet kjøretøy",
+  "unlinkAccount": "Koble fra konto"
 }

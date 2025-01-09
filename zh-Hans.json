@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "通过 Wear OS 智能手表控制车辆",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "使用来自不同应用和服务的触发器自动化车辆",
   "subscriptionExpired": "订阅已过期",
-  "transferableToAnotherVehicle": "可转让到其他车辆"
+  "transferableToAnotherVehicle": "可转让到其他车辆",
+  "unlinkAccount": "取消关联帐户"
 }

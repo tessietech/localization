@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "Bedien uw auto vanaf uw Wear OS-smartwatch",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatiseer uw auto met behulp van triggers van verschillende apps en services",
   "subscriptionExpired": "Abonnement verlopen",
-  "transferableToAnotherVehicle": "Overdraagbaar naar een ander voertuig"
+  "transferableToAnotherVehicle": "Overdraagbaar naar een ander voertuig",
+  "unlinkAccount": "Account ontkoppelen"
 }

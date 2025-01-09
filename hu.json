@@ -2445,5 +2445,6 @@
   "controlYourVehicleFromYourWearOsSmartwatch": "Irányítsa járművét Wear OS okosórájáról",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizálja járművét különböző alkalmazásokból és szolgáltatásokból származó eseményindítók segítségével",
   "subscriptionExpired": "Előfizetés lejárt",
-  "transferableToAnotherVehicle": "Egy másik járműre átvihető"
+  "transferableToAnotherVehicle": "Egy másik járműre átvihető",
+  "unlinkAccount": "Fiók leválasztása"
 }
