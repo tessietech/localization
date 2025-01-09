@@ -2444,5 +2444,6 @@
   "seeYourVehicleOnYourTidbyt": "Tekintse meg járművét a Tidbyten",
   "controlYourVehicleFromYourWearOsSmartwatch": "Irányítsa járművét Wear OS okosórájáról",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizálja járművét különböző alkalmazásokból és szolgáltatásokból származó eseményindítók segítségével",
-  "subscriptionExpired": "Előfizetés lejárt"
+  "subscriptionExpired": "Előfizetés lejárt",
+  "transferableToAnotherVehicle": "Egy másik járműre átvihető"
 }

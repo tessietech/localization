@@ -2444,5 +2444,6 @@
   "seeYourVehicleOnYourTidbyt": "Näe ajoneuvosi Tidbytissäsi",
   "controlYourVehicleFromYourWearOsSmartwatch": "Ohjaa ajoneuvoasi Wear OS -älykellollasi",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatisoi ajoneuvosi eri sovellusten ja palveluiden käynnistimillä",
-  "subscriptionExpired": "Tilaus vanhentunut"
+  "subscriptionExpired": "Tilaus vanhentunut",
+  "transferableToAnotherVehicle": "Siirrettävissä toiseen ajoneuvoon"
 }

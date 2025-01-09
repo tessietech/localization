@@ -2444,5 +2444,6 @@
   "seeYourVehicleOnYourTidbyt": "Aracınızı Tidbyt'inizde görün",
   "controlYourVehicleFromYourWearOsSmartwatch": "Wear OS akıllı saatinizden aracınızı kontrol edin",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Farklı uygulama ve hizmetlerden gelen tetikleyicileri kullanarak aracınızı otomatikleştirin",
-  "subscriptionExpired": "Abonelik süresi doldu"
+  "subscriptionExpired": "Abonelik süresi doldu",
+  "transferableToAnotherVehicle": "Başka bir araca aktarılabilir"
 }

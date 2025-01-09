@@ -2444,5 +2444,6 @@
   "seeYourVehicleOnYourTidbyt": "Tidbyt에서 차량을 확인하세요",
   "controlYourVehicleFromYourWearOsSmartwatch": "Wear OS 스마트워치에서 차량을 제어하세요",
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "다른 앱 및 서비스의 트리거를 사용하여 차량을 자동화하세요",
-  "subscriptionExpired": "구독이 만료되었습니다."
+  "subscriptionExpired": "구독이 만료되었습니다.",
+  "transferableToAnotherVehicle": "다른 차량으로 이전 가능"
 }
