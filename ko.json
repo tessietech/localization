@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "다른 앱 및 서비스의 트리거를 사용하여 차량을 자동화하세요",
   "subscriptionExpired": "구독이 만료되었습니다.",
   "transferableToAnotherVehicle": "다른 차량으로 이전 가능",
-  "unlinkAccount": "계정 연결 해제"
+  "unlinkAccount": "계정 연결 해제",
+  "eraseData": "데이터 지우기",
+  "builtInLocation": "{location} 내장",
+  "noPinSet": "PIN이 설정되지 않음",
+  "drivePin": "주행 PIN",
+  "requireAPinBeforeTheVehicleCanBeDriven": "차량 운전 전 PIN 필요",
+  "setDrivePin": "주행 PIN 설정",
+  "controlMaximumVehicleSpeed": "최대 차량 속도 제어"
 }

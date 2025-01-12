@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "使用來自不同應用程式和服務的觸發器將您的車輛自動化",
   "subscriptionExpired": "訂閱已過期",
   "transferableToAnotherVehicle": "可轉移到其他車輛",
-  "unlinkAccount": "取消連結帳戶"
+  "unlinkAccount": "取消連結帳戶",
+  "eraseData": "清除資料",
+  "builtInLocation": "內建 {location}",
+  "noPinSet": "未設定 PIN",
+  "drivePin": "駕駛 PIN",
+  "requireAPinBeforeTheVehicleCanBeDriven": "車輛行駛前需要輸入 PIN",
+  "setDrivePin": "設定駕駛 PIN",
+  "controlMaximumVehicleSpeed": "控制車輛最高速度"
 }

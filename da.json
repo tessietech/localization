@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatiser din bil ved hjælp af udløsere fra forskellige apps og tjenester",
   "subscriptionExpired": "Abonnement udløbet",
   "transferableToAnotherVehicle": "Kan overføres til et andet køretøj",
-  "unlinkAccount": "Fjern kontotilknytning"
+  "unlinkAccount": "Fjern kontotilknytning",
+  "eraseData": "Slet data",
+  "builtInLocation": "Indbygget {location}",
+  "noPinSet": "Ingen PIN-kode angivet",
+  "drivePin": "Kørsels-PIN",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Kræv en PIN-kode, før køretøjet kan køres",
+  "setDrivePin": "Angiv kørsels-PIN",
+  "controlMaximumVehicleSpeed": "Kontroller køretøjets maksimumhastighed"
 }

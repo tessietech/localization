@@ -1062,8 +1062,8 @@
   "fleetManagement": "Gestão de Frota",
   "lockToFleet": "Bloquear para Frota",
   "lockToMe": "Bloquear para Mim",
-  "speedLimit": "Limite de Velocidade",
-  "lastSeen": "Visto pela Última Vez",
+  "speedLimit": "Limite de velocidade",
+  "lastSeen": "Visto pela última vez",
   "viewInvoices": "Ver faturas",
   "manageGuestMode": "Gerir Modo Convidado",
   "manageDrivers": "Gerir condutores",
@@ -1690,7 +1690,7 @@
   "scheduleSoftwareUpdate": "Agendar Atualização de Software",
   "setScheduledCharging": "Definir Carregamento Agendado",
   "setScheduledDeparture": "Definir Partida Agendada",
-  "setSpeedLimit": "Definir Limite de Velocidade",
+  "setSpeedLimit": "Definir limite de velocidade",
   "share": "Compartilhar",
   "setSeatCooling": "Definir Arrefecimento do Banco",
   "setSeatHeating": "Definir Aquecimento do Banco",
@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatize o seu veículo usando gatilhos de diferentes aplicações e serviços",
   "subscriptionExpired": "Subscrição expirada",
   "transferableToAnotherVehicle": "Transferível para outro veículo",
-  "unlinkAccount": "Desvincular conta"
+  "unlinkAccount": "Desvincular conta",
+  "eraseData": "Apagar dados",
+  "builtInLocation": "Integrado em {location}",
+  "noPinSet": "Nenhum PIN definido",
+  "drivePin": "PIN de condução",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Exigir um PIN antes de o veículo poder ser conduzido",
+  "setDrivePin": "Definir PIN de condução",
+  "controlMaximumVehicleSpeed": "Controlar a velocidade máxima do veículo"
 }

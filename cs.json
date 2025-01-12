@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizujte své vozidlo pomocí spouštěčů z různých aplikací a služeb",
   "subscriptionExpired": "Předplatné vypršelo",
   "transferableToAnotherVehicle": "Přenosné do jiného vozidla",
-  "unlinkAccount": "Odpojit účet"
+  "unlinkAccount": "Odpojit účet",
+  "eraseData": "Vymazat data",
+  "builtInLocation": "Vestavěná poloha {location}",
+  "noPinSet": "PIN není nastaven",
+  "drivePin": "PIN pro řízení",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Před jízdou vyžadovat PIN",
+  "setDrivePin": "Nastavit PIN pro řízení",
+  "controlMaximumVehicleSpeed": "Omezit maximální rychlost vozidla"
 }

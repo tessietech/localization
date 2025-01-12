@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizați-vă vehiculul folosind declanșatoare din diferite aplicații și servicii",
   "subscriptionExpired": "Abonamentul a expirat",
   "transferableToAnotherVehicle": "Transferabil către un alt vehicul",
-  "unlinkAccount": "Anulare conectare cont"
+  "unlinkAccount": "Anulare conectare cont",
+  "eraseData": "Șterge datele",
+  "builtInLocation": "Încorporat {location}",
+  "noPinSet": "Niciun cod PIN setat",
+  "drivePin": "Cod PIN pentru condus",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Solicitați un cod PIN înainte ca vehiculul să poată fi condus",
+  "setDrivePin": "Setați codul PIN pentru condus",
+  "controlMaximumVehicleSpeed": "Controlați viteza maximă a vehiculului"
 }

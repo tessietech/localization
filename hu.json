@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizálja járművét különböző alkalmazásokból és szolgáltatásokból származó eseményindítók segítségével",
   "subscriptionExpired": "Előfizetés lejárt",
   "transferableToAnotherVehicle": "Egy másik járműre átvihető",
-  "unlinkAccount": "Fiók leválasztása"
+  "unlinkAccount": "Fiók leválasztása",
+  "eraseData": "Adatok törlése",
+  "builtInLocation": "Beépített {location}",
+  "noPinSet": "Nincs beállítva PIN-kód",
+  "drivePin": "Vezetési PIN-kód",
+  "requireAPinBeforeTheVehicleCanBeDriven": "PIN-kód megadása szükséges a jármű vezetéséhez",
+  "setDrivePin": "Vezetési PIN-kód beállítása",
+  "controlMaximumVehicleSpeed": "Maximális járműsebesség szabályozása"
 }

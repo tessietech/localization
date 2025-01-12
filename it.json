@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatizza il tuo veicolo utilizzando trigger da diverse app e servizi",
   "subscriptionExpired": "Abbonamento scaduto",
   "transferableToAnotherVehicle": "Trasferibile su un altro veicolo",
-  "unlinkAccount": "Scollega account"
+  "unlinkAccount": "Scollega account",
+  "eraseData": "Cancella dati",
+  "builtInLocation": "{location} integrato",
+  "noPinSet": "Nessun PIN impostato",
+  "drivePin": "PIN di guida",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Richiedi un PIN prima che il veicolo possa essere guidato",
+  "setDrivePin": "Imposta PIN di guida",
+  "controlMaximumVehicleSpeed": "Controlla la velocità massima del veicolo"
 }

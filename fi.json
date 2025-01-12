@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatisoi ajoneuvosi eri sovellusten ja palveluiden käynnistimillä",
   "subscriptionExpired": "Tilaus vanhentunut",
   "transferableToAnotherVehicle": "Siirrettävissä toiseen ajoneuvoon",
-  "unlinkAccount": "Irrota tili"
+  "unlinkAccount": "Irrota tili",
+  "eraseData": "Poista tiedot",
+  "builtInLocation": "Sisäänrakennettu {location}",
+  "noPinSet": "Ei PIN-koodia asetettu",
+  "drivePin": "Ajo-PIN",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Vaadi PIN-koodi ennen ajamista",
+  "setDrivePin": "Aseta ajo-PIN",
+  "controlMaximumVehicleSpeed": "Rajoita ajoneuvon enimmäisnopeutta"
 }

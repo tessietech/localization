@@ -1062,8 +1062,8 @@
   "fleetManagement": "Filo Yönetimi",
   "lockToFleet": "Filoya Kilitle",
   "lockToMe": "Bana Kilitle",
-  "speedLimit": "Hız Sınırı",
-  "lastSeen": "Son Görüldüğü Zaman",
+  "speedLimit": "Hız sınırı",
+  "lastSeen": "Son görüldüğü zaman",
   "viewInvoices": "Faturaları Görüntüle",
   "manageGuestMode": "Misafir Modunu Yönet",
   "manageDrivers": "Sürücüleri yönet",
@@ -1690,7 +1690,7 @@
   "scheduleSoftwareUpdate": "Yazılım Güncellemesini Planla",
   "setScheduledCharging": "Planlanmış Şarjı Ayarla",
   "setScheduledDeparture": "Planlanmış Kalkışı Ayarla",
-  "setSpeedLimit": "Hız Sınırını Ayarla",
+  "setSpeedLimit": "Hız sınırını ayarla",
   "share": "Paylaş",
   "setSeatCooling": "Koltuk Soğutmasını Ayarla",
   "setSeatHeating": "Koltuk Isıtmasını Ayarla",
@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Farklı uygulama ve hizmetlerden gelen tetikleyicileri kullanarak aracınızı otomatikleştirin",
   "subscriptionExpired": "Abonelik süresi doldu",
   "transferableToAnotherVehicle": "Başka bir araca aktarılabilir",
-  "unlinkAccount": "Hesabı kaldır"
+  "unlinkAccount": "Hesabı kaldır",
+  "eraseData": "Verileri sil",
+  "builtInLocation": "{location} yerleşik",
+  "noPinSet": "PIN ayarlanmadı",
+  "drivePin": "Sürüş PIN'i",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Araç sürülmeden önce PIN girilmesini zorunlu kıl",
+  "setDrivePin": "Sürüş PIN'i ayarla",
+  "controlMaximumVehicleSpeed": "Maksimum araç hızını kontrol et"
 }

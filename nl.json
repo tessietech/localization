@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatiseer uw auto met behulp van triggers van verschillende apps en services",
   "subscriptionExpired": "Abonnement verlopen",
   "transferableToAnotherVehicle": "Overdraagbaar naar een ander voertuig",
-  "unlinkAccount": "Account ontkoppelen"
+  "unlinkAccount": "Account ontkoppelen",
+  "eraseData": "Gegevens wissen",
+  "builtInLocation": "Ingebouwd in {location}",
+  "noPinSet": "Geen pincode ingesteld",
+  "drivePin": "Rij-pincode",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Vereis een pincode voordat er met de auto kan worden gereden",
+  "setDrivePin": "Rij-pincode instellen",
+  "controlMaximumVehicleSpeed": "Maximale voertuigsnelheid regelen"
 }

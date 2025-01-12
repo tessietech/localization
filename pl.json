@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automatyzuj pojazd za pomocą wyzwalaczy z różnych aplikacji i usług",
   "subscriptionExpired": "Subskrypcja wygasła",
   "transferableToAnotherVehicle": "Możliwość przeniesienia do innego pojazdu",
-  "unlinkAccount": "Odłącz konto"
+  "unlinkAccount": "Odłącz konto",
+  "eraseData": "Wymaż dane",
+  "builtInLocation": "Wbudowany {location}",
+  "noPinSet": "Brak ustawionego kodu PIN",
+  "drivePin": "Kod PIN do jazdy",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Wymagaj kodu PIN przed rozpoczęciem jazdy pojazdem",
+  "setDrivePin": "Ustaw kod PIN do jazdy",
+  "controlMaximumVehicleSpeed": "Kontroluj maksymalną prędkość pojazdu"
 }

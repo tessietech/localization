@@ -1062,8 +1062,8 @@
   "fleetManagement": "Fleet Management",
   "lockToFleet": "Lock to Fleet",
   "lockToMe": "Lock to Me",
-  "speedLimit": "Speed Limit",
-  "lastSeen": "Last Seen",
+  "speedLimit": "Speed limit",
+  "lastSeen": "Last seen",
   "viewInvoices": "View invoices",
   "manageGuestMode": "Manage Guest Mode",
   "manageDrivers": "Manage drivers",
@@ -1690,7 +1690,7 @@
   "scheduleSoftwareUpdate": "Schedule Software Update",
   "setScheduledCharging": "Set Scheduled Charging",
   "setScheduledDeparture": "Set Scheduled Departure",
-  "setSpeedLimit": "Set Speed Limit",
+  "setSpeedLimit": "Set speed limit",
   "share": "Share",
   "setSeatCooling": "Set Seat Cooling",
   "setSeatHeating": "Set Seat Heating",
@@ -2446,5 +2446,12 @@
   "automateYourVehicleUsingTriggersFromDifferentAppsAndServices": "Automate your vehicle using triggers from different apps and services",
   "subscriptionExpired": "Subscription expired",
   "transferableToAnotherVehicle": "Transferable to another vehicle",
-  "unlinkAccount": "Unlink account"
+  "unlinkAccount": "Unlink account",
+  "eraseData": "Erase data",
+  "builtInLocation": "Built in {location}",
+  "noPinSet": "No PIN set",
+  "drivePin": "Drive PIN",
+  "requireAPinBeforeTheVehicleCanBeDriven": "Require a PIN before the vehicle can be driven",
+  "setDrivePin": "Set drive PIN",
+  "controlMaximumVehicleSpeed": "Control maximum vehicle speed"
 }
