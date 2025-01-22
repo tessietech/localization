@@ -2453,5 +2453,6 @@
   "drivePin": "Code PIN de conduite",
   "requireAPinBeforeTheVehicleCanBeDriven": "Exiger un code PIN avant de pouvoir conduire le véhicule",
   "setDrivePin": "Définir le code PIN de conduite",
-  "controlMaximumVehicleSpeed": "Contrôler la vitesse maximale du véhicule"
+  "controlMaximumVehicleSpeed": "Contrôler la vitesse maximale du véhicule",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "L'autorisation de localisation du véhicule est requise pour accéder à la localisation."
 }

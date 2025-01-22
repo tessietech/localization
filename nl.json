@@ -2453,5 +2453,6 @@
   "drivePin": "Rij-pincode",
   "requireAPinBeforeTheVehicleCanBeDriven": "Vereis een pincode voordat er met de auto kan worden gereden",
   "setDrivePin": "Rij-pincode instellen",
-  "controlMaximumVehicleSpeed": "Maximale voertuigsnelheid regelen"
+  "controlMaximumVehicleSpeed": "Maximale voertuigsnelheid regelen",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "De toestemming voor voertuiglocatie is vereist om toegang te krijgen tot de locatie."
 }

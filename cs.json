@@ -2453,5 +2453,6 @@
   "drivePin": "PIN pro řízení",
   "requireAPinBeforeTheVehicleCanBeDriven": "Před jízdou vyžadovat PIN",
   "setDrivePin": "Nastavit PIN pro řízení",
-  "controlMaximumVehicleSpeed": "Omezit maximální rychlost vozidla"
+  "controlMaximumVehicleSpeed": "Omezit maximální rychlost vozidla",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Pro přístup k poloze je vyžadováno povolení k poloze vozidla."
 }

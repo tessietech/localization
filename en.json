@@ -2453,5 +2453,6 @@
   "drivePin": "Drive PIN",
   "requireAPinBeforeTheVehicleCanBeDriven": "Require a PIN before the vehicle can be driven",
   "setDrivePin": "Set drive PIN",
-  "controlMaximumVehicleSpeed": "Control maximum vehicle speed"
+  "controlMaximumVehicleSpeed": "Control maximum vehicle speed",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "The Vehicle Location permission is required to access location."
 }

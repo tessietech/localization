@@ -2453,5 +2453,6 @@
   "drivePin": "Ajo-PIN",
   "requireAPinBeforeTheVehicleCanBeDriven": "Vaadi PIN-koodi ennen ajamista",
   "setDrivePin": "Aseta ajo-PIN",
-  "controlMaximumVehicleSpeed": "Rajoita ajoneuvon enimmäisnopeutta"
+  "controlMaximumVehicleSpeed": "Rajoita ajoneuvon enimmäisnopeutta",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Ajoneuvon sijaintilupa vaaditaan sijainnin käyttämiseen."
 }

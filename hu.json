@@ -2453,5 +2453,6 @@
   "drivePin": "Vezetési PIN-kód",
   "requireAPinBeforeTheVehicleCanBeDriven": "PIN-kód megadása szükséges a jármű vezetéséhez",
   "setDrivePin": "Vezetési PIN-kód beállítása",
-  "controlMaximumVehicleSpeed": "Maximális járműsebesség szabályozása"
+  "controlMaximumVehicleSpeed": "Maximális járműsebesség szabályozása",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "A jármű helyadatainak engedélyezése szükséges a helymeghatározáshoz."
 }

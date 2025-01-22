@@ -2453,5 +2453,6 @@
   "drivePin": "주행 PIN",
   "requireAPinBeforeTheVehicleCanBeDriven": "차량 운전 전 PIN 필요",
   "setDrivePin": "주행 PIN 설정",
-  "controlMaximumVehicleSpeed": "최대 차량 속도 제어"
+  "controlMaximumVehicleSpeed": "최대 차량 속도 제어",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "위치에 액세스하려면 차량 위치 권한이 필요합니다."
 }

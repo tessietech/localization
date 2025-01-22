@@ -2453,5 +2453,6 @@
   "drivePin": "Cod PIN pentru condus",
   "requireAPinBeforeTheVehicleCanBeDriven": "Solicitați un cod PIN înainte ca vehiculul să poată fi condus",
   "setDrivePin": "Setați codul PIN pentru condus",
-  "controlMaximumVehicleSpeed": "Controlați viteza maximă a vehiculului"
+  "controlMaximumVehicleSpeed": "Controlați viteza maximă a vehiculului",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Este permisiune Locație Vehicul este necesară pentru a accesa locația."
 }

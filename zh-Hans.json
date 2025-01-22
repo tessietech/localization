@@ -2453,5 +2453,6 @@
   "drivePin": "驾驶 PIN 码",
   "requireAPinBeforeTheVehicleCanBeDriven": "车辆行驶前需要 PIN 码",
   "setDrivePin": "设置驾驶 PIN 码",
-  "controlMaximumVehicleSpeed": "控制最高车速"
+  "controlMaximumVehicleSpeed": "控制最高车速",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "访问位置信息需要车辆位置权限。"
 }

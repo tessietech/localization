@@ -2453,5 +2453,6 @@
   "drivePin": "Sürüş PIN'i",
   "requireAPinBeforeTheVehicleCanBeDriven": "Araç sürülmeden önce PIN girilmesini zorunlu kıl",
   "setDrivePin": "Sürüş PIN'i ayarla",
-  "controlMaximumVehicleSpeed": "Maksimum araç hızını kontrol et"
+  "controlMaximumVehicleSpeed": "Maksimum araç hızını kontrol et",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Konuma erişmek için Araç Konumu izni gerekiyor."
 }

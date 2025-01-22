@@ -2453,5 +2453,6 @@
   "drivePin": "Kjøre-PIN",
   "requireAPinBeforeTheVehicleCanBeDriven": "Krev en PIN-kode før kjøretøyet kan kjøres",
   "setDrivePin": "Angi kjøre-PIN",
-  "controlMaximumVehicleSpeed": "Kontroller maksimal kjøretøyhastighet"
+  "controlMaximumVehicleSpeed": "Kontroller maksimal kjøretøyhastighet",
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Tillatelse for kjøretøyets posisjon er nødvendig for å få tilgang til posisjon."
 }
