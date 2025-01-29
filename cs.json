@@ -2454,5 +2454,7 @@
   "requireAPinBeforeTheVehicleCanBeDriven": "Před jízdou vyžadovat PIN",
   "setDrivePin": "Nastavit PIN pro řízení",
   "controlMaximumVehicleSpeed": "Omezit maximální rychlost vozidla",
-  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Pro přístup k poloze je vyžadováno povolení k poloze vozidla."
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Pro přístup k poloze je vyžadováno povolení k poloze vozidla.",
+  "authorizationExpired": "Platnost autorizace vypršela",
+  "reconnectYourTeslaAccount": "Znovu připojte svůj účet Tesla."
 }

@@ -2454,5 +2454,7 @@
   "requireAPinBeforeTheVehicleCanBeDriven": "Wymagaj kodu PIN przed rozpoczęciem jazdy pojazdem",
   "setDrivePin": "Ustaw kod PIN do jazdy",
   "controlMaximumVehicleSpeed": "Kontroluj maksymalną prędkość pojazdu",
-  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Aby uzyskać dostęp do lokalizacji, wymagane jest zezwolenie na lokalizację pojazdu."
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Aby uzyskać dostęp do lokalizacji, wymagane jest zezwolenie na lokalizację pojazdu.",
+  "authorizationExpired": "Autoryzacja wygasła",
+  "reconnectYourTeslaAccount": "Połącz ponownie swoje konto Tesla."
 }

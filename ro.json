@@ -2454,5 +2454,7 @@
   "requireAPinBeforeTheVehicleCanBeDriven": "Solicitați un cod PIN înainte ca vehiculul să poată fi condus",
   "setDrivePin": "Setați codul PIN pentru condus",
   "controlMaximumVehicleSpeed": "Controlați viteza maximă a vehiculului",
-  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Este permisiune Locație Vehicul este necesară pentru a accesa locația."
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Este permisiune Locație Vehicul este necesară pentru a accesa locația.",
+  "authorizationExpired": "Autorizație expirată",
+  "reconnectYourTeslaAccount": "Reconectați contul Tesla."
 }

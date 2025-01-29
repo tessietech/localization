@@ -2454,5 +2454,7 @@
   "requireAPinBeforeTheVehicleCanBeDriven": "Kræv en PIN-kode, før køretøjet kan køres",
   "setDrivePin": "Angiv kørsels-PIN",
   "controlMaximumVehicleSpeed": "Kontroller køretøjets maksimumhastighed",
-  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Tilladelsen Køretøjets placering er påkrævet for at få adgang til placeringen."
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Tilladelsen Køretøjets placering er påkrævet for at få adgang til placeringen.",
+  "authorizationExpired": "Autorisering udløbet",
+  "reconnectYourTeslaAccount": "Genopret forbindelse til din Tesla-konto."
 }

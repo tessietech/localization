@@ -2454,5 +2454,7 @@
   "requireAPinBeforeTheVehicleCanBeDriven": "Vaadi PIN-koodi ennen ajamista",
   "setDrivePin": "Aseta ajo-PIN",
   "controlMaximumVehicleSpeed": "Rajoita ajoneuvon enimmäisnopeutta",
-  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Ajoneuvon sijaintilupa vaaditaan sijainnin käyttämiseen."
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "Ajoneuvon sijaintilupa vaaditaan sijainnin käyttämiseen.",
+  "authorizationExpired": "Valtuutus vanhentunut",
+  "reconnectYourTeslaAccount": "Yhdistä Tesla-tilisi uudelleen."
 }

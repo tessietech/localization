@@ -2454,5 +2454,7 @@
   "requireAPinBeforeTheVehicleCanBeDriven": "車輛行駛前需要輸入 PIN",
   "setDrivePin": "設定駕駛 PIN",
   "controlMaximumVehicleSpeed": "控制車輛最高速度",
-  "theVehicleLocationPermissionIsRequiredToAccessLocation": "需要車輛位置權限才能存取位置。"
+  "theVehicleLocationPermissionIsRequiredToAccessLocation": "需要車輛位置權限才能存取位置。",
+  "authorizationExpired": "授權已過期",
+  "reconnectYourTeslaAccount": "重新連接您的 Tesla 帳戶。"
 }
