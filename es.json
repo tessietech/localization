@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Controlar la velocidad máxima del vehículo",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Se requiere el permiso Ubicación del vehículo para acceder a la ubicación.",
   "authorizationExpired": "Autorización caducada",
-  "reconnectYourTeslaAccount": "Vuelve a conectar tu cuenta de Tesla."
+  "reconnectYourTeslaAccount": "Vuelve a conectar tu cuenta de Tesla.",
+  "teslaBusinessSupport": "Asistencia comercial de Tesla"
 }

@@ -743,7 +743,7 @@
   "installedVersion": "Zainstalowana wersja",
   "installedUpdates": "Zainstalowanie aktualizacje",
   "timeSinceLast": "Czas od ostatniej",
-  "averageTimeBetween": "Średni czas pomiędzy aktualizacjami",
+  "averageTimeBetween": "Średni czas pomiędzy",
   "noDataYet": "Jeszcze brak danych",
   "timeSinceLastUpdate": "Czas od ostatniej aktualizacji",
   "day": "dzień",
@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Kontroluj maksymalną prędkość pojazdu",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Aby uzyskać dostęp do lokalizacji, wymagane jest zezwolenie na lokalizację pojazdu.",
   "authorizationExpired": "Autoryzacja wygasła",
-  "reconnectYourTeslaAccount": "Połącz ponownie swoje konto Tesla."
+  "reconnectYourTeslaAccount": "Połącz ponownie swoje konto Tesla.",
+  "teslaBusinessSupport": "Wsparcie biznesowe Tesli"
 }

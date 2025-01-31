@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Rajoita ajoneuvon enimmäisnopeutta",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Ajoneuvon sijaintilupa vaaditaan sijainnin käyttämiseen.",
   "authorizationExpired": "Valtuutus vanhentunut",
-  "reconnectYourTeslaAccount": "Yhdistä Tesla-tilisi uudelleen."
+  "reconnectYourTeslaAccount": "Yhdistä Tesla-tilisi uudelleen.",
+  "teslaBusinessSupport": "Teslan yritystuki"
 }

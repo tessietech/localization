@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Omezit maximální rychlost vozidla",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Pro přístup k poloze je vyžadováno povolení k poloze vozidla.",
   "authorizationExpired": "Platnost autorizace vypršela",
-  "reconnectYourTeslaAccount": "Znovu připojte svůj účet Tesla."
+  "reconnectYourTeslaAccount": "Znovu připojte svůj účet Tesla.",
+  "teslaBusinessSupport": "Podpora Tesla Business"
 }

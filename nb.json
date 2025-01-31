@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Kontroller maksimal kjøretøyhastighet",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Tillatelse for kjøretøyets posisjon er nødvendig for å få tilgang til posisjon.",
   "authorizationExpired": "Autorisasjonen er utløpt",
-  "reconnectYourTeslaAccount": "Koble til Tesla-kontoen din på nytt."
+  "reconnectYourTeslaAccount": "Koble til Tesla-kontoen din på nytt.",
+  "teslaBusinessSupport": "Tesla forretningsstøtte"
 }

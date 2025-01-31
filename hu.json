@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Maximális járműsebesség szabályozása",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "A jármű helyadatainak engedélyezése szükséges a helymeghatározáshoz.",
   "authorizationExpired": "A jogosultság lejárt",
-  "reconnectYourTeslaAccount": "Csatlakoztassa újra Tesla-fiókját."
+  "reconnectYourTeslaAccount": "Csatlakoztassa újra Tesla-fiókját.",
+  "teslaBusinessSupport": "Tesla üzleti támogatás"
 }

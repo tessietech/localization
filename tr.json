@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Maksimum araç hızını kontrol et",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Konuma erişmek için Araç Konumu izni gerekiyor.",
   "authorizationExpired": "Yetkilendirme süresi doldu",
-  "reconnectYourTeslaAccount": "Tesla hesabınızı yeniden bağlayın."
+  "reconnectYourTeslaAccount": "Tesla hesabınızı yeniden bağlayın.",
+  "teslaBusinessSupport": "Tesla İşletme desteği"
 }

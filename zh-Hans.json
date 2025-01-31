@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "控制最高车速",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "访问位置信息需要车辆位置权限。",
   "authorizationExpired": "授权已过期",
-  "reconnectYourTeslaAccount": "重新连接您的特斯拉帐户。"
+  "reconnectYourTeslaAccount": "重新连接您的特斯拉帐户。",
+  "teslaBusinessSupport": "Tesla 商业支持"
 }

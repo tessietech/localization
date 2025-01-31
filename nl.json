@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Maximale voertuigsnelheid regelen",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "De toestemming voor voertuiglocatie is vereist om toegang te krijgen tot de locatie.",
   "authorizationExpired": "Autorisatie verlopen",
-  "reconnectYourTeslaAccount": "Verbind je Tesla-account opnieuw."
+  "reconnectYourTeslaAccount": "Verbind je Tesla-account opnieuw.",
+  "teslaBusinessSupport": "Tesla-bedrijfsondersteuning"
 }

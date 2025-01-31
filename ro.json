@@ -2456,5 +2456,6 @@
   "controlMaximumVehicleSpeed": "Controlați viteza maximă a vehiculului",
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Este permisiune Locație Vehicul este necesară pentru a accesa locația.",
   "authorizationExpired": "Autorizație expirată",
-  "reconnectYourTeslaAccount": "Reconectați contul Tesla."
+  "reconnectYourTeslaAccount": "Reconectați contul Tesla.",
+  "teslaBusinessSupport": "Asistență pentru afaceri Tesla"
 }
