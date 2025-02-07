@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "需要車輛位置權限才能存取位置。",
   "authorizationExpired": "授權已過期",
   "reconnectYourTeslaAccount": "重新連接您的 Tesla 帳戶。",
-  "teslaBusinessSupport": "Tesla 商務支援"
+  "teslaBusinessSupport": "Tesla 商務支援",
+  "toggleAddress": "切換地址",
+  "download": "下載"
 }

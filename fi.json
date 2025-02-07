@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Ajoneuvon sijaintilupa vaaditaan sijainnin käyttämiseen.",
   "authorizationExpired": "Valtuutus vanhentunut",
   "reconnectYourTeslaAccount": "Yhdistä Tesla-tilisi uudelleen.",
-  "teslaBusinessSupport": "Teslan yritystuki"
+  "teslaBusinessSupport": "Teslan yritystuki",
+  "toggleAddress": "Näytä/piilota osoite",
+  "download": "Lataa"
 }

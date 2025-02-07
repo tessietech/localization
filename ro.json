@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Este permisiune Locație Vehicul este necesară pentru a accesa locația.",
   "authorizationExpired": "Autorizație expirată",
   "reconnectYourTeslaAccount": "Reconectați contul Tesla.",
-  "teslaBusinessSupport": "Asistență pentru afaceri Tesla"
+  "teslaBusinessSupport": "Asistență pentru afaceri Tesla",
+  "toggleAddress": "Comutare adresă",
+  "download": "Descărcare"
 }

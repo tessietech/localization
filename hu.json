@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "A jármű helyadatainak engedélyezése szükséges a helymeghatározáshoz.",
   "authorizationExpired": "A jogosultság lejárt",
   "reconnectYourTeslaAccount": "Csatlakoztassa újra Tesla-fiókját.",
-  "teslaBusinessSupport": "Tesla üzleti támogatás"
+  "teslaBusinessSupport": "Tesla üzleti támogatás",
+  "toggleAddress": "Cím váltása",
+  "download": "Letöltés"
 }

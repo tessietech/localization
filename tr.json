@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Konuma erişmek için Araç Konumu izni gerekiyor.",
   "authorizationExpired": "Yetkilendirme süresi doldu",
   "reconnectYourTeslaAccount": "Tesla hesabınızı yeniden bağlayın.",
-  "teslaBusinessSupport": "Tesla İşletme desteği"
+  "teslaBusinessSupport": "Tesla İşletme desteği",
+  "toggleAddress": "Adresi Değiştir",
+  "download": "İndir"
 }

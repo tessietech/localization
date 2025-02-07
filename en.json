@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "The Vehicle Location permission is required to access location.",
   "authorizationExpired": "Authorization expired",
   "reconnectYourTeslaAccount": "Reconnect your Tesla account.",
-  "teslaBusinessSupport": "Tesla Business support"
+  "teslaBusinessSupport": "Tesla Business support",
+  "toggleAddress": "Toggle address",
+  "download": "Download"
 }

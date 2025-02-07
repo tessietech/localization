@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Tilladelsen Køretøjets placering er påkrævet for at få adgang til placeringen.",
   "authorizationExpired": "Autorisering udløbet",
   "reconnectYourTeslaAccount": "Genopret forbindelse til din Tesla-konto.",
-  "teslaBusinessSupport": "Tesla erhvervssupport"
+  "teslaBusinessSupport": "Tesla erhvervssupport",
+  "toggleAddress": "Vis adresse",
+  "download": "Download"
 }

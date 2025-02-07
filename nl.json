@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "De toestemming voor voertuiglocatie is vereist om toegang te krijgen tot de locatie.",
   "authorizationExpired": "Autorisatie verlopen",
   "reconnectYourTeslaAccount": "Verbind je Tesla-account opnieuw.",
-  "teslaBusinessSupport": "Tesla-bedrijfsondersteuning"
+  "teslaBusinessSupport": "Tesla-bedrijfsondersteuning",
+  "toggleAddress": "Adres wisselen",
+  "download": "Downloaden"
 }

@@ -2457,5 +2457,7 @@
   "theVehicleLocationPermissionIsRequiredToAccessLocation": "Pro přístup k poloze je vyžadováno povolení k poloze vozidla.",
   "authorizationExpired": "Platnost autorizace vypršela",
   "reconnectYourTeslaAccount": "Znovu připojte svůj účet Tesla.",
-  "teslaBusinessSupport": "Podpora Tesla Business"
+  "teslaBusinessSupport": "Podpora Tesla Business",
+  "toggleAddress": "Přepnout adresu",
+  "download": "Stáhnout"
 }
