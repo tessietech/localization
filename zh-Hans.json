@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "重新连接您的特斯拉帐户。",
   "teslaBusinessSupport": "Tesla 商业支持",
   "toggleAddress": "切换地址",
-  "download": "下载"
+  "download": "下载",
+  "numberRangeOfTotal": "{numberRange}/{total}",
+  "resources": "资源",
+  "howItWorks": "工作原理",
+  "you": "您"
 }

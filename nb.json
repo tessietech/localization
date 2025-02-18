@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Koble til Tesla-kontoen din på nytt.",
   "teslaBusinessSupport": "Tesla forretningsstøtte",
   "toggleAddress": "Vis/skjul adresse",
-  "download": "Last ned"
+  "download": "Last ned",
+  "numberRangeOfTotal": "{numberRange} av {total}",
+  "resources": "Ressurser",
+  "howItWorks": "Slik fungerer det",
+  "you": "Du"
 }

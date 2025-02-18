@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Vuelve a conectar tu cuenta de Tesla.",
   "teslaBusinessSupport": "Asistencia comercial de Tesla",
   "toggleAddress": "Alternar dirección",
-  "download": "Descargar"
+  "download": "Descargar",
+  "numberRangeOfTotal": "{numberRange} de {total}",
+  "resources": "Recursos",
+  "howItWorks": "Cómo funciona",
+  "you": "Tú"
 }

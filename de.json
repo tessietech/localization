@@ -995,7 +995,7 @@
   "startedAt": "Gestartet am",
   "endedAt": "Beendet am",
   "totalUsed": "Gesamtverbrauch",
-  "averageEnergyEfficiency": "Durchschnittliche Energieeffizienz",
+  "averageEnergyEfficiency": "Durchschnittliche energieeffizienz",
   "theEnergyUsedDividedByTheDistanceDrivenMayDiffer": "Die verbrauchte Energie geteilt durch die gefahrene Distanz. Kann abweichen von der Energiemessung im Fahrzeug, die bestimmte Faktoren ausschließt.",
   "distance": "Entfernung",
   "toEndinglocation": "Zu {endingLocation}",
@@ -2189,7 +2189,7 @@
   "vehicleNotFoundInTeslaAccountConnectADifferentTesla": "Fahrzeug im Tesla-Konto nicht gefunden. Verbinde ein anderes Tesla-Konto unter Einstellungen > Konnektivität.",
   "archiveAnActiveVehicleOrUpgradeToAFleetAccount": "Archiviere ein aktives Fahrzeug oder wechsle auf ein Flottenkonto, um mehrere Fahrzeuge zu verwalten.",
   "openHelp": "Hilfe öffnen",
-  "getStarted": "Erste Schritte",
+  "getStarted": "Erste sagen",
   "setYourHome": "Zuhause festlegen",
   "setBatteryLevel": "Batteriestand einstellen",
   "setOdometer": "Kilometerstand einstellen",
@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Verbinden Sie Ihr Tesla-Konto erneut.",
   "teslaBusinessSupport": "Tesla Business Support",
   "toggleAddress": "Adresse umschalten",
-  "download": "Herunterladen"
+  "download": "Herunterladen",
+  "numberRangeOfTotal": "{numberRange} von {total}",
+  "resources": "Ressourcen",
+  "howItWorks": "So funktioniert's",
+  "you": "Sie"
 }

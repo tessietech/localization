@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Csatlakoztassa újra Tesla-fiókját.",
   "teslaBusinessSupport": "Tesla üzleti támogatás",
   "toggleAddress": "Cím váltása",
-  "download": "Letöltés"
+  "download": "Letöltés",
+  "numberRangeOfTotal": "{numberRange}/{total}",
+  "resources": "Erőforrások",
+  "howItWorks": "Hogyan működik",
+  "you": "Te"
 }

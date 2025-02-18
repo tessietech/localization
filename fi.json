@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Yhdistä Tesla-tilisi uudelleen.",
   "teslaBusinessSupport": "Teslan yritystuki",
   "toggleAddress": "Näytä/piilota osoite",
-  "download": "Lataa"
+  "download": "Lataa",
+  "numberRangeOfTotal": "{numberRange}/{total}",
+  "resources": "Resurssit",
+  "howItWorks": "Toimintaperiaate",
+  "you": "Sinä"
 }

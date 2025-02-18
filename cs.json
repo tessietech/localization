@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Znovu připojte svůj účet Tesla.",
   "teslaBusinessSupport": "Podpora Tesla Business",
   "toggleAddress": "Přepnout adresu",
-  "download": "Stáhnout"
+  "download": "Stáhnout",
+  "numberRangeOfTotal": "{numberRange} z {total}",
+  "resources": "Zdroje",
+  "howItWorks": "Jak to funguje",
+  "you": "Vy"
 }

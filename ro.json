@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Reconectați contul Tesla.",
   "teslaBusinessSupport": "Asistență pentru afaceri Tesla",
   "toggleAddress": "Comutare adresă",
-  "download": "Descărcare"
+  "download": "Descărcare",
+  "numberRangeOfTotal": "{numberRange} din {total}",
+  "resources": "Resurse",
+  "howItWorks": "Cum funcționează",
+  "you": "Tu"
 }

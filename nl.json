@@ -2459,5 +2459,9 @@
   "reconnectYourTeslaAccount": "Verbind je Tesla-account opnieuw.",
   "teslaBusinessSupport": "Tesla-bedrijfsondersteuning",
   "toggleAddress": "Adres wisselen",
-  "download": "Downloaden"
+  "download": "Downloaden",
+  "numberRangeOfTotal": "{numberRange} van {total}",
+  "resources": "Bronnen",
+  "howItWorks": "Hoe het werkt",
+  "you": "Jij"
 }
