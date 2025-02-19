@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla erhvervssupport",
   "toggleAddress": "Vis adresse",
   "download": "Download",
-  "numberRangeOfTotal": "{numberRange} af {total}",
+  "numberOfTotal": "{number} af {total}",
   "resources": "Ressourcer",
   "howItWorks": "Sådan fungerer det",
   "you": "Dig"

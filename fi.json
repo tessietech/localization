@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Teslan yritystuki",
   "toggleAddress": "Näytä/piilota osoite",
   "download": "Lataa",
-  "numberRangeOfTotal": "{numberRange}/{total}",
+  "numberOfTotal": "{number}/{total}",
   "resources": "Resurssit",
   "howItWorks": "Toimintaperiaate",
   "you": "Sinä"

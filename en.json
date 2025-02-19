@@ -493,7 +493,7 @@
   "noLocationsSavedYet": "No locations saved yet",
   "addChargingCostsAndAnalyticsToPlacesLikeYourHome": "Add charging costs and analytics to places like your home or work",
   "anywhere": "Anywhere",
-  "selectLocation": "Select Location",
+  "selectLocation": "Select location",
   "addExtraProtectionToYouAndYourVehiclesIfYour": "Add extra protection to you and your vehicles if your device is lost or stolen.",
   "pinMustBe4Digits": "PIN must be 4 digits",
   "unableToSignOutAllDevices": "Unable to sign out all devices",
@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla Business support",
   "toggleAddress": "Toggle address",
   "download": "Download",
-  "numberRangeOfTotal": "{numberRange} of {total}",
+  "numberOfTotal": "{number} of {total}",
   "resources": "Resources",
   "howItWorks": "How it works",
   "you": "You"

@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla üzleti támogatás",
   "toggleAddress": "Cím váltása",
   "download": "Letöltés",
-  "numberRangeOfTotal": "{numberRange}/{total}",
+  "numberOfTotal": "{number}/{total}",
   "resources": "Erőforrások",
   "howItWorks": "Hogyan működik",
   "you": "Te"

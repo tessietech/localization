@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla 비즈니스 지원",
   "toggleAddress": "주소 표시/숨기기",
   "download": "다운로드",
-  "numberRangeOfTotal": "{numberRange}/{total}",
+  "numberOfTotal": "{number}/{total}",
   "resources": "리소스",
   "howItWorks": "작동 방식",
   "you": "사용자"

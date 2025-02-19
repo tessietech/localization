@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Assistance Tesla Entreprise",
   "toggleAddress": "Afficher/masquer l'adresse",
   "download": "Télécharger",
-  "numberRangeOfTotal": "{numberRange} sur {total}",
+  "numberOfTotal": "{number} sur {total}",
   "resources": "Ressources",
   "howItWorks": "Fonctionnement",
   "you": "Vous"

@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla İşletme desteği",
   "toggleAddress": "Adresi Değiştir",
   "download": "İndir",
-  "numberRangeOfTotal": "{numberRange} / {total}",
+  "numberOfTotal": "{number} / {total}",
   "resources": "Kaynaklar",
   "howItWorks": "Nasıl çalışır?",
   "you": "Sen"

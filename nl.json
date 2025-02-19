@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla-bedrijfsondersteuning",
   "toggleAddress": "Adres wisselen",
   "download": "Downloaden",
-  "numberRangeOfTotal": "{numberRange} van {total}",
+  "numberOfTotal": "{number} van {total}",
   "resources": "Bronnen",
   "howItWorks": "Hoe het werkt",
   "you": "Jij"

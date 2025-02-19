@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Asistencia comercial de Tesla",
   "toggleAddress": "Alternar dirección",
   "download": "Descargar",
-  "numberRangeOfTotal": "{numberRange} de {total}",
+  "numberOfTotal": "{number} de {total}",
   "resources": "Recursos",
   "howItWorks": "Cómo funciona",
   "you": "Tú"

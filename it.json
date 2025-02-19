@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Assistenza clienti Tesla",
   "toggleAddress": "Attiva/disattiva indirizzo",
   "download": "Scarica",
-  "numberRangeOfTotal": "{numberRange} di {total}",
+  "numberOfTotal": "{number} di {total}",
   "resources": "Risorse",
   "howItWorks": "Come funziona",
   "you": "Tu"

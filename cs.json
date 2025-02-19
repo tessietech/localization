@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Podpora Tesla Business",
   "toggleAddress": "Přepnout adresu",
   "download": "Stáhnout",
-  "numberRangeOfTotal": "{numberRange} z {total}",
+  "numberOfTotal": "{number} z {total}",
   "resources": "Zdroje",
   "howItWorks": "Jak to funguje",
   "you": "Vy"

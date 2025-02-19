@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Asistență pentru afaceri Tesla",
   "toggleAddress": "Comutare adresă",
   "download": "Descărcare",
-  "numberRangeOfTotal": "{numberRange} din {total}",
+  "numberOfTotal": "{number} din {total}",
   "resources": "Resurse",
   "howItWorks": "Cum funcționează",
   "you": "Tu"

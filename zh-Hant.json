@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla 商務支援",
   "toggleAddress": "切換地址",
   "download": "下載",
-  "numberRangeOfTotal": "{numberRange}/{total}",
+  "numberOfTotal": "{number}/{total}",
   "resources": "資源",
   "howItWorks": "運作方式",
   "you": "您"

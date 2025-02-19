@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Tesla Business Support",
   "toggleAddress": "Adresse umschalten",
   "download": "Herunterladen",
-  "numberRangeOfTotal": "{numberRange} von {total}",
+  "numberOfTotal": "{number} von {total}",
   "resources": "Ressourcen",
   "howItWorks": "So funktioniert's",
   "you": "Sie"

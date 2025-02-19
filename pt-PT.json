@@ -2460,7 +2460,7 @@
   "teslaBusinessSupport": "Apoio ao Cliente Empresarial da Tesla",
   "toggleAddress": "Alternar endereço",
   "download": "Transferir",
-  "numberRangeOfTotal": "{numberRange} de {total}",
+  "numberOfTotal": "{number} de {total}",
   "resources": "Recursos",
   "howItWorks": "Como funciona",
   "you": "Você"
