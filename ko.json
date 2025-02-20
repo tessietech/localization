@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number}/{total}",
   "resources": "리소스",
   "howItWorks": "작동 방식",
-  "you": "사용자"
+  "you": "사용자",
+  "offline": "오프라인",
+  "allActivityDuringThisTimeframe": "이 기간 동안의 모든 활동입니다.",
+  "learnMoreAboutTopic": "{topic}에 대해 자세히 알아보기",
+  "monitorAndAutomateYourVehicleThroughHomey": "Homey를 통해 차량을 모니터링하고 자동화하세요",
+  "configure": "구성",
+  "automateVehicleTasks": "차량 작업 자동화",
+  "accessRealtimeVehicleData": "실시간 차량 데이터 액세스",
+  "connectYourVehicleToRaycast": "Raycast에 차량 연결"
 }

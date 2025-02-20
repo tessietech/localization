@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number}/{total}",
   "resources": "Erőforrások",
   "howItWorks": "Hogyan működik",
-  "you": "Te"
+  "you": "Te",
+  "offline": "Offline",
+  "allActivityDuringThisTimeframe": "Ebben az időszakban minden tevékenység.",
+  "learnMoreAboutTopic": "Tudj meg többet a(z) {topic} témáról",
+  "monitorAndAutomateYourVehicleThroughHomey": "Figyeld és automatizáld a járművedet a Homey segítségével",
+  "configure": "Konfigurálás",
+  "automateVehicleTasks": "Járműfeladatok automatizálása",
+  "accessRealtimeVehicleData": "Hozzáférés valós idejű járműadatokhoz",
+  "connectYourVehicleToRaycast": "Csatlakoztasd a járművedet a Raycast-hoz"
 }

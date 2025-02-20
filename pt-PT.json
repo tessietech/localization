@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} de {total}",
   "resources": "Recursos",
   "howItWorks": "Como funciona",
-  "you": "Você"
+  "you": "Você",
+  "offline": "Offline",
+  "allActivityDuringThisTimeframe": "Toda a atividade durante este período.",
+  "learnMoreAboutTopic": "Saiba mais sobre {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Monitore e automatize o seu veículo através do Homey",
+  "configure": "Configurar",
+  "automateVehicleTasks": "Automatizar tarefas do veículo",
+  "accessRealtimeVehicleData": "Aceder aos dados do veículo em tempo real",
+  "connectYourVehicleToRaycast": "Ligue o seu veículo ao Raycast"
 }

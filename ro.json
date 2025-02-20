@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} din {total}",
   "resources": "Resurse",
   "howItWorks": "Cum funcționează",
-  "you": "Tu"
+  "you": "Tu",
+  "offline": "Offline",
+  "allActivityDuringThisTimeframe": "Toată activitatea din acest interval de timp.",
+  "learnMoreAboutTopic": "Aflați mai multe despre {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Monitorizați și automatizați vehiculul prin Homey",
+  "configure": "Configurați",
+  "automateVehicleTasks": "Automatizați sarcinile vehiculului",
+  "accessRealtimeVehicleData": "Accesați datele vehiculului în timp real",
+  "connectYourVehicleToRaycast": "Conectați vehiculul la Raycast"
 }

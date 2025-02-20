@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number}/{total}",
   "resources": "资源",
   "howItWorks": "工作原理",
-  "you": "您"
+  "you": "您",
+  "offline": "离线",
+  "allActivityDuringThisTimeframe": "此时间段内的所有活动。",
+  "learnMoreAboutTopic": "了解有关 {topic} 的更多信息",
+  "monitorAndAutomateYourVehicleThroughHomey": "通过 Homey 监控和自动化您的车辆",
+  "configure": "配置",
+  "automateVehicleTasks": "自动化车辆任务",
+  "accessRealtimeVehicleData": "访问实时车辆数据",
+  "connectYourVehicleToRaycast": "将您的车辆连接到 Raycast"
 }

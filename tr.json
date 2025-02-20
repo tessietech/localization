@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} / {total}",
   "resources": "Kaynaklar",
   "howItWorks": "Nasıl çalışır?",
-  "you": "Sen"
+  "you": "Sen",
+  "offline": "Çevrimdışı",
+  "allActivityDuringThisTimeframe": "Bu zaman dilimi içindeki tüm aktiviteler.",
+  "learnMoreAboutTopic": "{topic} hakkında daha fazla bilgi edinin",
+  "monitorAndAutomateYourVehicleThroughHomey": "Aracınızı Homey ile izleyin ve otomatikleştirin",
+  "configure": "Yapılandır",
+  "automateVehicleTasks": "Araç görevlerini otomatikleştirin",
+  "accessRealtimeVehicleData": "Gerçek zamanlı araç verilerine erişin",
+  "connectYourVehicleToRaycast": "Aracınızı Raycast'e bağlayın"
 }

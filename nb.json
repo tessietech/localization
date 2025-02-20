@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} av {total}",
   "resources": "Ressurser",
   "howItWorks": "Slik fungerer det",
-  "you": "Du"
+  "you": "Du",
+  "offline": "Frakoblet",
+  "allActivityDuringThisTimeframe": "All aktivitet i denne tidsperioden.",
+  "learnMoreAboutTopic": "Lær mer om {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Overvåk og automatiser kjøretøyet ditt via Homey",
+  "configure": "Konfigurer",
+  "automateVehicleTasks": "Automatiser kjøretøyoppgaver",
+  "accessRealtimeVehicleData": "Få tilgang til kjøretøydata i sanntid",
+  "connectYourVehicleToRaycast": "Koble kjøretøyet ditt til Raycast"
 }

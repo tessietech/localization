@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} af {total}",
   "resources": "Ressourcer",
   "howItWorks": "Sådan fungerer det",
-  "you": "Dig"
+  "you": "Dig",
+  "offline": "Offline",
+  "allActivityDuringThisTimeframe": "Al aktivitet i denne periode.",
+  "learnMoreAboutTopic": "Læs mere om {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Overvåg og automatiser dit køretøj via Homey",
+  "configure": "Konfigurer",
+  "automateVehicleTasks": "Automatiser opgaver for køretøjet",
+  "accessRealtimeVehicleData": "Få adgang til kørertøjsdata i realtid",
+  "connectYourVehicleToRaycast": "Forbind dit køretøj til Raycast"
 }

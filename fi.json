@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number}/{total}",
   "resources": "Resurssit",
   "howItWorks": "Toimintaperiaate",
-  "you": "Sinä"
+  "you": "Sinä",
+  "offline": "Offline-tilassa",
+  "allActivityDuringThisTimeframe": "Kaikki aktiviteetit tällä aikavälillä.",
+  "learnMoreAboutTopic": "Lisätietoja aiheesta {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Seuraa ja automatisoi ajoneuvoasi Homeyn kautta",
+  "configure": "Määritä",
+  "automateVehicleTasks": "Automatisoi ajoneuvon tehtävät",
+  "accessRealtimeVehicleData": "Käytä ajoneuvon reaaliaikaisia tietoja",
+  "connectYourVehicleToRaycast": "Yhdistä ajoneuvosi Raycastiin"
 }

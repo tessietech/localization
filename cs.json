@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} z {total}",
   "resources": "Zdroje",
   "howItWorks": "Jak to funguje",
-  "you": "Vy"
+  "you": "Vy",
+  "offline": "Offline",
+  "allActivityDuringThisTimeframe": "Veškerá aktivita během tohoto časového rámce.",
+  "learnMoreAboutTopic": "Další informace o {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Sledujte a automatizujte své vozidlo prostřednictvím Homey",
+  "configure": "Konfigurovat",
+  "automateVehicleTasks": "Automatizovat úkoly vozidla",
+  "accessRealtimeVehicleData": "Přístup k datům vozidla v reálném čase",
+  "connectYourVehicleToRaycast": "Připojte své vozidlo k Raycast"
 }

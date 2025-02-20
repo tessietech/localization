@@ -2463,5 +2463,13 @@
   "numberOfTotal": "{number} van {total}",
   "resources": "Bronnen",
   "howItWorks": "Hoe het werkt",
-  "you": "Jij"
+  "you": "Jij",
+  "offline": "Offline",
+  "allActivityDuringThisTimeframe": "Alle activiteiten gedurende deze periode.",
+  "learnMoreAboutTopic": "Meer informatie over {topic}",
+  "monitorAndAutomateYourVehicleThroughHomey": "Bewaak en automatiseer uw auto via Homey",
+  "configure": "Configureren",
+  "automateVehicleTasks": "Automatiseer autotaken",
+  "accessRealtimeVehicleData": "Krijg toegang tot realtime autogegevens",
+  "connectYourVehicleToRaycast": "Verbind uw auto met Raycast"
 }
