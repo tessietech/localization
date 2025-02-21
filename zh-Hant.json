@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "存取即時車輛資料",
   "connectYourVehicleToRaycast": "將您的車輛連線到 Raycast",
   "jump": "跳轉",
-  "goTo": "前往"
+  "goTo": "前往",
+  "vehicleHasTooManyApplications": "車輛的應用程式過多。"
 }

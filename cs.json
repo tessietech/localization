@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "Přístup k datům vozidla v reálném čase",
   "connectYourVehicleToRaycast": "Připojte své vozidlo k Raycast",
   "jump": "Skočit",
-  "goTo": "Přejít na"
+  "goTo": "Přejít na",
+  "vehicleHasTooManyApplications": "Vozidlo má příliš mnoho aplikací."
 }

@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "Uzyskaj dostęp do danych pojazdu w czasie rzeczywistym",
   "connectYourVehicleToRaycast": "Połącz swój pojazd z Raycast",
   "jump": "Skocz",
-  "goTo": "Przejdź do"
+  "goTo": "Przejdź do",
+  "vehicleHasTooManyApplications": "Pojazd ma zbyt wiele aplikacji."
 }

@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "Hozzáférés valós idejű járműadatokhoz",
   "connectYourVehicleToRaycast": "Csatlakoztasd a járművedet a Raycast-hoz",
   "jump": "Ugrás",
-  "goTo": "Ugrás ide"
+  "goTo": "Ugrás ide",
+  "vehicleHasTooManyApplications": "A járműhöz túl sok alkalmazás tartozik."
 }

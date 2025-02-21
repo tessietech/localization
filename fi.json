@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "Käytä ajoneuvon reaaliaikaisia tietoja",
   "connectYourVehicleToRaycast": "Yhdistä ajoneuvosi Raycastiin",
   "jump": "Hyppää",
-  "goTo": "Siirry"
+  "goTo": "Siirry",
+  "vehicleHasTooManyApplications": "Ajoneuvossa on liian monta sovellusta."
 }
