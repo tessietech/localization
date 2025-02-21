@@ -2471,5 +2471,7 @@
   "configure": "Yapılandır",
   "automateVehicleTasks": "Araç görevlerini otomatikleştirin",
   "accessRealtimeVehicleData": "Gerçek zamanlı araç verilerine erişin",
-  "connectYourVehicleToRaycast": "Aracınızı Raycast'e bağlayın"
+  "connectYourVehicleToRaycast": "Aracınızı Raycast'e bağlayın",
+  "jump": "Atla",
+  "goTo": "Git"
 }

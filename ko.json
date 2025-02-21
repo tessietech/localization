@@ -2471,5 +2471,7 @@
   "configure": "구성",
   "automateVehicleTasks": "차량 작업 자동화",
   "accessRealtimeVehicleData": "실시간 차량 데이터 액세스",
-  "connectYourVehicleToRaycast": "Raycast에 차량 연결"
+  "connectYourVehicleToRaycast": "Raycast에 차량 연결",
+  "jump": "점프",
+  "goTo": "이동"
 }

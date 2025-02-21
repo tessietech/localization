@@ -2471,5 +2471,7 @@
   "configure": "Configurați",
   "automateVehicleTasks": "Automatizați sarcinile vehiculului",
   "accessRealtimeVehicleData": "Accesați datele vehiculului în timp real",
-  "connectYourVehicleToRaycast": "Conectați vehiculul la Raycast"
+  "connectYourVehicleToRaycast": "Conectați vehiculul la Raycast",
+  "jump": "Salt",
+  "goTo": "Mergeți la"
 }

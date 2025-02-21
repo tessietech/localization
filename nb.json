@@ -2471,5 +2471,7 @@
   "configure": "Konfigurer",
   "automateVehicleTasks": "Automatiser kjøretøyoppgaver",
   "accessRealtimeVehicleData": "Få tilgang til kjøretøydata i sanntid",
-  "connectYourVehicleToRaycast": "Koble kjøretøyet ditt til Raycast"
+  "connectYourVehicleToRaycast": "Koble kjøretøyet ditt til Raycast",
+  "jump": "Hopp",
+  "goTo": "Gå til"
 }

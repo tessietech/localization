@@ -2471,5 +2471,7 @@
   "configure": "Konfigurovat",
   "automateVehicleTasks": "Automatizovat úkoly vozidla",
   "accessRealtimeVehicleData": "Přístup k datům vozidla v reálném čase",
-  "connectYourVehicleToRaycast": "Připojte své vozidlo k Raycast"
+  "connectYourVehicleToRaycast": "Připojte své vozidlo k Raycast",
+  "jump": "Skočit",
+  "goTo": "Přejít na"
 }
