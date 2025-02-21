@@ -2471,5 +2471,8 @@
   "configure": "配置",
   "automateVehicleTasks": "自动化车辆任务",
   "accessRealtimeVehicleData": "访问实时车辆数据",
-  "connectYourVehicleToRaycast": "将您的车辆连接到 Raycast"
+  "connectYourVehicleToRaycast": "将您的车辆连接到 Raycast",
+  "jump": "跳转",
+  "goTo": "前往",
+  "vehicleHasTooManyApplications": "车辆的应用程序过多。"
 }

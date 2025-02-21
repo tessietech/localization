@@ -1138,7 +1138,7 @@
   "thisWillOpenTheRearTrunk": "To spowoduje otwarcie tylnego bagażnika.",
   "thisWillCloseTheRearTrunk": "To spowoduje zamknięcie tylnego bagażnika.",
   "online": "Online",
-  "asleepOffline": "Uśpienie/offline",
+  "asleepOffline": "Uśpienie",
   "asleep": "Uśpienie",
   "theVehicleWillPeriodicallyWakeUpToCalibrateAndCharge": "Pojazd będzie się okresowo wybudzał, aby skalibrować i naładować. Tessie nigdy nie wybudza pojazdu bez akcji z Twojej strony.",
   "confirmThisAction": "Potwierdź tę akcję.",
@@ -2464,12 +2464,15 @@
   "resources": "Zasoby",
   "howItWorks": "Jak to działa",
   "you": "Ty",
-  "offline": "Uśpienie (offline)",
+  "offline": "Uśpienie",
   "allActivityDuringThisTimeframe": "Wszystkie działania w tym okresie.",
   "learnMoreAboutTopic": "Dowiedz się więcej o {topic}",
   "monitorAndAutomateYourVehicleThroughHomey": "Monitoruj i automatyzuj swój pojazd za pomocą Homey",
   "configure": "Konfiguruj",
   "automateVehicleTasks": "Automatyzuj zadania pojazdu",
   "accessRealtimeVehicleData": "Uzyskaj dostęp do danych pojazdu w czasie rzeczywistym",
-  "connectYourVehicleToRaycast": "Połącz swój pojazd z Raycast"
+  "connectYourVehicleToRaycast": "Połącz pojazd z Raycast",
+  "jump": "Przeskocz",
+  "goTo": "Przejdź do",
+  "vehicleHasTooManyApplications": "Pojazd ma zbyt wiele aplikacji."
 }

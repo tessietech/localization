@@ -2471,5 +2471,8 @@
   "configure": "Määritä",
   "automateVehicleTasks": "Automatisoi ajoneuvon tehtävät",
   "accessRealtimeVehicleData": "Käytä ajoneuvon reaaliaikaisia tietoja",
-  "connectYourVehicleToRaycast": "Yhdistä ajoneuvosi Raycastiin"
+  "connectYourVehicleToRaycast": "Yhdistä ajoneuvosi Raycastiin",
+  "jump": "Hyppää",
+  "goTo": "Siirry",
+  "vehicleHasTooManyApplications": "Ajoneuvossa on liian monta sovellusta."
 }

@@ -2471,5 +2471,8 @@
   "configure": "Configure",
   "automateVehicleTasks": "Automate vehicle tasks",
   "accessRealtimeVehicleData": "Access real-time vehicle data",
-  "connectYourVehicleToRaycast": "Connect your vehicle to Raycast"
+  "connectYourVehicleToRaycast": "Connect your vehicle to Raycast",
+  "jump": "Jump",
+  "goTo": "Go to",
+  "vehicleHasTooManyApplications": "Vehicle has too many applications."
 }

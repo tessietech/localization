@@ -2471,5 +2471,8 @@
   "configure": "Configurar",
   "automateVehicleTasks": "Automatizar tarefas do veículo",
   "accessRealtimeVehicleData": "Aceder aos dados do veículo em tempo real",
-  "connectYourVehicleToRaycast": "Ligue o seu veículo ao Raycast"
+  "connectYourVehicleToRaycast": "Ligue o seu veículo ao Raycast",
+  "jump": "Saltar",
+  "goTo": "Ir para",
+  "vehicleHasTooManyApplications": "O veículo tem demasiadas aplicações."
 }

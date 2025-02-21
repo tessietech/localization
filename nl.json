@@ -2471,5 +2471,8 @@
   "configure": "Configureren",
   "automateVehicleTasks": "Automatiseer autotaken",
   "accessRealtimeVehicleData": "Krijg toegang tot realtime autogegevens",
-  "connectYourVehicleToRaycast": "Verbind uw auto met Raycast"
+  "connectYourVehicleToRaycast": "Verbind uw auto met Raycast",
+  "jump": "Springen",
+  "goTo": "Ga naar",
+  "vehicleHasTooManyApplications": "Voertuig heeft te veel applicaties."
 }

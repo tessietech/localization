@@ -2471,5 +2471,8 @@
   "configure": "Konfigurer",
   "automateVehicleTasks": "Automatiser opgaver for køretøjet",
   "accessRealtimeVehicleData": "Få adgang til kørertøjsdata i realtid",
-  "connectYourVehicleToRaycast": "Forbind dit køretøj til Raycast"
+  "connectYourVehicleToRaycast": "Forbind dit køretøj til Raycast",
+  "jump": "Spring",
+  "goTo": "Gå til",
+  "vehicleHasTooManyApplications": "Køretøjet har for mange applikationer."
 }

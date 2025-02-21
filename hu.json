@@ -2471,5 +2471,8 @@
   "configure": "Konfigurálás",
   "automateVehicleTasks": "Járműfeladatok automatizálása",
   "accessRealtimeVehicleData": "Hozzáférés valós idejű járműadatokhoz",
-  "connectYourVehicleToRaycast": "Csatlakoztasd a járművedet a Raycast-hoz"
+  "connectYourVehicleToRaycast": "Csatlakoztasd a járművedet a Raycast-hoz",
+  "jump": "Ugrás",
+  "goTo": "Ugrás ide",
+  "vehicleHasTooManyApplications": "A járműhöz túl sok alkalmazás tartozik."
 }
