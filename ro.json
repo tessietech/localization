@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "Accesați datele vehiculului în timp real",
   "connectYourVehicleToRaycast": "Conectați vehiculul la Raycast",
   "jump": "Salt",
-  "goTo": "Mergeți la"
+  "goTo": "Mergeți la",
+  "vehicleHasTooManyApplications": "Vehiculul are prea multe aplicații."
 }

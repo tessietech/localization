@@ -2473,5 +2473,6 @@
   "accessRealtimeVehicleData": "Gerçek zamanlı araç verilerine erişin",
   "connectYourVehicleToRaycast": "Aracınızı Raycast'e bağlayın",
   "jump": "Atla",
-  "goTo": "Git"
+  "goTo": "Git",
+  "vehicleHasTooManyApplications": "Araç çok fazla uygulamaya sahip."
 }
