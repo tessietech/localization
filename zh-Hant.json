@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "將您的車輛連線到 Raycast",
   "jump": "跳轉",
   "goTo": "前往",
-  "vehicleHasTooManyApplications": "車輛的應用程式過多。"
+  "vehicleHasTooManyApplications": "車輛的應用程式過多。",
+  "batteryTemp": "電池溫度",
+  "exteriorTemp": "外部溫度"
 }

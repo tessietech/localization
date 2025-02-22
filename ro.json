@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Conectați vehiculul la Raycast",
   "jump": "Salt",
   "goTo": "Mergeți la",
-  "vehicleHasTooManyApplications": "Vehiculul are prea multe aplicații."
+  "vehicleHasTooManyApplications": "Vehiculul are prea multe aplicații.",
+  "batteryTemp": "Temperatura bateriei",
+  "exteriorTemp": "Temperatura exterioară"
 }

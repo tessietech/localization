@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Připojte své vozidlo k Raycast",
   "jump": "Skočit",
   "goTo": "Přejít na",
-  "vehicleHasTooManyApplications": "Vozidlo má příliš mnoho aplikací."
+  "vehicleHasTooManyApplications": "Vozidlo má příliš mnoho aplikací.",
+  "batteryTemp": "Teplota baterie",
+  "exteriorTemp": "Vnější teplota"
 }

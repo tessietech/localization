@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Raycast에 차량 연결",
   "jump": "점프",
   "goTo": "이동",
-  "vehicleHasTooManyApplications": "차량에 너무 많은 애플리케이션이 있습니다."
+  "vehicleHasTooManyApplications": "차량에 너무 많은 애플리케이션이 있습니다.",
+  "batteryTemp": "배터리 온도",
+  "exteriorTemp": "외부 온도"
 }

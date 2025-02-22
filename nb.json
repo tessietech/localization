@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Koble kjøretøyet ditt til Raycast",
   "jump": "Hopp",
   "goTo": "Gå til",
-  "vehicleHasTooManyApplications": "Kjøretøyet har for mange applikasjoner."
+  "vehicleHasTooManyApplications": "Kjøretøyet har for mange applikasjoner.",
+  "batteryTemp": "Batteritemperatur",
+  "exteriorTemp": "Utetemperatur"
 }

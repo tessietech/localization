@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Yhdistä ajoneuvosi Raycastiin",
   "jump": "Hyppää",
   "goTo": "Siirry",
-  "vehicleHasTooManyApplications": "Ajoneuvossa on liian monta sovellusta."
+  "vehicleHasTooManyApplications": "Ajoneuvossa on liian monta sovellusta.",
+  "batteryTemp": "Akun lämpötila",
+  "exteriorTemp": "Ulkolämpötila"
 }

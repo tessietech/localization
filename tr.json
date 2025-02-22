@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Aracınızı Raycast'e bağlayın",
   "jump": "Atla",
   "goTo": "Git",
-  "vehicleHasTooManyApplications": "Araç çok fazla uygulamaya sahip."
+  "vehicleHasTooManyApplications": "Araç çok fazla uygulamaya sahip.",
+  "batteryTemp": "Pil sıcaklığı",
+  "exteriorTemp": "Dış sıcaklık"
 }

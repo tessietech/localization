@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Verbind uw auto met Raycast",
   "jump": "Springen",
   "goTo": "Ga naar",
-  "vehicleHasTooManyApplications": "Voertuig heeft te veel applicaties."
+  "vehicleHasTooManyApplications": "Voertuig heeft te veel applicaties.",
+  "batteryTemp": "Batterijtemperatuur",
+  "exteriorTemp": "Buitentemperatuur"
 }

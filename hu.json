@@ -2474,5 +2474,7 @@
   "connectYourVehicleToRaycast": "Csatlakoztasd a járművedet a Raycast-hoz",
   "jump": "Ugrás",
   "goTo": "Ugrás ide",
-  "vehicleHasTooManyApplications": "A járműhöz túl sok alkalmazás tartozik."
+  "vehicleHasTooManyApplications": "A járműhöz túl sok alkalmazás tartozik.",
+  "batteryTemp": "Akkumulátor hőmérséklete",
+  "exteriorTemp": "Külső hőmérséklet"
 }
