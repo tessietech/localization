@@ -2476,5 +2476,8 @@
   "goTo": "前往",
   "vehicleHasTooManyApplications": "車輛的應用程式過多。",
   "batteryTemp": "電池溫度",
-  "exteriorTemp": "外部溫度"
+  "exteriorTemp": "外部溫度",
+  "actionRequired": "需要採取行動",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "車輛的第三方應用程式過多。移除一些應用程式，然後啟用遙測以繼續追蹤您的車輛。",
+  "enableTelemetryToContinueTrackingYourVehicle": "啟用遙測以繼續追蹤您的車輛。"
 }

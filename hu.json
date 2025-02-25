@@ -2476,5 +2476,8 @@
   "goTo": "Ugrás ide",
   "vehicleHasTooManyApplications": "A járműhöz túl sok alkalmazás tartozik.",
   "batteryTemp": "Akkumulátor hőmérséklete",
-  "exteriorTemp": "Külső hőmérséklet"
+  "exteriorTemp": "Külső hőmérséklet",
+  "actionRequired": "Művelet szükséges",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "A járműhöz túl sok harmadik féltől származó alkalmazás van csatlakoztatva. Távolítson el néhányat, majd engedélyezze a telemetriát a jármű nyomon követésének folytatásához.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Engedélyezze a telemetriát a jármű nyomon követésének folytatásához."
 }

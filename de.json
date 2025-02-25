@@ -2476,5 +2476,8 @@
   "goTo": "Gehe zu",
   "vehicleHasTooManyApplications": "Fahrzeug hat zu viele Anwendungen.",
   "batteryTemp": "Batterietemperatur",
-  "exteriorTemp": "Außentemperatur"
+  "exteriorTemp": "Außentemperatur",
+  "actionRequired": "Aktion erforderlich",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Das Fahrzeug hat zu viele Drittanbieteranwendungen. Entfernen Sie einige und aktivieren Sie dann die Telemetrie, um die Verfolgung Ihres Fahrzeugs fortzusetzen.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Aktivieren Sie die Telemetrie, um die Verfolgung Ihres Fahrzeugs fortzusetzen."
 }

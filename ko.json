@@ -2476,5 +2476,8 @@
   "goTo": "이동",
   "vehicleHasTooManyApplications": "차량에 너무 많은 애플리케이션이 있습니다.",
   "batteryTemp": "배터리 온도",
-  "exteriorTemp": "외부 온도"
+  "exteriorTemp": "외부 온도",
+  "actionRequired": "조치 필요",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "차량에 타사 애플리케이션이 너무 많습니다. 일부를 제거한 후 차량 추적을 계속하려면 원격 분석을 활성화하세요.",
+  "enableTelemetryToContinueTrackingYourVehicle": "차량 추적을 계속하려면 원격 분석을 활성화하세요."
 }

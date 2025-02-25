@@ -2476,5 +2476,8 @@
   "goTo": "Ga naar",
   "vehicleHasTooManyApplications": "Voertuig heeft te veel applicaties.",
   "batteryTemp": "Batterijtemperatuur",
-  "exteriorTemp": "Buitentemperatuur"
+  "exteriorTemp": "Buitentemperatuur",
+  "actionRequired": "Actie vereist",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Voertuig heeft te veel apps van derden. Verwijder er een paar en schakel telemetrie in om uw voertuig te blijven volgen.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Schakel telemetrie in om uw voertuig te blijven volgen."
 }

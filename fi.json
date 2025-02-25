@@ -2476,5 +2476,8 @@
   "goTo": "Siirry",
   "vehicleHasTooManyApplications": "Ajoneuvossa on liian monta sovellusta.",
   "batteryTemp": "Akun lämpötila",
-  "exteriorTemp": "Ulkolämpötila"
+  "exteriorTemp": "Ulkolämpötila",
+  "actionRequired": "Toimia tarvitaan",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Autossa on liian monta kolmannen osapuolen sovellusta. Poista joitakin ja ota käyttöön telemetria, jotta voit jatkaa ajoneuvon seurantaa.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Ota käyttöön telemetria, jotta voit jatkaa ajoneuvon seurantaa."
 }

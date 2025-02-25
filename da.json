@@ -2476,5 +2476,8 @@
   "goTo": "Gå til",
   "vehicleHasTooManyApplications": "Køretøjet har for mange applikationer.",
   "batteryTemp": "Batteritemperatur",
-  "exteriorTemp": "Udvendig temperatur"
+  "exteriorTemp": "Udvendig temperatur",
+  "actionRequired": "Handling påkrævet",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Der er for mange tredjepartsprogrammer på køretøjet. Fjern nogle af dem, og aktivér telemetri for at fortsætte med at spore køretøjet.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Aktivér telemetri for at fortsætte med at spore køretøjet."
 }

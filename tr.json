@@ -2476,5 +2476,8 @@
   "goTo": "Git",
   "vehicleHasTooManyApplications": "Araç çok fazla uygulamaya sahip.",
   "batteryTemp": "Pil sıcaklığı",
-  "exteriorTemp": "Dış sıcaklık"
+  "exteriorTemp": "Dış sıcaklık",
+  "actionRequired": "İşlem gerekiyor",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Araçta çok fazla üçüncü taraf uygulaması var. Aracınızı izlemeye devam etmek için bazılarını kaldırın ve telemetriyi etkinleştirin.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Aracınızı izlemeye devam etmek için telemetriyi etkinleştirin."
 }

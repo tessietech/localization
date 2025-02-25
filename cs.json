@@ -2476,5 +2476,8 @@
   "goTo": "Přejít na",
   "vehicleHasTooManyApplications": "Vozidlo má příliš mnoho aplikací.",
   "batteryTemp": "Teplota baterie",
-  "exteriorTemp": "Vnější teplota"
+  "exteriorTemp": "Vnější teplota",
+  "actionRequired": "Vyžadována akce",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Vozidlo má příliš mnoho aplikací třetích stran. Odeberte některé a poté povolte telemetrii, aby bylo možné pokračovat ve sledování vašeho vozidla.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Povolte telemetrii, aby bylo možné pokračovat ve sledování vašeho vozidla."
 }

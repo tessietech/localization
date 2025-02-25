@@ -2476,5 +2476,8 @@
   "goTo": "Mergeți la",
   "vehicleHasTooManyApplications": "Vehiculul are prea multe aplicații.",
   "batteryTemp": "Temperatura bateriei",
-  "exteriorTemp": "Temperatura exterioară"
+  "exteriorTemp": "Temperatura exterioară",
+  "actionRequired": "Acțiune necesară",
+  "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Vehiculul are prea multe aplicații terță parte. Eliminați câteva, apoi activați telemetria pentru a continua urmărirea vehiculului.",
+  "enableTelemetryToContinueTrackingYourVehicle": "Activați telemetria pentru a continua urmărirea vehiculului."
 }
