@@ -2479,5 +2479,21 @@
   "exteriorTemp": "Külső hőmérséklet",
   "actionRequired": "Művelet szükséges",
   "vehicleHasTooManyThirdPartyApplicationsTryAgain": "A járműhöz túl sok harmadik féltől származó alkalmazás van csatlakoztatva. Távolítson el néhányat, majd engedélyezze a telemetriát a jármű nyomon követésének folytatásához.",
-  "enableTelemetryToContinueTrackingYourVehicle": "Engedélyezze a telemetriát a jármű nyomon követésének folytatásához."
+  "enableTelemetryToContinueTrackingYourVehicle": "Engedélyezze a telemetriát a jármű nyomon követésének folytatásához.",
+  "drain": "Merítés",
+  "ifTheBatteryIsLimitedDueToBeingColdThe": "Ha az akkumulátor teljesítménye korlátozott a hideg miatt, a használható akkumulátor töltöttségi szintje zárójelben jelenik meg.",
+  "showHelp": "Súgó megjelenítése",
+  "theRealworldRangeShownInParenthesesIsBasedOnThe": "A zárójelben feltüntetett valós hatótáv a jármű Tessie használata óta eltelt vezetési hatékonyságán alapul.",
+  "theVehicleMayBeInactiveAsleepOrDisconnected": "A jármű lehet, hogy inaktív, alszik vagy nincs kapcsolatban.",
+  "alreadyInstalling": "Már telepítve van",
+  "addVehicleProtectionAndTechnicalSupport": "Járművédelem és műszaki támogatás hozzáadása",
+  "tessieWillSyncDiagnosticDataFromYourVehicleToHelp": "A Tessie szinkronizálja a jármű diagnosztikai adatait, hogy az Amber korán felismerje a problémákat",
+  "getWarrantyProtectionAndMobileServiceAfterYourTeslaWarranty": "Garanciális védelem és mobil szerviz a Tesla garancia lejárta után",
+  "getReimbursedWheneverYouNeedTowingOrSubstituteTransportation": "Kártérítést kaphat, ha vontatásra vagy helyettesítő szállításra van szüksége",
+  "getPhoneAndEmailSupportToHelpTroubleshootVehicleIssues": "Telefonos és e-mailes támogatást kaphat a jármű problémáinak elhárításához",
+  "getComplimentaryAccessToTessieProAsLongAsYoure": "Ingyenes hozzáférést kap a Tessie Pro-hoz, amíg ügyfél",
+  "generateQuote": "Árajánlat generálása",
+  "complimentaryAccessActive": "Ingyenes hozzáférés aktív",
+  "complimentaryAccessInactive": "Ingyenes hozzáférés inaktív",
+  "getTessieForFree": "Szerezze meg a Tessie-t ingyen"
 }
