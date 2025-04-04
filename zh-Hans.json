@@ -2479,5 +2479,21 @@
   "exteriorTemp": "外部温度",
   "actionRequired": "需要操作",
   "vehicleHasTooManyThirdPartyApplicationsTryAgain": "车辆上的第三方应用过多。请移除部分应用，然后启用遥测以继续跟踪您的车辆。",
-  "enableTelemetryToContinueTrackingYourVehicle": "启用遥测以继续跟踪您的车辆。"
+  "enableTelemetryToContinueTrackingYourVehicle": "启用遥测以继续跟踪您的车辆。",
+  "drain": "损耗",
+  "ifTheBatteryIsLimitedDueToBeingColdThe": "如果电池因过冷而受限，可用电池电量将显示在括号中。",
+  "showHelp": "显示帮助",
+  "theRealworldRangeShownInParenthesesIsBasedOnThe": "括号中显示的实际续航里程基于车辆自使用 Tessie 以来的驾驶效率。",
+  "theVehicleMayBeInactiveAsleepOrDisconnected": "车辆可能未激活、处于休眠状态或已断开连接。",
+  "alreadyInstalling": "已经在安装",
+  "addVehicleProtectionAndTechnicalSupport": "添加车辆保护和技术支持",
+  "tessieWillSyncDiagnosticDataFromYourVehicleToHelp": "Tessie 将同步您车辆的诊断数据，以帮助 Amber 尽早发现问题",
+  "getWarrantyProtectionAndMobileServiceAfterYourTeslaWarranty": "在您的 Tesla 保修期满后获得保修保护和移动服务",
+  "getReimbursedWheneverYouNeedTowingOrSubstituteTransportation": "在您需要拖车或替代交通工具时获得报销",
+  "getPhoneAndEmailSupportToHelpTroubleshootVehicleIssues": "获得电话和电子邮件支持以帮助排除车辆问题",
+  "getComplimentaryAccessToTessieProAsLongAsYoure": "只要您是客户，即可免费使用 Tessie Pro",
+  "generateQuote": "生成报价",
+  "complimentaryAccessActive": "免费访问已激活",
+  "complimentaryAccessInactive": "免费访问已停用",
+  "getTessieForFree": "免费获得 Tessie"
 }

@@ -2479,5 +2479,21 @@
   "exteriorTemp": "Utetemperatur",
   "actionRequired": "Handling kreves",
   "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Kjøretøyet har for mange tredjepartsapper. Fjern noen og aktiver telemetri for å fortsette sporingen av kjøretøyet.",
-  "enableTelemetryToContinueTrackingYourVehicle": "Aktiver telemetri for å fortsette sporingen av kjøretøyet."
+  "enableTelemetryToContinueTrackingYourVehicle": "Aktiver telemetri for å fortsette sporingen av kjøretøyet.",
+  "drain": "Tap",
+  "ifTheBatteryIsLimitedDueToBeingColdThe": "Hvis batteriet er begrenset på grunn av kulde, vises det brukbare batterinivået i parentes.",
+  "showHelp": "Vis hjelp",
+  "theRealworldRangeShownInParenthesesIsBasedOnThe": "Rekkevidden i virkeligheten, vist i parentes, er basert på kjøretøyets kjøreeffektivitet siden du begynte å bruke Tessie.",
+  "theVehicleMayBeInactiveAsleepOrDisconnected": "Kjøretøyet kan være inaktivt, i hvilemodus eller frakoblet.",
+  "alreadyInstalling": "Installerer allerede",
+  "addVehicleProtectionAndTechnicalSupport": "Legg til kjøretøybeskyttelse og teknisk støtte",
+  "tessieWillSyncDiagnosticDataFromYourVehicleToHelp": "Tessie vil synkronisere diagnosedata fra kjøretøyet ditt for å hjelpe Amber med å oppdage problemer tidlig",
+  "getWarrantyProtectionAndMobileServiceAfterYourTeslaWarranty": "Få garantibeskyttelse og mobilservice etter at Tesla-garantien din utløper",
+  "getReimbursedWheneverYouNeedTowingOrSubstituteTransportation": "Bli refundert når du trenger tauing eller erstatningstransport",
+  "getPhoneAndEmailSupportToHelpTroubleshootVehicleIssues": "Få telefon- og e-poststøtte for å hjelpe med feilsøking av kjøretøyproblemer",
+  "getComplimentaryAccessToTessieProAsLongAsYoure": "Få gratis tilgang til Tessie Pro så lenge du er kunde",
+  "generateQuote": "Generer tilbud",
+  "complimentaryAccessActive": "Gratis tilgang aktiv",
+  "complimentaryAccessInactive": "Gratis tilgang inaktiv",
+  "getTessieForFree": "Få Tessie gratis"
 }
