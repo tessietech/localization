@@ -2479,5 +2479,21 @@
   "exteriorTemp": "Ulkolämpötila",
   "actionRequired": "Toimia tarvitaan",
   "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Autossa on liian monta kolmannen osapuolen sovellusta. Poista joitakin ja ota käyttöön telemetria, jotta voit jatkaa ajoneuvon seurantaa.",
-  "enableTelemetryToContinueTrackingYourVehicle": "Ota käyttöön telemetria, jotta voit jatkaa ajoneuvon seurantaa."
+  "enableTelemetryToContinueTrackingYourVehicle": "Ota käyttöön telemetria, jotta voit jatkaa ajoneuvon seurantaa.",
+  "drain": "Tyhjennä",
+  "ifTheBatteryIsLimitedDueToBeingColdThe": "Jos akku on rajoitettu kylmyyden vuoksi, käyttökelpoinen akun taso näkyy sulkeissa.",
+  "showHelp": "Näytä ohje",
+  "theRealworldRangeShownInParenthesesIsBasedOnThe": "Suluissa näkyvä todellinen toimintasäde perustuu ajoneuvon ajotehokkuuteen Tessien käytön jälkeen.",
+  "theVehicleMayBeInactiveAsleepOrDisconnected": "Ajoneuvo saattaa olla epäaktiivinen, lepotilassa tai irti.",
+  "alreadyInstalling": "Asennus on jo käynnissä",
+  "addVehicleProtectionAndTechnicalSupport": "Lisää ajoneuvon suoja ja tekninen tuki",
+  "tessieWillSyncDiagnosticDataFromYourVehicleToHelp": "Tessie synkronoi ajoneuvosi diagnostiikkatiedot auttaakseen Amberia havaitsemaan ongelmat varhain",
+  "getWarrantyProtectionAndMobileServiceAfterYourTeslaWarranty": "Hanki takuusuojan ja mobiilipalvelun Teslan takuun päätyttyä",
+  "getReimbursedWheneverYouNeedTowingOrSubstituteTransportation": "Saat korvauksen aina, kun tarvitset hinausta tai sijaishuoltoa",
+  "getPhoneAndEmailSupportToHelpTroubleshootVehicleIssues": "Saat puhelin- ja sähköpostituen ajoneuvoongelmien vianmääritykseen",
+  "getComplimentaryAccessToTessieProAsLongAsYoure": "Saat ilmaisen pääsyn Tessie Prohon niin kauan kuin olet asiakkaana",
+  "generateQuote": "Luo tarjous",
+  "complimentaryAccessActive": "Ilmainen pääsy aktiivinen",
+  "complimentaryAccessInactive": "Ilmainen pääsy ei ole aktiivinen",
+  "getTessieForFree": "Hanki Tessie ilmaiseksi"
 }

@@ -2479,5 +2479,21 @@
   "exteriorTemp": "Buitentemperatuur",
   "actionRequired": "Actie vereist",
   "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Voertuig heeft te veel apps van derden. Verwijder er een paar en schakel telemetrie in om uw voertuig te blijven volgen.",
-  "enableTelemetryToContinueTrackingYourVehicle": "Schakel telemetrie in om uw voertuig te blijven volgen."
+  "enableTelemetryToContinueTrackingYourVehicle": "Schakel telemetrie in om uw voertuig te blijven volgen.",
+  "drain": "Verbruik",
+  "ifTheBatteryIsLimitedDueToBeingColdThe": "Als de batterij beperkt is vanwege de kou, verschijnt het bruikbare batterijniveau tussen haakjes.",
+  "showHelp": "Help weergeven",
+  "theRealworldRangeShownInParenthesesIsBasedOnThe": "Het realistische bereik, weergegeven tussen haakjes, is gebaseerd op de efficiëntie van het voertuig sinds het gebruik van Tessie.",
+  "theVehicleMayBeInactiveAsleepOrDisconnected": "Het voertuig is mogelijk inactief, in slaapstand of niet verbonden.",
+  "alreadyInstalling": "Al bezig met installatie",
+  "addVehicleProtectionAndTechnicalSupport": "Voertuigbescherming en technische ondersteuning toevoegen",
+  "tessieWillSyncDiagnosticDataFromYourVehicleToHelp": "Tessie synchroniseert diagnostische gegevens van uw voertuig om Amber te helpen problemen vroegtijdig op te sporen",
+  "getWarrantyProtectionAndMobileServiceAfterYourTeslaWarranty": "Garantie en mobiele service na afloop van uw Tesla-garantie",
+  "getReimbursedWheneverYouNeedTowingOrSubstituteTransportation": "Word vergoed wanneer u sleep- of vervangend transport nodig heeft",
+  "getPhoneAndEmailSupportToHelpTroubleshootVehicleIssues": "Krijg telefonische en e-mailondersteuning om problemen met voertuigen op te lossen",
+  "getComplimentaryAccessToTessieProAsLongAsYoure": "Krijg gratis toegang tot Tessie Pro zolang u klant bent",
+  "generateQuote": "Offerte genereren",
+  "complimentaryAccessActive": "Gratis toegang actief",
+  "complimentaryAccessInactive": "Gratis toegang inactief",
+  "getTessieForFree": "Krijg Tessie gratis"
 }

@@ -2479,5 +2479,21 @@
   "exteriorTemp": "Temperatura zewnętrzna",
   "actionRequired": "Wymagane działanie",
   "vehicleHasTooManyThirdPartyApplicationsTryAgain": "Pojazd ma zbyt wiele aplikacji innych firm. Usuń niektóre z nich, a następnie włącz telemetrię, aby kontynuować śledzenie pojazdu.",
-  "enableTelemetryToContinueTrackingYourVehicle": "Włącz telemetrię, aby kontynuować śledzenie pojazdu."
+  "enableTelemetryToContinueTrackingYourVehicle": "Włącz telemetrię, aby kontynuować śledzenie pojazdu.",
+  "drain": "Pobór prądu",
+  "ifTheBatteryIsLimitedDueToBeingColdThe": "Jeśli akumulator jest ograniczony z powodu niskiej temperatury, użyteczny poziom naładowania akumulatora pojawi się w nawiasach.",
+  "showHelp": "Pokaż pomoc",
+  "theRealworldRangeShownInParenthesesIsBasedOnThe": "Rzeczywisty zasięg, pokazany w nawiasach, jest oparty na efektywności jazdy pojazdu od czasu korzystania z Tessie.",
+  "theVehicleMayBeInactiveAsleepOrDisconnected": "Pojazd może być nieaktywny, uśpiony lub odłączony.",
+  "alreadyInstalling": "Już instaluję",
+  "addVehicleProtectionAndTechnicalSupport": "Dodaj ochronę pojazdu i pomoc techniczną",
+  "tessieWillSyncDiagnosticDataFromYourVehicleToHelp": "Tessie zsynchronizuje dane diagnostyczne z Twojego pojazdu, aby pomóc Amber wczesne wykrywanie problemów",
+  "getWarrantyProtectionAndMobileServiceAfterYourTeslaWarranty": "Uzyskaj ochronę gwarancyjną i serwis mobilny po wygaśnięciu gwarancji Tesli",
+  "getReimbursedWheneverYouNeedTowingOrSubstituteTransportation": "Uzyskaj zwrot kosztów, gdy potrzebujesz holowania lub transportu zastępczego",
+  "getPhoneAndEmailSupportToHelpTroubleshootVehicleIssues": "Uzyskaj wsparcie telefoniczne i e-mailowe, aby pomóc w rozwiązywaniu problemów z pojazdem",
+  "getComplimentaryAccessToTessieProAsLongAsYoure": "Uzyskaj bezpłatny dostęp do Tessie Pro tak długo, jak jesteś klientem",
+  "generateQuote": "Wygeneruj wycenę",
+  "complimentaryAccessActive": "Aktywny bezpłatny dostęp",
+  "complimentaryAccessInactive": "Nieaktywny bezpłatny dostęp",
+  "getTessieForFree": "Zdobądź Tessie za darmo"
 }
