@@ -2495,5 +2495,16 @@
   "generateQuote": "Generovat nabídku",
   "complimentaryAccessActive": "Bezplatný přístup aktivní",
   "complimentaryAccessInactive": "Bezplatný přístup neaktivní",
-  "getTessieForFree": "Získejte Tessie zdarma"
+  "getTessieForFree": "Získejte Tessie zdarma",
+  "highlights": "Nejdůležitější",
+  "firstPage": "První stránka",
+  "previousPage": "Předchozí stránka",
+  "nextPage": "Další stránka",
+  "lastPage": "Poslední stránka",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Doporučení jsou průběžně aktualizována na základě dat za posledních {days} dní",
+  "viewLiveCharge": "Zobrazit nabíjení v reálném čase",
+  "viewLiveDrive": "Zobrazit jízdu v reálném čase",
+  "viewLiveIdle": "Zobrazit nečinnost v reálném čase",
+  "viewReleaseNotes": "Zobrazit poznámky k verzi",
+  "annualSavings": "Roční úspory"
 }

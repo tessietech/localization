@@ -2495,5 +2495,16 @@
   "generateQuote": "Offerte genereren",
   "complimentaryAccessActive": "Gratis toegang actief",
   "complimentaryAccessInactive": "Gratis toegang inactief",
-  "getTessieForFree": "Krijg Tessie gratis"
+  "getTessieForFree": "Krijg Tessie gratis",
+  "highlights": "Highlights",
+  "firstPage": "Eerste pagina",
+  "previousPage": "Vorige pagina",
+  "nextPage": "Volgende pagina",
+  "lastPage": "Laatste pagina",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Aanbevelingen worden voortdurend bijgewerkt op basis van gegevens over de afgelopen {days} dagen",
+  "viewLiveCharge": "Bekijk live opladen",
+  "viewLiveDrive": "Bekijk live rijden",
+  "viewLiveIdle": "Bekijk live stationair draaien",
+  "viewReleaseNotes": "Bekijk release-opmerkingen",
+  "annualSavings": "Jaarlijkse besparingen"
 }

@@ -2495,5 +2495,16 @@
   "generateQuote": "Wygeneruj wycenę",
   "complimentaryAccessActive": "Aktywny bezpłatny dostęp",
   "complimentaryAccessInactive": "Nieaktywny bezpłatny dostęp",
-  "getTessieForFree": "Zdobądź Tessie za darmo"
+  "getTessieForFree": "Zdobądź Tessie za darmo",
+  "highlights": "Najciekawsze",
+  "firstPage": "Pierwsza strona",
+  "previousPage": "Poprzednia strona",
+  "nextPage": "Następna strona",
+  "lastPage": "Ostatnia strona",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Rekomendacje są stale aktualizowane na podstawie danych z ostatnich {days} dni",
+  "viewLiveCharge": "Wyświetlaj ładowanie na żywo",
+  "viewLiveDrive": "Wyświetlaj jazdę na żywo",
+  "viewLiveIdle": "Wyświetlaj stan bezczynności na żywo",
+  "viewReleaseNotes": "Wyświetl informacje o wersji",
+  "annualSavings": "Roczne oszczędności"
 }

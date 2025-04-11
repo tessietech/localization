@@ -2495,5 +2495,16 @@
   "generateQuote": "生成报价",
   "complimentaryAccessActive": "免费访问已激活",
   "complimentaryAccessInactive": "免费访问已停用",
-  "getTessieForFree": "免费获得 Tessie"
+  "getTessieForFree": "免费获得 Tessie",
+  "highlights": "精彩集锦",
+  "firstPage": "第一页",
+  "previousPage": "上一页",
+  "nextPage": "下一页",
+  "lastPage": "最后一页",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "建议会根据过去 {days} 天的数据持续更新",
+  "viewLiveCharge": "查看实时充电",
+  "viewLiveDrive": "查看实时驾驶",
+  "viewLiveIdle": "查看实时待机",
+  "viewReleaseNotes": "查看发行说明",
+  "annualSavings": "年度节省"
 }

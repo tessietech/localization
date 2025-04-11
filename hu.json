@@ -2495,5 +2495,16 @@
   "generateQuote": "Árajánlat generálása",
   "complimentaryAccessActive": "Ingyenes hozzáférés aktív",
   "complimentaryAccessInactive": "Ingyenes hozzáférés inaktív",
-  "getTessieForFree": "Szerezze meg a Tessie-t ingyen"
+  "getTessieForFree": "Szerezze meg a Tessie-t ingyen",
+  "highlights": "Kiemelések",
+  "firstPage": "Első oldal",
+  "previousPage": "Előző oldal",
+  "nextPage": "Következő oldal",
+  "lastPage": "Utolsó oldal",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Az ajánlások folyamatosan frissülnek az elmúlt {days} napok adatai alapján",
+  "viewLiveCharge": "Élő töltés megtekintése",
+  "viewLiveDrive": "Élő vezetés megtekintése",
+  "viewLiveIdle": "Élő alapjárat megtekintése",
+  "viewReleaseNotes": "Kiadási megjegyzések megtekintése",
+  "annualSavings": "Éves megtakarítás"
 }

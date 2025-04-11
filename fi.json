@@ -2495,5 +2495,16 @@
   "generateQuote": "Luo tarjous",
   "complimentaryAccessActive": "Ilmainen pääsy aktiivinen",
   "complimentaryAccessInactive": "Ilmainen pääsy ei ole aktiivinen",
-  "getTessieForFree": "Hanki Tessie ilmaiseksi"
+  "getTessieForFree": "Hanki Tessie ilmaiseksi",
+  "highlights": "Kohokohdat",
+  "firstPage": "Ensimmäinen sivu",
+  "previousPage": "Edellinen sivu",
+  "nextPage": "Seuraava sivu",
+  "lastPage": "Viimeinen sivu",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Suositukset päivitetään jatkuvasti {days} viime päivän tietojen perusteella",
+  "viewLiveCharge": "Näytä reaaliaikainen lataus",
+  "viewLiveDrive": "Näytä reaaliaikainen ajo",
+  "viewLiveIdle": "Näytä reaaliaikainen joutilaisuus",
+  "viewReleaseNotes": "Näytä julkaisutiedot",
+  "annualSavings": "Vuosisäästöt"
 }

@@ -2495,5 +2495,16 @@
   "generateQuote": "Generer tilbud",
   "complimentaryAccessActive": "Gratis tilgang aktiv",
   "complimentaryAccessInactive": "Gratis tilgang inaktiv",
-  "getTessieForFree": "Få Tessie gratis"
+  "getTessieForFree": "Få Tessie gratis",
+  "highlights": "Høydepunkter",
+  "firstPage": "Første side",
+  "previousPage": "Forrige side",
+  "nextPage": "Neste side",
+  "lastPage": "Siste side",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Anbefalinger oppdateres kontinuerlig basert på data fra de siste {days} dagene",
+  "viewLiveCharge": "Se live-lading",
+  "viewLiveDrive": "Se live-kjøring",
+  "viewLiveIdle": "Se live-tomgang",
+  "viewReleaseNotes": "Se utgivelsesmerknader",
+  "annualSavings": "Årlige besparelser"
 }

@@ -2495,5 +2495,16 @@
   "generateQuote": "Gerar orçamento",
   "complimentaryAccessActive": "Acesso gratuito ativo",
   "complimentaryAccessInactive": "Acesso gratuito inativo",
-  "getTessieForFree": "Obtenha a Tessie gratuitamente"
+  "getTessieForFree": "Obtenha a Tessie gratuitamente",
+  "highlights": "Destaques",
+  "firstPage": "Primeira página",
+  "previousPage": "Página anterior",
+  "nextPage": "Página seguinte",
+  "lastPage": "Última página",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "As recomendações são continuamente atualizadas com base em dados dos últimos {days} dias",
+  "viewLiveCharge": "Ver carregamento em direto",
+  "viewLiveDrive": "Ver condução em direto",
+  "viewLiveIdle": "Ver em descanso em direto",
+  "viewReleaseNotes": "Ver notas de lançamento",
+  "annualSavings": "Poupança anual"
 }

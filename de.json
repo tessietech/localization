@@ -2495,5 +2495,16 @@
   "generateQuote": "Angebot erstellen",
   "complimentaryAccessActive": "Kostenloser Zugang aktiv",
   "complimentaryAccessInactive": "Kostenloser Zugang inaktiv",
-  "getTessieForFree": "Holen Sie sich Tessie kostenlos"
+  "getTessieForFree": "Holen Sie sich Tessie kostenlos",
+  "highlights": "Highlights",
+  "firstPage": "Erste Seite",
+  "previousPage": "Vorherige Seite",
+  "nextPage": "Nächste Seite",
+  "lastPage": "Letzte Seite",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Empfehlungen werden fortlaufend auf Grundlage von Daten der letzten {days} Tage aktualisiert",
+  "viewLiveCharge": "Live-Ladevorgang anzeigen",
+  "viewLiveDrive": "Live-Fahrt anzeigen",
+  "viewLiveIdle": "Live-Leerlauf anzeigen",
+  "viewReleaseNotes": "Versionshinweise anzeigen",
+  "annualSavings": "Jährliche Ersparnisse"
 }

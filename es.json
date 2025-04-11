@@ -2495,5 +2495,16 @@
   "generateQuote": "Generar cotización",
   "complimentaryAccessActive": "Acceso gratuito activo",
   "complimentaryAccessInactive": "Acceso gratuito inactivo",
-  "getTessieForFree": "Obtenga Tessie gratis"
+  "getTessieForFree": "Obtenga Tessie gratis",
+  "highlights": "Destacados",
+  "firstPage": "Primera página",
+  "previousPage": "Página anterior",
+  "nextPage": "Página siguiente",
+  "lastPage": "Última página",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Las recomendaciones se actualizan continuamente en función de los datos de los últimos {days} días",
+  "viewLiveCharge": "Ver carga en directo",
+  "viewLiveDrive": "Ver conducción en directo",
+  "viewLiveIdle": "Ver inactividad en directo",
+  "viewReleaseNotes": "Ver notas de la versión",
+  "annualSavings": "Ahorros anuales anuales"
 }

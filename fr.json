@@ -2495,5 +2495,16 @@
   "generateQuote": "Générer un devis",
   "complimentaryAccessActive": "Accès gratuit actif",
   "complimentaryAccessInactive": "Accès gratuit inactif",
-  "getTessieForFree": "Obtenez Tessie gratuitement"
+  "getTessieForFree": "Obtenez Tessie gratuitement",
+  "highlights": "Points forts",
+  "firstPage": "Première page",
+  "previousPage": "Page précédente",
+  "nextPage": "Page suivante",
+  "lastPage": "Dernière page",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Les recommandations sont mises à jour en continu en fonction des données des {days} derniers jours",
+  "viewLiveCharge": "Voir la charge en direct",
+  "viewLiveDrive": "Voir le trajet en direct",
+  "viewLiveIdle": "Voir l'inactivité en direct",
+  "viewReleaseNotes": "Voir les notes de version",
+  "annualSavings": "Économies annuelles"
 }

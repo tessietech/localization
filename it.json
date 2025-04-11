@@ -2495,5 +2495,16 @@
   "generateQuote": "Genera preventivo",
   "complimentaryAccessActive": "Accesso gratuito attivo",
   "complimentaryAccessInactive": "Accesso gratuito non attivo",
-  "getTessieForFree": "Ottieni Tessie gratis"
+  "getTessieForFree": "Ottieni Tessie gratis",
+  "highlights": "Punti salienti",
+  "firstPage": "Prima pagina",
+  "previousPage": "Pagina precedente",
+  "nextPage": "Pagina successiva",
+  "lastPage": "Ultima pagina",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Le raccomandazioni vengono continuamente aggiornate in base ai dati degli ultimi {days} giorni",
+  "viewLiveCharge": "Visualizza ricarica live",
+  "viewLiveDrive": "Visualizza guida live",
+  "viewLiveIdle": "Visualizza inattività live",
+  "viewReleaseNotes": "Visualizza note di rilascio",
+  "annualSavings": "Risparmi annuali"
 }

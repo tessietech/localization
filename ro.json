@@ -2495,5 +2495,16 @@
   "generateQuote": "Generați o ofertă",
   "complimentaryAccessActive": "Acces gratuit activ",
   "complimentaryAccessInactive": "Acces gratuit inactiv",
-  "getTessieForFree": "Obțineți Tessie gratuit"
+  "getTessieForFree": "Obțineți Tessie gratuit",
+  "highlights": "Repere",
+  "firstPage": "Prima pagină",
+  "previousPage": "Pagina anterioară",
+  "nextPage": "Pagina următoare",
+  "lastPage": "Ultima pagină",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Recomandările sunt actualizate continuu pe baza datelor din ultimele {days} zile",
+  "viewLiveCharge": "Vezi încărcarea în direct",
+  "viewLiveDrive": "Vezi condusul în direct",
+  "viewLiveIdle": "Vezi inactivitatea în direct",
+  "viewReleaseNotes": "Vezi notele de lansare",
+  "annualSavings": "Economii anuale"
 }

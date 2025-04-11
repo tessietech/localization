@@ -2495,5 +2495,16 @@
   "generateQuote": "Generer tilbud",
   "complimentaryAccessActive": "Gratis adgang aktiv",
   "complimentaryAccessInactive": "Gratis adgang inaktiv",
-  "getTessieForFree": "Få Tessie gratis"
+  "getTessieForFree": "Få Tessie gratis",
+  "highlights": "Højdepunkter",
+  "firstPage": "Første side",
+  "previousPage": "Forrige side",
+  "nextPage": "Næste side",
+  "lastPage": "Sidste side",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Anbefalinger opdateres løbende baseret på data over de sidste {days} dage",
+  "viewLiveCharge": "Vis liveopladning",
+  "viewLiveDrive": "Vis livekørsel",
+  "viewLiveIdle": "Vis live inaktiv",
+  "viewReleaseNotes": "Vis produktbemærkninger",
+  "annualSavings": "Årlige besparelser"
 }

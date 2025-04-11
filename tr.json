@@ -2495,5 +2495,16 @@
   "generateQuote": "Fiyat teklifi oluştur",
   "complimentaryAccessActive": "Ücretsiz erişim etkin",
   "complimentaryAccessInactive": "Ücretsiz erişim devre dışı",
-  "getTessieForFree": "Tessie'yi ücretsiz edinin"
+  "getTessieForFree": "Tessie'yi ücretsiz edinin",
+  "highlights": "Öne Çıkanlar",
+  "firstPage": "İlk sayfa",
+  "previousPage": "Önceki sayfa",
+  "nextPage": "Sonraki sayfa",
+  "lastPage": "Son sayfa",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "Öneriler, son {days} gündeki verilere göre sürekli olarak güncellenir",
+  "viewLiveCharge": "Canlı şarjı görüntüle",
+  "viewLiveDrive": "Canlı sürüşü görüntüle",
+  "viewLiveIdle": "Canlı boşta kalmayı görüntüle",
+  "viewReleaseNotes": "Sürüm notlarını görüntüle",
+  "annualSavings": "Yıllık tasarruf"
 }
