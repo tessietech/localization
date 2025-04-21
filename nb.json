@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Spor automatisk batteridriftsstatistikk og kjøretøyaktivitet under hviletid",
   "bioDefense": "Biologisk forsvar",
   "cabinProtection": "Kupébeskyttelse",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kupéoveropphetingsvern kjøler kupeen i opptil 12 timer etter at du har gått ut av kjøretøyet.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kupéoveropphetingsvern kjøler kupeen i opptil 12 timer etter at du har gått ut av kjøretøyet",
   "done": "Ferdig",
   "engaged": "Aktivert",
   "unlockPort": "Lås opp port",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "Se live-kjøring",
   "viewLiveIdle": "Se live-tomgang",
   "viewReleaseNotes": "Se utgivelsesmerknader",
-  "annualSavings": "Årlige besparelser"
+  "annualSavings": "Årlige besparelser",
+  "increaseTemperature": "Øk temperatur",
+  "decreaseTemperature": "Senk temperatur",
+  "viewCommandsSentToTheVehicle": "Vis kommandoer sendt til kjøretøyet",
+  "viewSecurityEventsSeenByTheVehicle": "Vis sikkerhetshendelser sett av kjøretøyet",
+  "configureLocation": "Konfigurer posisjon"
 }

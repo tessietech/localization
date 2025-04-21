@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Seuraa automaattisesti akun tyhjenemistä ja ajoneuvon toimintaa tyhjäkäynnillä",
   "bioDefense": "Biologinen puolustus",
   "cabinProtection": "Ohjaamon suojaus",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Ohjaamon ylikuumenemissuoja jäähdyttää ohjaamoa jopa 12 tuntia ajoneuvosta poistumisen jälkeen.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Ohjaamon ylikuumenemissuoja jäähdyttää ohjaamoa jopa 12 tuntia ajoneuvosta poistumisen jälkeen",
   "done": "Valmis",
   "engaged": "Aktiivinen",
   "unlockPort": "Avaa portti",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "Näytä reaaliaikainen ajo",
   "viewLiveIdle": "Näytä reaaliaikainen joutilaisuus",
   "viewReleaseNotes": "Näytä julkaisutiedot",
-  "annualSavings": "Vuosisäästöt"
+  "annualSavings": "Vuosisäästöt",
+  "increaseTemperature": "Nosta lämpötilaa",
+  "decreaseTemperature": "Laske lämpötilaa",
+  "viewCommandsSentToTheVehicle": "Näytä ajoneuvolle lähetetyt komennot",
+  "viewSecurityEventsSeenByTheVehicle": "Näytä ajoneuvon havaitsemat suojaustapahtumat",
+  "configureLocation": "Määritä sijainti"
 }

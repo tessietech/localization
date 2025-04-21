@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Batterieentleerung und Fahrzeugaktivität während des Parkvorgangs automatisch verfolgen",
   "bioDefense": "Bio-Schutz",
   "cabinProtection": "Kabinenschutz",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kabinenüberhitzungsschutz kühlt die Kabine nach dem Verlassen des Fahrzeugs bis zu 12 Stunden lang.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kabinenüberhitzungsschutz kühlt die Kabine nach dem Verlassen des Fahrzeugs bis zu 12 Stunden lang",
   "done": "Fertig",
   "engaged": "Eingebunden",
   "unlockPort": "Port entriegeln",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "Live-Fahrt anzeigen",
   "viewLiveIdle": "Live-Leerlauf anzeigen",
   "viewReleaseNotes": "Versionshinweise anzeigen",
-  "annualSavings": "Jährliche Ersparnisse"
+  "annualSavings": "Jährliche Ersparnisse",
+  "increaseTemperature": "Temperatur erhöhen",
+  "decreaseTemperature": "Temperatur verringern",
+  "viewCommandsSentToTheVehicle": "Befehle anzeigen, die an das Fahrzeug gesendet wurden",
+  "viewSecurityEventsSeenByTheVehicle": "Sicherheitsereignisse anzeigen, die vom Fahrzeug erkannt wurden",
+  "configureLocation": "Standort konfigurieren"
 }

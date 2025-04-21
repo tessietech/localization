@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Boşta iken pil tüketimini ve araç etkinliğini otomatik olarak takip et",
   "bioDefense": "Biyolojik Savunma",
   "cabinProtection": "Kabin Koruması",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kabin Aşırı Isınma Koruması, araçtan çıktıktan sonra kabini 12 saate kadar soğutur.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kabin Aşırı Isınma Koruması, araçtan çıktıktan sonra kabini 12 saate kadar soğutur",
   "done": "Bitti",
   "engaged": "Devam ediyor",
   "unlockPort": "Bağlantı noktasının kilidini aç",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "Canlı sürüşü görüntüle",
   "viewLiveIdle": "Canlı boşta kalmayı görüntüle",
   "viewReleaseNotes": "Sürüm notlarını görüntüle",
-  "annualSavings": "Yıllık tasarruf"
+  "annualSavings": "Yıllık tasarruf",
+  "increaseTemperature": "Sıcaklığı artır",
+  "decreaseTemperature": "Sıcaklığı azalt",
+  "viewCommandsSentToTheVehicle": "Araca gönderilen komutları görüntüle",
+  "viewSecurityEventsSeenByTheVehicle": "Araç tarafından görülen güvenlik olaylarını görüntüle",
+  "configureLocation": "Konumu yapılandır"
 }
