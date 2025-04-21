@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "降低溫度",
   "viewCommandsSentToTheVehicle": "檢視傳送至車輛的指令",
   "viewSecurityEventsSeenByTheVehicle": "檢視車輛監測到的安全事件",
-  "configureLocation": "設定位置"
+  "configureLocation": "設定位置",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "追蹤你的 Tesla 車輛需要 Tesla 的車輛位置權限。請前往 Tessie 應用程式中的「設定」>「連線」>「變更權限」來啟用。"
 }

@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Scade temperatura",
   "viewCommandsSentToTheVehicle": "Vizualizați comenzile trimise vehiculului",
   "viewSecurityEventsSeenByTheVehicle": "Vizualizați evenimentele de securitate observate de vehicul",
-  "configureLocation": "Configurați locația"
+  "configureLocation": "Configurați locația",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Permisiunea de localizare a vehiculului Tesla este necesară pentru a vă urmări vehiculul/vehiculele. Accesați Setări > Conectivitate > Modificare permisiuni în aplicația Tessie pentru a o activa."
 }

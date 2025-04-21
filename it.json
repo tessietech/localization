@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Diminuisci la temperatura",
   "viewCommandsSentToTheVehicle": "Visualizza i comandi inviati al veicolo",
   "viewSecurityEventsSeenByTheVehicle": "Visualizza gli eventi di sicurezza rilevati dal veicolo",
-  "configureLocation": "Configura posizione"
+  "configureLocation": "Configura posizione",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "L'autorizzazione \"Posizione del veicolo Tesla\" è necessaria per tracciare i tuoi veicoli. Visita Impostazioni > Connettività > Modifica autorizzazioni nell'app Tessie per abilitarla."
 }

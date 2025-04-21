@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Senk temperatur",
   "viewCommandsSentToTheVehicle": "Vis kommandoer sendt til kjøretøyet",
   "viewSecurityEventsSeenByTheVehicle": "Vis sikkerhetshendelser sett av kjøretøyet",
-  "configureLocation": "Konfigurer posisjon"
+  "configureLocation": "Konfigurer posisjon",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla sin kjøretøysplasseringstillatelse kreves for å spore kjøretøyet/kjøretøyene dine. Gå til Innstillinger > Tilkobling > Endre tillatelser i Tessie-appen for å aktivere den."
 }

@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Temperatuur verlagen",
   "viewCommandsSentToTheVehicle": "Bekijk commando's die naar het voertuig zijn gestuurd",
   "viewSecurityEventsSeenByTheVehicle": "Bekijk beveiligingsgebeurtenissen die het voertuig heeft gezien",
-  "configureLocation": "Locatie configureren"
+  "configureLocation": "Locatie configureren",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's Voertuiglocatie toestemming is vereist om uw voertuig(en) te volgen. Ga naar Instellingen > Connectiviteit > Wijzig machtigingen in de Tessie-app om dit in te schakelen."
 }

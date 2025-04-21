@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Hőmérséklet csökkentése",
   "viewCommandsSentToTheVehicle": "A járműnek küldött parancsok megtekintése",
   "viewSecurityEventsSeenByTheVehicle": "A jármű által észlelt biztonsági események megtekintése",
-  "configureLocation": "Helyszín konfigurálása"
+  "configureLocation": "Helyszín konfigurálása",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "A Tesla járművének helymeghatározási engedélye szükséges a jármű(vek) nyomon követéséhez. Látogasson el a Beállítások > Kapcsolat > Engedélyek módosítása menüpontba a Tessie alkalmazásban az engedélyezéshez."
 }

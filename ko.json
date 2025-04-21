@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "온도 낮추기",
   "viewCommandsSentToTheVehicle": "차량에 전송된 명령어 보기",
   "viewSecurityEventsSeenByTheVehicle": "차량이 감지한 보안 이벤트 보기",
-  "configureLocation": "위치 구성"
+  "configureLocation": "위치 구성",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla 차량을 추적하려면 차량 위치 권한이 필요합니다. Tessie 앱에서 설정 > 연결 > 권한 변경으로 이동하여 활성화하세요."
 }

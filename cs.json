@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Snížit teplotu",
   "viewCommandsSentToTheVehicle": "Zobrazit příkazy odeslané do vozidla",
   "viewSecurityEventsSeenByTheVehicle": "Zobrazit bezpečnostní události zaznamenané vozidlem",
-  "configureLocation": "Konfigurovat umístění"
+  "configureLocation": "Konfigurovat umístění",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Pro sledování vašeho vozidla/vozidel Tesla je vyžadováno oprávnění pro polohu vozidla Tesla. Povolte jej v aplikaci Tessie v nabídce Nastavení > Připojení > Změnit oprávnění."
 }

@@ -2511,5 +2511,6 @@
   "decreaseTemperature": "Sıcaklığı azalt",
   "viewCommandsSentToTheVehicle": "Araca gönderilen komutları görüntüle",
   "viewSecurityEventsSeenByTheVehicle": "Araç tarafından görülen güvenlik olaylarını görüntüle",
-  "configureLocation": "Konumu yapılandır"
+  "configureLocation": "Konumu yapılandır",
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla aracınızı takip etmek için Tesla'nın Araç Konumu izni gereklidir. Etkinleştirmek için Tessie uygulamasında Ayarlar > Bağlantı > İzinleri Değiştir bölümüne gidin."
 }
