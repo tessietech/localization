@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Batterijverbruik en voertuigactiviteit automatisch volgen tijdens inactiviteit",
   "bioDefense": "Bio Defense",
   "cabinProtection": "Cabinebeveiliging",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Oververhittingsbeveiliging van de cabine koelt de cabine tot 12 uur lang nadat het voertuig is verlaten",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Oververhittingsbeveiliging van de cabine koelt de cabine tot 12 uur lang nadat het voertuig is verlaten.",
   "done": "Gereed",
   "engaged": "Bezig",
   "unlockPort": "Poort ontgrendelen",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "Bekijk live rijden",
   "viewLiveIdle": "Bekijk live stationair draaien",
   "viewReleaseNotes": "Bekijk release-opmerkingen",
-  "annualSavings": "Jaarlijkse besparingen",
-  "increaseTemperature": "Temperatuur verhogen",
-  "decreaseTemperature": "Temperatuur verlagen",
-  "viewCommandsSentToTheVehicle": "Bekijk commando's die naar het voertuig zijn gestuurd",
-  "viewSecurityEventsSeenByTheVehicle": "Bekijk beveiligingsgebeurtenissen die het voertuig heeft gezien",
-  "configureLocation": "Locatie configureren"
+  "annualSavings": "Jaarlijkse besparingen"
 }

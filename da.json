@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Spor automatisk batteridræning og køretøjsaktivitet når parkeret",
   "bioDefense": "Biologisk forsvar",
   "cabinProtection": "Kabinebeskyttelse",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kabineoverophedningsbeskyttelse køler kabinen i op til 12 timer efter du har forladt køretøjet",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Kabineoverophedningsbeskyttelse køler kabinen i op til 12 timer efter du har forladt køretøjet.",
   "done": "Udført",
   "engaged": "Aktiveret",
   "unlockPort": "Lås op for port",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "Vis livekørsel",
   "viewLiveIdle": "Vis live inaktiv",
   "viewReleaseNotes": "Vis produktbemærkninger",
-  "annualSavings": "Årlige besparelser",
-  "increaseTemperature": "Forøg temperatur",
-  "decreaseTemperature": "Sænk temperatur",
-  "viewCommandsSentToTheVehicle": "Vis kommandoer, der er sendt til bilen",
-  "viewSecurityEventsSeenByTheVehicle": "Vis sikkerhedshændelser, der er set af bilen",
-  "configureLocation": "Konfigurer placering"
+  "annualSavings": "Årlige besparelser"
 }

@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Urmăriți automat consumul bateriei și activitatea vehiculului în timpul inactivității",
   "bioDefense": "Apărare biologică",
   "cabinProtection": "Protecție habitaclu",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Protecția împotriva supraîncălzirii habitaclului răcește habitaclul până la 12 ore după ieșirea din vehicul",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Protecția împotriva supraîncălzirii habitaclului răcește habitaclul până la 12 ore după ieșirea din vehicul.",
   "done": "Terminat",
   "engaged": "Legat",
   "unlockPort": "Deblocați portul",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "Vezi condusul în direct",
   "viewLiveIdle": "Vezi inactivitatea în direct",
   "viewReleaseNotes": "Vezi notele de lansare",
-  "annualSavings": "Economii anuale",
-  "increaseTemperature": "Crește temperatura",
-  "decreaseTemperature": "Scade temperatura",
-  "viewCommandsSentToTheVehicle": "Vizualizați comenzile trimise vehiculului",
-  "viewSecurityEventsSeenByTheVehicle": "Vizualizați evenimentele de securitate observate de vehicul",
-  "configureLocation": "Configurați locația"
+  "annualSavings": "Economii anuale"
 }

@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Suivi automatique de l'épuisement de la batterie et de l'activité du véhicule pendant les temps d'inactivité",
   "bioDefense": "Biodéfense",
   "cabinProtection": "Protection de l'habitacle",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "La protection contre la surchauffe de l'habitacle rafraîchit l'habitacle pendant 12 heures maximum après la sortie du véhicule",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "La protection contre la surchauffe de l'habitacle rafraîchit l'habitacle pendant 12 heures maximum après la sortie du véhicule.",
   "done": "Terminé",
   "engaged": "Activé",
   "unlockPort": "Déverrouiller la trappe",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "Voir le trajet en direct",
   "viewLiveIdle": "Voir l'inactivité en direct",
   "viewReleaseNotes": "Voir les notes de version",
-  "annualSavings": "Économies annuelles",
-  "increaseTemperature": "Augmenter la température",
-  "decreaseTemperature": "Diminuer la température",
-  "viewCommandsSentToTheVehicle": "Afficher les commandes envoyées au véhicule",
-  "viewSecurityEventsSeenByTheVehicle": "Afficher les événements de sécurité vus par le véhicule",
-  "configureLocation": "Configurer l'emplacement"
+  "annualSavings": "Économies annuelles"
 }

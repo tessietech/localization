@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "유휴 상태일 때 자동으로 배터리 소모 및 차량 활동 추적",
   "bioDefense": "생물학적 방어",
   "cabinProtection": "실내 보호",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "캐빈 과열 방지 기능은 차량 밖으로 나간 후 최대 12시간까지 캐빈을 냉방합니다",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "캐빈 과열 방지 기능은 차량 밖으로 나간 후 최대 12시간까지 캐빈을 냉방합니다.",
   "done": "완료",
   "engaged": "작동",
   "unlockPort": "포트 잠금 해제",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "실시간 주행 보기",
   "viewLiveIdle": "실시간 유휴 보기",
   "viewReleaseNotes": "릴리스 정보 보기",
-  "annualSavings": "연간 절감액",
-  "increaseTemperature": "온도 높이기",
-  "decreaseTemperature": "온도 낮추기",
-  "viewCommandsSentToTheVehicle": "차량에 전송된 명령어 보기",
-  "viewSecurityEventsSeenByTheVehicle": "차량이 감지한 보안 이벤트 보기",
-  "configureLocation": "위치 구성"
+  "annualSavings": "연간 절감액"
 }

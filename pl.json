@@ -862,7 +862,7 @@
   "efficiency": "Sprawność",
   "chargingEfficiency": "Sprawność ładowania",
   "theEnergyAddedToTheBatteryComparedToTheEnergy": "Stosunek ilości energii dodanej do akumulatora i zużytej przez ładowarkę.",
-  "totalAdded": "Łącznie dodano",
+  "totalAdded": "Dodano łącznie",
   "chargeFinished": "Ładowanie zakończone",
   "chargeInProgress": "Trwa ładowanie",
   "finished": "Zakończone",
@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Automatycznie śledź użycie akumulatora i aktywność pojazdu podczas postojów",
   "bioDefense": "Ochrona biologiczna",
   "cabinProtection": "Ochrona kabiny",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Ochrona przed przegrzaniem kabiny schładza kabinę do 12 godzin po wyjściu z pojazdu",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Ochrona przed przegrzaniem kabiny schładza kabinę do 12 godzin po wyjściu z pojazdu.",
   "done": "Gotowe",
   "engaged": "Zajęte",
   "unlockPort": "Odblokuj gniazdo",
@@ -1284,7 +1284,7 @@
   "totalCharges": "Łączna ilość ładowań",
   "theNumberOfChargesDuringThisPeriod": "Ilość ładowań w tym okresie.",
   "hourShortUnit": " h",
-  "theTotalDistanceDriven": "Łącznie przejechane.",
+  "theTotalDistanceDriven": "Przejechano łącznie.",
   "theAverageDrivingSafetyScore": "Średnia ocena bezpieczeństwa jazdy.",
   "theTotalEnergyConsumedWhileDriving": "Łączna ilość energii zużytej na jazdę.",
   "theTotalCostOfDrivingIfFuelWasUsed": "Całkowity koszt przejazdu, gdyby użyto paliwa.",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "Wyświetlaj jazdę na żywo",
   "viewLiveIdle": "Wyświetlaj stan bezczynności na żywo",
   "viewReleaseNotes": "Wyświetl informacje o wersji",
-  "annualSavings": "Roczne oszczędności",
-  "increaseTemperature": "Zwiększ temperaturę",
-  "decreaseTemperature": "Zmniejsz temperaturę",
-  "viewCommandsSentToTheVehicle": "Wyświetl polecenia wysłane do pojazdu",
-  "viewSecurityEventsSeenByTheVehicle": "Wyświetl zdarzenia związane z bezpieczeństwem zarejestrowane przez pojazd",
-  "configureLocation": "Skonfiguruj lokalizację"
+  "annualSavings": "Roczne oszczędności"
 }

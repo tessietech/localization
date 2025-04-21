@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Automaticky sledovat vybíjení baterie a aktivitu vozidla během stání",
   "bioDefense": "Biologická obrana",
   "cabinProtection": "Ochrana kabiny",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Ochrana proti přehřátí kabiny ochlazuje kabinu až 12 hodin po opuštění vozidla",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Ochrana proti přehřátí kabiny ochlazuje kabinu až 12 hodin po opuštění vozidla.",
   "done": "Hotovo",
   "engaged": "Aktivováno",
   "unlockPort": "Odemknout port",
@@ -2506,10 +2506,5 @@
   "viewLiveDrive": "Zobrazit jízdu v reálném čase",
   "viewLiveIdle": "Zobrazit nečinnost v reálném čase",
   "viewReleaseNotes": "Zobrazit poznámky k verzi",
-  "annualSavings": "Roční úspory",
-  "increaseTemperature": "Zvýšit teplotu",
-  "decreaseTemperature": "Snížit teplotu",
-  "viewCommandsSentToTheVehicle": "Zobrazit příkazy odeslané do vozidla",
-  "viewSecurityEventsSeenByTheVehicle": "Zobrazit bezpečnostní události zaznamenané vozidlem",
-  "configureLocation": "Konfigurovat umístění"
+  "annualSavings": "Roční úspory"
 }
