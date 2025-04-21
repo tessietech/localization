@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "在閒置時自動追蹤電池消耗量和車輛活動",
   "bioDefense": "生物防禦",
   "cabinProtection": "車室防護",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "車室過熱防護功能會在您離開車輛後將車室冷卻長達 12 小時。",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "車室過熱防護功能會在您離開車輛後將車室冷卻長達 12 小時",
   "done": "完成",
   "engaged": "已啟動",
   "unlockPort": "解鎖充電埠",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "檢視即時駕駛",
   "viewLiveIdle": "檢視即時閒置",
   "viewReleaseNotes": "檢視版本說明",
-  "annualSavings": "年度節省"
+  "annualSavings": "年度節省",
+  "increaseTemperature": "提高溫度",
+  "decreaseTemperature": "降低溫度",
+  "viewCommandsSentToTheVehicle": "檢視傳送至車輛的指令",
+  "viewSecurityEventsSeenByTheVehicle": "檢視車輛監測到的安全事件",
+  "configureLocation": "設定位置"
 }

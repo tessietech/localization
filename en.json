@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Automatically track battery drain and vehicle activity while idle",
   "bioDefense": "Bio Defense",
   "cabinProtection": "Cabin Protection",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Cabin Overheat Protection cools the cabin for up to 12 hours after exiting the vehicle.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Cabin Overheat Protection cools the cabin for up to 12 hours after exiting the vehicle",
   "done": "Done",
   "engaged": "Engaged",
   "unlockPort": "Unlock port",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "View live drive",
   "viewLiveIdle": "View live idle",
   "viewReleaseNotes": "View release notes",
-  "annualSavings": "Annual savings"
+  "annualSavings": "Annual savings",
+  "increaseTemperature": "Increase temperature",
+  "decreaseTemperature": "Decrease temperature",
+  "viewCommandsSentToTheVehicle": "View commands sent to the vehicle",
+  "viewSecurityEventsSeenByTheVehicle": "View security events seen by the vehicle",
+  "configureLocation": "Configure location"
 }

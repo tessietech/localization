@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Realiza un seguimiento automático del consumo de la batería y la actividad del vehículo durante la inactividad",
   "bioDefense": "Biodefensa",
   "cabinProtection": "Protección del habitáculo",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "La protección contra el sobrecalentamiento del habitáculo enfría el habitáculo hasta 12 horas tras salir del vehículo.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "La protección contra el sobrecalentamiento del habitáculo enfría el habitáculo hasta 12 horas tras salir del vehículo",
   "done": "Hecho",
   "engaged": "Activado",
   "unlockPort": "Desbloquear puerto",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "Ver conducción en directo",
   "viewLiveIdle": "Ver inactividad en directo",
   "viewReleaseNotes": "Ver notas de la versión",
-  "annualSavings": "Ahorros anuales anuales"
+  "annualSavings": "Ahorros anuales anuales",
+  "increaseTemperature": "Aumentar la temperatura",
+  "decreaseTemperature": "Disminuir la temperatura",
+  "viewCommandsSentToTheVehicle": "Ver comandos enviados al vehículo",
+  "viewSecurityEventsSeenByTheVehicle": "Ver eventos de seguridad detectados por el vehículo",
+  "configureLocation": "Configurar ubicación"
 }

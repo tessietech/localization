@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "Automatikusan nyomon követheti az akkumulátor lemerülését és a jármű tevékenységét üresjáratban",
   "bioDefense": "Bio Defense",
   "cabinProtection": "Utastér védelme",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Az utastér túlmelegedés elleni védelem 12 órán keresztül hűti az utasteret a járműből való kiszállás után.",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "Az utastér túlmelegedés elleni védelem 12 órán keresztül hűti az utasteret a járműből való kiszállás után",
   "done": "Kész",
   "engaged": "Elkötelezett",
   "unlockPort": "Port feloldása",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "Élő vezetés megtekintése",
   "viewLiveIdle": "Élő alapjárat megtekintése",
   "viewReleaseNotes": "Kiadási megjegyzések megtekintése",
-  "annualSavings": "Éves megtakarítás"
+  "annualSavings": "Éves megtakarítás",
+  "increaseTemperature": "Hőmérséklet növelése",
+  "decreaseTemperature": "Hőmérséklet csökkentése",
+  "viewCommandsSentToTheVehicle": "A járműnek küldött parancsok megtekintése",
+  "viewSecurityEventsSeenByTheVehicle": "A jármű által észlelt biztonsági események megtekintése",
+  "configureLocation": "Helyszín konfigurálása"
 }

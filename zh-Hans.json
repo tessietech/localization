@@ -1097,7 +1097,7 @@
   "automaticallyTrackBatteryDrainAndVehicleActivityWhileIdle": "空闲时自动追踪电池消耗和车辆活动",
   "bioDefense": "生物防御",
   "cabinProtection": "座舱保护",
-  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "座舱过热保护可在离开车辆后长达 12 小时内为座舱降温。",
+  "cabinOverheatProtectionCoolsTheCabinForUpTo12": "座舱过热保护可在离开车辆后长达 12 小时内为座舱降温",
   "done": "完成",
   "engaged": "已启动",
   "unlockPort": "解锁端口",
@@ -2506,5 +2506,10 @@
   "viewLiveDrive": "查看实时驾驶",
   "viewLiveIdle": "查看实时待机",
   "viewReleaseNotes": "查看发行说明",
-  "annualSavings": "年度节省"
+  "annualSavings": "年度节省",
+  "increaseTemperature": "升高温度",
+  "decreaseTemperature": "降低温度",
+  "viewCommandsSentToTheVehicle": "查看已发送至车辆的指令",
+  "viewSecurityEventsSeenByTheVehicle": "查看车辆已检测到的安全事件",
+  "configureLocation": "配置位置"
 }
