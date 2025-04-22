@@ -2512,5 +2512,6 @@
   "viewCommandsSentToTheVehicle": "檢視傳送至車輛的指令",
   "viewSecurityEventsSeenByTheVehicle": "檢視車輛監測到的安全事件",
   "configureLocation": "設定位置",
-  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "追蹤你的 Tesla 車輛需要 Tesla 的車輛位置權限。請前往 Tessie 應用程式中的「設定」>「連線」>「變更權限」來啟用。"
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "追蹤你的 Tesla 車輛需要 Tesla 的車輛位置權限。請前往 Tessie 應用程式中的「設定」>「連線」>「變更權限」來啟用。",
+  "teslaVehicleLocationPermissionDeadline": "如果未在 2025 年 5 月 1 日之前完成，Tesla 將會停用您車輛的追蹤功能。"
 }

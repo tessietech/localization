@@ -2512,5 +2512,6 @@
   "viewCommandsSentToTheVehicle": "Befehle anzeigen, die an das Fahrzeug gesendet wurden",
   "viewSecurityEventsSeenByTheVehicle": "Sicherheitsereignisse anzeigen, die vom Fahrzeug erkannt wurden",
   "configureLocation": "Standort konfigurieren",
-  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Die Standortberechtigung für das Tesla-Fahrzeug ist erforderlich, um Ihr/e Fahrzeug/e zu verfolgen. Gehen Sie in der Tessie-App zu Einstellungen > Konnektivität > Berechtigungen ändern, um sie zu aktivieren."
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Die Standortberechtigung für das Tesla-Fahrzeug ist erforderlich, um Ihr/e Fahrzeug/e zu verfolgen. Gehen Sie in der Tessie-App zu Einstellungen > Konnektivität > Berechtigungen ändern, um sie zu aktivieren.",
+  "teslaVehicleLocationPermissionDeadline": "Wenn dies nicht vor dem 1. Mai 2025 geschieht, deaktiviert Tesla die Ortung Ihres/Ihrer Fahrzeuge(s)."
 }

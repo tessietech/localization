@@ -2512,5 +2512,6 @@
   "viewCommandsSentToTheVehicle": "Vizualizați comenzile trimise vehiculului",
   "viewSecurityEventsSeenByTheVehicle": "Vizualizați evenimentele de securitate observate de vehicul",
   "configureLocation": "Configurați locația",
-  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Permisiunea de localizare a vehiculului Tesla este necesară pentru a vă urmări vehiculul/vehiculele. Accesați Setări > Conectivitate > Modificare permisiuni în aplicația Tessie pentru a o activa."
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Permisiunea de localizare a vehiculului Tesla este necesară pentru a vă urmări vehiculul/vehiculele. Accesați Setări > Conectivitate > Modificare permisiuni în aplicația Tessie pentru a o activa.",
+  "teslaVehicleLocationPermissionDeadline": "În caz contrar, înainte de 1 mai 2025, Tesla va dezactiva urmărirea pe vehiculul/vehiculele dvs."
 }

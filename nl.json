@@ -2512,5 +2512,6 @@
   "viewCommandsSentToTheVehicle": "Bekijk commando's die naar het voertuig zijn gestuurd",
   "viewSecurityEventsSeenByTheVehicle": "Bekijk beveiligingsgebeurtenissen die het voertuig heeft gezien",
   "configureLocation": "Locatie configureren",
-  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's Voertuiglocatie toestemming is vereist om uw voertuig(en) te volgen. Ga naar Instellingen > Connectiviteit > Wijzig machtigingen in de Tessie-app om dit in te schakelen."
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's Voertuiglocatie toestemming is vereist om uw voertuig(en) te volgen. Ga naar Instellingen > Connectiviteit > Wijzig machtigingen in de Tessie-app om dit in te schakelen.",
+  "teslaVehicleLocationPermissionDeadline": "Als dit niet vóór 1 mei 2025 gebeurt, zal Tesla het volgen van uw voertuig(en) uitschakelen."
 }

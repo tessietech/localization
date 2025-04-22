@@ -2512,5 +2512,6 @@
   "viewCommandsSentToTheVehicle": "View commands sent to the vehicle",
   "viewSecurityEventsSeenByTheVehicle": "View security events seen by the vehicle",
   "configureLocation": "Configure location",
-  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's Vehicle Location permission is required to track your vehicle(s). Visit Settings > Connectivity > Change Permissions in the Tessie app to enable it."
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's Vehicle Location permission is required to track your vehicle(s). Visit Settings > Connectivity > Change Permissions in the Tessie app to enable it.",
+  "teslaVehicleLocationPermissionDeadline": "Failure to do so before May 1, 2025, will result in Tesla disabling tracking on your vehicle(s)."
 }

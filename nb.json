@@ -2512,5 +2512,6 @@
   "viewCommandsSentToTheVehicle": "Vis kommandoer sendt til kjøretøyet",
   "viewSecurityEventsSeenByTheVehicle": "Vis sikkerhetshendelser sett av kjøretøyet",
   "configureLocation": "Konfigurer posisjon",
-  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla sin kjøretøysplasseringstillatelse kreves for å spore kjøretøyet/kjøretøyene dine. Gå til Innstillinger > Tilkobling > Endre tillatelser i Tessie-appen for å aktivere den."
+  "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla sin kjøretøysplasseringstillatelse kreves for å spore kjøretøyet/kjøretøyene dine. Gå til Innstillinger > Tilkobling > Endre tillatelser i Tessie-appen for å aktivere den.",
+  "teslaVehicleLocationPermissionDeadline": "Unnlatelse av å gjøre dette før 1. mai 2025 vil føre til at Tesla deaktiverer sporing på dine kjøretøy."
 }
