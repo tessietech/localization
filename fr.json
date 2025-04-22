@@ -2513,5 +2513,5 @@
   "viewSecurityEventsSeenByTheVehicle": "Afficher les événements de sécurité vus par le véhicule",
   "configureLocation": "Configurer l'emplacement",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "L'autorisation de localisation du véhicule Tesla est requise pour suivre votre (vos) véhicule(s). Allez dans Réglages > Connectivité > Modifier les autorisations dans l'application Tessie pour l'activer.",
-  "teslaVehicleLocationPermissionDeadline": "Le non-respect de cette consigne avant le 1er mai 2025 entraînera la désactivation du suivi de votre ou vos véhicules Tesla."
+  "teslaVehicleLocationPermissionDeadline": "Ne pas le faire avant le 1er mai 2025 entraînera la désactivation du suivi de votre (vos) véhicule(s) Tesla."
 }

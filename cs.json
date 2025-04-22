@@ -2513,5 +2513,5 @@
   "viewSecurityEventsSeenByTheVehicle": "Zobrazit bezpečnostní události zaznamenané vozidlem",
   "configureLocation": "Konfigurovat umístění",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Pro sledování vašeho vozidla/vozidel Tesla je vyžadováno oprávnění pro polohu vozidla Tesla. Povolte jej v aplikaci Tessie v nabídce Nastavení > Připojení > Změnit oprávnění.",
-  "teslaVehicleLocationPermissionDeadline": "Pokud tak neučiníte do 1. května 2025, společnost Tesla deaktivuje sledování vašeho vozidla/vašich vozidel."
+  "teslaVehicleLocationPermissionDeadline": "Pokud tak neučiníte do 1. května 2025, společnost Tesla na vašem vozidle (vozidlech) zakáže sledování polohy."
 }
