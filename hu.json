@@ -2513,5 +2513,9 @@
   "viewSecurityEventsSeenByTheVehicle": "A jármű által észlelt biztonsági események megtekintése",
   "configureLocation": "Helyszín konfigurálása",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "A Tesla járművének helymeghatározási engedélye szükséges a jármű(vek) nyomon követéséhez. Látogasson el a Beállítások > Kapcsolat > Engedélyek módosítása menüpontba a Tessie alkalmazásban az engedélyezéshez.",
-  "teslaVehicleLocationPermissionDeadline": "Ennek elmulasztása 2025. május 1. előtt azt eredményezi, hogy a Tesla letiltja a jármű(vei) nyomon követését."
+  "teslaVehicleLocationPermissionDeadline": "Ennek elmulasztása 2025. május 1. előtt azt eredményezi, hogy a Tesla letiltja a jármű(vei) nyomon követését.",
+  "harsherRideAndWear": "Durvább utazás és kopás",
+  "dangerous": "Veszélyes",
+  "reducedHandlingAndEfficiency": "Csökkentett kezelhetőség és hatékonyság",
+  "toggle": "Váltás"
 }

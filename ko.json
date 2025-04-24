@@ -2513,5 +2513,9 @@
   "viewSecurityEventsSeenByTheVehicle": "차량이 감지한 보안 이벤트 보기",
   "configureLocation": "위치 구성",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla 차량을 추적하려면 차량 위치 권한이 필요합니다. Tessie 앱에서 설정 > 연결 > 권한 변경으로 이동하여 활성화하세요.",
-  "teslaVehicleLocationPermissionDeadline": "2025년 5월 1일 전에 조치를 취하지 않으면 Tesla에서 차량 추적 기능이 중단됩니다."
+  "teslaVehicleLocationPermissionDeadline": "2025년 5월 1일 전에 조치를 취하지 않으면 Tesla에서 차량 추적 기능이 중단됩니다.",
+  "harsherRideAndWear": "승차감 및 마모 심화",
+  "dangerous": "위험",
+  "reducedHandlingAndEfficiency": "핸들링 및 효율성 저하",
+  "toggle": "전환"
 }

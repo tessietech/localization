@@ -2513,5 +2513,9 @@
   "viewSecurityEventsSeenByTheVehicle": "Araç tarafından görülen güvenlik olaylarını görüntüle",
   "configureLocation": "Konumu yapılandır",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla aracınızı takip etmek için Tesla'nın Araç Konumu izni gereklidir. Etkinleştirmek için Tessie uygulamasında Ayarlar > Bağlantı > İzinleri Değiştir bölümüne gidin.",
-  "teslaVehicleLocationPermissionDeadline": "1 Mayıs 2025'ten önce yapılmaması Tesla'nın aracınızdaki/araçlarınızdaki takibi devre dışı bırakmasına neden olacaktır."
+  "teslaVehicleLocationPermissionDeadline": "1 Mayıs 2025'ten önce yapılmaması Tesla'nın aracınızdaki/araçlarınızdaki takibi devre dışı bırakmasına neden olacaktır.",
+  "harsherRideAndWear": "Daha sert sürüş ve aşınma",
+  "dangerous": "Tehlikeli",
+  "reducedHandlingAndEfficiency": "Azaltılmış yol tutuşu ve verimlilik",
+  "toggle": "Aç/Kapa"
 }

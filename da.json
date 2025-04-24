@@ -2513,5 +2513,9 @@
   "viewSecurityEventsSeenByTheVehicle": "Vis sikkerhedshændelser, der er set af bilen",
   "configureLocation": "Konfigurer placering",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's køretøjslokations tilladelse er påkrævet for at spore dit/dine køretøj(er). Besøg Indstillinger > Forbindelse > Rediger tilladelser i Tessie-appen for at aktivere den.",
-  "teslaVehicleLocationPermissionDeadline": "Hvis du ikke gør det inden den 1. maj 2025, vil Tesla deaktivere sporing på dit/dine køretøj(er)."
+  "teslaVehicleLocationPermissionDeadline": "Hvis du ikke gør det inden den 1. maj 2025, vil Tesla deaktivere sporing på dit/dine køretøj(er).",
+  "harsherRideAndWear": "Hårdere kørsel og slitage",
+  "dangerous": "Farlig",
+  "reducedHandlingAndEfficiency": "Reduceret håndtering og effektivitet",
+  "toggle": "Slå til/fra"
 }
