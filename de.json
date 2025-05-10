@@ -2518,5 +2518,9 @@
   "dangerous": "Gefährlich",
   "reducedHandlingAndEfficiency": "Reduziertes Handling und Effizienz",
   "toggle": "Umschalten",
-  "recommendedColdPressure": "Empfohlener Kaltluftdruck"
+  "recommendedColdPressure": "Empfohlener Kaltluftdruck",
+  "enableDataLogging": "Datenprotokollierung aktivieren",
+  "disableDataLogging": "Datenprotokollierung deaktivieren",
+  "vehicleActivityWillNoLongerBeLogged": "Fahrzeugaktivitäten werden nicht mehr protokolliert.",
+  "dataLoggingDisabled": "Datenprotokollierung deaktiviert"
 }

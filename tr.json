@@ -2518,5 +2518,9 @@
   "dangerous": "Tehlikeli",
   "reducedHandlingAndEfficiency": "Azaltılmış yol tutuşu ve verimlilik",
   "toggle": "Aç/Kapa",
-  "recommendedColdPressure": "Önerilen soğuk basınç"
+  "recommendedColdPressure": "Önerilen soğuk basınç",
+  "enableDataLogging": "Veri kaydını etkinleştir",
+  "disableDataLogging": "Veri kaydını devre dışı bırak",
+  "vehicleActivityWillNoLongerBeLogged": "Araç etkinliği artık kaydedilmeyecek.",
+  "dataLoggingDisabled": "Veri günlüğü devre dışı"
 }

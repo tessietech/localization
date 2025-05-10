@@ -2518,5 +2518,9 @@
   "dangerous": "Farlig",
   "reducedHandlingAndEfficiency": "Reduceret håndtering og effektivitet",
   "toggle": "Slå til/fra",
-  "recommendedColdPressure": "Anbefalet koldtryk"
+  "recommendedColdPressure": "Anbefalet koldtryk",
+  "enableDataLogging": "Aktiver datalogning",
+  "disableDataLogging": "Deaktiver datalogning",
+  "vehicleActivityWillNoLongerBeLogged": "Køretøjets aktivitet logges ikke længere.",
+  "dataLoggingDisabled": "Datalogning deaktiveret"
 }

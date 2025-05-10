@@ -2518,5 +2518,9 @@
   "dangerous": "Gevaarlijk",
   "reducedHandlingAndEfficiency": "Verminderde handling en efficiëntie",
   "toggle": "Schakelen",
-  "recommendedColdPressure": "Aanbevolen koude druk"
+  "recommendedColdPressure": "Aanbevolen koude druk",
+  "enableDataLogging": "Dataregistratie inschakelen",
+  "disableDataLogging": "Dataregistratie uitschakelen",
+  "vehicleActivityWillNoLongerBeLogged": "Voertuigactiviteit wordt niet langer geregistreerd.",
+  "dataLoggingDisabled": "Gegevensregistratie is uitgeschakeld"
 }

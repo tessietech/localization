@@ -2518,5 +2518,9 @@
   "dangerous": "Niebezpieczne",
   "reducedHandlingAndEfficiency": "Zmniejszona przyczepność i wydajność",
   "toggle": "Przełącz",
-  "recommendedColdPressure": "Zalecane ciśnienie na zimno"
+  "recommendedColdPressure": "Zalecane ciśnienie na zimno",
+  "enableDataLogging": "Włącz rejestrowanie danych",
+  "disableDataLogging": "Wyłącz rejestrowanie danych",
+  "vehicleActivityWillNoLongerBeLogged": "Aktywność pojazdu nie będzie już rejestrowana.",
+  "dataLoggingDisabled": "Rejestrowanie danych wyłączone"
 }

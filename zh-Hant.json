@@ -2518,5 +2518,9 @@
   "dangerous": "危險",
   "reducedHandlingAndEfficiency": "操控性和效率降低",
   "toggle": "切換",
-  "recommendedColdPressure": "建議冷胎壓"
+  "recommendedColdPressure": "建議冷胎壓",
+  "enableDataLogging": "啟用資料記錄",
+  "disableDataLogging": "停用資料記錄",
+  "vehicleActivityWillNoLongerBeLogged": "車輛活動將不再被記錄。",
+  "dataLoggingDisabled": "已停用數據記錄"
 }

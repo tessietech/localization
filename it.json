@@ -2518,5 +2518,9 @@
   "dangerous": "Pericoloso",
   "reducedHandlingAndEfficiency": "Maneggevolezza ed efficienza ridotte",
   "toggle": "Attiva/Disattiva",
-  "recommendedColdPressure": "Pressione a freddo raccomandata"
+  "recommendedColdPressure": "Pressione a freddo raccomandata",
+  "enableDataLogging": "Abilita la registrazione dei dati",
+  "disableDataLogging": "Disabilita la registrazione dei dati",
+  "vehicleActivityWillNoLongerBeLogged": "L'attività del veicolo non verrà più registrata.",
+  "dataLoggingDisabled": "Registrazione dati disabilitata"
 }

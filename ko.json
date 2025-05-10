@@ -2518,5 +2518,9 @@
   "dangerous": "위험",
   "reducedHandlingAndEfficiency": "핸들링 및 효율성 저하",
   "toggle": "전환",
-  "recommendedColdPressure": "권장 냉간 공기압"
+  "recommendedColdPressure": "권장 냉간 공기압",
+  "enableDataLogging": "데이터 로깅 활성화",
+  "disableDataLogging": "데이터 로깅 비활성화",
+  "vehicleActivityWillNoLongerBeLogged": "차량 활동이 더 이상 기록되지 않습니다.",
+  "dataLoggingDisabled": "데이터 로깅 비활성화됨"
 }

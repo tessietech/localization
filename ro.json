@@ -2518,5 +2518,9 @@
   "dangerous": "Periculos",
   "reducedHandlingAndEfficiency": "Manevrabilitate și eficiență reduse",
   "toggle": "Comutare",
-  "recommendedColdPressure": "Presiune la rece recomandată"
+  "recommendedColdPressure": "Presiune la rece recomandată",
+  "enableDataLogging": "Activează înregistrarea datelor",
+  "disableDataLogging": "Dezactivează înregistrarea datelor",
+  "vehicleActivityWillNoLongerBeLogged": "Activitatea vehiculului nu va mai fi înregistrată.",
+  "dataLoggingDisabled": "Înregistrarea datelor este dezactivată"
 }

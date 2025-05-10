@@ -2518,5 +2518,9 @@
   "dangerous": "Nebezpečné",
   "reducedHandlingAndEfficiency": "Snížená ovladatelnost a účinnost",
   "toggle": "Přepínač",
-  "recommendedColdPressure": "Doporučený tlak za studena"
+  "recommendedColdPressure": "Doporučený tlak za studena",
+  "enableDataLogging": "Povolit protokolování dat",
+  "disableDataLogging": "Zakázat protokolování dat",
+  "vehicleActivityWillNoLongerBeLogged": "Aktivita vozidla již nebude protokolována.",
+  "dataLoggingDisabled": "Záznam dat je vypnutý"
 }

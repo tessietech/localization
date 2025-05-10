@@ -2518,5 +2518,9 @@
   "dangerous": "Dangerous",
   "reducedHandlingAndEfficiency": "Reduced handling and efficiency",
   "toggle": "Toggle",
-  "recommendedColdPressure": "Recommended cold pressure"
+  "recommendedColdPressure": "Recommended cold pressure",
+  "enableDataLogging": "Enable data logging",
+  "disableDataLogging": "Disable data logging",
+  "vehicleActivityWillNoLongerBeLogged": "Vehicle activity will no longer be logged.",
+  "dataLoggingDisabled": "Data logging disabled"
 }

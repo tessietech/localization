@@ -2518,5 +2518,9 @@
   "dangerous": "Vaarallinen",
   "reducedHandlingAndEfficiency": "Heikentynyt käsiteltävyys ja tehokkuus",
   "toggle": "Vaihda",
-  "recommendedColdPressure": "Suositeltu kylmäpaine"
+  "recommendedColdPressure": "Suositeltu kylmäpaine",
+  "enableDataLogging": "Ota käyttöön datan kirjaaminen",
+  "disableDataLogging": "Poista datan kirjaaminen käytöstä",
+  "vehicleActivityWillNoLongerBeLogged": "Ajoneuvon toimintaa ei enää kirjata.",
+  "dataLoggingDisabled": "Tietojen kirjaaminen on poistettu käytöstä"
 }

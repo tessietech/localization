@@ -2518,5 +2518,9 @@
   "dangerous": "Veszélyes",
   "reducedHandlingAndEfficiency": "Csökkentett kezelhetőség és hatékonyság",
   "toggle": "Váltás",
-  "recommendedColdPressure": "Ajánlott hideg nyomás"
+  "recommendedColdPressure": "Ajánlott hideg nyomás",
+  "enableDataLogging": "Adatnaplózás engedélyezése",
+  "disableDataLogging": "Adatnaplózás letiltása",
+  "vehicleActivityWillNoLongerBeLogged": "A járműtevékenység többé nem lesz naplózva.",
+  "dataLoggingDisabled": "Az adatnaplózás le van tiltva"
 }
