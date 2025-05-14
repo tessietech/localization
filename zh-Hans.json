@@ -2522,5 +2522,15 @@
   "enableDataLogging": "启用数据记录",
   "disableDataLogging": "禁用数据记录",
   "vehicleActivityWillNoLongerBeLogged": "车辆活动将不再被记录。",
-  "dataLoggingDisabled": "数据记录已禁用"
+  "dataLoggingDisabled": "数据记录已禁用",
+  "impact": "影响",
+  "cause": "原因",
+  "clearCondition": "清除条件",
+  "liveIncidenceRate": "实时发生率",
+  "vehicleMessages": "车辆消息",
+  "models": "车型",
+  "common": "常见",
+  "extremelyRare": "极其罕见",
+  "rare": "罕见",
+  "uncommon": "不常见"
 }

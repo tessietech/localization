@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Aktiver datalogging",
   "disableDataLogging": "Deaktiver datalogging",
   "vehicleActivityWillNoLongerBeLogged": "Kjøretøyaktivitet vil ikke lenger bli logget.",
-  "dataLoggingDisabled": "Datalagring deaktivert"
+  "dataLoggingDisabled": "Datalagring deaktivert",
+  "impact": "Virkning",
+  "cause": "Årsak",
+  "clearCondition": "Fjern tilstand",
+  "liveIncidenceRate": "Direkte forekomstfrekvens",
+  "vehicleMessages": "Kjøretøymeldinger",
+  "models": "Modeller",
+  "common": "Vanlig",
+  "extremelyRare": "Ekstremt sjelden",
+  "rare": "Sjelden",
+  "uncommon": "Uvanlig"
 }

@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Aktiver datalogning",
   "disableDataLogging": "Deaktiver datalogning",
   "vehicleActivityWillNoLongerBeLogged": "Køretøjets aktivitet logges ikke længere.",
-  "dataLoggingDisabled": "Datalogning deaktiveret"
+  "dataLoggingDisabled": "Datalogning deaktiveret",
+  "impact": "Indvirkning",
+  "cause": "Årsag",
+  "clearCondition": "Ryd betingelse",
+  "liveIncidenceRate": "Live forekomstfrekvens",
+  "vehicleMessages": "Køretøjsmeddelelser",
+  "models": "Modeller",
+  "common": "Almindelig",
+  "extremelyRare": "Yderst sjælden",
+  "rare": "Sjælden",
+  "uncommon": "Ualmindelig"
 }

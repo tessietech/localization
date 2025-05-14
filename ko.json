@@ -2522,5 +2522,15 @@
   "enableDataLogging": "데이터 로깅 활성화",
   "disableDataLogging": "데이터 로깅 비활성화",
   "vehicleActivityWillNoLongerBeLogged": "차량 활동이 더 이상 기록되지 않습니다.",
-  "dataLoggingDisabled": "데이터 로깅 비활성화됨"
+  "dataLoggingDisabled": "데이터 로깅 비활성화됨",
+  "impact": "영향",
+  "cause": "원인",
+  "clearCondition": "해제 조건",
+  "liveIncidenceRate": "실시간 발생률",
+  "vehicleMessages": "차량 메시지",
+  "models": "모델",
+  "common": "일반",
+  "extremelyRare": "매우 드묾",
+  "rare": "드묾",
+  "uncommon": "흔하지 않음"
 }

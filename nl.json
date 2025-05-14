@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Dataregistratie inschakelen",
   "disableDataLogging": "Dataregistratie uitschakelen",
   "vehicleActivityWillNoLongerBeLogged": "Voertuigactiviteit wordt niet langer geregistreerd.",
-  "dataLoggingDisabled": "Gegevensregistratie is uitgeschakeld"
+  "dataLoggingDisabled": "Gegevensregistratie is uitgeschakeld",
+  "impact": "Impact",
+  "cause": "Oorzaak",
+  "clearCondition": "Voorwaarde wissen",
+  "liveIncidenceRate": "Live incidentiepercentage",
+  "vehicleMessages": "Voertuigberichten",
+  "models": "Modellen",
+  "common": "Gemeenschappelijk",
+  "extremelyRare": "Uiterst zeldzaam",
+  "rare": "Zeldzaam",
+  "uncommon": "Niet gebruikelijk"
 }

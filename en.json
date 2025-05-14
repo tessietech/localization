@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Enable data logging",
   "disableDataLogging": "Disable data logging",
   "vehicleActivityWillNoLongerBeLogged": "Vehicle activity will no longer be logged.",
-  "dataLoggingDisabled": "Data logging disabled"
+  "dataLoggingDisabled": "Data logging disabled",
+  "impact": "Impact",
+  "cause": "Cause",
+  "clearCondition": "Clear condition",
+  "liveIncidenceRate": "Live incidence rate",
+  "vehicleMessages": "Vehicle messages",
+  "models": "Models",
+  "common": "Common",
+  "extremelyRare": "Extremely rare",
+  "rare": "Rare",
+  "uncommon": "Uncommon"
 }

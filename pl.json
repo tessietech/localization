@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Włącz rejestrowanie danych",
   "disableDataLogging": "Wyłącz rejestrowanie danych",
   "vehicleActivityWillNoLongerBeLogged": "Aktywność pojazdu nie będzie już rejestrowana.",
-  "dataLoggingDisabled": "Rejestrowanie danych wyłączone"
+  "dataLoggingDisabled": "Rejestrowanie danych wyłączone",
+  "impact": "Wpływ",
+  "cause": "Powód",
+  "clearCondition": "Wyczyść warunek",
+  "liveIncidenceRate": "Bieżący współczynnik zachorowalności",
+  "vehicleMessages": "Wiadomości pojazdu",
+  "models": "Modele",
+  "common": "Powszechne",
+  "extremelyRare": "Niezwykle rzadkie",
+  "rare": "Rzadkie",
+  "uncommon": "Niezbyt częste"
 }

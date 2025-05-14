@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Veri kaydını etkinleştir",
   "disableDataLogging": "Veri kaydını devre dışı bırak",
   "vehicleActivityWillNoLongerBeLogged": "Araç etkinliği artık kaydedilmeyecek.",
-  "dataLoggingDisabled": "Veri günlüğü devre dışı"
+  "dataLoggingDisabled": "Veri günlüğü devre dışı",
+  "impact": "Etki",
+  "cause": "Neden",
+  "clearCondition": "Temiz koşul",
+  "liveIncidenceRate": "Canlı görülme sıklığı",
+  "vehicleMessages": "Araç mesajları",
+  "models": "Modeller",
+  "common": "Yaygın",
+  "extremelyRare": "Son derece nadir",
+  "rare": "Nadir",
+  "uncommon": "Yaygın olmayan"
 }

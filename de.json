@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Datenprotokollierung aktivieren",
   "disableDataLogging": "Datenprotokollierung deaktivieren",
   "vehicleActivityWillNoLongerBeLogged": "Fahrzeugaktivitäten werden nicht mehr protokolliert.",
-  "dataLoggingDisabled": "Datenprotokollierung deaktiviert"
+  "dataLoggingDisabled": "Datenprotokollierung deaktiviert",
+  "impact": "Auswirkung",
+  "cause": "Ursache",
+  "clearCondition": "Bedingung zurücksetzen",
+  "liveIncidenceRate": "Aktuelle Inzidenzrate",
+  "vehicleMessages": "Fahrzeugmeldungen",
+  "models": "Modelle",
+  "common": "Häufig",
+  "extremelyRare": "Extrem selten",
+  "rare": "Selten",
+  "uncommon": "Ungewöhnlich"
 }

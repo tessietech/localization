@@ -2522,5 +2522,15 @@
   "enableDataLogging": "啟用資料記錄",
   "disableDataLogging": "停用資料記錄",
   "vehicleActivityWillNoLongerBeLogged": "車輛活動將不再被記錄。",
-  "dataLoggingDisabled": "已停用數據記錄"
+  "dataLoggingDisabled": "已停用數據記錄",
+  "impact": "影響",
+  "cause": "起因",
+  "clearCondition": "清除條件",
+  "liveIncidenceRate": "即時發生率",
+  "vehicleMessages": "車輛訊息",
+  "models": "型號",
+  "common": "常見",
+  "extremelyRare": "極其罕見",
+  "rare": "罕見",
+  "uncommon": "不常見"
 }

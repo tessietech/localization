@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Povolit protokolování dat",
   "disableDataLogging": "Zakázat protokolování dat",
   "vehicleActivityWillNoLongerBeLogged": "Aktivita vozidla již nebude protokolována.",
-  "dataLoggingDisabled": "Záznam dat je vypnutý"
+  "dataLoggingDisabled": "Záznam dat je vypnutý",
+  "impact": "Dopad",
+  "cause": "Příčina",
+  "clearCondition": "Podmínka vymazání",
+  "liveIncidenceRate": "Aktuální míra výskytu",
+  "vehicleMessages": "Zprávy vozidla",
+  "models": "Modely",
+  "common": "Běžné",
+  "extremelyRare": "Extrémně vzácné",
+  "rare": "Vzácné",
+  "uncommon": "Neobvyklé"
 }

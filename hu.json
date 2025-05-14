@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Adatnaplózás engedélyezése",
   "disableDataLogging": "Adatnaplózás letiltása",
   "vehicleActivityWillNoLongerBeLogged": "A járműtevékenység többé nem lesz naplózva.",
-  "dataLoggingDisabled": "Az adatnaplózás le van tiltva"
+  "dataLoggingDisabled": "Az adatnaplózás le van tiltva",
+  "impact": "Hatás",
+  "cause": "Ok",
+  "clearCondition": "Feltétel törlése",
+  "liveIncidenceRate": "Élő előfordulási arány",
+  "vehicleMessages": "Járműüzenetek",
+  "models": "Modellek",
+  "common": "Gyakori",
+  "extremelyRare": "Rendkívül ritka",
+  "rare": "Ritka",
+  "uncommon": "Nem gyakori"
 }

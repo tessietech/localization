@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Activează înregistrarea datelor",
   "disableDataLogging": "Dezactivează înregistrarea datelor",
   "vehicleActivityWillNoLongerBeLogged": "Activitatea vehiculului nu va mai fi înregistrată.",
-  "dataLoggingDisabled": "Înregistrarea datelor este dezactivată"
+  "dataLoggingDisabled": "Înregistrarea datelor este dezactivată",
+  "impact": "Impact",
+  "cause": "Cauză",
+  "clearCondition": "Condiție de eliminare",
+  "liveIncidenceRate": "Rată de incidență live",
+  "vehicleMessages": "Mesaje vehicul",
+  "models": "Modele",
+  "common": "Comun",
+  "extremelyRare": "Extrem de rar",
+  "rare": "Rar",
+  "uncommon": "Neobișnuit"
 }

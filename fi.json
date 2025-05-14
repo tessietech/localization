@@ -2522,5 +2522,15 @@
   "enableDataLogging": "Ota käyttöön datan kirjaaminen",
   "disableDataLogging": "Poista datan kirjaaminen käytöstä",
   "vehicleActivityWillNoLongerBeLogged": "Ajoneuvon toimintaa ei enää kirjata.",
-  "dataLoggingDisabled": "Tietojen kirjaaminen on poistettu käytöstä"
+  "dataLoggingDisabled": "Tietojen kirjaaminen on poistettu käytöstä",
+  "impact": "Vaikutus",
+  "cause": "Syy",
+  "clearCondition": "Nollaa ehto",
+  "liveIncidenceRate": "Reaaliaikainen esiintyvyys",
+  "vehicleMessages": "Ajoneuvon viestit",
+  "models": "Mallit",
+  "common": "Yleinen",
+  "extremelyRare": "Erittäin harvinainen",
+  "rare": "Harvinainen",
+  "uncommon": "Epätavallinen"
 }
