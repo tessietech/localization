@@ -2532,5 +2532,6 @@
   "common": "Yleinen",
   "extremelyRare": "Erittäin harvinainen",
   "rare": "Harvinainen",
-  "uncommon": "Epätavallinen"
+  "uncommon": "Epätavallinen",
+  "explorer": "Tutkija"
 }
