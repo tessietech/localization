@@ -2533,5 +2533,6 @@
   "extremelyRare": "Extremely rare",
   "rare": "Rare",
   "uncommon": "Uncommon",
-  "explorer": "Explorer"
+  "explorer": "Explorer",
+  "unsafe": "Unsafe"
 }

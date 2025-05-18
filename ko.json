@@ -2533,5 +2533,6 @@
   "extremelyRare": "매우 드묾",
   "rare": "드묾",
   "uncommon": "흔하지 않음",
-  "explorer": "탐색기"
+  "explorer": "탐색기",
+  "unsafe": "안전하지 않음"
 }

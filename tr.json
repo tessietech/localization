@@ -2533,5 +2533,6 @@
   "extremelyRare": "Son derece nadir",
   "rare": "Nadir",
   "uncommon": "Yaygın olmayan",
-  "explorer": "Gezgin"
+  "explorer": "Gezgin",
+  "unsafe": "Güvenli Değil"
 }

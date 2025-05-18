@@ -2533,5 +2533,6 @@
   "extremelyRare": "Erittäin harvinainen",
   "rare": "Harvinainen",
   "uncommon": "Epätavallinen",
-  "explorer": "Tutkija"
+  "explorer": "Tutkija",
+  "unsafe": "Vaarallinen"
 }

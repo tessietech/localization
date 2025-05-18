@@ -2533,5 +2533,6 @@
   "extremelyRare": "极其罕见",
   "rare": "罕见",
   "uncommon": "不常见",
-  "explorer": "资源管理器"
+  "explorer": "资源管理器",
+  "unsafe": "不安全"
 }
