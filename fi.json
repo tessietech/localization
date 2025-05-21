@@ -2514,7 +2514,7 @@
   "configureLocation": "Määritä sijainti",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Teslan ajoneuvon sijaintilupa tarvitaan ajoneuvosi (ajoneuvojesi) seuraamiseen. Ota se käyttöön Tessie-sovelluksen kohdasta Asetukset > Yhteydet > Muuta käyttöoikeuksia.",
   "teslaVehicleLocationPermissionDeadline": "Jos et tee niin ennen 1. toukokuuta 2025, Tesla poistaa ajoneuvosi/ajoneuvojesi seurannan käytöstä.",
-  "harsherRideAndWear": "Kovempi ajokokemus ja kuluminen",
+  "harsherRideAndWear": "Kovempi kyyti ja kuluminen",
   "dangerous": "Vaarallinen",
   "reducedHandlingAndEfficiency": "Heikentynyt käsiteltävyys ja tehokkuus",
   "toggle": "Vaihda",
