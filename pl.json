@@ -2516,7 +2516,7 @@
   "teslaVehicleLocationPermissionDeadline": "Niezastosowanie się do tego przed 1 maja 2025 r. spowoduje wyłączenie przez firmę Tesla śledzenia Twojego/Twoich pojazdu/pojazdów.",
   "harsherRideAndWear": "Twardsza jazda i zużycie",
   "dangerous": "Niebezpieczne",
-  "reducedHandlingAndEfficiency": "Zmniejszona zwrotność i wydajność",
+  "reducedHandlingAndEfficiency": "Zmniejszona przyczepność i wydajność",
   "toggle": "Przełącz",
   "recommendedColdPressure": "Zalecane ciśnienie na zimno",
   "enableDataLogging": "Włącz rejestrowanie danych",
@@ -2534,5 +2534,6 @@
   "rare": "Rzadkie",
   "uncommon": "Niezbyt częste",
   "explorer": "Eksplorator",
-  "unsafe": "Niezbezpieczne"
+  "noLocationProvidedByVehicle": "Brak lokalizacji przekazanej przez pojazd",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Odwiedź Ustawienia > Łączność > Zmień uprawnienia, aby włączyć dane o lokalizacji"
 }

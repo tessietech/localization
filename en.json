@@ -2514,9 +2514,9 @@
   "configureLocation": "Configure location",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Tesla's Vehicle Location permission is required to track your vehicle(s). Visit Settings > Connectivity > Change Permissions in the Tessie app to enable it.",
   "teslaVehicleLocationPermissionDeadline": "Failure to do so before May 1, 2025 will result in Tesla disabling tracking on your vehicle(s).",
-  "harsherRideAndWear": "Harsher ride & wear",
+  "harsherRideAndWear": "Harsher ride and wear",
   "dangerous": "Dangerous",
-  "reducedHandlingAndEfficiency": "Reduced handling & efficiency",
+  "reducedHandlingAndEfficiency": "Reduced handling and efficiency",
   "toggle": "Toggle",
   "recommendedColdPressure": "Recommended cold pressure",
   "enableDataLogging": "Enable data logging",
@@ -2534,5 +2534,6 @@
   "rare": "Rare",
   "uncommon": "Uncommon",
   "explorer": "Explorer",
-  "unsafe": "Unsafe"
+  "noLocationProvidedByVehicle": "No location provided by vehicle",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Visit Settings > Connectivity > Change Permissions to enable location data"
 }

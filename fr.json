@@ -2514,7 +2514,7 @@
   "configureLocation": "Configurer l'emplacement",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "L'autorisation de localisation du véhicule Tesla est requise pour suivre votre (vos) véhicule(s). Allez dans Réglages > Connectivité > Modifier les autorisations dans l'application Tessie pour l'activer.",
   "teslaVehicleLocationPermissionDeadline": "Ne pas le faire avant le 1er mai 2025 entraînera la désactivation du suivi de votre (vos) véhicule(s) Tesla.",
-  "harsherRideAndWear": "Conduite et usure plus rudes",
+  "harsherRideAndWear": "Conduite plus dure et usure",
   "dangerous": "Dangereux",
   "reducedHandlingAndEfficiency": "Maniabilité et efficacité réduites",
   "toggle": "Basculer",
@@ -2534,5 +2534,6 @@
   "rare": "Rare",
   "uncommon": "Peu commun",
   "explorer": "Explorateur",
-  "unsafe": "Non sécurisé"
+  "noLocationProvidedByVehicle": "Aucun emplacement fourni par le véhicule",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Consultez Paramètres > Connectivité > Modifier les autorisations pour activer les données de localisation"
 }

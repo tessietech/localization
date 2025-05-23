@@ -2534,5 +2534,6 @@
   "rare": "Ritka",
   "uncommon": "Nem gyakori",
   "explorer": "Felfedező",
-  "unsafe": "Nem biztonságos"
+  "noLocationProvidedByVehicle": "A jármű nem adott meg helymeghatározást",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "A helymeghatározási adatok engedélyezéséhez látogasson el a Beállítások > Kapcsolat > Engedélyek módosítása lehetőségre"
 }

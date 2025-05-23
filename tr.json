@@ -2516,7 +2516,7 @@
   "teslaVehicleLocationPermissionDeadline": "1 Mayıs 2025'ten önce yapılmaması Tesla'nın aracınızdaki/araçlarınızdaki takibi devre dışı bırakmasına neden olacaktır.",
   "harsherRideAndWear": "Daha sert sürüş ve aşınma",
   "dangerous": "Tehlikeli",
-  "reducedHandlingAndEfficiency": "Daha az yol tutuş ve verimlilik",
+  "reducedHandlingAndEfficiency": "Azaltılmış yol tutuşu ve verimlilik",
   "toggle": "Aç/Kapa",
   "recommendedColdPressure": "Önerilen soğuk basınç",
   "enableDataLogging": "Veri kaydını etkinleştir",
@@ -2534,5 +2534,6 @@
   "rare": "Nadir",
   "uncommon": "Yaygın olmayan",
   "explorer": "Gezgin",
-  "unsafe": "Güvenli Değil"
+  "noLocationProvidedByVehicle": "Araç tarafından konum sağlanmadı",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Konum verilerini etkinleştirmek için Ayarlar > Bağlantı > İzinleri Değiştir'i ziyaret edin"
 }

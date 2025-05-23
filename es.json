@@ -2534,5 +2534,6 @@
   "rare": "Raro",
   "uncommon": "Poco común",
   "explorer": "Explorador",
-  "unsafe": "Inseguro"
+  "noLocationProvidedByVehicle": "No se ha proporcionado ninguna ubicación por parte del vehículo",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Visita Ajustes > Conectividad > Cambiar Permisos para activar los datos de ubicación"
 }

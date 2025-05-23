@@ -2514,7 +2514,7 @@
   "configureLocation": "配置位置",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "需要 Tesla 的车辆位置权限才能跟踪您的车辆。请访问 Tessie 应用中的“设置”>“连接”>“更改权限”以启用它。",
   "teslaVehicleLocationPermissionDeadline": "在 2025 年 5 月 1 日之前未能这样做将导致 Tesla 禁用对您车辆的跟踪。",
-  "harsherRideAndWear": "更颠簸的驾驶体验和磨损",
+  "harsherRideAndWear": "更剧烈的颠簸和磨损",
   "dangerous": "危险",
   "reducedHandlingAndEfficiency": "操控性和效率降低",
   "toggle": "切换",
@@ -2534,5 +2534,6 @@
   "rare": "罕见",
   "uncommon": "不常见",
   "explorer": "资源管理器",
-  "unsafe": "不安全"
+  "noLocationProvidedByVehicle": "车辆未提供位置信息",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "访问设置 > 连接 > 更改权限以启用位置数据"
 }

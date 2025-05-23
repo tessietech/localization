@@ -2534,5 +2534,6 @@
   "rare": "Sjelden",
   "uncommon": "Uvanlig",
   "explorer": "Utforsker",
-  "unsafe": "Utrygg"
+  "noLocationProvidedByVehicle": "Ingen posisjon er gitt av bilen",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Gå til Innstillinger > Tilkobling > Endre tillatelser for å aktivere posisjonsdata"
 }

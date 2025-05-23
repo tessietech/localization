@@ -2534,5 +2534,6 @@
   "rare": "Sjælden",
   "uncommon": "Ualmindelig",
   "explorer": "Udforsker",
-  "unsafe": "Usikker"
+  "noLocationProvidedByVehicle": "Ingen placering leveret af køretøjet",
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Besøg Indstillinger > Forbindelse > Skift tilladelser for at aktivere lokalitetsdata"
 }
