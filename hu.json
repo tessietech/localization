@@ -2535,5 +2535,6 @@
   "uncommon": "Nem gyakori",
   "explorer": "Felfedező",
   "noLocationProvidedByVehicle": "A jármű nem adott meg helymeghatározást",
-  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "A helymeghatározási adatok engedélyezéséhez látogasson el a Beállítások > Kapcsolat > Engedélyek módosítása lehetőségre"
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "A helymeghatározási adatok engedélyezéséhez látogasson el a Beállítások > Kapcsolat > Engedélyek módosítása lehetőségre",
+  "unsafe": "Nem biztonságos"
 }

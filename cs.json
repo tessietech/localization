@@ -2514,7 +2514,7 @@
   "configureLocation": "Konfigurovat umístění",
   "teslasVehicleLocationPermissionIsRequiredToTrackYourVehicle": "Pro sledování vašeho vozidla/vozidel Tesla je vyžadováno oprávnění pro polohu vozidla Tesla. Povolte jej v aplikaci Tessie v nabídce Nastavení > Připojení > Změnit oprávnění.",
   "teslaVehicleLocationPermissionDeadline": "Pokud tak neučiníte do 1. května 2025, společnost Tesla na vašem vozidle (vozidlech) zakáže sledování polohy.",
-  "harsherRideAndWear": "Tvrdší jízda a opotřebení",
+  "harsherRideAndWear": "Tužší jízda a opotřebení",
   "dangerous": "Nebezpečné",
   "reducedHandlingAndEfficiency": "Snížená ovladatelnost a účinnost",
   "toggle": "Přepínač",
@@ -2535,5 +2535,6 @@
   "uncommon": "Neobvyklé",
   "explorer": "Průzkumník",
   "noLocationProvidedByVehicle": "Vozidlo neposkytlo žádnou polohu",
-  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Přejděte do Nastavení > Připojení > Změnit oprávnění a povolte údaje o poloze"
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Přejděte do Nastavení > Připojení > Změnit oprávnění a povolte údaje o poloze",
+  "unsafe": "Nebezpečné"
 }

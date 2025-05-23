@@ -2535,5 +2535,6 @@
   "uncommon": "Pouco comum",
   "explorer": "Explorador",
   "noLocationProvidedByVehicle": "Nenhuma localização fornecida pelo veículo",
-  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Visite Definições > Conectividade > Alterar Permissões para ativar os dados de localização"
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Visite Definições > Conectividade > Alterar Permissões para ativar os dados de localização",
+  "unsafe": "Inseguro"
 }

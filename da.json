@@ -2535,5 +2535,6 @@
   "uncommon": "Ualmindelig",
   "explorer": "Udforsker",
   "noLocationProvidedByVehicle": "Ingen placering leveret af køretøjet",
-  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Besøg Indstillinger > Forbindelse > Skift tilladelser for at aktivere lokalitetsdata"
+  "visitSettingsConnectivityChangePermissionsToEnableLocationData": "Besøg Indstillinger > Forbindelse > Skift tilladelser for at aktivere lokalitetsdata",
+  "unsafe": "Usikker"
 }
