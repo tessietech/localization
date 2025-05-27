@@ -682,7 +682,7 @@
   "unsupported": "Non pris en charge",
   "date": "Date",
   "whenPluggedInOutsideOfYourScheduleChargingWillBe": "Lorsque vous êtes branché en dehors de votre programme, la charge sera arrêtée dans la minute. Les jours sans programme, la voiture est libre de se charger à tout moment.",
-  "start": "Début",
+  "start": "Démarrer",
   "stop": "Arrêter",
   "dashboard": "Tableau de bord",
   "atCar": "À la voiture",
