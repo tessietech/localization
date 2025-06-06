@@ -2599,5 +2599,6 @@
   "toggleView": "Przełącz widok",
   "theConnectionToTheVehicleWasLost": "Utracono połączenie z pojazdem.",
   "firmwareUpdateRequired": "Wymagana aktualizacja oprogramowania układowego",
-  "requiresVersionPlus": "Wymaga {version}+"
+  "requiresVersionPlus": "Wymaga {version}+",
+  "infotainmentUpgradeRequired": "Wymagana aktualizacja systemu informacyjno-rozrywkowego."
 }

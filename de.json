@@ -2599,5 +2599,6 @@
   "toggleView": "Ansicht umschalten",
   "theConnectionToTheVehicleWasLost": "Die Verbindung zum Fahrzeug wurde unterbrochen.",
   "firmwareUpdateRequired": "Firmware-Update erforderlich",
-  "requiresVersionPlus": "Benötigt {version}+"
+  "requiresVersionPlus": "Benötigt {version}+",
+  "infotainmentUpgradeRequired": "Infotainment-Upgrade erforderlich."
 }

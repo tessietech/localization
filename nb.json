@@ -2599,5 +2599,6 @@
   "toggleView": "Veksle visning",
   "theConnectionToTheVehicleWasLost": "Tilkoblingen til bilen ble brutt.",
   "firmwareUpdateRequired": "Firmware update required",
-  "requiresVersionPlus": "Krever {version}+"
+  "requiresVersionPlus": "Krever {version}+",
+  "infotainmentUpgradeRequired": "Infotainment-oppgradering kreves."
 }

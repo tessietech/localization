@@ -2599,5 +2599,6 @@
   "toggleView": "Přepnout zobrazení",
   "theConnectionToTheVehicleWasLost": "Připojení k vozidlu bylo ztraceno.",
   "firmwareUpdateRequired": "Vyžadována aktualizace firmwaru",
-  "requiresVersionPlus": "Vyžaduje {version}+"
+  "requiresVersionPlus": "Vyžaduje {version}+",
+  "infotainmentUpgradeRequired": "Je vyžadována aktualizace infotainmentu."
 }

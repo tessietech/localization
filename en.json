@@ -2599,5 +2599,6 @@
   "toggleView": "Toggle view",
   "theConnectionToTheVehicleWasLost": "The connection to the vehicle was lost.",
   "firmwareUpdateRequired": "Firmware update required",
-  "requiresVersionPlus": "Requires {version}+"
+  "requiresVersionPlus": "Requires {version}+",
+  "infotainmentUpgradeRequired": "Infotainment upgrade required."
 }

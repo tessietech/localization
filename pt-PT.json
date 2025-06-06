@@ -2599,5 +2599,6 @@
   "toggleView": "Alternar vista",
   "theConnectionToTheVehicleWasLost": "A ligação ao veículo foi perdida.",
   "firmwareUpdateRequired": "Atualização de Firmware Necessária",
-  "requiresVersionPlus": "Requer {version}+"
+  "requiresVersionPlus": "Requer {version}+",
+  "infotainmentUpgradeRequired": "Atualização do sistema de infoentretenimento necessária."
 }

@@ -2599,5 +2599,6 @@
   "toggleView": "Vaihda näkymää",
   "theConnectionToTheVehicleWasLost": "Yhteys autoon katkesi.",
   "firmwareUpdateRequired": "Firmware-päivitys vaaditaan",
-  "requiresVersionPlus": "Vaatii version {version}+"
+  "requiresVersionPlus": "Vaatii version {version}+",
+  "infotainmentUpgradeRequired": "Tietoviihdejärjestelmän päivitys vaaditaan."
 }

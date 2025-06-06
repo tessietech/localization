@@ -2599,5 +2599,6 @@
   "toggleView": "Nézetváltás",
   "theConnectionToTheVehicleWasLost": "A járművel való kapcsolat megszakadt.",
   "firmwareUpdateRequired": "Firmware frissítés szükséges",
-  "requiresVersionPlus": "Szükséges: {version}+"
+  "requiresVersionPlus": "Szükséges: {version}+",
+  "infotainmentUpgradeRequired": "Infotainment frissítés szükséges."
 }

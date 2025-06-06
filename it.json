@@ -2599,5 +2599,6 @@
   "toggleView": "Attiva/Disattiva visualizzazione",
   "theConnectionToTheVehicleWasLost": "La connessione al veicolo è stata persa.",
   "firmwareUpdateRequired": "Aggiornamento firmware richiesto",
-  "requiresVersionPlus": "Richiede {version}+"
+  "requiresVersionPlus": "Richiede {version}+",
+  "infotainmentUpgradeRequired": "È necessario l'aggiornamento dell'infotainment."
 }
