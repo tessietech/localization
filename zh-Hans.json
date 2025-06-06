@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD 分析器",
   "customizableAlerts": "可自定义的警报",
   "toggleView": "切换视图",
-  "theConnectionToTheVehicleWasLost": "与车辆的连接已断开。"
+  "theConnectionToTheVehicleWasLost": "与车辆的连接已断开。",
+  "firmwareUpdateRequired": "需要固件更新",
+  "requiresVersionPlus": "需要 {version}+"
 }

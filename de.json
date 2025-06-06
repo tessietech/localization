@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD-Profiler",
   "customizableAlerts": "Anpassbare Benachrichtigungen",
   "toggleView": "Ansicht umschalten",
-  "theConnectionToTheVehicleWasLost": "Die Verbindung zum Fahrzeug wurde unterbrochen."
+  "theConnectionToTheVehicleWasLost": "Die Verbindung zum Fahrzeug wurde unterbrochen.",
+  "firmwareUpdateRequired": "Firmware-Update erforderlich",
+  "requiresVersionPlus": "Benötigt {version}+"
 }

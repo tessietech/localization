@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD profiler",
   "customizableAlerts": "Brugerdefinerede alarmer",
   "toggleView": "Skift visning",
-  "theConnectionToTheVehicleWasLost": "Forbindelsen til bilen blev afbrudt."
+  "theConnectionToTheVehicleWasLost": "Forbindelsen til bilen blev afbrudt.",
+  "firmwareUpdateRequired": "Firmwareopdatering påkrævet",
+  "requiresVersionPlus": "Kræver {version}+"
 }

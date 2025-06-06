@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD-profiloija",
   "customizableAlerts": "Mukautettavat hälytykset",
   "toggleView": "Vaihda näkymää",
-  "theConnectionToTheVehicleWasLost": "Yhteys autoon katkesi."
+  "theConnectionToTheVehicleWasLost": "Yhteys autoon katkesi.",
+  "firmwareUpdateRequired": "Firmware-päivitys vaaditaan",
+  "requiresVersionPlus": "Vaatii version {version}+"
 }

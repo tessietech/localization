@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD 프로파일러",
   "customizableAlerts": "맞춤형 알림",
   "toggleView": "보기 전환",
-  "theConnectionToTheVehicleWasLost": "차량과의 연결이 끊어졌습니다."
+  "theConnectionToTheVehicleWasLost": "차량과의 연결이 끊어졌습니다.",
+  "firmwareUpdateRequired": "펌웨어 업데이트 필요",
+  "requiresVersionPlus": "{version}+ 필요"
 }

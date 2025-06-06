@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD profiler",
   "customizableAlerts": "Customizable alerts",
   "toggleView": "Toggle view",
-  "theConnectionToTheVehicleWasLost": "The connection to the vehicle was lost."
+  "theConnectionToTheVehicleWasLost": "The connection to the vehicle was lost.",
+  "firmwareUpdateRequired": "Firmware update required",
+  "requiresVersionPlus": "Requires {version}+"
 }

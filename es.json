@@ -2597,5 +2597,7 @@
   "obdProfiler": "Perfilador OBD",
   "customizableAlerts": "Alertas personalizables",
   "toggleView": "Alternar vista",
-  "theConnectionToTheVehicleWasLost": "Se perdió la conexión con el vehículo."
+  "theConnectionToTheVehicleWasLost": "Se perdió la conexión con el vehículo.",
+  "firmwareUpdateRequired": "Actualización de firmware necesaria",
+  "requiresVersionPlus": "Requiere {version}+"
 }

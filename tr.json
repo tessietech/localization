@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD profilleyici",
   "customizableAlerts": "Özelleştirilebilir uyarılar",
   "toggleView": "Görünümü Değiştir",
-  "theConnectionToTheVehicleWasLost": "Araçla bağlantı kesildi."
+  "theConnectionToTheVehicleWasLost": "Araçla bağlantı kesildi.",
+  "firmwareUpdateRequired": "Firmware güncellemesi gerekiyor",
+  "requiresVersionPlus": "{version}+ sürümünü gerektirir"
 }

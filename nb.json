@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD-profiler",
   "customizableAlerts": "Tilpassbare varsler",
   "toggleView": "Veksle visning",
-  "theConnectionToTheVehicleWasLost": "Tilkoblingen til bilen ble brutt."
+  "theConnectionToTheVehicleWasLost": "Tilkoblingen til bilen ble brutt.",
+  "firmwareUpdateRequired": "Firmware update required",
+  "requiresVersionPlus": "Krever {version}+"
 }

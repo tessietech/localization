@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD profiler",
   "customizableAlerts": "Testreszabható riasztások",
   "toggleView": "Nézetváltás",
-  "theConnectionToTheVehicleWasLost": "A járművel való kapcsolat megszakadt."
+  "theConnectionToTheVehicleWasLost": "A járművel való kapcsolat megszakadt.",
+  "firmwareUpdateRequired": "Firmware frissítés szükséges",
+  "requiresVersionPlus": "Szükséges: {version}+"
 }

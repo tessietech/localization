@@ -2597,5 +2597,7 @@
   "obdProfiler": "OBD profiler",
   "customizableAlerts": "Přizpůsobitelné upozornění",
   "toggleView": "Přepnout zobrazení",
-  "theConnectionToTheVehicleWasLost": "Připojení k vozidlu bylo ztraceno."
+  "theConnectionToTheVehicleWasLost": "Připojení k vozidlu bylo ztraceno.",
+  "firmwareUpdateRequired": "Vyžadována aktualizace firmwaru",
+  "requiresVersionPlus": "Vyžaduje {version}+"
 }

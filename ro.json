@@ -2597,5 +2597,7 @@
   "obdProfiler": "Profiler OBD",
   "customizableAlerts": "Alerte personalizabile",
   "toggleView": "Comutați vizualizarea",
-  "theConnectionToTheVehicleWasLost": "Conexiunea la vehicul a fost pierdută."
+  "theConnectionToTheVehicleWasLost": "Conexiunea la vehicul a fost pierdută.",
+  "firmwareUpdateRequired": "Actualizare firmware necesară",
+  "requiresVersionPlus": "Necesită {version}+"
 }
