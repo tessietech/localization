@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Necesită {version}+",
   "infotainmentUpgradeRequired": "Este necesară actualizarea sistemului de infotainment.",
   "firmwareUpdateRequired": "Este necesară actualizarea firmware-ului.",
-  "priceLoyaltyCreditApplied": "{price} credit de loialitate aplicat"
+  "priceLoyaltyDiscountApplied": "{price} reducere de loialitate aplicată"
 }

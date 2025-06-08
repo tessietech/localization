@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Nécessite la version {version} ou supérieure",
   "infotainmentUpgradeRequired": "Mise à niveau de l'infodivertissement requise.",
   "firmwareUpdateRequired": "Mise à jour du firmware requise.",
-  "priceLoyaltyCreditApplied": "{price} crédit de fidélité appliqué"
+  "priceLoyaltyDiscountApplied": "{price} remise de fidélité appliquée"
 }

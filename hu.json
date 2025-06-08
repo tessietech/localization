@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Szükséges: {version}+",
   "infotainmentUpgradeRequired": "Infotainment frissítés szükséges.",
   "firmwareUpdateRequired": "Firmware frissítés szükséges.",
-  "priceLoyaltyCreditApplied": "{price} hűségjóváírás jóváírva"
+  "priceLoyaltyDiscountApplied": "{price} hűségkedvezmény érvényesítve"
 }

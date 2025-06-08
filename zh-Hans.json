@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "需要 {version}+",
   "infotainmentUpgradeRequired": "需要信息娱乐系统升级。",
   "firmwareUpdateRequired": "需要更新固件。",
-  "priceLoyaltyCreditApplied": "已应用 {price} 忠诚度积分"
+  "priceLoyaltyDiscountApplied": "已应用 {price} 忠诚度折扣"
 }

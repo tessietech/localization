@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Wymaga {version}+",
   "infotainmentUpgradeRequired": "Wymagana aktualizacja systemu informacyjno-rozrywkowego.",
   "firmwareUpdateRequired": "Wymagana aktualizacja oprogramowania układowego.",
-  "priceLoyaltyCreditApplied": "{price} wykorzystano kredyt lojalnościowy"
+  "priceLoyaltyDiscountApplied": "Zastosowano zniżkę lojalnościową w wysokości {price}"
 }
