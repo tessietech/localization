@@ -2598,7 +2598,8 @@
   "customizableAlerts": "Konfigurowalne alerty",
   "toggleView": "Przełącz widok",
   "theConnectionToTheVehicleWasLost": "Utracono połączenie z pojazdem.",
-  "firmwareUpdateRequired": "Wymagana aktualizacja oprogramowania układowego",
   "requiresVersionPlus": "Wymaga {version}+",
-  "infotainmentUpgradeRequired": "Wymagana aktualizacja systemu informacyjno-rozrywkowego."
+  "infotainmentUpgradeRequired": "Wymagana aktualizacja systemu informacyjno-rozrywkowego.",
+  "firmwareUpdateRequired": "Wymagana aktualizacja oprogramowania układowego.",
+  "priceLoyaltyCreditApplied": "{price} wykorzystano kredyt lojalnościowy"
 }

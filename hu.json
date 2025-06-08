@@ -2598,7 +2598,8 @@
   "customizableAlerts": "Testreszabható riasztások",
   "toggleView": "Nézetváltás",
   "theConnectionToTheVehicleWasLost": "A járművel való kapcsolat megszakadt.",
-  "firmwareUpdateRequired": "Firmware frissítés szükséges",
   "requiresVersionPlus": "Szükséges: {version}+",
-  "infotainmentUpgradeRequired": "Infotainment frissítés szükséges."
+  "infotainmentUpgradeRequired": "Infotainment frissítés szükséges.",
+  "firmwareUpdateRequired": "Firmware frissítés szükséges.",
+  "priceLoyaltyCreditApplied": "{price} hűségjóváírás jóváírva"
 }

@@ -2598,7 +2598,8 @@
   "customizableAlerts": "맞춤형 알림",
   "toggleView": "보기 전환",
   "theConnectionToTheVehicleWasLost": "차량과의 연결이 끊어졌습니다.",
-  "firmwareUpdateRequired": "펌웨어 업데이트 필요",
   "requiresVersionPlus": "{version}+ 필요",
-  "infotainmentUpgradeRequired": "인포테인먼트 업그레이드가 필요합니다."
+  "infotainmentUpgradeRequired": "인포테인먼트 업그레이드가 필요합니다.",
+  "firmwareUpdateRequired": "펌웨어 업데이트가 필요합니다.",
+  "priceLoyaltyCreditApplied": "{price} 로열티 크레딧 적용됨"
 }

@@ -2598,7 +2598,8 @@
   "customizableAlerts": "可自定义的警报",
   "toggleView": "切换视图",
   "theConnectionToTheVehicleWasLost": "与车辆的连接已断开。",
-  "firmwareUpdateRequired": "需要固件更新",
   "requiresVersionPlus": "需要 {version}+",
-  "infotainmentUpgradeRequired": "需要信息娱乐系统升级。"
+  "infotainmentUpgradeRequired": "需要信息娱乐系统升级。",
+  "firmwareUpdateRequired": "需要更新固件。",
+  "priceLoyaltyCreditApplied": "已应用 {price} 忠诚度积分"
 }

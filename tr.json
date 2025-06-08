@@ -2598,7 +2598,8 @@
   "customizableAlerts": "Özelleştirilebilir uyarılar",
   "toggleView": "Görünümü Değiştir",
   "theConnectionToTheVehicleWasLost": "Araçla bağlantı kesildi.",
-  "firmwareUpdateRequired": "Firmware güncellemesi gerekiyor",
   "requiresVersionPlus": "{version}+ sürümünü gerektirir",
-  "infotainmentUpgradeRequired": "Bilgi-eğlence sistemi yükseltmesi gerekiyor."
+  "infotainmentUpgradeRequired": "Bilgi-eğlence sistemi yükseltmesi gerekiyor.",
+  "firmwareUpdateRequired": "Yazılım güncellemesi gerekiyor.",
+  "priceLoyaltyCreditApplied": "{price} sadakat kredisi uygulandı"
 }

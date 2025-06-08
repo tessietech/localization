@@ -2598,7 +2598,8 @@
   "customizableAlerts": "Alertas personalizáveis",
   "toggleView": "Alternar vista",
   "theConnectionToTheVehicleWasLost": "A ligação ao veículo foi perdida.",
-  "firmwareUpdateRequired": "Atualização de Firmware Necessária",
   "requiresVersionPlus": "Requer {version}+",
-  "infotainmentUpgradeRequired": "Atualização do sistema de infoentretenimento necessária."
+  "infotainmentUpgradeRequired": "Atualização do sistema de infoentretenimento necessária.",
+  "firmwareUpdateRequired": "Atualização de firmware necessária.",
+  "priceLoyaltyCreditApplied": "{price} crédito de fidelidade aplicado"
 }

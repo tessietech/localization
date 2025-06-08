@@ -2598,7 +2598,8 @@
   "customizableAlerts": "可自訂警示",
   "toggleView": "切換檢視",
   "theConnectionToTheVehicleWasLost": "與車輛的連線已中斷。",
-  "firmwareUpdateRequired": "需要韌體更新",
   "requiresVersionPlus": "需要 {version}+ 版本",
-  "infotainmentUpgradeRequired": "需要資訊娛樂系統升級。"
+  "infotainmentUpgradeRequired": "需要資訊娛樂系統升級。",
+  "firmwareUpdateRequired": "需要韌體更新。",
+  "priceLoyaltyCreditApplied": "已套用 {price} 忠誠客戶額度"
 }

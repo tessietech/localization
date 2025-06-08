@@ -2598,7 +2598,8 @@
   "customizableAlerts": "Mukautettavat hälytykset",
   "toggleView": "Vaihda näkymää",
   "theConnectionToTheVehicleWasLost": "Yhteys autoon katkesi.",
-  "firmwareUpdateRequired": "Firmware-päivitys vaaditaan",
   "requiresVersionPlus": "Vaatii version {version}+",
-  "infotainmentUpgradeRequired": "Tietoviihdejärjestelmän päivitys vaaditaan."
+  "infotainmentUpgradeRequired": "Tietoviihdejärjestelmän päivitys vaaditaan.",
+  "firmwareUpdateRequired": "Laiteohjelmiston päivitys vaaditaan.",
+  "priceLoyaltyCreditApplied": "{price} kanta-asiakasetu käytetty"
 }

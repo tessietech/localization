@@ -2598,7 +2598,8 @@
   "customizableAlerts": "Tilpassbare varsler",
   "toggleView": "Veksle visning",
   "theConnectionToTheVehicleWasLost": "Tilkoblingen til bilen ble brutt.",
-  "firmwareUpdateRequired": "Firmware update required",
   "requiresVersionPlus": "Krever {version}+",
-  "infotainmentUpgradeRequired": "Infotainment-oppgradering kreves."
+  "infotainmentUpgradeRequired": "Infotainment-oppgradering kreves.",
+  "firmwareUpdateRequired": "Firmwareoppdatering kreves.",
+  "priceLoyaltyCreditApplied": "{price} lojalitetskreditt brukt"
 }
