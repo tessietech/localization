@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "{version}+ sürümünü gerektirir",
   "infotainmentUpgradeRequired": "Bilgi-eğlence sistemi yükseltmesi gerekiyor.",
   "firmwareUpdateRequired": "Yazılım güncellemesi gerekiyor.",
-  "priceLoyaltyDiscountApplied": "{price} sadakat indirimi uygulandı"
+  "amountLoyaltyDiscountAvailable": "{amount} sadakat indirimi mevcut"
 }

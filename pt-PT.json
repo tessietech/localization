@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Requer {version}+",
   "infotainmentUpgradeRequired": "Atualização do sistema de infoentretenimento necessária.",
   "firmwareUpdateRequired": "Atualização de firmware necessária.",
-  "priceLoyaltyDiscountApplied": "{price} desconto de fidelidade aplicado"
+  "amountLoyaltyDiscountAvailable": "{amount} desconto de fidelidade disponível"
 }

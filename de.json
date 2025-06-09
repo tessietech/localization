@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Benötigt {version}+",
   "infotainmentUpgradeRequired": "Infotainment-Upgrade erforderlich.",
   "firmwareUpdateRequired": "Firmware-Update erforderlich.",
-  "priceLoyaltyDiscountApplied": "{price} Treuerabatt angewendet"
+  "amountLoyaltyDiscountAvailable": "{amount} Treuerabatt verfügbar"
 }

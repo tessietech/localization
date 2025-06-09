@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Vaatii version {version}+",
   "infotainmentUpgradeRequired": "Tietoviihdejärjestelmän päivitys vaaditaan.",
   "firmwareUpdateRequired": "Laiteohjelmiston päivitys vaaditaan.",
-  "priceLoyaltyDiscountApplied": "{price} kanta-asiakasalennus"
+  "amountLoyaltyDiscountAvailable": "{amount} kanta-asiakasalennus saatavilla"
 }

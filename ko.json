@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "{version}+ 필요",
   "infotainmentUpgradeRequired": "인포테인먼트 업그레이드가 필요합니다.",
   "firmwareUpdateRequired": "펌웨어 업데이트가 필요합니다.",
-  "priceLoyaltyDiscountApplied": "{price} 로열티 할인이 적용되었습니다."
+  "amountLoyaltyDiscountAvailable": "{amount} 로열티 할인 가능"
 }

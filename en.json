@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Requires {version}+",
   "infotainmentUpgradeRequired": "Infotainment upgrade required.",
   "firmwareUpdateRequired": "Firmware update required.",
-  "priceLoyaltyDiscountApplied": "{price} loyalty discount applied"
+  "amountLoyaltyDiscountAvailable": "{amount} loyalty discount available"
 }

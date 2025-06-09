@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Krever {version}+",
   "infotainmentUpgradeRequired": "Infotainment-oppgradering kreves.",
   "firmwareUpdateRequired": "Firmwareoppdatering kreves.",
-  "priceLoyaltyDiscountApplied": "{price} lojalitetsrabatt brukt"
+  "amountLoyaltyDiscountAvailable": "{amount} lojalitetsrabatt tilgjengelig"
 }

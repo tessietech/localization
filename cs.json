@@ -2601,5 +2601,5 @@
   "requiresVersionPlus": "Vyžaduje {version}+",
   "infotainmentUpgradeRequired": "Je vyžadována aktualizace infotainmentu.",
   "firmwareUpdateRequired": "Je vyžadována aktualizace firmwaru.",
-  "priceLoyaltyDiscountApplied": "{price} byla uplatněna věrnostní sleva"
+  "amountLoyaltyDiscountAvailable": "{amount} věrnostní sleva k dispozici"
 }
