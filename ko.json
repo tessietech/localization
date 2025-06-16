@@ -2501,7 +2501,7 @@
   "previousPage": "이전 페이지",
   "nextPage": "다음 페이지",
   "lastPage": "마지막 페이지",
-  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "{days, plural, one{지난 {days}일 동안의 데이터를 기반으로 추천이 지속적으로 업데이트됩니다.} other{{days}일 동안의 데이터를 기반으로 추천이 지속적으로 업데이트됩니다.}}",
+  "recommendationsAreContinuouslyUpdatedBasedOnDataOverTheLast": "{days}일 동안의 데이터를 기반으로 추천이 지속적으로 업데이트됩니다.",
   "viewLiveCharge": "실시간 충전 보기",
   "viewLiveDrive": "실시간 주행 보기",
   "viewLiveIdle": "실시간 유휴 보기",

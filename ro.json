@@ -2603,11 +2603,11 @@
   "firmwareUpdateRequired": "Este necesară actualizarea firmware-ului.",
   "amountLoyaltyDiscountAvailable": "{amount} reducere de loialitate disponibilă",
   "selectAll": "Selectează tot",
-  "numberOfTotalSelected": "{number, plural, =0{Niciunul selectat} one{{number} din {total} selectat} other{{number} din {total} selectate}}",
+  "numberOfTotalSelected": "{number} din {total} selectate",
   "oneDriveWillBeDeleted": "1 cursă va fi ștearsă.",
   "oneChargeWillBeDeleted": "1 încărcare va fi ștearsă.",
   "oneIdleWillBeDeleted": "1 inactivitate va fi ștearsă.",
-  "numberDrivesWillBeDeleted": "{number, plural, =0{Nicio cursă nu va fi ștearsă} one{{number} cursă va fi ștearsă} other{{number} curse vor fi șterse}}.",
-  "numberChargesWillBeDeleted": "{number, plural, =0{Nicio încărcare nu va fi ștearsă} one{{number} încărcare va fi ștearsă} other{{number} încărcări vor fi șterse}}.",
-  "numberIdlesWillBeDeleted": "{number, plural, =0{Nicio inactivitate nu va fi ștearsă} one{{number} inactivitate va fi ștearsă} other{{number} inactivități vor fi șterse}}."
+  "numberDrivesWillBeDeleted": "{number} unități vor fi șterse.",
+  "numberChargesWillBeDeleted": "{number} încărcări vor fi șterse.",
+  "numberIdlesWillBeDeleted": "{number} ralanti-uri vor fi șterse."
 }

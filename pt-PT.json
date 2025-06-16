@@ -2593,7 +2593,7 @@
   "gpsMediaAndRouting": "GPS, multimédia e encaminhamento",
   "doorsWindowsAndLights": "Portas, janelas e luzes",
   "modelSoftwareAndSettings": "Modelo, software e definições",
-  "timeRemainingThisMonth": "{time, plural, =0{0 restantes este mês} =1{1 restante este mês} other{{time} restantes este mês}}",
+  "timeRemainingThisMonth": "{time} restantes este mês",
   "obdProfiler": "Perfilador OBD",
   "customizableAlerts": "Alertas personalizáveis",
   "toggleView": "Alternar vista",
@@ -2603,11 +2603,11 @@
   "firmwareUpdateRequired": "Atualização de firmware necessária.",
   "amountLoyaltyDiscountAvailable": "{amount} desconto de fidelidade disponível",
   "selectAll": "Selecionar tudo",
-  "numberOfTotalSelected": "{number, plural, one {Selecionado {number} de {total}} other {Selecionados {number} de {total}}}",
+  "numberOfTotalSelected": "{number} de {total} seleccionados",
   "oneDriveWillBeDeleted": "1 trajeto será eliminado.",
   "oneChargeWillBeDeleted": "1 carregamento será eliminado.",
   "oneIdleWillBeDeleted": "1 inatividade será eliminada.",
-  "numberDrivesWillBeDeleted": "{number, plural, one {{number} trajeto será eliminado.} other {{number} trajetos serão eliminados.}}",
-  "numberChargesWillBeDeleted": "{number, plural, one {{number} carregamento será eliminado.} other {{number} carregamentos serão eliminados.}}",
-  "numberIdlesWillBeDeleted": "{number, plural, one {{number} inatividade será eliminada.} other {{number} inatividades serão eliminadas.}}"
+  "numberDrivesWillBeDeleted": "{number} viagens serão eliminadas.",
+  "numberChargesWillBeDeleted": "{number} carregamentos serão eliminados.",
+  "numberIdlesWillBeDeleted": "{number} inactividades serão eliminadas."
 }

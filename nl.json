@@ -2603,11 +2603,11 @@
   "firmwareUpdateRequired": "Firmware-update vereist.",
   "amountLoyaltyDiscountAvailable": "{amount} loyaliteitskorting beschikbaar",
   "selectAll": "Alles selecteren",
-  "numberOfTotalSelected": "{number, plural, =0{Geen van {total} geselecteerd} one{{number} van {total} geselecteerd} other{{number} van {total} geselecteerd}}",
+  "numberOfTotalSelected": "{number} van {total} geselecteerd",
   "oneDriveWillBeDeleted": "1 rit wordt verwijderd.",
   "oneChargeWillBeDeleted": "1 laadsessie wordt verwijderd.",
   "oneIdleWillBeDeleted": "1 inactieve periode wordt verwijderd.",
-  "numberDrivesWillBeDeleted": "{number, plural, one{{number} rit wordt verwijderd} other{{number} ritten worden verwijderd}}.",
-  "numberChargesWillBeDeleted": "{number, plural, one{{number} laadsessie wordt verwijderd} other{{number} laadsessies worden verwijderd}}.",
-  "numberIdlesWillBeDeleted": "{number, plural, one{{number} inactieve periode wordt verwijderd} other{{number} inactieve perioden worden verwijderd}}."
+  "numberDrivesWillBeDeleted": "{number} ritten worden verwijderd.",
+  "numberChargesWillBeDeleted": "{number} laadsessies worden verwijderd.",
+  "numberIdlesWillBeDeleted": "{number} momenten van inactiviteit worden verwijderd."
 }

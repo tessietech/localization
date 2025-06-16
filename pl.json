@@ -2603,11 +2603,11 @@
   "firmwareUpdateRequired": "Wymagana aktualizacja oprogramowania układowego.",
   "amountLoyaltyDiscountAvailable": "{amount} dostępny rabat lojalnościowy",
   "selectAll": "Zaznacz wszystko",
-  "numberOfTotalSelected": "{number, plural, =0{Wybrano 0 z {total}} one{Wybrano 1 z {total}} few{Wybrano {number} z {total}} other{Wybrano {number} z {total}}}",
+  "numberOfTotalSelected": "{number} z {total} zaznaczonych",
   "oneDriveWillBeDeleted": "1 przejazd zostanie usunięty.",
   "oneChargeWillBeDeleted": "1 ładowanie zostanie usunięte.",
   "oneIdleWillBeDeleted": "1 postój zostanie usunięty.",
-  "numberDrivesWillBeDeleted": "{number, plural, one{{number} przejazd zostanie usunięty.} few{{number} przejazdy zostaną usunięte.} other{{number} przejazdów zostanie usuniętych.}}",
-  "numberChargesWillBeDeleted": "{number, plural, one{{number} ładowanie zostanie usunięte.} few{{number} ładowania zostaną usunięte.} other{{number} ładowań zostanie usuniętych.}}",
-  "numberIdlesWillBeDeleted": "{number, plural, one{{number} postój zostanie usunięty.} few{{number} postoje zostaną usunięte.} other{{number} postojów zostanie usuniętych.}}"
+  "numberDrivesWillBeDeleted": "{number} przejazdów zostanie usuniętych.",
+  "numberChargesWillBeDeleted": "{number} ładowań zostanie usuniętych.",
+  "numberIdlesWillBeDeleted": "{number} przestojów zostanie usuniętych."
 }

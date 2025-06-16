@@ -2607,7 +2607,7 @@
   "oneDriveWillBeDeleted": "1 ajo poistetaan.",
   "oneChargeWillBeDeleted": "1 lataus poistetaan.",
   "oneIdleWillBeDeleted": "1 joutokäynti poistetaan.",
-  "numberDrivesWillBeDeleted": "{number, plural, =1{1 ajo poistetaan.} other{{number} ajoa poistetaan.}}",
-  "numberChargesWillBeDeleted": "{number, plural, =1{1 lataus poistetaan.} other{{number} latausta poistetaan.}}",
-  "numberIdlesWillBeDeleted": "{number, plural, =1{1 joutokäynti poistetaan.} other{{number} joutokäyntiä poistetaan.}}"
+  "numberDrivesWillBeDeleted": "{number} ajomatkaa poistetaan.",
+  "numberChargesWillBeDeleted": "{number} latausta poistetaan.",
+  "numberIdlesWillBeDeleted": "{number} joutokäyntiä poistetaan."
 }
