@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Vyžaduje {version}+",
   "infotainmentUpgradeRequired": "Je vyžadována aktualizace infotainmentu.",
   "firmwareUpdateRequired": "Je vyžadována aktualizace firmwaru.",
-  "amountLoyaltyDiscountAvailable": "{amount} věrnostní sleva k dispozici"
+  "amountLoyaltyDiscountAvailable": "{amount} věrnostní sleva k dispozici",
+  "selectAll": "Vybrat vše",
+  "numberOfTotalSelected": "{number, plural, one {Vybráno {number} z {total}} few {Vybrány {number} z {total}} other {Vybráno {number} z {total}}}",
+  "oneDriveWillBeDeleted": "Bude smazána 1 jízda.",
+  "oneChargeWillBeDeleted": "Bude smazáno 1 nabíjení.",
+  "oneIdleWillBeDeleted": "Bude smazáno 1 nečinné sezení.",
+  "numberDrivesWillBeDeleted": "{number, plural, one {Budou smazány {number} jízda} few {Budou smazány {number} jízdy} other {Bude smazáno {number} jízd}}",
+  "numberChargesWillBeDeleted": "{number, plural, one {Bude smazáno {number} nabíjení} few {Budou smazány {number} nabíjení} other {Bude smazáno {number} nabíjení}}",
+  "numberIdlesWillBeDeleted": "{number, plural, one {Bude smazáno {number} nečinné sezení} few {Budou smazány {number} nečinné sezení} other {Bude smazáno {number} nečinných sezení}}"
 }

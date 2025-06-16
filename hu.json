@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Szükséges: {version}+",
   "infotainmentUpgradeRequired": "Infotainment frissítés szükséges.",
   "firmwareUpdateRequired": "Firmware frissítés szükséges.",
-  "amountLoyaltyDiscountAvailable": "{amount} hűségkedvezmény elérhető"
+  "amountLoyaltyDiscountAvailable": "{amount} hűségkedvezmény elérhető",
+  "selectAll": "Összes kijelölése",
+  "numberOfTotalSelected": "{number} kiválasztva, összesen: {total}",
+  "oneDriveWillBeDeleted": "1 vezetés törölve lesz.",
+  "oneChargeWillBeDeleted": "1 töltés törölve lesz.",
+  "oneIdleWillBeDeleted": "1 tétlen állapot törölve lesz.",
+  "numberDrivesWillBeDeleted": "{number} vezetés törölve lesz.",
+  "numberChargesWillBeDeleted": "{number} töltés törölve lesz.",
+  "numberIdlesWillBeDeleted": "{number} tétlen állapot törölve lesz."
 }

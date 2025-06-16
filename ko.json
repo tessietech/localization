@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "{version}+ 필요",
   "infotainmentUpgradeRequired": "인포테인먼트 업그레이드가 필요합니다.",
   "firmwareUpdateRequired": "펌웨어 업데이트가 필요합니다.",
-  "amountLoyaltyDiscountAvailable": "{amount} 로열티 할인 가능"
+  "amountLoyaltyDiscountAvailable": "{amount} 로열티 할인 가능",
+  "selectAll": "모두 선택",
+  "numberOfTotalSelected": "{number}개 선택됨 (총 {total}개)",
+  "oneDriveWillBeDeleted": "드라이브 1개가 삭제됩니다.",
+  "oneChargeWillBeDeleted": "충전 기록 1개가 삭제됩니다.",
+  "oneIdleWillBeDeleted": "유휴 상태 기록 1개가 삭제됩니다.",
+  "numberDrivesWillBeDeleted": "드라이브 {number}개가 삭제됩니다.",
+  "numberChargesWillBeDeleted": "충전 기록 {number}개가 삭제됩니다.",
+  "numberIdlesWillBeDeleted": "유휴 상태 기록 {number}개가 삭제됩니다."
 }

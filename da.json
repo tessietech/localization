@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Kræver {version}+",
   "infotainmentUpgradeRequired": "Infotainmentopgradering kræves.",
   "firmwareUpdateRequired": "Firmwareopdatering påkrævet.",
-  "amountLoyaltyDiscountAvailable": "{amount} loyalitetsrabat tilgængelig"
+  "amountLoyaltyDiscountAvailable": "{amount} loyalitetsrabat tilgængelig",
+  "selectAll": "Vælg alle",
+  "numberOfTotalSelected": "{number} af {total} valgt",
+  "oneDriveWillBeDeleted": "1 tur bliver slettet.",
+  "oneChargeWillBeDeleted": "1 opladning bliver slettet.",
+  "oneIdleWillBeDeleted": "1 inaktivitet bliver slettet.",
+  "numberDrivesWillBeDeleted": "{number} ture bliver slettet.",
+  "numberChargesWillBeDeleted": "{number} opladninger bliver slettet.",
+  "numberIdlesWillBeDeleted": "{number} inaktiviteter bliver slettet."
 }

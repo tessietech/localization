@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Richiede {version}+",
   "infotainmentUpgradeRequired": "È necessario l'aggiornamento dell'infotainment.",
   "firmwareUpdateRequired": "Aggiornamento del firmware richiesto.",
-  "amountLoyaltyDiscountAvailable": "{amount} di sconto fedeltà disponibile"
+  "amountLoyaltyDiscountAvailable": "{amount} di sconto fedeltà disponibile",
+  "selectAll": "Seleziona tutto",
+  "numberOfTotalSelected": "{number} di {total} selezionati",
+  "oneDriveWillBeDeleted": "1 guida verrà eliminata.",
+  "oneChargeWillBeDeleted": "1 ricarica verrà eliminata.",
+  "oneIdleWillBeDeleted": "1 inattività verrà eliminata.",
+  "numberDrivesWillBeDeleted": "{number} guide verranno eliminate.",
+  "numberChargesWillBeDeleted": "{number} ricariche verranno eliminate.",
+  "numberIdlesWillBeDeleted": "{number} inattività verranno eliminate."
 }

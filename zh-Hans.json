@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "需要 {version}+",
   "infotainmentUpgradeRequired": "需要信息娱乐系统升级。",
   "firmwareUpdateRequired": "需要更新固件。",
-  "amountLoyaltyDiscountAvailable": "可使用 {amount} 忠诚度折扣"
+  "amountLoyaltyDiscountAvailable": "可使用 {amount} 忠诚度折扣",
+  "selectAll": "全选",
+  "numberOfTotalSelected": "已选择 {number} 个，共 {total} 个",
+  "oneDriveWillBeDeleted": "将删除 1 个行程。",
+  "oneChargeWillBeDeleted": "将删除 1 个充电记录。",
+  "oneIdleWillBeDeleted": "将删除 1 个空闲记录。",
+  "numberDrivesWillBeDeleted": "将删除 {number} 个行程。",
+  "numberChargesWillBeDeleted": "将删除 {number} 个充电记录。",
+  "numberIdlesWillBeDeleted": "将删除 {number} 个空闲记录。"
 }

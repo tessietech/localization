@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Vaatii version {version}+",
   "infotainmentUpgradeRequired": "Tietoviihdejärjestelmän päivitys vaaditaan.",
   "firmwareUpdateRequired": "Laiteohjelmiston päivitys vaaditaan.",
-  "amountLoyaltyDiscountAvailable": "{amount} kanta-asiakasalennus saatavilla"
+  "amountLoyaltyDiscountAvailable": "{amount} kanta-asiakasalennus saatavilla",
+  "selectAll": "Valitse kaikki",
+  "numberOfTotalSelected": "{number} / {total} valittu",
+  "oneDriveWillBeDeleted": "1 ajo poistetaan.",
+  "oneChargeWillBeDeleted": "1 lataus poistetaan.",
+  "oneIdleWillBeDeleted": "1 joutokäynti poistetaan.",
+  "numberDrivesWillBeDeleted": "{number, plural, =1{1 ajo poistetaan.} other{{number} ajoa poistetaan.}}",
+  "numberChargesWillBeDeleted": "{number, plural, =1{1 lataus poistetaan.} other{{number} latausta poistetaan.}}",
+  "numberIdlesWillBeDeleted": "{number, plural, =1{1 joutokäynti poistetaan.} other{{number} joutokäyntiä poistetaan.}}"
 }

@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Requer {version}+",
   "infotainmentUpgradeRequired": "Atualização do sistema de infoentretenimento necessária.",
   "firmwareUpdateRequired": "Atualização de firmware necessária.",
-  "amountLoyaltyDiscountAvailable": "{amount} desconto de fidelidade disponível"
+  "amountLoyaltyDiscountAvailable": "{amount} desconto de fidelidade disponível",
+  "selectAll": "Selecionar tudo",
+  "numberOfTotalSelected": "{number, plural, one {Selecionado {number} de {total}} other {Selecionados {number} de {total}}}",
+  "oneDriveWillBeDeleted": "1 trajeto será eliminado.",
+  "oneChargeWillBeDeleted": "1 carregamento será eliminado.",
+  "oneIdleWillBeDeleted": "1 inatividade será eliminada.",
+  "numberDrivesWillBeDeleted": "{number, plural, one {{number} trajeto será eliminado.} other {{number} trajetos serão eliminados.}}",
+  "numberChargesWillBeDeleted": "{number, plural, one {{number} carregamento será eliminado.} other {{number} carregamentos serão eliminados.}}",
+  "numberIdlesWillBeDeleted": "{number, plural, one {{number} inatividade será eliminada.} other {{number} inatividades serão eliminadas.}}"
 }

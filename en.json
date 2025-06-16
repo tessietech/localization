@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Requires {version}+",
   "infotainmentUpgradeRequired": "Infotainment upgrade required.",
   "firmwareUpdateRequired": "Firmware update required.",
-  "amountLoyaltyDiscountAvailable": "{amount} loyalty discount available"
+  "amountLoyaltyDiscountAvailable": "{amount} loyalty discount available",
+  "selectAll": "Select all",
+  "numberOfTotalSelected": "{number} of {total} selected",
+  "oneDriveWillBeDeleted": "1 drive will be deleted.",
+  "oneChargeWillBeDeleted": "1 charge will be deleted.",
+  "oneIdleWillBeDeleted": "1 idle will be deleted.",
+  "numberDrivesWillBeDeleted": "{number} drives will be deleted.",
+  "numberChargesWillBeDeleted": "{number} charges will be deleted.",
+  "numberIdlesWillBeDeleted": "{number} idles will be deleted."
 }

@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "需要 {version}+ 版本",
   "infotainmentUpgradeRequired": "需要資訊娛樂系統升級。",
   "firmwareUpdateRequired": "需要韌體更新。",
-  "amountLoyaltyDiscountAvailable": "{amount} 會員折扣"
+  "amountLoyaltyDiscountAvailable": "{amount} 會員折扣",
+  "selectAll": "全選",
+  "numberOfTotalSelected": "{number} / {total} 已選取",
+  "oneDriveWillBeDeleted": "將刪除 1 個駕駛記錄。",
+  "oneChargeWillBeDeleted": "將刪除 1 個充電記錄。",
+  "oneIdleWillBeDeleted": "將刪除 1 個閒置記錄。",
+  "numberDrivesWillBeDeleted": "{number} 個駕駛記錄將被刪除。",
+  "numberChargesWillBeDeleted": "{number} 個充電記錄將被刪除。",
+  "numberIdlesWillBeDeleted": "{number} 個閒置記錄將被刪除。"
 }

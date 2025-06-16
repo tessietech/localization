@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Benötigt {version}+",
   "infotainmentUpgradeRequired": "Infotainment-Upgrade erforderlich.",
   "firmwareUpdateRequired": "Firmware-Update erforderlich.",
-  "amountLoyaltyDiscountAvailable": "{amount} Treuerabatt verfügbar"
+  "amountLoyaltyDiscountAvailable": "{amount} Treuerabatt verfügbar",
+  "selectAll": "Alle auswählen",
+  "numberOfTotalSelected": "{number} von {total} ausgewählt",
+  "oneDriveWillBeDeleted": "1 Fahrt wird gelöscht.",
+  "oneChargeWillBeDeleted": "1 Ladung wird gelöscht.",
+  "oneIdleWillBeDeleted": "1 Leerlauf wird gelöscht.",
+  "numberDrivesWillBeDeleted": "{number} Fahrten werden gelöscht.",
+  "numberChargesWillBeDeleted": "{number} Ladungen werden gelöscht.",
+  "numberIdlesWillBeDeleted": "{number} Leerläufe werden gelöscht."
 }

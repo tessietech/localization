@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "{version}+ sürümünü gerektirir",
   "infotainmentUpgradeRequired": "Bilgi-eğlence sistemi yükseltmesi gerekiyor.",
   "firmwareUpdateRequired": "Yazılım güncellemesi gerekiyor.",
-  "amountLoyaltyDiscountAvailable": "{amount} sadakat indirimi mevcut"
+  "amountLoyaltyDiscountAvailable": "{amount} sadakat indirimi mevcut",
+  "selectAll": "Tümünü Seç",
+  "numberOfTotalSelected": "{total} öğeden {number} tanesi seçildi",
+  "oneDriveWillBeDeleted": "1 sürüş silinecek.",
+  "oneChargeWillBeDeleted": "1 şarj silinecek.",
+  "oneIdleWillBeDeleted": "1 boşta kalma silinecek.",
+  "numberDrivesWillBeDeleted": "{number} sürüş silinecek.",
+  "numberChargesWillBeDeleted": "{number} şarj silinecek.",
+  "numberIdlesWillBeDeleted": "{number} boşta kalma silinecek."
 }

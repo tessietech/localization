@@ -2601,5 +2601,13 @@
   "requiresVersionPlus": "Krever {version}+",
   "infotainmentUpgradeRequired": "Infotainment-oppgradering kreves.",
   "firmwareUpdateRequired": "Firmwareoppdatering kreves.",
-  "amountLoyaltyDiscountAvailable": "{amount} lojalitetsrabatt tilgjengelig"
+  "amountLoyaltyDiscountAvailable": "{amount} lojalitetsrabatt tilgjengelig",
+  "selectAll": "Velg alle",
+  "numberOfTotalSelected": "{number} av {total} valgt",
+  "oneDriveWillBeDeleted": "1 kjøretur vil bli slettet.",
+  "oneChargeWillBeDeleted": "1 lading vil bli slettet.",
+  "oneIdleWillBeDeleted": "1 tomgang vil bli slettet.",
+  "numberDrivesWillBeDeleted": "{number} kjøreturer vil bli slettet.",
+  "numberChargesWillBeDeleted": "{number} ladinger vil bli slettet.",
+  "numberIdlesWillBeDeleted": "{number} tomganger vil bli slettet."
 }
