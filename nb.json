@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 tomgang vil bli slettet.",
   "numberDrivesWillBeDeleted": "{number} kjøreturer vil bli slettet.",
   "numberChargesWillBeDeleted": "{number} ladinger vil bli slettet.",
-  "numberIdlesWillBeDeleted": "{number} tomganger vil bli slettet."
+  "numberIdlesWillBeDeleted": "{number} tomganger vil bli slettet.",
+  "deselectAll": "Fjern alle valg"
 }

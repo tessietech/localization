@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 inaktivitet bliver slettet.",
   "numberDrivesWillBeDeleted": "{number} ture bliver slettet.",
   "numberChargesWillBeDeleted": "{number} opladninger bliver slettet.",
-  "numberIdlesWillBeDeleted": "{number} inaktiviteter bliver slettet."
+  "numberIdlesWillBeDeleted": "{number} inaktiviteter bliver slettet.",
+  "deselectAll": "Fravælg alle"
 }

@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 idle will be deleted.",
   "numberDrivesWillBeDeleted": "{number} drives will be deleted.",
   "numberChargesWillBeDeleted": "{number} charges will be deleted.",
-  "numberIdlesWillBeDeleted": "{number} idles will be deleted."
+  "numberIdlesWillBeDeleted": "{number} idles will be deleted.",
+  "deselectAll": "Deselect all"
 }

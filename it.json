@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 inattività verrà eliminata.",
   "numberDrivesWillBeDeleted": "{number} guide verranno eliminate.",
   "numberChargesWillBeDeleted": "{number} ricariche verranno eliminate.",
-  "numberIdlesWillBeDeleted": "{number} inattività verranno eliminate."
+  "numberIdlesWillBeDeleted": "{number} inattività verranno eliminate.",
+  "deselectAll": "Deseleziona tutto"
 }

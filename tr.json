@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 boşta kalma silinecek.",
   "numberDrivesWillBeDeleted": "{number} sürüş silinecek.",
   "numberChargesWillBeDeleted": "{number} şarj silinecek.",
-  "numberIdlesWillBeDeleted": "{number} boşta kalma silinecek."
+  "numberIdlesWillBeDeleted": "{number} boşta kalma silinecek.",
+  "deselectAll": "Tümünü Kaldır"
 }

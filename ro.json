@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 inactivitate va fi ștearsă.",
   "numberDrivesWillBeDeleted": "{number} unități vor fi șterse.",
   "numberChargesWillBeDeleted": "{number} încărcări vor fi șterse.",
-  "numberIdlesWillBeDeleted": "{number} ralanti-uri vor fi șterse."
+  "numberIdlesWillBeDeleted": "{number} ralanti-uri vor fi șterse.",
+  "deselectAll": "Deselectează tot"
 }

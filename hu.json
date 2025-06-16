@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 tétlen állapot törölve lesz.",
   "numberDrivesWillBeDeleted": "{number} vezetés törölve lesz.",
   "numberChargesWillBeDeleted": "{number} töltés törölve lesz.",
-  "numberIdlesWillBeDeleted": "{number} tétlen állapot törölve lesz."
+  "numberIdlesWillBeDeleted": "{number} tétlen állapot törölve lesz.",
+  "deselectAll": "Összes kijelölés törlése"
 }

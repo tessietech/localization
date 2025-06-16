@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "Bude smazáno 1 nečinné sezení.",
   "numberDrivesWillBeDeleted": "{number} jízdy budou smazány.",
   "numberChargesWillBeDeleted": "{number} nabíjení bude smazáno.",
-  "numberIdlesWillBeDeleted": "{number} stání bude smazáno."
+  "numberIdlesWillBeDeleted": "{number} stání bude smazáno.",
+  "deselectAll": "Odznačit vše"
 }

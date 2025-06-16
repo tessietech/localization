@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "Se eliminará 1 inactivo.",
   "numberDrivesWillBeDeleted": "{number} viajes serán eliminados.",
   "numberChargesWillBeDeleted": "{number} cargas serán eliminadas.",
-  "numberIdlesWillBeDeleted": "{number} inactivos serán eliminados."
+  "numberIdlesWillBeDeleted": "{number} inactivos serán eliminados.",
+  "deselectAll": "Deseleccionar todo"
 }

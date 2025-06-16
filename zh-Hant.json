@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "將刪除 1 個閒置記錄。",
   "numberDrivesWillBeDeleted": "{number} 個駕駛記錄將被刪除。",
   "numberChargesWillBeDeleted": "{number} 個充電記錄將被刪除。",
-  "numberIdlesWillBeDeleted": "{number} 個閒置記錄將被刪除。"
+  "numberIdlesWillBeDeleted": "{number} 個閒置記錄將被刪除。",
+  "deselectAll": "全部取消選擇"
 }

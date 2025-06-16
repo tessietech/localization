@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 postój zostanie usunięty.",
   "numberDrivesWillBeDeleted": "{number} przejazdów zostanie usuniętych.",
   "numberChargesWillBeDeleted": "{number} ładowań zostanie usuniętych.",
-  "numberIdlesWillBeDeleted": "{number} przestojów zostanie usuniętych."
+  "numberIdlesWillBeDeleted": "{number} przestojów zostanie usuniętych.",
+  "deselectAll": "Odznacz wszystkie"
 }

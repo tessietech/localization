@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 Leerlauf wird gelöscht.",
   "numberDrivesWillBeDeleted": "{number} Fahrten werden gelöscht.",
   "numberChargesWillBeDeleted": "{number} Ladungen werden gelöscht.",
-  "numberIdlesWillBeDeleted": "{number} Leerläufe werden gelöscht."
+  "numberIdlesWillBeDeleted": "{number} Leerläufe werden gelöscht.",
+  "deselectAll": "Alle abwählen"
 }

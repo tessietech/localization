@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 joutokäynti poistetaan.",
   "numberDrivesWillBeDeleted": "{number} ajomatkaa poistetaan.",
   "numberChargesWillBeDeleted": "{number} latausta poistetaan.",
-  "numberIdlesWillBeDeleted": "{number} joutokäyntiä poistetaan."
+  "numberIdlesWillBeDeleted": "{number} joutokäyntiä poistetaan.",
+  "deselectAll": "Poista valinnat"
 }

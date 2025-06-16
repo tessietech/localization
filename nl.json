@@ -2609,5 +2609,6 @@
   "oneIdleWillBeDeleted": "1 inactieve periode wordt verwijderd.",
   "numberDrivesWillBeDeleted": "{number} ritten worden verwijderd.",
   "numberChargesWillBeDeleted": "{number} laadsessies worden verwijderd.",
-  "numberIdlesWillBeDeleted": "{number} momenten van inactiviteit worden verwijderd."
+  "numberIdlesWillBeDeleted": "{number} momenten van inactiviteit worden verwijderd.",
+  "deselectAll": "Alles deselecteren"
 }
