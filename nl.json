@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} ritten worden verwijderd.",
   "numberChargesWillBeDeleted": "{number} laadsessies worden verwijderd.",
   "numberIdlesWillBeDeleted": "{number} momenten van inactiviteit worden verwijderd.",
-  "deselectAll": "Alles deselecteren"
+  "deselectAll": "Alles deselecteren",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Gebruik de Telefoonsleutel met Tesla of Tessie, niet beide, om verbindingsproblemen te vermijden"
 }

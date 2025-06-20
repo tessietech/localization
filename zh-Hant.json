@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} 個駕駛記錄將被刪除。",
   "numberChargesWillBeDeleted": "{number} 個充電記錄將被刪除。",
   "numberIdlesWillBeDeleted": "{number} 個閒置記錄將被刪除。",
-  "deselectAll": "全部取消選擇"
+  "deselectAll": "全部取消選擇",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "提示：手機鑰匙請在 Tesla 或 Tessie 上擇一使用，避免連線問題"
 }

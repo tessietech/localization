@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} sürüş silinecek.",
   "numberChargesWillBeDeleted": "{number} şarj silinecek.",
   "numberIdlesWillBeDeleted": "{number} boşta kalma silinecek.",
-  "deselectAll": "Tümünü Kaldır"
+  "deselectAll": "Tümünü Kaldır",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "İpucu: Bağlantı sorunlarını önlemek için Telefon Anahtarını Tesla veya Tessie ile kullanın, ikisiyle birden değil"
 }

@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} Fahrten werden gelöscht.",
   "numberChargesWillBeDeleted": "{number} Ladungen werden gelöscht.",
   "numberIdlesWillBeDeleted": "{number} Leerläufe werden gelöscht.",
-  "deselectAll": "Alle abwählen"
+  "deselectAll": "Alle abwählen",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tipp: Verwende den Autoschlüssel mit Tesla oder Tessie, nicht mit beiden, um Verbindungsprobleme zu vermeiden."
 }

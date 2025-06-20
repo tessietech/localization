@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "드라이브 {number}개가 삭제됩니다.",
   "numberChargesWillBeDeleted": "충전 기록 {number}개가 삭제됩니다.",
   "numberIdlesWillBeDeleted": "유휴 상태 기록 {number}개가 삭제됩니다.",
-  "deselectAll": "모두 선택 해제"
+  "deselectAll": "모두 선택 해제",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "팁: 연결 문제를 피하려면 Tesla 또는 Tessie에서만 폰 키를 사용하세요."
 }

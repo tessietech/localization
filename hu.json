@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} vezetés törölve lesz.",
   "numberChargesWillBeDeleted": "{number} töltés törölve lesz.",
   "numberIdlesWillBeDeleted": "{number} tétlen állapot törölve lesz.",
-  "deselectAll": "Összes kijelölés törlése"
+  "deselectAll": "Összes kijelölés törlése",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tipp: A telefonkulcsot használja a Tesla-val vagy a Tessie-vel, ne mindkettővel, hogy elkerülje a kapcsolódási problémákat"
 }

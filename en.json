@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} drives will be deleted.",
   "numberChargesWillBeDeleted": "{number} charges will be deleted.",
   "numberIdlesWillBeDeleted": "{number} idles will be deleted.",
-  "deselectAll": "Deselect all"
+  "deselectAll": "Deselect all",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Use Phone Key with Tesla or Tessie, not both, to avoid connection issues"
 }

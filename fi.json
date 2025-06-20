@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} ajomatkaa poistetaan.",
   "numberChargesWillBeDeleted": "{number} latausta poistetaan.",
   "numberIdlesWillBeDeleted": "{number} joutokäyntiä poistetaan.",
-  "deselectAll": "Poista valinnat"
+  "deselectAll": "Poista valinnat",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Vihje: Käytä puhelinavainta Teslan tai Tessien kanssa, ei molempien, välttääksesi yhteysongelmia"
 }

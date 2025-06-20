@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} viajes serán eliminados.",
   "numberChargesWillBeDeleted": "{number} cargas serán eliminadas.",
   "numberIdlesWillBeDeleted": "{number} inactivos serán eliminados.",
-  "deselectAll": "Deseleccionar todo"
+  "deselectAll": "Deseleccionar todo",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Consejo: Usa la Llave del Móvil con Tesla o Tessie, no con ambos, para evitar problemas de conexión"
 }

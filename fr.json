@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} trajet(s) sera/seront supprimé(s).",
   "numberChargesWillBeDeleted": "{number} charge(s) sera/seront supprimée(s).",
   "numberIdlesWillBeDeleted": "{number} ralenti(s) sera/seront supprimé(s).",
-  "deselectAll": "Tout désélectionner"
+  "deselectAll": "Tout désélectionner",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Conseil: Utilisez la clé du téléphone avec Tesla ou Tessie, pas les deux, pour éviter les problèmes de connexion"
 }

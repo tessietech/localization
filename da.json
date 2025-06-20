@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} ture bliver slettet.",
   "numberChargesWillBeDeleted": "{number} opladninger bliver slettet.",
   "numberIdlesWillBeDeleted": "{number} inaktiviteter bliver slettet.",
-  "deselectAll": "Fravælg alle"
+  "deselectAll": "Fravælg alle",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Brug telefonnøgle med Tesla eller Tessie, ikke begge, for at undgå forbindelsesproblemer"
 }

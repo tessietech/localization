@@ -2610,5 +2610,6 @@
   "numberDrivesWillBeDeleted": "{number} unități vor fi șterse.",
   "numberChargesWillBeDeleted": "{number} încărcări vor fi șterse.",
   "numberIdlesWillBeDeleted": "{number} ralanti-uri vor fi șterse.",
-  "deselectAll": "Deselectează tot"
+  "deselectAll": "Deselectează tot",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Sfat: Folosește Cheia prin Telefon cu Tesla sau Tessie, nu cu ambele, pentru a evita probleme de conexiune."
 }
