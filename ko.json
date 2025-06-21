@@ -2615,5 +2615,6 @@
   "lastDataSignal": "마지막 데이터 신호",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "네트워크 소프트웨어가 차량을 방해하지 않는지 확인하십시오.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "차량에서 안전 > 타사 앱 데이터 스트리밍 허용이 활성화되어 있는지, 네트워크 소프트웨어가 차량을 방해하지 않는지 확인하십시오.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "차량이 깨어나면 데이터가 보고됩니다."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "차량이 깨어나면 데이터가 보고됩니다.",
+  "noSupportedVehiclesFound": "지원되는 차량을 찾을 수 없습니다."
 }

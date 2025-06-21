@@ -2615,5 +2615,6 @@
   "lastDataSignal": "Son veri sinyali",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Ağ yazılımının araçla etkileşime girmediğinden emin olun.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Araçta Güvenlik > Üçüncü Taraf Uygulama Veri Akışına İzin Ver seçeneğinin etkin olduğundan ve ağ yazılımının araçla etkileşime girmediğinden emin olun.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "Araç uyandığında veriler raporlanacaktır."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Araç uyandığında veriler raporlanacaktır.",
+  "noSupportedVehiclesFound": "Desteklenen araç bulunamadı"
 }

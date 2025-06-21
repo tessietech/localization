@@ -2615,5 +2615,6 @@
   "lastDataSignal": "上次資料訊號",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "請確認沒有網路軟體干擾車輛。",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "請確認車輛已啟用「安全」>「允許第三方應用程式資料串流」，且沒有網路軟體干擾車輛。",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "車輛喚醒後，數據將會報告。"
+  "dataWillBeReportedOnceTheVehicleIsAwake": "車輛喚醒後，數據將會報告。",
+  "noSupportedVehiclesFound": "找不到支援的車輛"
 }

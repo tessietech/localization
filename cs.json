@@ -2615,5 +2615,6 @@
   "lastDataSignal": "Poslední datový signál",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Ujistěte se, že žádný síťový software nezasahuje do vozidla.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Ujistěte se, že je ve vozidle povoleno Zabezpečení > Povolit datovému streamování aplikací třetích stran a že žádný síťový software nezasahuje do vozidla.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "Data budou hlášena, jakmile se vozidlo probudí."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Data budou hlášena, jakmile se vozidlo probudí.",
+  "noSupportedVehiclesFound": "Nebyly nalezeny žádné podporované vozy"
 }

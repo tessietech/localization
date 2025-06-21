@@ -2615,5 +2615,6 @@
   "lastDataSignal": "Letztes Datensignal",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Stelle sicher, dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Stelle sicher, dass Sicherheit > Datenstreaming für Drittanbieter-Apps zulassen im Fahrzeug aktiviert ist und dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "Die Daten werden gemeldet, sobald das Fahrzeug aktiv ist."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Die Daten werden gemeldet, sobald das Fahrzeug aktiv ist.",
+  "noSupportedVehiclesFound": "Keine unterstützten Fahrzeuge gefunden"
 }

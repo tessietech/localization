@@ -2615,5 +2615,6 @@
   "lastDataSignal": "Ultimul semnal de date",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Asigurați-vă că niciun software de rețea nu interferează cu vehiculul.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Asigurați-vă că opțiunea Siguranță > Permiteți streamingul de date al aplicațiilor terțe este activată în vehicul și că niciun software de rețea nu interferează cu vehiculul.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "Datele vor fi raportate odată ce vehiculul este activ."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Datele vor fi raportate odată ce vehiculul este activ.",
+  "noSupportedVehiclesFound": "Nu au fost găsite vehicule acceptate"
 }

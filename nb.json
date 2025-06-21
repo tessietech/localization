@@ -2615,5 +2615,6 @@
   "lastDataSignal": "Siste datasignal",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Forsikre deg om at ingen nettverksprogramvare forstyrrer kjøretøyet.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Forsikre deg om at Sikkerhet > Tillat datastrømming fra tredjepartsapper er aktivert i kjøretøyet, og at ingen nettverksprogramvare forstyrrer kjøretøyet.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "Data will be reported once the vehicle is awake."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Data will be reported once the vehicle is awake.",
+  "noSupportedVehiclesFound": "Ingen støttede kjøretøy funnet"
 }

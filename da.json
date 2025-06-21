@@ -2615,5 +2615,6 @@
   "lastDataSignal": "Sidste datasignal",
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Sørg for, at intet netværkssoftware forstyrrer køretøjet.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Sørg for, at Sikkerhed > Tillad datastrømning for tredjepartsapp er aktiveret i køretøjet, og at intet netværkssoftware forstyrrer køretøjet.",
-  "dataWillBeReportedOnceTheVehicleIsAwake": "Data rapporteres, når køretøjet er vågent."
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Data rapporteres, når køretøjet er vågent.",
+  "noSupportedVehiclesFound": "Ingen understøttede køretøjer fundet"
 }
