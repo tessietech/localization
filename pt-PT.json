@@ -2213,9 +2213,9 @@
   "configureYourTeslaToCollectAndSendTelemetryData": "Configure o seu Tesla para enviar dados de telemetria",
   "dataIsEndtoendEncryptedOwnedByYouAndIncursNo": "Os dados são encriptados de ponta a ponta, são da sua propriedade e não incorrem em qualquer utilização adicional da bateria",
   "manageTelemetry": "Gerir telemetria",
-  "dataReceived": "Dados Recebidos",
-  "noDataReceived": "Nenhuns Dados Recebidos",
-  "dataOutdated": "Dados Desatualizados",
+  "dataReceived": "Dados recebidos",
+  "noDataReceived": "Nenhuns dados recebidos",
+  "dataOutdated": "Dados desatualizados",
   "deploying": "A implementar",
   "unsupportedHardware": "Hardware Não Suportado",
   "unsupportedFirmware": "Firmware Não Suportado",
@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} carregamentos serão eliminados.",
   "numberIdlesWillBeDeleted": "{number} inactividades serão eliminadas.",
   "deselectAll": "Desmarcar todos",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Dica: Use a Chave do Telemóvel com a Tesla ou a Tessie, não com ambas, para evitar problemas de conexão"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Dica: Use a Chave do Telemóvel com a Tesla ou a Tessie, não com ambas, para evitar problemas de conexão",
+  "lastDataSignal": "Último sinal de dados",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Certifique-se de que nenhum software de rede está a interferir com o veículo.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Certifique-se de que Segurança > Permitir fluxo de dados de aplicações de terceiros está ativado no veículo e de que nenhum software de rede está a interferir com o veículo.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Os dados serão reportados quando o veículo estiver ativo."
 }

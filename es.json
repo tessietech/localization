@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} cargas serán eliminadas.",
   "numberIdlesWillBeDeleted": "{number} inactivos serán eliminados.",
   "deselectAll": "Deseleccionar todo",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Consejo: Usa la Llave del Móvil con Tesla o Tessie, no con ambos, para evitar problemas de conexión"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Consejo: Usa la Llave del Móvil con Tesla o Tessie, no con ambos, para evitar problemas de conexión",
+  "lastDataSignal": "Última señal de datos",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Asegúrate de que ningún software de red esté interfiriendo con el vehículo.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Asegúrate de que Seguridad > Permitir streaming de datos de aplicaciones de terceros esté habilitado en el vehículo y de que ningún software de red esté interfiriendo con el vehículo.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Los datos se informarán una vez que el vehículo esté despierto."
 }

@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} charge(s) sera/seront supprimée(s).",
   "numberIdlesWillBeDeleted": "{number} ralenti(s) sera/seront supprimé(s).",
   "deselectAll": "Tout désélectionner",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Conseil: Utilisez la clé du téléphone avec Tesla ou Tessie, pas les deux, pour éviter les problèmes de connexion"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Conseil: Utilisez la clé du téléphone avec Tesla ou Tessie, pas les deux, pour éviter les problèmes de connexion",
+  "lastDataSignal": "Dernier signal de données",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Assurez-vous qu'aucun logiciel réseau n'interfère avec le véhicule.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Assurez-vous que Sûreté > Autoriser la diffusion de données d'applications tierces est activé dans le véhicule et qu'aucun logiciel réseau n'interfère avec le véhicule.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Les données seront rapportées une fois que le véhicule sera réveillé."
 }

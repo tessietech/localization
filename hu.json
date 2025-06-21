@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} töltés törölve lesz.",
   "numberIdlesWillBeDeleted": "{number} tétlen állapot törölve lesz.",
   "deselectAll": "Összes kijelölés törlése",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tipp: A telefonkulcsot használja a Tesla-val vagy a Tessie-vel, ne mindkettővel, hogy elkerülje a kapcsolódási problémákat"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tipp: A telefonkulcsot használja a Tesla-val vagy a Tessie-vel, ne mindkettővel, hogy elkerülje a kapcsolódási problémákat",
+  "lastDataSignal": "Utolsó adatjel",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Ellenőrizze, hogy semmilyen hálózati szoftver nem zavarja a jármű működését.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Ellenőrizze, hogy a Biztonság > Harmadik féltől származó alkalmazások adatfolyamának engedélyezése engedélyezve van a járműben, és hogy semmilyen hálózati szoftver nem zavarja a jármű működését.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Az adatok a jármű felébredése után kerülnek jelentésre."
 }

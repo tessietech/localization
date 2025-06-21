@@ -2213,9 +2213,9 @@
   "configureYourTeslaToCollectAndSendTelemetryData": "Configure your Tesla to send telemetry data",
   "dataIsEndtoendEncryptedOwnedByYouAndIncursNo": "Data is end-to-end encrypted, owned by you and incurs no additional battery usage",
   "manageTelemetry": "Manage telemetry",
-  "dataReceived": "Data Received",
-  "noDataReceived": "No Data Received",
-  "dataOutdated": "Data Outdated",
+  "dataReceived": "Data received",
+  "noDataReceived": "No data received",
+  "dataOutdated": "Data outdated",
   "deploying": "Deploying",
   "unsupportedHardware": "Unsupported Hardware",
   "unsupportedFirmware": "Unsupported Firmware",
@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} charges will be deleted.",
   "numberIdlesWillBeDeleted": "{number} idles will be deleted.",
   "deselectAll": "Deselect all",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Use Phone Key with Tesla or Tessie, not both, to avoid connection issues"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Use Phone Key with Tesla or Tessie, not both, to avoid connection issues",
+  "lastDataSignal": "Last data signal",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Make sure that no network software is interfering with the vehicle.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Make sure that Safety > Allow Third-Party App Data Streaming is enabled in the vehicle and that no network software is interfering with the vehicle.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Data will be reported once the vehicle is awake."
 }

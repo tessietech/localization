@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} 個充電記錄將被刪除。",
   "numberIdlesWillBeDeleted": "{number} 個閒置記錄將被刪除。",
   "deselectAll": "全部取消選擇",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "提示：手機鑰匙請在 Tesla 或 Tessie 上擇一使用，避免連線問題"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "提示：手機鑰匙請在 Tesla 或 Tessie 上擇一使用，避免連線問題",
+  "lastDataSignal": "上次資料訊號",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "請確認沒有網路軟體干擾車輛。",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "請確認車輛已啟用「安全」>「允許第三方應用程式資料串流」，且沒有網路軟體干擾車輛。",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "車輛喚醒後，數據將會報告。"
 }

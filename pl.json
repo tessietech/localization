@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} ładowań zostanie usuniętych.",
   "numberIdlesWillBeDeleted": "{number} przestojów zostanie usuniętych.",
   "deselectAll": "Odznacz wszystkie",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Wskazówka: używaj klucza w telefonie tylko z Teslą albo tylko z Tessie, żeby uniknąć problemów z połączeniem"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Wskazówka: używaj klucza w telefonie tylko z Teslą albo tylko z Tessie, żeby uniknąć problemów z połączeniem",
+  "lastDataSignal": "Ostatni sygnał danych",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Upewnij się, że żadne oprogramowanie sieciowe nie zakłóca działania pojazdu.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Upewnij się, że w pojeździe włączona jest opcja Bezpieczeństwo > Zezwalaj na strumieniowe przesyłanie danych aplikacji firm trzecich i że żadne oprogramowanie sieciowe nie zakłóca działania pojazdu.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Dane zostaną zgłoszone, gdy pojazd się obudzi."
 }

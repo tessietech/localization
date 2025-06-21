@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "将删除 {number} 个充电记录。",
   "numberIdlesWillBeDeleted": "将删除 {number} 个空闲记录。",
   "deselectAll": "全部取消选择",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "提示：请在 Tesla 或 Tessie 中使用手机钥匙，不要同时使用，以避免连接问题"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "提示：请在 Tesla 或 Tessie 中使用手机钥匙，不要同时使用，以避免连接问题",
+  "lastDataSignal": "上次数据信号",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "确保没有网络软件干扰车辆。",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "确保车辆中已启用“安全 > 允许第三方应用数据流式传输”，并且没有网络软件干扰车辆。",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "车辆唤醒后，将会报告数据。"
 }

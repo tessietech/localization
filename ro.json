@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} încărcări vor fi șterse.",
   "numberIdlesWillBeDeleted": "{number} ralanti-uri vor fi șterse.",
   "deselectAll": "Deselectează tot",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Sfat: Folosește Cheia prin Telefon cu Tesla sau Tessie, nu cu ambele, pentru a evita probleme de conexiune."
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Sfat: Folosește Cheia prin Telefon cu Tesla sau Tessie, nu cu ambele, pentru a evita probleme de conexiune.",
+  "lastDataSignal": "Ultimul semnal de date",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Asigurați-vă că niciun software de rețea nu interferează cu vehiculul.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Asigurați-vă că opțiunea Siguranță > Permiteți streamingul de date al aplicațiilor terțe este activată în vehicul și că niciun software de rețea nu interferează cu vehiculul.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Datele vor fi raportate odată ce vehiculul este activ."
 }

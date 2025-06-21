@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} latausta poistetaan.",
   "numberIdlesWillBeDeleted": "{number} joutokäyntiä poistetaan.",
   "deselectAll": "Poista valinnat",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Vihje: Käytä puhelinavainta Teslan tai Tessien kanssa, ei molempien, välttääksesi yhteysongelmia"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Vihje: Käytä puhelinavainta Teslan tai Tessien kanssa, ei molempien, välttääksesi yhteysongelmia",
+  "lastDataSignal": "Viimeisin datasignaali",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Varmista, että mikään verkkosovellus ei häiritse ajoneuvoa.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Varmista, että ajoneuvossa on käytössä Turvallisuus > Salli kolmannen osapuolen sovellusten datan suoratoisto ja että mikään verkkosovellus ei häiritse ajoneuvoa.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Tiedot ilmoitetaan, kun ajoneuvo on hereillä."
 }

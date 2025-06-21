@@ -2214,7 +2214,7 @@
   "dataIsEndtoendEncryptedOwnedByYouAndIncursNo": "Die Daten sind durchgehend verschlüsselt, gehören dir und verursachen keinen zusätzlichen Batterieverbrauch",
   "manageTelemetry": "Telemetrie verwalten",
   "dataReceived": "Daten empfangen",
-  "noDataReceived": "Keine Daten empfangen",
+  "noDataReceived": "Keine daten empfangen",
   "dataOutdated": "Daten veraltet",
   "deploying": "Wird bereitgestellt",
   "unsupportedHardware": "Nicht unterstützte Hardware",
@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} Ladungen werden gelöscht.",
   "numberIdlesWillBeDeleted": "{number} Leerläufe werden gelöscht.",
   "deselectAll": "Alle abwählen",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tipp: Verwende den Autoschlüssel mit Tesla oder Tessie, nicht mit beiden, um Verbindungsprobleme zu vermeiden."
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tipp: Verwende den Autoschlüssel mit Tesla oder Tessie, nicht mit beiden, um Verbindungsprobleme zu vermeiden.",
+  "lastDataSignal": "Letztes Datensignal",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Stelle sicher, dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Stelle sicher, dass Sicherheit > Datenstreaming für Drittanbieter-Apps zulassen im Fahrzeug aktiviert ist und dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Die Daten werden gemeldet, sobald das Fahrzeug aktiv ist."
 }

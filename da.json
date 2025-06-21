@@ -2611,5 +2611,9 @@
   "numberChargesWillBeDeleted": "{number} opladninger bliver slettet.",
   "numberIdlesWillBeDeleted": "{number} inaktiviteter bliver slettet.",
   "deselectAll": "Fravælg alle",
-  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Brug telefonnøgle med Tesla eller Tessie, ikke begge, for at undgå forbindelsesproblemer"
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Brug telefonnøgle med Tesla eller Tessie, ikke begge, for at undgå forbindelsesproblemer",
+  "lastDataSignal": "Sidste datasignal",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Sørg for, at intet netværkssoftware forstyrrer køretøjet.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Sørg for, at Sikkerhed > Tillad datastrømning for tredjepartsapp er aktiveret i køretøjet, og at intet netværkssoftware forstyrrer køretøjet.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Data rapporteres, når køretøjet er vågent."
 }
