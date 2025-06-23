@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Certifique-se de que nenhum software de rede está a interferir com o veículo.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Certifique-se de que Segurança > Permitir fluxo de dados de aplicações de terceiros está ativado no veículo e de que nenhum software de rede está a interferir com o veículo.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Os dados serão reportados quando o veículo estiver ativo.",
-  "noSupportedVehiclesFound": "Nenhum veículo suportado encontrado"
+  "noSupportedVehiclesFound": "Nenhum veículo suportado encontrado",
+  "drivingChargingBatteryStats": "Condução, carregamento e estatísticas da bateria",
+  "easilyTransferToADifferentVehicle": "Transfira facilmente para um veículo diferente",
+  "includesTheseFeatures": "Inclui estas funcionalidades",
+  "includesEverythingInPlanPlus": "Inclui tudo no plano {plan}, mais"
 }

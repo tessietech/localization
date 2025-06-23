@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Ağ yazılımının araçla etkileşime girmediğinden emin olun.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Araçta Güvenlik > Üçüncü Taraf Uygulama Veri Akışına İzin Ver seçeneğinin etkin olduğundan ve ağ yazılımının araçla etkileşime girmediğinden emin olun.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Araç uyandığında veriler raporlanacaktır.",
-  "noSupportedVehiclesFound": "Desteklenen araç bulunamadı"
+  "noSupportedVehiclesFound": "Desteklenen araç bulunamadı",
+  "drivingChargingBatteryStats": "Sürüş, şarj ve pil istatistikleri",
+  "easilyTransferToADifferentVehicle": "Farklı bir araca kolayca aktarın",
+  "includesTheseFeatures": "Bu özellikleri içerir",
+  "includesEverythingInPlanPlus": "{plan} içindeki her şeyi ve ayrıca şunları içerir"
 }

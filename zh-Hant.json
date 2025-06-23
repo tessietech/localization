@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "請確認沒有網路軟體干擾車輛。",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "請確認車輛已啟用「安全」>「允許第三方應用程式資料串流」，且沒有網路軟體干擾車輛。",
   "dataWillBeReportedOnceTheVehicleIsAwake": "車輛喚醒後，數據將會報告。",
-  "noSupportedVehiclesFound": "找不到支援的車輛"
+  "noSupportedVehiclesFound": "找不到支援的車輛",
+  "drivingChargingBatteryStats": "駕駛、充電和電池統計資料",
+  "easilyTransferToADifferentVehicle": "輕鬆轉移到不同的車輛",
+  "includesTheseFeatures": "包含以下功能",
+  "includesEverythingInPlanPlus": "包含 {plan} 中的所有內容，加上"
 }

@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "네트워크 소프트웨어가 차량을 방해하지 않는지 확인하십시오.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "차량에서 안전 > 타사 앱 데이터 스트리밍 허용이 활성화되어 있는지, 네트워크 소프트웨어가 차량을 방해하지 않는지 확인하십시오.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "차량이 깨어나면 데이터가 보고됩니다.",
-  "noSupportedVehiclesFound": "지원되는 차량을 찾을 수 없습니다."
+  "noSupportedVehiclesFound": "지원되는 차량을 찾을 수 없습니다.",
+  "drivingChargingBatteryStats": "운전, 충전 및 배터리 통계",
+  "easilyTransferToADifferentVehicle": "다른 차량으로 쉽게 전송",
+  "includesTheseFeatures": "다음 기능 포함",
+  "includesEverythingInPlanPlus": "{plan}의 모든 기능 포함 및 추가 기능"
 }

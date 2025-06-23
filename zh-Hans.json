@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "确保没有网络软件干扰车辆。",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "确保车辆中已启用“安全 > 允许第三方应用数据流式传输”，并且没有网络软件干扰车辆。",
   "dataWillBeReportedOnceTheVehicleIsAwake": "车辆唤醒后，将会报告数据。",
-  "noSupportedVehiclesFound": "未找到受支持的车辆"
+  "noSupportedVehiclesFound": "未找到受支持的车辆",
+  "drivingChargingBatteryStats": "驾驶、充电和电池统计信息",
+  "easilyTransferToADifferentVehicle": "轻松转移到其他车辆",
+  "includesTheseFeatures": "包括以下功能",
+  "includesEverythingInPlanPlus": "包含{plan}中的所有内容，外加"
 }

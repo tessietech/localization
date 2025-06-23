@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Stelle sicher, dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Stelle sicher, dass Sicherheit > Datenstreaming für Drittanbieter-Apps zulassen im Fahrzeug aktiviert ist und dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Die Daten werden gemeldet, sobald das Fahrzeug aktiv ist.",
-  "noSupportedVehiclesFound": "Keine unterstützten Fahrzeuge gefunden"
+  "noSupportedVehiclesFound": "Keine unterstützten Fahrzeuge gefunden",
+  "drivingChargingBatteryStats": "Fahr-, Lade- und Batteriestatistiken",
+  "easilyTransferToADifferentVehicle": "Einfacher Wechsel zu einem anderen Fahrzeug",
+  "includesTheseFeatures": "Enthält diese Funktionen",
+  "includesEverythingInPlanPlus": "Enthält alles in {plan} plus"
 }

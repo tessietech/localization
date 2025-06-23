@@ -2616,5 +2616,9 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Varmista, että mikään verkkosovellus ei häiritse ajoneuvoa.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Varmista, että ajoneuvossa on käytössä Turvallisuus > Salli kolmannen osapuolen sovellusten datan suoratoisto ja että mikään verkkosovellus ei häiritse ajoneuvoa.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Tiedot ilmoitetaan, kun ajoneuvo on hereillä.",
-  "noSupportedVehiclesFound": "Yhtään tuettua ajoneuvoa ei löytynyt"
+  "noSupportedVehiclesFound": "Yhtään tuettua ajoneuvoa ei löytynyt",
+  "drivingChargingBatteryStats": "Ajo-, lataus- ja akkutiedot",
+  "easilyTransferToADifferentVehicle": "Siirrä helposti eri ajoneuvoon",
+  "includesTheseFeatures": "Sisältää nämä ominaisuudet",
+  "includesEverythingInPlanPlus": "Sisältää kaiken paketissa {plan}, sekä"
 }
