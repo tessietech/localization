@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Fahr-, Lade- und Batteriestatistiken",
   "easilyTransferToADifferentVehicle": "Einfacher Wechsel zu einem anderen Fahrzeug",
   "includesTheseFeatures": "Enthält diese Funktionen",
-  "includesEverythingInPlanPlus": "Enthält alles in {plan} plus"
+  "includesEverythingInPlanPlus": "Enthält alles in {plan} plus",
+  "enableSafetyScreenToggle": "Aktivieren Sie Sicherheit > Streaming von Daten durch Apps von Drittanbietern auf dem Touchscreen des Fahrzeugs zulassen.",
+  "updatePermissions": "Berechtigungen aktualisieren"
 }

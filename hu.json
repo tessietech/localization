@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Vezetési, töltési és akkumulátor statisztikák",
   "easilyTransferToADifferentVehicle": "Könnyen átvihető egy másik járműbe",
   "includesTheseFeatures": "Ezeket a funkciókat tartalmazza",
-  "includesEverythingInPlanPlus": "Mindent tartalmaz a(z) {plan} csomagban, plusz"
+  "includesEverythingInPlanPlus": "Mindent tartalmaz a(z) {plan} csomagban, plusz",
+  "enableSafetyScreenToggle": "Engedélyezze a Biztonság > Harmadik féltől származó alkalmazás adatfolyamának engedélyezését a jármű érintőképernyőjén.",
+  "updatePermissions": "Jogosultságok frissítése"
 }

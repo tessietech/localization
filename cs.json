@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Statistiky o jízdě, nabíjení a baterii",
   "easilyTransferToADifferentVehicle": "Snadno přeneste do jiného vozidla",
   "includesTheseFeatures": "Zahrnuje tyto funkce",
-  "includesEverythingInPlanPlus": "Zahrnuje vše v plánu {plan} a navíc"
+  "includesEverythingInPlanPlus": "Zahrnuje vše v plánu {plan} a navíc",
+  "enableSafetyScreenToggle": "Povolte Bezpečnost > Povoliť streaming dát aplikácií tretích strán na dotykovej obrazovke vozidla.",
+  "updatePermissions": "Aktualizovat oprávnění"
 }

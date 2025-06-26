@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Statistici despre condus, încărcare și baterie",
   "easilyTransferToADifferentVehicle": "Transferați ușor la un vehicul diferit",
   "includesTheseFeatures": "Include aceste caracteristici",
-  "includesEverythingInPlanPlus": "Include totul din {plan}, plus"
+  "includesEverythingInPlanPlus": "Include totul din {plan}, plus",
+  "enableSafetyScreenToggle": "Activa Segurança > Permitir Streaming de dados da aplicação de terceiros no ecrã tátil do veículo.",
+  "updatePermissions": "Actualizați permisiunile"
 }

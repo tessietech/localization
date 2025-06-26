@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Conducción, carga y estadísticas de la batería",
   "easilyTransferToADifferentVehicle": "Transfiere fácilmente a un vehículo diferente",
   "includesTheseFeatures": "Incluye estas características",
-  "includesEverythingInPlanPlus": "Incluye todo en {plan}, más"
+  "includesEverythingInPlanPlus": "Incluye todo en {plan}, más",
+  "enableSafetyScreenToggle": "Activar Segurança > Permitir fluxo de dados de aplicações de terceiros no ecrã tátil do veículo.",
+  "updatePermissions": "Actualizar permisos"
 }

@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Rijden, opladen & batterijstatistieken",
   "easilyTransferToADifferentVehicle": "Gemakkelijk over te zetten naar een ander voertuig",
   "includesTheseFeatures": "Bevat deze functies",
-  "includesEverythingInPlanPlus": "Bevat alles in {plan}, plus"
+  "includesEverythingInPlanPlus": "Bevat alles in {plan}, plus",
+  "enableSafetyScreenToggle": "Schakel Veiligheid > Gegevensstreaming van apps van derden toestaan in op het touchscreen van de auto.",
+  "updatePermissions": "Update rechten"
 }

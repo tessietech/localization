@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Ajo-, lataus- ja akkutiedot",
   "easilyTransferToADifferentVehicle": "Siirrä helposti eri ajoneuvoon",
   "includesTheseFeatures": "Sisältää nämä ominaisuudet",
-  "includesEverythingInPlanPlus": "Sisältää kaiken paketissa {plan}, sekä"
+  "includesEverythingInPlanPlus": "Sisältää kaiken paketissa {plan}, sekä",
+  "enableSafetyScreenToggle": "Ota käyttöön Asetukset > Salli kolmannen osapuolen sovellusten datan suoratoisto auton kosketusnäytössä.",
+  "updatePermissions": "Päivitä käyttöoikeudet"
 }

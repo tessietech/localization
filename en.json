@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Driving, charging & battery stats",
   "easilyTransferToADifferentVehicle": "Easily transfer to a different vehicle",
   "includesTheseFeatures": "Includes these features",
-  "includesEverythingInPlanPlus": "Includes everything in {plan}, plus"
+  "includesEverythingInPlanPlus": "Includes everything in {plan}, plus",
+  "enableSafetyScreenToggle": "Enable Safety > Allow Third-Party App Data Streaming on the vehicle's touchscreen.",
+  "updatePermissions": "Update permissions"
 }

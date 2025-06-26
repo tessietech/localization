@@ -2620,5 +2620,7 @@
   "drivingChargingBatteryStats": "Kørsel, opladning og batteristatistik",
   "easilyTransferToADifferentVehicle": "Overfør nemt til et andet køretøj",
   "includesTheseFeatures": "Inkluderer disse funktioner",
-  "includesEverythingInPlanPlus": "Inkluderer alt i {plan} plus"
+  "includesEverythingInPlanPlus": "Inkluderer alt i {plan} plus",
+  "enableSafetyScreenToggle": "Aktivér Sikkerhed > Tillad tredjepartsappdatastrømning på bilens berøringsskærm.",
+  "updatePermissions": "Opdater tilladelser"
 }
