@@ -881,7 +881,7 @@
   "syncWithTesla": "Mit Tesla synchronisieren",
   "chargeHistory": "Ladeverlauf",
   "automaticallyTrackYourChargingIncludingLocationsChargingRatesAndCosts": "Verfolge deine Ladevorgänge automatisch nach, einschließlich Standorten, Laderaten und Kosten",
-  "exterior": "Außenausstattung",
+  "exterior": "Außentemperatur",
   "seats": "Sitze",
   "heat": "Heizung",
   "cool": "Kühlung",
@@ -2616,5 +2616,11 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Stelle sicher, dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Stelle sicher, dass Sicherheit > Datenstreaming für Drittanbieter-Apps zulassen im Fahrzeug aktiviert ist und dass keine Netzwerksoftware das Fahrzeug beeinträchtigt.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Die Daten werden gemeldet, sobald das Fahrzeug aktiv ist.",
-  "noSupportedVehiclesFound": "Keine unterstützten Fahrzeuge gefunden"
+  "noSupportedVehiclesFound": "Keine unterstützten Fahrzeuge gefunden",
+  "drivingChargingBatteryStats": "Fahr-, Lade- und Batteriestatistiken",
+  "easilyTransferToADifferentVehicle": "Einfacher Wechsel zu einem anderen Fahrzeug",
+  "includesTheseFeatures": "Enthält diese Funktionen",
+  "includesEverythingInPlanPlus": "Enthält alles in {plan} plus",
+  "enableSafetyScreenToggle": "Aktivieren Sie Sicherheit > Streaming von Daten durch Apps von Drittanbietern auf dem Touchscreen des Fahrzeugs zulassen.",
+  "updatePermissions": "Berechtigungen aktualisieren"
 }

@@ -2616,5 +2616,11 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Ellenőrizze, hogy semmilyen hálózati szoftver nem zavarja a jármű működését.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Ellenőrizze, hogy a Biztonság > Harmadik féltől származó alkalmazások adatfolyamának engedélyezése engedélyezve van a járműben, és hogy semmilyen hálózati szoftver nem zavarja a jármű működését.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Az adatok a jármű felébredése után kerülnek jelentésre.",
-  "noSupportedVehiclesFound": "Nenhum veículo suportado encontrado"
+  "noSupportedVehiclesFound": "Nenhum veículo suportado encontrado",
+  "drivingChargingBatteryStats": "Vezetési, töltési és akkumulátor statisztikák",
+  "easilyTransferToADifferentVehicle": "Könnyen átvihető egy másik járműbe",
+  "includesTheseFeatures": "Ezeket a funkciókat tartalmazza",
+  "includesEverythingInPlanPlus": "Mindent tartalmaz a(z) {plan} csomagban, plusz",
+  "enableSafetyScreenToggle": "Engedélyezze a Biztonság > Harmadik féltől származó alkalmazás adatfolyamának engedélyezését a jármű érintőképernyőjén.",
+  "updatePermissions": "Jogosultságok frissítése"
 }

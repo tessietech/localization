@@ -2616,5 +2616,11 @@
   "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Upewnij się, że żadne oprogramowanie sieciowe nie zakłóca działania pojazdu.",
   "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Upewnij się, że w pojeździe włączona jest opcja Bezpieczeństwo > Zezwalaj na strumieniowe przesyłanie danych aplikacji firm trzecich i że żadne oprogramowanie sieciowe nie zakłóca działania pojazdu.",
   "dataWillBeReportedOnceTheVehicleIsAwake": "Dane zostaną przesłane, gdy pojazd się obudzi.",
-  "noSupportedVehiclesFound": "Nie znaleziono obsługiwanych pojazdów"
+  "noSupportedVehiclesFound": "Nie znaleziono obsługiwanych pojazdów",
+  "drivingChargingBatteryStats": "Statystyki jazdy, ładowania i baterii",
+  "easilyTransferToADifferentVehicle": "Łatwe przenoszenie do innego pojazdu",
+  "includesTheseFeatures": "Zawiera następujące funkcje",
+  "includesEverythingInPlanPlus": "Zawiera wszystko z planu {plan}, plus",
+  "enableSafetyScreenToggle": "Włącz Bezpieczeństwo > Zezwalaj na przesyłanie danych z aplikacji innych firm na ekranie dotykowym pojazdu.",
+  "updatePermissions": "Aktualizuj uprawnienia"
 }
