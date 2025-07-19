@@ -2610,5 +2610,17 @@
   "numberDrivesWillBeDeleted": "{number} ritten worden verwijderd.",
   "numberChargesWillBeDeleted": "{number} laadsessies worden verwijderd.",
   "numberIdlesWillBeDeleted": "{number} momenten van inactiviteit worden verwijderd.",
-  "deselectAll": "Alles deselecteren"
+  "deselectAll": "Alles deselecteren",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Gebruik de Telefoonsleutel met Tesla of Tessie, niet beide, om verbindingsproblemen te vermijden",
+  "lastDataSignal": "Laatste datasingaal",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Zorg ervoor dat er geen netwerksoftware de auto stoort.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Zorg ervoor dat Veiligheid > Datastreaming van apps van derden toestaan is ingeschakeld in de auto en dat er geen netwerksoftware de auto stoort.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Gegevens worden gerapporteerd zodra de auto actief is.",
+  "noSupportedVehiclesFound": "Geen ondersteunde voertuigen gevonden",
+  "drivingChargingBatteryStats": "Rijden, opladen & batterijstatistieken",
+  "easilyTransferToADifferentVehicle": "Gemakkelijk over te zetten naar een ander voertuig",
+  "includesTheseFeatures": "Bevat deze functies",
+  "includesEverythingInPlanPlus": "Bevat alles in {plan}, plus",
+  "enableSafetyScreenToggle": "Schakel Veiligheid > Gegevensstreaming van apps van derden toestaan in op het touchscreen van de auto.",
+  "updatePermissions": "Update rechten"
 }

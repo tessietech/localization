@@ -2610,5 +2610,17 @@
   "numberDrivesWillBeDeleted": "{number} guide verranno eliminate.",
   "numberChargesWillBeDeleted": "{number} ricariche verranno eliminate.",
   "numberIdlesWillBeDeleted": "{number} inattività verranno eliminate.",
-  "deselectAll": "Deseleziona tutto"
+  "deselectAll": "Deseleziona tutto",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Suggerimento: usa la chiave telefono con Tesla o Tessie, non con entrambi, per evitare problemi di connessione",
+  "lastDataSignal": "Ultimo segnale dati",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Assicurati che nessun software di rete interferisca con il veicolo.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Assicurati che Sicurezza > Consenti lo streaming di dati da app di terze parti sia abilitato nel veicolo e che nessun software di rete interferisca con il veicolo.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "I dati saranno riportati una volta che il veicolo è attivo.",
+  "noSupportedVehiclesFound": "Nessun veicolo supportato trovato",
+  "drivingChargingBatteryStats": "Statistiche di guida, ricarica e batteria",
+  "easilyTransferToADifferentVehicle": "Trasferisci facilmente a un veicolo diverso",
+  "includesTheseFeatures": "Include queste funzionalità",
+  "includesEverythingInPlanPlus": "Include tutto nel piano {plan}, più",
+  "enableSafetyScreenToggle": "Attiva Sicurezza > Consenti Streaming dati app di terze parti sul touchscreen del veicolo.",
+  "updatePermissions": "Aggiorna autorizzazioni"
 }

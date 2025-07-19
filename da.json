@@ -2610,5 +2610,17 @@
   "numberDrivesWillBeDeleted": "{number} ture bliver slettet.",
   "numberChargesWillBeDeleted": "{number} opladninger bliver slettet.",
   "numberIdlesWillBeDeleted": "{number} inaktiviteter bliver slettet.",
-  "deselectAll": "Fravælg alle"
+  "deselectAll": "Fravælg alle",
+  "tipUsePhoneKeyWithTeslaOrTessieNotBoth": "Tip: Brug telefonnøgle med Tesla eller Tessie, ikke begge, for at undgå forbindelsesproblemer",
+  "lastDataSignal": "Sidste datasignal",
+  "makeSureThatNoNetworkSoftwareIsInterferingWithThe": "Sørg for, at intet netværkssoftware forstyrrer køretøjet.",
+  "makeSureThatSafetyAllowThirdpartyAppDataStreamingIs": "Sørg for, at Sikkerhed > Tillad datastrømning for tredjepartsapp er aktiveret i køretøjet, og at intet netværkssoftware forstyrrer køretøjet.",
+  "dataWillBeReportedOnceTheVehicleIsAwake": "Data rapporteres, når køretøjet er vågent.",
+  "noSupportedVehiclesFound": "Ingen understøttede køretøjer fundet",
+  "drivingChargingBatteryStats": "Kørsel, opladning og batteristatistik",
+  "easilyTransferToADifferentVehicle": "Overfør nemt til et andet køretøj",
+  "includesTheseFeatures": "Inkluderer disse funktioner",
+  "includesEverythingInPlanPlus": "Inkluderer alt i {plan} plus",
+  "enableSafetyScreenToggle": "Aktivér Sikkerhed > Tillad tredjepartsappdatastrømning på bilens berøringsskærm.",
+  "updatePermissions": "Opdater tilladelser"
 }
