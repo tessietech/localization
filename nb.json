@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Inkluderer disse funksjonene",
   "includesEverythingInPlanPlus": "Inkluderer alt i {plan}, pluss",
   "enableSafetyScreenToggle": "Aktiver sikkerhet > Tillat tredjeparts app-datastrømming på kjøretøyets berøringsskjerm.",
-  "updatePermissions": "Oppdater tillatelser"
+  "updatePermissions": "Oppdater tillatelser",
+  "includedInVersion": "Inkludert i {version}",
+  "enableDataPermissions": "Aktiver datatillatelser"
 }

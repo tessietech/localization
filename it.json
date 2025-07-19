@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Include queste funzionalità",
   "includesEverythingInPlanPlus": "Include tutto nel piano {plan}, più",
   "enableSafetyScreenToggle": "Attiva Sicurezza > Consenti Streaming dati app di terze parti sul touchscreen del veicolo.",
-  "updatePermissions": "Aggiorna autorizzazioni"
+  "updatePermissions": "Aggiorna autorizzazioni",
+  "includedInVersion": "Incluso nella {version}",
+  "enableDataPermissions": "Abilita le autorizzazioni dei dati"
 }

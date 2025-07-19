@@ -668,7 +668,7 @@
   "unableToDeleteAutomation": "Unable to delete automation",
   "setAmps": "Set Amps",
   "ampsShort": "A",
-  "showNotification": "Show Notification",
+  "showNotification": "Show notification",
   "enabled": "Enabled",
   "location": "Location",
   "action": "Action",
@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Includes these features",
   "includesEverythingInPlanPlus": "Includes everything in {plan}, plus",
   "enableSafetyScreenToggle": "Enable Safety > Allow Third-Party App Data Streaming on the vehicle's touchscreen.",
-  "updatePermissions": "Update permissions"
+  "updatePermissions": "Update permissions",
+  "includedInVersion": "Included in {version}",
+  "enableDataPermissions": "Enable data permissions"
 }

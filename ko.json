@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "다음 기능 포함",
   "includesEverythingInPlanPlus": "{plan}의 모든 기능 포함 및 추가 기능",
   "enableSafetyScreenToggle": "차량 터치스크린에서 안전 > 타사 앱 데이터 스트리밍 허용을 활성화합니다.",
-  "updatePermissions": "권한 업데이트"
+  "updatePermissions": "권한 업데이트",
+  "includedInVersion": "{version}에 포함됨",
+  "enableDataPermissions": "데이터 권한 활성화"
 }

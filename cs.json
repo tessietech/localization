@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Zahrnuje tyto funkce",
   "includesEverythingInPlanPlus": "Zahrnuje vše v plánu {plan} a navíc",
   "enableSafetyScreenToggle": "Povolte Bezpečnost > Povoliť streaming dát aplikácií tretích strán na dotykovej obrazovke vozidla.",
-  "updatePermissions": "Aktualizovat oprávnění"
+  "updatePermissions": "Aktualizovat oprávnění",
+  "includedInVersion": "Zahrnuto ve verzi {version}",
+  "enableDataPermissions": "Povolit datová oprávnění"
 }

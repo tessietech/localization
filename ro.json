@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Include aceste caracteristici",
   "includesEverythingInPlanPlus": "Include totul din {plan}, plus",
   "enableSafetyScreenToggle": "Activa Segurança > Permitir Streaming de dados da aplicação de terceiros no ecrã tátil do veículo.",
-  "updatePermissions": "Actualizați permisiunile"
+  "updatePermissions": "Actualizați permisiunile",
+  "includedInVersion": "Inclus în {version}",
+  "enableDataPermissions": "Activează permisiunile de date"
 }

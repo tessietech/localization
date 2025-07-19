@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Zawiera następujące funkcje",
   "includesEverythingInPlanPlus": "Zawiera wszystko z planu {plan}, plus",
   "enableSafetyScreenToggle": "Włącz Bezpieczeństwo > Zezwalaj na przesyłanie danych z aplikacji innych firm na ekranie dotykowym pojazdu.",
-  "updatePermissions": "Aktualizuj uprawnienia"
+  "updatePermissions": "Aktualizuj uprawnienia",
+  "includedInVersion": "{version} включено",
+  "enableDataPermissions": "Włącz uprawnienia do danych"
 }

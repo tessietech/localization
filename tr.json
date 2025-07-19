@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Bu özellikleri içerir",
   "includesEverythingInPlanPlus": "{plan} içindeki her şeyi ve ayrıca şunları içerir",
   "enableSafetyScreenToggle": "Aracın dokunmatik ekranında Güvenlik > Üçüncü Taraf Uygulama Veri Akışına İzin Ver seçeneğini etkinleştirin.",
-  "updatePermissions": "İzinleri Güncelle"
+  "updatePermissions": "İzinleri Güncelle",
+  "includedInVersion": "{version} sürümüne dahil edildi",
+  "enableDataPermissions": "Veri izinlerini etkinleştir"
 }

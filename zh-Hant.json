@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "包含以下功能",
   "includesEverythingInPlanPlus": "包含 {plan} 中的所有內容，加上",
   "enableSafetyScreenToggle": "在車輛的觸控螢幕上啟用「安全」>「允許第三方應用程式數據串流」。",
-  "updatePermissions": "更新權限"
+  "updatePermissions": "更新權限",
+  "includedInVersion": "包含在 {version}",
+  "enableDataPermissions": "啟用資料權限"
 }

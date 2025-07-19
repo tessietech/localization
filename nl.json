@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Bevat deze functies",
   "includesEverythingInPlanPlus": "Bevat alles in {plan}, plus",
   "enableSafetyScreenToggle": "Schakel Veiligheid > Gegevensstreaming van apps van derden toestaan in op het touchscreen van de auto.",
-  "updatePermissions": "Update rechten"
+  "updatePermissions": "Update rechten",
+  "includedInVersion": "Inbegrepen in {version}",
+  "enableDataPermissions": "Gegevensrechten inschakelen"
 }

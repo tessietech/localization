@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "包括以下功能",
   "includesEverythingInPlanPlus": "包含{plan}中的所有内容，外加",
   "enableSafetyScreenToggle": "在车辆触摸屏上启用“安全”>“允许第三方应用数据流式传输”。",
-  "updatePermissions": "更新权限"
+  "updatePermissions": "更新权限",
+  "includedInVersion": "包含在 {version} 中",
+  "enableDataPermissions": "启用数据权限"
 }

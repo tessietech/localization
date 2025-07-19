@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Sisältää nämä ominaisuudet",
   "includesEverythingInPlanPlus": "Sisältää kaiken paketissa {plan}, sekä",
   "enableSafetyScreenToggle": "Ota käyttöön Asetukset > Salli kolmannen osapuolen sovellusten datan suoratoisto auton kosketusnäytössä.",
-  "updatePermissions": "Päivitä käyttöoikeudet"
+  "updatePermissions": "Päivitä käyttöoikeudet",
+  "includedInVersion": "Sisältyy versioon {version}",
+  "enableDataPermissions": "Ota käyttöön datakäyttöoikeudet"
 }

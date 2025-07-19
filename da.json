@@ -2021,7 +2021,7 @@
   "theVehicleIsAsleepOrTeslaIsUnableToContact": "Køretøjet sover eller Tesla kan ikke kontakte det.",
   "thirdRowRight": "Højre sæde 3 række",
   "thirdRowLeft": "Venstre sæde 3 række",
-  "rearCenter": "Midterste bagsæde",
+  "rearCenter": "Midterste bag",
   "complete": "Fuldført",
   "stopped": "Stoppet",
   "thereWasAnUnknownErrorIssuingTheCommand": "Der opstod en ukendt fejl under udstedelsen af kommandoen.",
@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Inkluderer disse funktioner",
   "includesEverythingInPlanPlus": "Inkluderer alt i {plan} plus",
   "enableSafetyScreenToggle": "Aktivér Sikkerhed > Tillad tredjepartsappdatastrømning på bilens berøringsskærm.",
-  "updatePermissions": "Opdater tilladelser"
+  "updatePermissions": "Opdater tilladelser",
+  "includedInVersion": "Inkluderet i {version}",
+  "enableDataPermissions": "Ativar permissões de dados"
 }

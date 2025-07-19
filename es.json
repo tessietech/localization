@@ -2622,5 +2622,7 @@
   "includesTheseFeatures": "Incluye estas características",
   "includesEverythingInPlanPlus": "Incluye todo en {plan}, más",
   "enableSafetyScreenToggle": "Activar Segurança > Permitir fluxo de dados de aplicações de terceiros no ecrã tátil do veículo.",
-  "updatePermissions": "Actualizar permisos"
+  "updatePermissions": "Actualizar permisos",
+  "includedInVersion": "Incluido en {version}",
+  "enableDataPermissions": "Habilitar permisos de datos"
 }
