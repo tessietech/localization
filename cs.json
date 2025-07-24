@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Můžete kontaktovat CaliCharge a změnit VIN spojený s inteligentním nabíjením.",
   "smartCharging": "Inteligentní nabíjení",
   "readyBy": "Připraveno do",
-  "byLinkingYourAccountYouAgreeToThe": "Propojením svého účtu souhlasíte s"
+  "byLinkingYourAccountYouAgreeToThe": "Propojením svého účtu souhlasíte s",
+  "tapToOpenTheApp": "Klepnutím otevřete aplikaci",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Zobrazuje se při prvním otevření aplikace. Používá se pro dlaždici hodinek, komplikaci Baterie 1 a ovládací prvky."
 }

@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Du kan kontakta CaliCharge för att ändra VIN-numret som är associerat med smart laddning.",
   "smartCharging": "Smart laddning",
   "readyBy": "Klar senast",
-  "byLinkingYourAccountYouAgreeToThe": "Genom att länka ditt konto godkänner du"
+  "byLinkingYourAccountYouAgreeToThe": "Genom att länka ditt konto godkänner du",
+  "tapToOpenTheApp": "Tryck för att öppna appen",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Visas när du först öppnar appen. Används för urtavlan, komplikationen Batteri 1 och kontrollkomplikationer."
 }

@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Puedes contactar con CaliCharge para cambiar el VIN asociado a la carga inteligente.",
   "smartCharging": "Carga inteligente",
   "readyBy": "Listo para",
-  "byLinkingYourAccountYouAgreeToThe": "Al vincular tu cuenta, aceptas los"
+  "byLinkingYourAccountYouAgreeToThe": "Al vincular tu cuenta, aceptas los",
+  "tapToOpenTheApp": "Toca para abrir la app",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Se muestra la primera vez que abres la aplicación. Se utiliza para el mosaico del reloj, la complicación de la batería 1 y las complicaciones de control."
 }

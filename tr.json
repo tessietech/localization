@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Akıllı şarjla ilişkili VIN'i değiştirmek için CaliCharge ile iletişime geçebilirsiniz.",
   "smartCharging": "Akıllı şarj",
   "readyBy": "Hazır olma",
-  "byLinkingYourAccountYouAgreeToThe": "Hesabınızı bağlayarak şunları kabul etmiş olursunuz:"
+  "byLinkingYourAccountYouAgreeToThe": "Hesabınızı bağlayarak şunları kabul etmiş olursunuz:",
+  "tapToOpenTheApp": "Uygulamayı açmak için dokunun",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Uygulamayı ilk açtığınızda görüntülenir. Saat kutucuğu, 1. Pil komplikasyonu ve kontrol komplikasyonları için kullanılır."
 }

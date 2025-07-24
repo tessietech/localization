@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Du kan kontakte CaliCharge for at ændre det VIN-nummer, der er knyttet til smart opladning.",
   "smartCharging": "Smart opladning",
   "readyBy": "Klar inden",
-  "byLinkingYourAccountYouAgreeToThe": "Ved at linke din konto accepterer du"
+  "byLinkingYourAccountYouAgreeToThe": "Ved at linke din konto accepterer du",
+  "tapToOpenTheApp": "Toque para abrir a app",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Visas når du åbner appen første gang. Bruges til urskiven, batteri 1-komplikationen og kontrolkomplikationerne."
 }

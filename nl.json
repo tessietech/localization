@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "U kunt contact opnemen met CaliCharge om het VIN te wijzigen dat is gekoppeld aan slim opladen.",
   "smartCharging": "Slim opladen",
   "readyBy": "Klaar om",
-  "byLinkingYourAccountYouAgreeToThe": "Door uw account te koppelen, gaat u akkoord met de"
+  "byLinkingYourAccountYouAgreeToThe": "Door uw account te koppelen, gaat u akkoord met de",
+  "tapToOpenTheApp": "Tik om de app te openen",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Weergegeven wanneer u de app voor het eerst opent. Gebruikt voor de watch-tegel, batterij 1-complicatie en bedieningscomplicaties."
 }

@@ -2642,5 +2642,7 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "스마트 충전과 관련된 VIN을 변경하려면 CaliCharge에 문의하십시오.",
   "smartCharging": "스마트 충전",
   "readyBy": "다음 시간까지 준비:",
-  "byLinkingYourAccountYouAgreeToThe": "계정을 연결하면 다음에 동의하는 것입니다."
+  "byLinkingYourAccountYouAgreeToThe": "계정을 연결하면 다음에 동의하는 것입니다.",
+  "tapToOpenTheApp": "앱을 열려면 누르세요.",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "앱을 처음 열 때 표시됩니다. 워치 타일, 배터리 1 컴플리케이션 및 제어 컴플리케이션에 사용됩니다."
 }
