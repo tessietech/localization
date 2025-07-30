@@ -2644,5 +2644,7 @@
   "readyBy": "Gotowe do",
   "byLinkingYourAccountYouAgreeToThe": "Łącząc swoje konto, akceptujesz",
   "tapToOpenTheApp": "Naciśnij, aby otworzyć aplikację",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Wyświetlane przy pierwszym uruchomieniu aplikacji. Używane dla kafelka zegarka, komplikacji Bateria 1 i komplikacji sterujących."
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Wyświetlane przy pierwszym uruchomieniu aplikacji. Używane dla kafelka zegarka, komplikacji Bateria 1 i komplikacji sterujących.",
+  "system": "System",
+  "rangeHealth": "Stan zasięgu"
 }

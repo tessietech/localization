@@ -2644,5 +2644,7 @@
   "readyBy": "準備就緒時間",
   "byLinkingYourAccountYouAgreeToThe": "連結您的帳戶即表示您同意",
   "tapToOpenTheApp": "輕觸以開啟應用程式",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "首次開啟應用程式時顯示。用於手錶磚、電池 1 複雜功能和控制複雜功能。"
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "首次開啟應用程式時顯示。用於手錶磚、電池 1 複雜功能和控制複雜功能。",
+  "system": "系統",
+  "rangeHealth": "電量健康度"
 }

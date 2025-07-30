@@ -2644,5 +2644,7 @@
   "readyBy": "Klaar om",
   "byLinkingYourAccountYouAgreeToThe": "Door uw account te koppelen, gaat u akkoord met de",
   "tapToOpenTheApp": "Tik om de app te openen",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Weergegeven wanneer u de app voor het eerst opent. Gebruikt voor de watch-tegel, batterij 1-complicatie en bedieningscomplicaties."
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Weergegeven wanneer u de app voor het eerst opent. Gebruikt voor de watch-tegel, batterij 1-complicatie en bedieningscomplicaties.",
+  "system": "Systeem",
+  "rangeHealth": "Range health"
 }

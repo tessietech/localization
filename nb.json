@@ -2644,5 +2644,7 @@
   "readyBy": "Klar innen",
   "byLinkingYourAccountYouAgreeToThe": "Ved å koble til kontoen din, godtar du",
   "tapToOpenTheApp": "Trykk for å åpne appen",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Vises når du først åpner appen. Brukes for klokkebrikken, Batteri 1-komplikasjonen og kontrollkomplikasjoner."
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Vises når du først åpner appen. Brukes for klokkebrikken, Batteri 1-komplikasjonen og kontrollkomplikasjoner.",
+  "system": "System",
+  "rangeHealth": "Rekkeviddehelse"
 }

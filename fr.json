@@ -2644,5 +2644,7 @@
   "readyBy": "Prêt pour",
   "byLinkingYourAccountYouAgreeToThe": "En liant votre compte, vous acceptez les",
   "tapToOpenTheApp": "Appuyez pour ouvrir l'application",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Affiché lorsque vous ouvrez l'application pour la première fois. Utilisé pour la vignette de la montre, la complication Batterie 1 et les complications de contrôle."
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Affiché lorsque vous ouvrez l'application pour la première fois. Utilisé pour la vignette de la montre, la complication Batterie 1 et les complications de contrôle.",
+  "system": "Système",
+  "rangeHealth": "État de la batterie"
 }

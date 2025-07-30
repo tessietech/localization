@@ -2644,5 +2644,7 @@
   "readyBy": "Hazır olma",
   "byLinkingYourAccountYouAgreeToThe": "Hesabınızı bağlayarak şunları kabul etmiş olursunuz:",
   "tapToOpenTheApp": "Uygulamayı açmak için dokunun",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Uygulamayı ilk açtığınızda görüntülenir. Saat kutucuğu, 1. Pil komplikasyonu ve kontrol komplikasyonları için kullanılır."
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Uygulamayı ilk açtığınızda görüntülenir. Saat kutucuğu, 1. Pil komplikasyonu ve kontrol komplikasyonları için kullanılır.",
+  "system": "Sistem",
+  "rangeHealth": "Menzil sağlığı"
 }

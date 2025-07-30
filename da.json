@@ -2644,5 +2644,7 @@
   "readyBy": "Klar inden",
   "byLinkingYourAccountYouAgreeToThe": "Ved at linke din konto accepterer du",
   "tapToOpenTheApp": "Toque para abrir a app",
-  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Visas når du åbner appen første gang. Bruges til urskiven, batteri 1-komplikationen og kontrolkomplikationerne."
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Visas når du åbner appen første gang. Bruges til urskiven, batteri 1-komplikationen og kontrolkomplikationerne.",
+  "system": "System",
+  "rangeHealth": "Rækkevidde­tilstand"
 }
