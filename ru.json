@@ -2642,5 +2642,9 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Вы можете связаться с CaliCharge, чтобы изменить VIN, связанный с интеллектуальной зарядкой.",
   "smartCharging": "Интеллектуальная зарядка",
   "readyBy": "Готов к",
-  "byLinkingYourAccountYouAgreeToThe": "Привязывая свою учетную запись, вы соглашаетесь с"
+  "byLinkingYourAccountYouAgreeToThe": "Привязывая свою учетную запись, вы соглашаетесь с",
+  "tapToOpenTheApp": "Нажмите, чтобы открыть приложение",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Отображается при первом открытии приложения. Используется для плитки часов, виджета «Батарея 1» и виджетов управления.",
+  "system": "Система",
+  "rangeHealth": "Состояние запаса хода"
 }

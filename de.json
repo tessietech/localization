@@ -2642,5 +2642,9 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Sie können CaliCharge kontaktieren, um die mit dem intelligenten Laden verknüpfte Fahrgestellnummer zu ändern.",
   "smartCharging": "Intelligentes Laden",
   "readyBy": "Fertig bis",
-  "byLinkingYourAccountYouAgreeToThe": "Durch die Verknüpfung Ihres Kontos stimmen Sie dem zu"
+  "byLinkingYourAccountYouAgreeToThe": "Durch die Verknüpfung Ihres Kontos stimmen Sie dem zu",
+  "tapToOpenTheApp": "Tippen, um die App zu öffnen",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Wird angezeigt, wenn Sie die App zum ersten Mal öffnen. Wird für die Watch-Kachel, die Batterie 1-Komplikation und die Steuerungs-Komplikationen verwendet.",
+  "system": "System",
+  "rangeHealth": "Reichweitenzustand"
 }

@@ -2642,5 +2642,9 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Voit ottaa yhteyttä CaliChargeen muuttaaksesi älykkääseen lataukseen liittyvää VIN-numeroa.",
   "smartCharging": "Älykäs lataus",
   "readyBy": "Valmiina viimeistään",
-  "byLinkingYourAccountYouAgreeToThe": "Yhdistämällä tilisi hyväksyt"
+  "byLinkingYourAccountYouAgreeToThe": "Yhdistämällä tilisi hyväksyt",
+  "tapToOpenTheApp": "Napauta avataksesi sovelluksen",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Näkyy, kun avaat sovelluksen ensimmäisen kerran. Käytetään kellotaulussa, Akku 1 -komplikaatiossa ja ohjauskomplikaatioissa.",
+  "system": "Järjestelmä",
+  "rangeHealth": "Akun kunto"
 }

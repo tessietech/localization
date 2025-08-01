@@ -2642,5 +2642,9 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Felveheti a kapcsolatot a CaliCharge-dzsal az intelligens töltéshez társított VIN megváltoztatásához.",
   "smartCharging": "Intelligens töltés",
   "readyBy": "Kész ekkor:",
-  "byLinkingYourAccountYouAgreeToThe": "Fiókjának összekapcsolásával elfogadja a"
+  "byLinkingYourAccountYouAgreeToThe": "Fiókjának összekapcsolásával elfogadja a",
+  "tapToOpenTheApp": "Koppintson az alkalmazás megnyitásához",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Megjelenik, amikor először megnyitja az alkalmazást. A óralaphoz, az 1. akkumulátor komplikációjához és a vezérlési komplikációkhoz használatos.",
+  "system": "Rendszer",
+  "rangeHealth": "A hatótáv állapota"
 }

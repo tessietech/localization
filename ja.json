@@ -2642,5 +2642,9 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "CaliChargeに連絡して、スマート充電に関連付けられているVINを変更できます。",
   "smartCharging": "スマート充電",
   "readyBy": "準備完了",
-  "byLinkingYourAccountYouAgreeToThe": "アカウントをリンクすることにより、以下に同意したことになります"
+  "byLinkingYourAccountYouAgreeToThe": "アカウントをリンクすることにより、以下に同意したことになります",
+  "tapToOpenTheApp": "アプリを開くにはタップしてください",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "アプリを初めて開いたときに表示されます。ウォッチタイル、バッテリー1コンプリケーション、およびコントロールコンプリケーションに使用されます。",
+  "system": "システム",
+  "rangeHealth": "航続距離の健全性"
 }

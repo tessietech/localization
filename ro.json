@@ -2642,5 +2642,9 @@
   "youCanContactCalichargeToChangeTheVinAssociatedWith": "Puteți contacta CaliCharge pentru a schimba VIN-ul asociat cu încărcarea inteligentă.",
   "smartCharging": "Încărcare inteligentă",
   "readyBy": "Gata până la",
-  "byLinkingYourAccountYouAgreeToThe": "Prin conectarea contului dvs., sunteți de acord cu"
+  "byLinkingYourAccountYouAgreeToThe": "Prin conectarea contului dvs., sunteți de acord cu",
+  "tapToOpenTheApp": "Atingeți pentru a deschide aplicația",
+  "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Afișat când deschideți aplicația pentru prima dată. Folosit pentru ecranul de vizualizare, complicația Baterie 1 și complicațiile de control.",
+  "system": "Sistem",
+  "rangeHealth": "Stare de sănătate a autonomiei"
 }
