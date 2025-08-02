@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Tocca per aprire l'app",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Visualizzato quando apri l'app per la prima volta. Utilizzato per il riquadro dell'orologio, la complicazione Batteria 1 e le complicazioni di controllo.",
   "system": "Sistema",
-  "rangeHealth": "Stato di salute dell'autonomia"
+  "rangeHealth": "Stato di salute dell'autonomia",
+  "enableCostOptimizer": "Abilita l'ottimizzatore dei costi",
+  "activateProductIntegration": "Attiva l'integrazione {product}"
 }

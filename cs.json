@@ -2648,4 +2648,6 @@
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Zobrazuje se při prvním otevření aplikace. Používá se pro dlaždici hodinek, komplikaci Baterie 1 a ovládací prvky.",
   "system": "Systém",
   "rangeHealth": "Stav dojezdu",
+  "enableCostOptimizer": "Povolit optimalizátor nákladů",
+  "activateProductIntegration": "Aktivovat integraci {product}"
 }

@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Нажмите, чтобы открыть приложение",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Отображается при первом открытии приложения. Используется для плитки часов, виджета «Батарея 1» и виджетов управления.",
   "system": "Система",
-  "rangeHealth": "Состояние запаса хода"
+  "rangeHealth": "Состояние запаса хода",
+  "enableCostOptimizer": "Включить оптимизатор затрат",
+  "activateProductIntegration": "Активировать интеграцию {product}"
 }

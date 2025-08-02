@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "輕觸以開啟應用程式",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "首次開啟應用程式時顯示。用於手錶磚、電池 1 複雜功能和控制複雜功能。",
   "system": "系統",
-  "rangeHealth": "電量健康度"
+  "rangeHealth": "電量健康度",
+  "enableCostOptimizer": "啟用成本最佳化工具",
+  "activateProductIntegration": "啟用 {product} 整合"
 }

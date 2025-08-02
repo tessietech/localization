@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Tippen, um die App zu öffnen",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Wird angezeigt, wenn Sie die App zum ersten Mal öffnen. Wird für die Watch-Kachel, die Batterie 1-Komplikation und die Steuerungs-Komplikationen verwendet.",
   "system": "System",
-  "rangeHealth": "Reichweitenzustand"
+  "rangeHealth": "Reichweitenzustand",
+  "enableCostOptimizer": "Kostenoptimierer aktivieren",
+  "activateProductIntegration": "{product}-Integration aktivieren"
 }
