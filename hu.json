@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Koppintson az alkalmazás megnyitásához",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Megjelenik, amikor először megnyitja az alkalmazást. A óralaphoz, az 1. akkumulátor komplikációjához és a vezérlési komplikációkhoz használatos.",
   "system": "Rendszer",
-  "rangeHealth": "A hatótáv állapota"
+  "rangeHealth": "A hatótáv állapota",
+  "enableCostOptimizer": "Költségoptimalizáló engedélyezése",
+  "activateProductIntegration": "{product} integráció aktiválása"
 }

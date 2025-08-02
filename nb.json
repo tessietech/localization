@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Trykk for å åpne appen",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Vises når du først åpner appen. Brukes for klokkebrikken, Batteri 1-komplikasjonen og kontrollkomplikasjoner.",
   "system": "System",
-  "rangeHealth": "Rekkeviddehelse"
+  "rangeHealth": "Rekkeviddehelse",
+  "enableCostOptimizer": "Aktiver kostnadsoptimalisering",
+  "activateProductIntegration": "Aktiver {product}-integrasjon"
 }

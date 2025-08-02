@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Uygulamayı açmak için dokunun",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Uygulamayı ilk açtığınızda görüntülenir. Saat kutucuğu, 1. Pil komplikasyonu ve kontrol komplikasyonları için kullanılır.",
   "system": "Sistem",
-  "rangeHealth": "Menzil sağlığı"
+  "rangeHealth": "Menzil sağlığı",
+  "enableCostOptimizer": "Maliyet iyileştiriciyi etkinleştir",
+  "activateProductIntegration": "{product} entegrasyonunu etkinleştir"
 }

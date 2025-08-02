@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Tik om de app te openen",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Weergegeven wanneer u de app voor het eerst opent. Gebruikt voor de watch-tegel, batterij 1-complicatie en bedieningscomplicaties.",
   "system": "Systeem",
-  "rangeHealth": "Range health"
+  "rangeHealth": "Range health",
+  "enableCostOptimizer": "Kostenoptimalisatie inschakelen",
+  "activateProductIntegration": "{product} integratie activeren"
 }

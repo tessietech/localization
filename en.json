@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Tap to open the app",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Displayed when you first open the app. Used for the watch tile, Battery 1 complication and control complications.",
   "system": "System",
-  "rangeHealth": "Range health"
+  "rangeHealth": "Range health",
+  "enableCostOptimizer": "Enable cost optimizer",
+  "activateProductIntegration": "Activate {product} integration"
 }

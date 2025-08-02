@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Toca para abrir la app",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Se muestra la primera vez que abres la aplicación. Se utiliza para el mosaico del reloj, la complicación de la batería 1 y las complicaciones de control.",
   "system": "Sistema",
-  "rangeHealth": "Estado de la autonomía"
+  "rangeHealth": "Estado de la autonomía",
+  "enableCostOptimizer": "Activar el optimizador de costes",
+  "activateProductIntegration": "Activar la integración de {product}"
 }

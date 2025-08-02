@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "Tryck för att öppna appen",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Visas när du först öppnar appen. Används för urtavlan, komplikationen Batteri 1 och kontrollkomplikationer.",
   "system": "Systemet",
-  "rangeHealth": "Range health"
+  "rangeHealth": "Range health",
+  "enableCostOptimizer": "Aktivera kostnadsoptimering",
+  "activateProductIntegration": "Aktivera {product}-integrering"
 }

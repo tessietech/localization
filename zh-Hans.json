@@ -2646,5 +2646,7 @@
   "tapToOpenTheApp": "轻点以打开应用",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "首次打开应用程序时显示。用于手表磁贴、电池 1 并发症和控制并发症。",
   "system": "系统",
-  "rangeHealth": "续航里程健康度"
+  "rangeHealth": "续航里程健康度",
+  "enableCostOptimizer": "启用成本优化器",
+  "activateProductIntegration": "启用 {product} 集成"
 }
