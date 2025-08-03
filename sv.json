@@ -2648,5 +2648,7 @@
   "system": "Systemet",
   "rangeHealth": "Range health",
   "enableCostOptimizer": "Aktivera kostnadsoptimering",
-  "activateProductIntegration": "Aktivera {product}-integrering"
+  "activateProductIntegration": "Aktivera {product}-integrering",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Baserat på flottdata är den ursprungliga batterikapaciteten för denna fordonskonfiguration {capacity} kWh.",
+  "setCostPerKwh": "Ange kostnad per kWh"
 }

@@ -2648,5 +2648,7 @@
   "system": "Sistem",
   "rangeHealth": "Menzil sağlığı",
   "enableCostOptimizer": "Maliyet iyileştiriciyi etkinleştir",
-  "activateProductIntegration": "{product} entegrasyonunu etkinleştir"
+  "activateProductIntegration": "{product} entegrasyonunu etkinleştir",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Filo verilerine göre, bu araç konfigürasyonunun orijinal batarya kapasitesi {capacity} kWh'dir.",
+  "setCostPerKwh": "kWh Başına Maliyeti Ayarla"
 }

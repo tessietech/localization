@@ -2648,5 +2648,7 @@
   "system": "Sistema",
   "rangeHealth": "Estado de la autonomía",
   "enableCostOptimizer": "Activar el optimizador de costes",
-  "activateProductIntegration": "Activar la integración de {product}"
+  "activateProductIntegration": "Activar la integración de {product}",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Según datos de la flota, la capacidad original de la batería de esta configuración de vehículo es de {capacity} kWh.",
+  "setCostPerKwh": "Definir el coste por kWh"
 }

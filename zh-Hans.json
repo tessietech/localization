@@ -2648,5 +2648,7 @@
   "system": "系统",
   "rangeHealth": "续航里程健康度",
   "enableCostOptimizer": "启用成本优化器",
-  "activateProductIntegration": "启用 {product} 集成"
+  "activateProductIntegration": "启用 {product} 集成",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "根据车队数据，此车辆配置的原始电池容量为 {capacity} 千瓦时。",
+  "setCostPerKwh": "设置每千瓦时成本"
 }

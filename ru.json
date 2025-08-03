@@ -2648,5 +2648,7 @@
   "system": "Система",
   "rangeHealth": "Состояние запаса хода",
   "enableCostOptimizer": "Включить оптимизатор затрат",
-  "activateProductIntegration": "Активировать интеграцию {product}"
+  "activateProductIntegration": "Активировать интеграцию {product}",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Основываясь на данных автопарка, исходная емкость аккумулятора этой конфигурации автомобиля составляет {capacity} кВт·ч.",
+  "setCostPerKwh": "Установите стоимость за кВт⋅ч"
 }

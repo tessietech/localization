@@ -2648,5 +2648,7 @@
   "system": "시스템",
   "rangeHealth": "배터리 상태",
   "enableCostOptimizer": "비용 최적화 도구 사용",
-  "activateProductIntegration": "{product} 통합 활성화"
+  "activateProductIntegration": "{product} 통합 활성화",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "차량 데이터를 기반으로, 이 차량 구성의 원래 배터리 용량은 {capacity} kWh입니다.",
+  "setCostPerKwh": "kWh당 비용 설정"
 }

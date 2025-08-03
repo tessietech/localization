@@ -2643,11 +2643,12 @@
   "smartCharging": "Inteligentní nabíjení",
   "readyBy": "Připraveno do",
   "byLinkingYourAccountYouAgreeToThe": "Propojením svého účtu souhlasíte s",
-  "byLinkingYourAccountYouAgreeToThe": "Propojením svého účtu souhlasíte s",
   "tapToOpenTheApp": "Klepnutím otevřete aplikaci",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Zobrazuje se při prvním otevření aplikace. Používá se pro dlaždici hodinek, komplikaci Baterie 1 a ovládací prvky.",
   "system": "Systém",
   "rangeHealth": "Stav dojezdu",
   "enableCostOptimizer": "Povolit optimalizátor nákladů",
-  "activateProductIntegration": "Aktivovat integraci {product}"
+  "activateProductIntegration": "Aktivovat integraci {product}",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Na základě dat z vozového parku je původní kapacita baterie této konfigurace vozidla {capacity} kWh.",
+  "setCostPerKwh": "Nastavit cenu za kWh"
 }

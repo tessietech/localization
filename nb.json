@@ -2648,5 +2648,7 @@
   "system": "System",
   "rangeHealth": "Rekkeviddehelse",
   "enableCostOptimizer": "Aktiver kostnadsoptimalisering",
-  "activateProductIntegration": "Aktiver {product}-integrasjon"
+  "activateProductIntegration": "Aktiver {product}-integrasjon",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Basert på flåtedata er den opprinnelige batterikapasiteten til denne kjøretøykonfigurasjonen {capacity} kWh.",
+  "setCostPerKwh": "Angi kostnad per kWh"
 }

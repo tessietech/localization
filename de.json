@@ -2648,5 +2648,7 @@
   "system": "System",
   "rangeHealth": "Reichweitenzustand",
   "enableCostOptimizer": "Kostenoptimierer aktivieren",
-  "activateProductIntegration": "{product}-Integration aktivieren"
+  "activateProductIntegration": "{product}-Integration aktivieren",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Basierend auf Flottendaten beträgt die ursprüngliche Batteriekapazität dieser Fahrzeugkonfiguration {capacity} kWh.",
+  "setCostPerKwh": "Setze Kosten pro kWh"
 }

@@ -2648,5 +2648,7 @@
   "system": "Rendszer",
   "rangeHealth": "A hatótáv állapota",
   "enableCostOptimizer": "Költségoptimalizáló engedélyezése",
-  "activateProductIntegration": "{product} integráció aktiválása"
+  "activateProductIntegration": "{product} integráció aktiválása",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Flottaadatok alapján a jármű ezen konfigurációjának eredeti akkumulátorkapacitása: {capacity} kWh.",
+  "setCostPerKwh": "kWh-kénti költség beállítása"
 }

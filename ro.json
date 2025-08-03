@@ -2648,5 +2648,7 @@
   "system": "Sistem",
   "rangeHealth": "Stare de sănătate a autonomiei",
   "enableCostOptimizer": "Activează optimizatorul de costuri",
-  "activateProductIntegration": "Activează integrarea {product}"
+  "activateProductIntegration": "Activează integrarea {product}",
+  "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Pe baza datelor flotei, capacitatea originală a bateriei pentru această configurație de vehicul este de {capacity} kWh.",
+  "setCostPerKwh": "Setează costul per kWh"
 }
