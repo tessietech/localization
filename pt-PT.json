@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "Ativar integração de {product}",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Com base nos dados da frota, a capacidade original da bateria desta configuração de veículo é {capacity} kWh.",
   "setCostPerKwh": "Definir custo por kWh",
-  "vehicleDataIsNotBeingCollected": "Os dados do veículo não estão a ser recolhidos."
+  "vehicleDataIsNotBeingCollected": "Os dados do veículo não estão a ser recolhidos.",
+  "thisIntegrationRequiresASubscription": "Esta integração requer uma subscrição."
 }

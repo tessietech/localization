@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "Aktivoi {product}-integraatio",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Laivastotietojen perusteella tämän ajoneuvokokoonpanon alkuperäinen akkukapasiteetti on {capacity} kWh.",
   "setCostPerKwh": "Aseta kWh-hinta",
-  "vehicleDataIsNotBeingCollected": "Ajoneuvon tietoja ei kerätä."
+  "vehicleDataIsNotBeingCollected": "Ajoneuvon tietoja ei kerätä.",
+  "thisIntegrationRequiresASubscription": "Tämä integraatio vaatii tilauksen."
 }

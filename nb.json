@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "Aktiver {product}-integrasjon",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Basert på flåtedata er den opprinnelige batterikapasiteten til denne kjøretøykonfigurasjonen {capacity} kWh.",
   "setCostPerKwh": "Angi kostnad per kWh",
-  "vehicleDataIsNotBeingCollected": "Kjøretøydata samles ikke inn."
+  "vehicleDataIsNotBeingCollected": "Kjøretøydata samles ikke inn.",
+  "thisIntegrationRequiresASubscription": "Denne integrasjonen krever et abonnement."
 }

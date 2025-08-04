@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "Aktivovat integraci {product}",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Na základě dat z vozového parku je původní kapacita baterie této konfigurace vozidla {capacity} kWh.",
   "setCostPerKwh": "Nastavit cenu za kWh",
-  "vehicleDataIsNotBeingCollected": "Data vozidla se neshromažďují."
+  "vehicleDataIsNotBeingCollected": "Data vozidla se neshromažďují.",
+  "thisIntegrationRequiresASubscription": "Tato integrace vyžaduje předplatné."
 }

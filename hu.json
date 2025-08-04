@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "{product} integráció aktiválása",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Flottaadatok alapján a jármű ezen konfigurációjának eredeti akkumulátorkapacitása: {capacity} kWh.",
   "setCostPerKwh": "kWh-kénti költség beállítása",
-  "vehicleDataIsNotBeingCollected": "A járműadatok gyűjtése nem történik."
+  "vehicleDataIsNotBeingCollected": "A járműadatok gyűjtése nem történik.",
+  "thisIntegrationRequiresASubscription": "Ez az integráció előfizetést igényel."
 }

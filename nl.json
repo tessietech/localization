@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "{product} integratie activeren",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Op basis van fleetgegevens is de oorspronkelijke batterijcapaciteit van deze voertuigconfiguratie {capacity} kWh.",
   "setCostPerKwh": "Kosten per kWh instellen",
-  "vehicleDataIsNotBeingCollected": "Voertuiggegevens worden niet verzameld."
+  "vehicleDataIsNotBeingCollected": "Voertuiggegevens worden niet verzameld.",
+  "thisIntegrationRequiresASubscription": "Voor deze integratie is een abonnement vereist."
 }

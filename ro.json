@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "Activează integrarea {product}",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Pe baza datelor flotei, capacitatea originală a bateriei pentru această configurație de vehicul este de {capacity} kWh.",
   "setCostPerKwh": "Setează costul per kWh",
-  "vehicleDataIsNotBeingCollected": "Datele vehiculului nu sunt colectate."
+  "vehicleDataIsNotBeingCollected": "Datele vehiculului nu sunt colectate.",
+  "thisIntegrationRequiresASubscription": "Această integrare necesită un abonament."
 }

@@ -2651,5 +2651,6 @@
   "activateProductIntegration": "Активировать интеграцию {product}",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Основываясь на данных автопарка, исходная емкость аккумулятора этой конфигурации автомобиля составляет {capacity} кВт·ч.",
   "setCostPerKwh": "Установите стоимость за кВт⋅ч",
-  "vehicleDataIsNotBeingCollected": "Данные об автомобиле не собираются."
+  "vehicleDataIsNotBeingCollected": "Данные об автомобиле не собираются.",
+  "thisIntegrationRequiresASubscription": "Для этой интеграции требуется подписка."
 }
