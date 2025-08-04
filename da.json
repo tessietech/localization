@@ -2650,5 +2650,6 @@
   "enableCostOptimizer": "Ativar otimizador de custos",
   "activateProductIntegration": "Ativar integração com {product}",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Baseret på flådedata er den oprindelige batterikapacitet for denne køretøjskonfiguration {capacity} kWh.",
-  "setCostPerKwh": "Definir custo por kWh"
+  "setCostPerKwh": "Definir custo por kWh",
+  "vehicleDataIsNotBeingCollected": "Os dados do veículo não estão sendo coletados."
 }

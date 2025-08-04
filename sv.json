@@ -2650,5 +2650,6 @@
   "enableCostOptimizer": "Aktivera kostnadsoptimering",
   "activateProductIntegration": "Aktivera {product}-integrering",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Baserat på flottdata är den ursprungliga batterikapaciteten för denna fordonskonfiguration {capacity} kWh.",
-  "setCostPerKwh": "Ange kostnad per kWh"
+  "setCostPerKwh": "Ange kostnad per kWh",
+  "vehicleDataIsNotBeingCollected": "Fordonets data samlas inte in."
 }

@@ -2650,5 +2650,6 @@
   "enableCostOptimizer": "비용 최적화 도구 사용",
   "activateProductIntegration": "{product} 통합 활성화",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "차량 데이터를 기반으로, 이 차량 구성의 원래 배터리 용량은 {capacity} kWh입니다.",
-  "setCostPerKwh": "kWh당 비용 설정"
+  "setCostPerKwh": "kWh당 비용 설정",
+  "vehicleDataIsNotBeingCollected": "차량 데이터가 수집되지 않고 있습니다."
 }

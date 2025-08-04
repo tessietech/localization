@@ -2650,5 +2650,6 @@
   "enableCostOptimizer": "Включить оптимизатор затрат",
   "activateProductIntegration": "Активировать интеграцию {product}",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Основываясь на данных автопарка, исходная емкость аккумулятора этой конфигурации автомобиля составляет {capacity} кВт·ч.",
-  "setCostPerKwh": "Установите стоимость за кВт⋅ч"
+  "setCostPerKwh": "Установите стоимость за кВт⋅ч",
+  "vehicleDataIsNotBeingCollected": "Данные об автомобиле не собираются."
 }

@@ -2650,5 +2650,6 @@
   "enableCostOptimizer": "コスト最適化機能を有効にする",
   "activateProductIntegration": "{product}の統合を有効にする",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "フリートデータに基づくと、この車両構成の元のバッテリー容量は{capacity} kWhです。",
-  "setCostPerKwh": "kWhあたりのコストを設定"
+  "setCostPerKwh": "kWhあたりのコストを設定",
+  "vehicleDataIsNotBeingCollected": "車両データは収集されていません。"
 }

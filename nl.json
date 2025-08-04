@@ -2650,5 +2650,6 @@
   "enableCostOptimizer": "Kostenoptimalisatie inschakelen",
   "activateProductIntegration": "{product} integratie activeren",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Op basis van fleetgegevens is de oorspronkelijke batterijcapaciteit van deze voertuigconfiguratie {capacity} kWh.",
-  "setCostPerKwh": "Kosten per kWh instellen"
+  "setCostPerKwh": "Kosten per kWh instellen",
+  "vehicleDataIsNotBeingCollected": "Voertuiggegevens worden niet verzameld."
 }
