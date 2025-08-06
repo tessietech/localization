@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "未收集车辆数据。",
   "thisIntegrationRequiresASubscription": "此集成需要订阅。",
   "usagebasedBilling": "按使用量计费",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "车队计划在每个结算周期结束时结算。"
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "车队计划在每个结算周期结束时结算。",
+  "noLocationsFound": "未找到位置"
 }

@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Araç verileri toplanmıyor.",
   "thisIntegrationRequiresASubscription": "Bu entegrasyon bir abonelik gerektirir.",
   "usagebasedBilling": "Kullanıma dayalı faturalandırma",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Filo planları, her fatura döneminin sonunda faturalandırılır."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Filo planları, her fatura döneminin sonunda faturalandırılır.",
+  "noLocationsFound": "Konum bulunamadı"
 }

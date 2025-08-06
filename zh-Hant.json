@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "車輛資料未被收集。",
   "thisIntegrationRequiresASubscription": "此整合需要訂閱。",
   "usagebasedBilling": "按用量計費",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "車隊方案會在每個帳單週期結束時收費。"
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "車隊方案會在每個帳單週期結束時收費。",
+  "noLocationsFound": "找不到位置"
 }

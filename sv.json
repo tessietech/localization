@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Fordonets data samlas inte in.",
   "thisIntegrationRequiresASubscription": "Den här integrationen kräver en prenumeration.",
   "usagebasedBilling": "Användningsbaserad fakturering",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottplaner faktureras i slutet av varje faktureringscykel."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottplaner faktureras i slutet av varje faktureringscykel.",
+  "noLocationsFound": "Inga platser hittades"
 }

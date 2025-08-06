@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Datele vehiculului nu sunt colectate.",
   "thisIntegrationRequiresASubscription": "Această integrare necesită un abonament.",
   "usagebasedBilling": "Facturare în funcție de utilizare",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Planurile de flotă sunt facturate la sfârșitul fiecărui ciclu de facturare."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Planurile de flotă sunt facturate la sfârșitul fiecărui ciclu de facturare.",
+  "noLocationsFound": "Nicio locație găsită"
 }

@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Данные об автомобиле не собираются.",
   "thisIntegrationRequiresASubscription": "Для этой интеграции требуется подписка.",
   "usagebasedBilling": "Оплата по мере использования",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Счета по тарифным планам автопарка выставляются в конце каждого платежного периода."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Счета по тарифным планам автопарка выставляются в конце каждого платежного периода.",
+  "noLocationsFound": "Местоположения не найдены"
 }

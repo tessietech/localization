@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Ajoneuvon tietoja ei kerätä.",
   "thisIntegrationRequiresASubscription": "Tämä integraatio vaatii tilauksen.",
   "usagebasedBilling": "Käyttöpohjainen laskutus",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-sopimukset laskutetaan kunkin laskutuskauden lopussa."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-sopimukset laskutetaan kunkin laskutuskauden lopussa.",
+  "noLocationsFound": "Sijainteja ei löytynyt"
 }

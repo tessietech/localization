@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Voertuiggegevens worden niet verzameld.",
   "thisIntegrationRequiresASubscription": "Voor deze integratie is een abonnement vereist.",
   "usagebasedBilling": "Op gebruik gebaseerde facturering",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-abonnementen worden gefactureerd aan het einde van elke factureringscyclus."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-abonnementen worden gefactureerd aan het einde van elke factureringscyclus.",
+  "noLocationsFound": "Geen locaties gevonden"
 }

@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Dane pojazdu nie są zbierane.",
   "thisIntegrationRequiresASubscription": "Ta integracja wymaga subskrypcji.",
   "usagebasedBilling": "Rozliczenia oparte na użytkowaniu",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Plany flotowe są rozliczane na końcu każdego cyklu rozliczeniowego."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Plany flotowe są rozliczane na końcu każdego cyklu rozliczeniowego.",
+  "noLocationsFound": "Nie znaleziono lokalizacji"
 }

@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "차량 데이터가 수집되지 않고 있습니다.",
   "thisIntegrationRequiresASubscription": "이 통합에는 구독이 필요합니다.",
   "usagebasedBilling": "사용량 기반 청구",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet 요금제는 각 청구 주기 말에 청구됩니다."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet 요금제는 각 청구 주기 말에 청구됩니다.",
+  "noLocationsFound": "위치를 찾을 수 없음"
 }

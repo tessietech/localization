@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Os dados do veículo não estão sendo coletados.",
   "thisIntegrationRequiresASubscription": "Esta integração requer uma assinatura.",
   "usagebasedBilling": "Faktureringsordning baseret på forbrug",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flådeplaner faktureres ved afslutningen af hver faktureringscyklus."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flådeplaner faktureres ved afslutningen af hver faktureringscyklus.",
+  "noLocationsFound": "Nenhuma localização encontrada"
 }

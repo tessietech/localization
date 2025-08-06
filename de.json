@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Fahrzeugdaten werden nicht erfasst.",
   "thisIntegrationRequiresASubscription": "Für diese Integration ist ein Abonnement erforderlich.",
   "usagebasedBilling": "Nutzungsabhängige Abrechnung",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottenpläne werden am Ende jedes Abrechnungszeitraums abgerechnet."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottenpläne werden am Ende jedes Abrechnungszeitraums abgerechnet.",
+  "noLocationsFound": "Keine Standorte gefunden"
 }

@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Kjøretøydata samles ikke inn.",
   "thisIntegrationRequiresASubscription": "Denne integrasjonen krever et abonnement.",
   "usagebasedBilling": "Bruksbasert fakturering",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flåteplaner faktureres ved slutten av hver faktureringssyklus."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flåteplaner faktureres ved slutten av hver faktureringssyklus.",
+  "noLocationsFound": "Ingen lokasjoner funnet"
 }

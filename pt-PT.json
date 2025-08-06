@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "Os dados do veículo não estão a ser recolhidos.",
   "thisIntegrationRequiresASubscription": "Esta integração requer uma subscrição.",
   "usagebasedBilling": "Faturação baseada na utilização",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "Os planos de frota são faturados no final de cada ciclo de faturação."
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Os planos de frota são faturados no final de cada ciclo de faturação.",
+  "noLocationsFound": "Nenhuma localização encontrada"
 }

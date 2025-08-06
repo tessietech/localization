@@ -2654,5 +2654,6 @@
   "vehicleDataIsNotBeingCollected": "車両データは収集されていません。",
   "thisIntegrationRequiresASubscription": "この統合にはサブスクリプションが必要です。",
   "usagebasedBilling": "利用状況に基づく請求",
-  "fleetPlansAreBilledAtTheEndOfEachBilling": "フリートプランは、各請求サイクルの終了時に請求されます。"
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "フリートプランは、各請求サイクルの終了時に請求されます。",
+  "noLocationsFound": "場所が見つかりません"
 }
