@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Flottaadatok alapján a jármű ezen konfigurációjának eredeti akkumulátorkapacitása: {capacity} kWh.",
   "setCostPerKwh": "kWh-kénti költség beállítása",
   "vehicleDataIsNotBeingCollected": "A járműadatok gyűjtése nem történik.",
-  "thisIntegrationRequiresASubscription": "Ez az integráció előfizetést igényel."
+  "thisIntegrationRequiresASubscription": "Ez az integráció előfizetést igényel.",
+  "usagebasedBilling": "Használatalapú számlázás",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "A flottatervek számlázása minden számlázási ciklus végén történik."
 }

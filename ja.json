@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "フリートデータに基づくと、この車両構成の元のバッテリー容量は{capacity} kWhです。",
   "setCostPerKwh": "kWhあたりのコストを設定",
   "vehicleDataIsNotBeingCollected": "車両データは収集されていません。",
-  "thisIntegrationRequiresASubscription": "この統合にはサブスクリプションが必要です。"
+  "thisIntegrationRequiresASubscription": "この統合にはサブスクリプションが必要です。",
+  "usagebasedBilling": "利用状況に基づく請求",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "フリートプランは、各請求サイクルの終了時に請求されます。"
 }

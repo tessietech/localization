@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Filo verilerine göre, bu araç konfigürasyonunun orijinal batarya kapasitesi {capacity} kWh'dir.",
   "setCostPerKwh": "kWh Başına Maliyeti Ayarla",
   "vehicleDataIsNotBeingCollected": "Araç verileri toplanmıyor.",
-  "thisIntegrationRequiresASubscription": "Bu entegrasyon bir abonelik gerektirir."
+  "thisIntegrationRequiresASubscription": "Bu entegrasyon bir abonelik gerektirir.",
+  "usagebasedBilling": "Kullanıma dayalı faturalandırma",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Filo planları, her fatura döneminin sonunda faturalandırılır."
 }

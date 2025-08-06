@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Na základě dat z vozového parku je původní kapacita baterie této konfigurace vozidla {capacity} kWh.",
   "setCostPerKwh": "Nastavit cenu za kWh",
   "vehicleDataIsNotBeingCollected": "Data vozidla se neshromažďují.",
-  "thisIntegrationRequiresASubscription": "Tato integrace vyžaduje předplatné."
+  "thisIntegrationRequiresASubscription": "Tato integrace vyžaduje předplatné.",
+  "usagebasedBilling": "Fakturace podle využití",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet plány jsou fakturovány na konci každého fakturačního cyklu."
 }

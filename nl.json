@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Op basis van fleetgegevens is de oorspronkelijke batterijcapaciteit van deze voertuigconfiguratie {capacity} kWh.",
   "setCostPerKwh": "Kosten per kWh instellen",
   "vehicleDataIsNotBeingCollected": "Voertuiggegevens worden niet verzameld.",
-  "thisIntegrationRequiresASubscription": "Voor deze integratie is een abonnement vereist."
+  "thisIntegrationRequiresASubscription": "Voor deze integratie is een abonnement vereist.",
+  "usagebasedBilling": "Op gebruik gebaseerde facturering",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-abonnementen worden gefactureerd aan het einde van elke factureringscyclus."
 }

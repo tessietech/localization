@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Baserat på flottdata är den ursprungliga batterikapaciteten för denna fordonskonfiguration {capacity} kWh.",
   "setCostPerKwh": "Ange kostnad per kWh",
   "vehicleDataIsNotBeingCollected": "Fordonets data samlas inte in.",
-  "thisIntegrationRequiresASubscription": "Den här integrationen kräver en prenumeration."
+  "thisIntegrationRequiresASubscription": "Den här integrationen kräver en prenumeration.",
+  "usagebasedBilling": "Användningsbaserad fakturering",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottplaner faktureras i slutet av varje faktureringscykel."
 }

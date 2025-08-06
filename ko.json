@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "차량 데이터를 기반으로, 이 차량 구성의 원래 배터리 용량은 {capacity} kWh입니다.",
   "setCostPerKwh": "kWh당 비용 설정",
   "vehicleDataIsNotBeingCollected": "차량 데이터가 수집되지 않고 있습니다.",
-  "thisIntegrationRequiresASubscription": "이 통합에는 구독이 필요합니다."
+  "thisIntegrationRequiresASubscription": "이 통합에는 구독이 필요합니다.",
+  "usagebasedBilling": "사용량 기반 청구",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet 요금제는 각 청구 주기 말에 청구됩니다."
 }

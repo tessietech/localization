@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Основываясь на данных автопарка, исходная емкость аккумулятора этой конфигурации автомобиля составляет {capacity} кВт·ч.",
   "setCostPerKwh": "Установите стоимость за кВт⋅ч",
   "vehicleDataIsNotBeingCollected": "Данные об автомобиле не собираются.",
-  "thisIntegrationRequiresASubscription": "Для этой интеграции требуется подписка."
+  "thisIntegrationRequiresASubscription": "Для этой интеграции требуется подписка.",
+  "usagebasedBilling": "Оплата по мере использования",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Счета по тарифным планам автопарка выставляются в конце каждого платежного периода."
 }

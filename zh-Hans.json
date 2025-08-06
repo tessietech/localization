@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "根据车队数据，此车辆配置的原始电池容量为 {capacity} 千瓦时。",
   "setCostPerKwh": "设置每千瓦时成本",
   "vehicleDataIsNotBeingCollected": "未收集车辆数据。",
-  "thisIntegrationRequiresASubscription": "此集成需要订阅。"
+  "thisIntegrationRequiresASubscription": "此集成需要订阅。",
+  "usagebasedBilling": "按使用量计费",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "车队计划在每个结算周期结束时结算。"
 }

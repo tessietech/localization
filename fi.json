@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Laivastotietojen perusteella tämän ajoneuvokokoonpanon alkuperäinen akkukapasiteetti on {capacity} kWh.",
   "setCostPerKwh": "Aseta kWh-hinta",
   "vehicleDataIsNotBeingCollected": "Ajoneuvon tietoja ei kerätä.",
-  "thisIntegrationRequiresASubscription": "Tämä integraatio vaatii tilauksen."
+  "thisIntegrationRequiresASubscription": "Tämä integraatio vaatii tilauksen.",
+  "usagebasedBilling": "Käyttöpohjainen laskutus",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-sopimukset laskutetaan kunkin laskutuskauden lopussa."
 }

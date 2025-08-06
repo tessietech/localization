@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "根據車隊數據，此車輛配置的原始電池容量為 {capacity} kWh。",
   "setCostPerKwh": "設定每千瓦時成本",
   "vehicleDataIsNotBeingCollected": "車輛資料未被收集。",
-  "thisIntegrationRequiresASubscription": "此整合需要訂閱。"
+  "thisIntegrationRequiresASubscription": "此整合需要訂閱。",
+  "usagebasedBilling": "按用量計費",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "車隊方案會在每個帳單週期結束時收費。"
 }

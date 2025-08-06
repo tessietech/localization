@@ -2652,5 +2652,7 @@
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Basierend auf Flottendaten beträgt die ursprüngliche Batteriekapazität dieser Fahrzeugkonfiguration {capacity} kWh.",
   "setCostPerKwh": "Setze Kosten pro kWh",
   "vehicleDataIsNotBeingCollected": "Fahrzeugdaten werden nicht erfasst.",
-  "thisIntegrationRequiresASubscription": "Für diese Integration ist ein Abonnement erforderlich."
+  "thisIntegrationRequiresASubscription": "Für diese Integration ist ein Abonnement erforderlich.",
+  "usagebasedBilling": "Nutzungsabhängige Abrechnung",
+  "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottenpläne werden am Ende jedes Abrechnungszeitraums abgerechnet."
 }
