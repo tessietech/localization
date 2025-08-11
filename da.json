@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Flådeplaner faktureres ved afslutningen af hver faktureringscyklus.",
   "noLocationsFound": "Nenhuma localização encontrada",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Indtast den e-mailadresse, der er knyttet til din {product}-konto.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Du vil modtage en anmodning om samtykke fra Tesla inden for de næste 24 timer. Når du har accepteret anmodningen, giver vi dig besked via e-mail, når forbindelsen er fuldført."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Du vil modtage en anmodning om samtykke fra Tesla inden for de næste 24 timer. Når du har accepteret anmodningen, giver vi dig besked via e-mail, når forbindelsen er fuldført.",
+  "odometerHasExceededMiles": "Kilometertælleren har overskredet {distance} mi.",
+  "odometerHasExceededKilometers": "Kilometertælleren har overskredet {distance} km."
 }

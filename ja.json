@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "フリートプランは、各請求サイクルの終了時に請求されます。",
   "noLocationsFound": "場所が見つかりません",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "{product}アカウントに登録されたメールアドレスを入力してください。",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Teslaから24時間以内に同意リクエストが届きます。リクエストに同意すると、接続が完了したことをメールでお知らせします。"
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Teslaから24時間以内に同意リクエストが届きます。リクエストに同意すると、接続が完了したことをメールでお知らせします。",
+  "odometerHasExceededMiles": "走行距離計が{distance}マイルを超えました。",
+  "odometerHasExceededKilometers": "走行距離計が{distance}kmを超えました。"
 }

@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Les forfaits Flotte sont facturés à la fin de chaque cycle de facturation.",
   "noLocationsFound": "Aucun emplacement trouvé",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Entrez l'adresse e-mail associée à votre compte {product}.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Vous recevrez une demande de consentement de Tesla dans les prochaines 24 heures. Une fois que vous aurez accepté la demande, nous vous informerons par e-mail une fois la connexion établie."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Vous recevrez une demande de consentement de Tesla dans les prochaines 24 heures. Une fois que vous aurez accepté la demande, nous vous informerons par e-mail une fois la connexion établie.",
+  "odometerHasExceededMiles": "Le compteur kilométrique a dépassé {distance} mi.",
+  "odometerHasExceededKilometers": "Le compteur kilométrique a dépassé {distance} km."
 }

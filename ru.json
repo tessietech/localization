@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Счета по тарифным планам автопарка выставляются в конце каждого платежного периода.",
   "noLocationsFound": "Местоположения не найдены",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Введите адрес электронной почты, связанный с вашей учетной записью {product}.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "В течение следующих 24 часов вы получите запрос согласия от Tesla. После принятия запроса мы уведомим вас по электронной почте, когда соединение будет установлено."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "В течение следующих 24 часов вы получите запрос согласия от Tesla. После принятия запроса мы уведомим вас по электронной почте, когда соединение будет установлено.",
+  "odometerHasExceededMiles": "Одометр превысил {distance} мили.",
+  "odometerHasExceededKilometers": "Одометр превысил {distance} км."
 }

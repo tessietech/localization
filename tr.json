@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Filo planları, her fatura döneminin sonunda faturalandırılır.",
   "noLocationsFound": "Konum bulunamadı",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Ürününüzün hesabıyla ilişkili e-posta adresini girin: {product}.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Tesla'dan önümüzdeki 24 saat içinde bir onay isteği alacaksınız. İsteği kabul ettikten sonra, bağlantı tamamlandığında sizi e-posta ile bilgilendireceğiz."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Tesla'dan önümüzdeki 24 saat içinde bir onay isteği alacaksınız. İsteği kabul ettikten sonra, bağlantı tamamlandığında sizi e-posta ile bilgilendireceğiz.",
+  "odometerHasExceededMiles": "Kilometre sayacı {distance} mi'yi aştı.",
+  "odometerHasExceededKilometers": "Kilometre sayacı {distance} km'yi aştı."
 }

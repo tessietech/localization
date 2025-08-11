@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-sopimukset laskutetaan kunkin laskutuskauden lopussa.",
   "noLocationsFound": "Sijainteja ei löytynyt",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Anna {product}-tiliisi yhdistetty sähköpostiosoite.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Saat Teslalta suostumuspyynnön seuraavien 24 tunnin kuluessa. Kun olet hyväksynyt pyynnön, ilmoitamme sinulle sähköpostitse, kun yhteys on valmis."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Saat Teslalta suostumuspyynnön seuraavien 24 tunnin kuluessa. Kun olet hyväksynyt pyynnön, ilmoitamme sinulle sähköpostitse, kun yhteys on valmis.",
+  "odometerHasExceededMiles": "Matkamittari on ylittänyt arvon {distance} mi.",
+  "odometerHasExceededKilometers": "Matkamittari on ylittänyt arvon {distance} km."
 }

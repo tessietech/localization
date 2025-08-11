@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Flottplaner faktureras i slutet av varje faktureringscykel.",
   "noLocationsFound": "Inga platser hittades",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Ange e-postadressen som är kopplad till ditt {product}-konto.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Du kommer att få en samtyckesförfrågan från Tesla inom de närmaste 24 timmarna. När du har godkänt förfrågan kommer vi att meddela dig via e-post när anslutningen är klar."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Du kommer att få en samtyckesförfrågan från Tesla inom de närmaste 24 timmarna. När du har godkänt förfrågan kommer vi att meddela dig via e-post när anslutningen är klar.",
+  "odometerHasExceededMiles": "Mätarställningen har överskridit {distance} mi.",
+  "odometerHasExceededKilometers": "Mätarställningen har överskridit {distance} km."
 }

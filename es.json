@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Los planes de flota se facturan al final de cada ciclo de facturación.",
   "noLocationsFound": "No se encontraron ubicaciones",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Introduce la dirección de correo electrónico asociada a tu cuenta de {product}.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Recibirás una solicitud de consentimiento de Tesla en las próximas 24 horas. Después de aceptar la solicitud, te notificaremos por correo electrónico una vez que se haya completado la conexión."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "Recibirás una solicitud de consentimiento de Tesla en las próximas 24 horas. Después de aceptar la solicitud, te notificaremos por correo electrónico una vez que se haya completado la conexión.",
+  "odometerHasExceededMiles": "El odómetro ha superado las {distance} mi.",
+  "odometerHasExceededKilometers": "El odómetro ha superado los {distance} km."
 }

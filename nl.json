@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet-abonnementen worden gefactureerd aan het einde van elke factureringscyclus.",
   "noLocationsFound": "Geen locaties gevonden",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Voer het e-mailadres in dat is gekoppeld aan uw {product}-account.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "U ontvangt binnen 24 uur een toestemmingsverzoek van Tesla. Nadat u het verzoek hebt geaccepteerd, ontvangt u een e-mail zodra de verbinding is voltooid."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "U ontvangt binnen 24 uur een toestemmingsverzoek van Tesla. Nadat u het verzoek hebt geaccepteerd, ontvangt u een e-mail zodra de verbinding is voltooid.",
+  "odometerHasExceededMiles": "Kilometerstand heeft {distance} mi overschreden.",
+  "odometerHasExceededKilometers": "Kilometerstand heeft {distance} km overschreden."
 }

@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "Fleet plans are billed at the end of each billing cycle.",
   "noLocationsFound": "No locations found",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Enter the email address associated with your {product} account.",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "You will receive a consent request from Tesla within the next 24 hours. After you accept the request, we'll notify you by email once the connection is complete."
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "You will receive a consent request from Tesla within the next 24 hours. After you accept the request, we'll notify you by email once the connection is complete.",
+  "odometerHasExceededMiles": "Odometer has exceeded {distance} mi.",
+  "odometerHasExceededKilometers": "Odometer has exceeded {distance} km."
 }

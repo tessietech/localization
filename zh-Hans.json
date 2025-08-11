@@ -2667,5 +2667,7 @@
   "fleetPlansAreBilledAtTheEndOfEachBilling": "车队计划在每个结算周期结束时结算。",
   "noLocationsFound": "未找到位置",
   "enterTheEmailAddressAssociatedWithYourProductAccount": "输入与您的{product}账户相关联的电子邮件地址。",
-  "youWillReceiveAConsentRequestFromTeslaWithinThe": "您将在接下来的24小时内收到来自 Tesla 的同意请求。在您接受请求后，我们将在连接完成后通过电子邮件通知您。"
+  "youWillReceiveAConsentRequestFromTeslaWithinThe": "您将在接下来的24小时内收到来自 Tesla 的同意请求。在您接受请求后，我们将在连接完成后通过电子邮件通知您。",
+  "odometerHasExceededMiles": "里程表已超过 {distance} 英里。",
+  "odometerHasExceededKilometers": "里程表已超过 {distance} 公里。"
 }
