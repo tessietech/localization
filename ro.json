@@ -2669,5 +2669,6 @@
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Introduceți adresa de e-mail asociată contului dvs. {product}.",
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Veți primi o cerere de consimțământ de la Tesla în următoarele 24 de ore. După ce acceptați cererea, vă vom notifica prin e-mail odată ce conexiunea este finalizată.",
   "odometerHasExceededMiles": "Odometrul a depășit {distance} mi.",
-  "odometerHasExceededKilometers": "Odometrul a depășit {distance} km."
+  "odometerHasExceededKilometers": "Odometrul a depășit {distance} km.",
+  "whenTheSetOdometerIsExceeded": "Când odometrul setat este depășit"
 }

@@ -2669,5 +2669,6 @@
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Wprowadź adres e-mail powiązany z Twoim kontem {product}.",
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "W ciągu najbliższych 24 godzin otrzymasz prośbę o zgodę od Tesli. Po zaakceptowaniu prośby powiadomimy Cię e-mailem o zakończeniu połączenia.",
   "odometerHasExceededMiles": "Przebieg przekroczył {distance} mi.",
-  "odometerHasExceededKilometers": "Przebieg przekroczył {distance} km."
+  "odometerHasExceededKilometers": "Przebieg przekroczył {distance} km.",
+  "whenTheSetOdometerIsExceeded": "Po przekroczeniu ustawionego licznika kilometrów"
 }

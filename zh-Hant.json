@@ -2669,5 +2669,6 @@
   "enterTheEmailAddressAssociatedWithYourProductAccount": "請輸入與您的 {product} 帳戶關聯的電子郵件地址。",
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "您將在接下來的 24 小時內收到來自 Tesla 的同意請求。 在您接受請求後，我們將在連線完成後以電子郵件通知您。",
   "odometerHasExceededMiles": "里程表已超過 {distance} 英里。",
-  "odometerHasExceededKilometers": "里程表已超過 {distance} 公里。"
+  "odometerHasExceededKilometers": "里程表已超過 {distance} 公里。",
+  "whenTheSetOdometerIsExceeded": "超過設定里程時"
 }

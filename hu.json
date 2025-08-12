@@ -2669,5 +2669,6 @@
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Írja be a {product} fiókjához tartozó e-mail címet.",
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "A következő 24 órában hozzájárulási kérelmet fog kapni a Teslától. Miután elfogadta a kérelmet, e-mailben értesítjük, amint a kapcsolat létrejött.",
   "odometerHasExceededMiles": "A kilométer-számláló meghaladta a(z) {distance} mérföldet.",
-  "odometerHasExceededKilometers": "A kilométer-számláló meghaladta a(z) {distance} km-t."
+  "odometerHasExceededKilometers": "A kilométer-számláló meghaladta a(z) {distance} km-t.",
+  "whenTheSetOdometerIsExceeded": "Amikor a beállított kilométer-számláló túllépi a beállított értéket"
 }

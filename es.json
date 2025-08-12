@@ -2669,5 +2669,6 @@
   "enterTheEmailAddressAssociatedWithYourProductAccount": "Introduce la dirección de correo electrónico asociada a tu cuenta de {product}.",
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Recibirás una solicitud de consentimiento de Tesla en las próximas 24 horas. Después de aceptar la solicitud, te notificaremos por correo electrónico una vez que se haya completado la conexión.",
   "odometerHasExceededMiles": "El odómetro ha superado las {distance} mi.",
-  "odometerHasExceededKilometers": "El odómetro ha superado los {distance} km."
+  "odometerHasExceededKilometers": "El odómetro ha superado los {distance} km.",
+  "whenTheSetOdometerIsExceeded": "Cuando se excede el odómetro establecido"
 }
