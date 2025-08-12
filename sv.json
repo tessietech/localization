@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Du kommer att få en samtyckesförfrågan från Tesla inom de närmaste 24 timmarna. När du har godkänt förfrågan kommer vi att meddela dig via e-post när anslutningen är klar.",
   "odometerHasExceededMiles": "Mätarställningen har överskridit {distance} mi.",
   "odometerHasExceededKilometers": "Mätarställningen har överskridit {distance} km.",
-  "whenTheSetOdometerIsExceeded": "När den inställda trippmätaren överskrids"
+  "whenTheSetOdometerIsExceeded": "När den inställda trippmätaren överskrids",
+  "whenCharging": "Vid laddning",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Liveaktiviteter visas på din låsskärm och Dynamic Island."
 }

@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Vous recevrez une demande de consentement de Tesla dans les prochaines 24 heures. Une fois que vous aurez accepté la demande, nous vous informerons par e-mail une fois la connexion établie.",
   "odometerHasExceededMiles": "Le compteur kilométrique a dépassé {distance} mi.",
   "odometerHasExceededKilometers": "Le compteur kilométrique a dépassé {distance} km.",
-  "whenTheSetOdometerIsExceeded": "Lorsque l’odomètre défini est dépassé"
+  "whenTheSetOdometerIsExceeded": "Lorsque l’odomètre défini est dépassé",
+  "whenCharging": "Lors du chargement",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Les activités en direct apparaîtront sur votre écran de verrouillage et l'île dynamique."
 }

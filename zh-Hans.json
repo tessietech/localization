@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "您将在接下来的24小时内收到来自 Tesla 的同意请求。在您接受请求后，我们将在连接完成后通过电子邮件通知您。",
   "odometerHasExceededMiles": "里程表已超过 {distance} 英里。",
   "odometerHasExceededKilometers": "里程表已超过 {distance} 公里。",
-  "whenTheSetOdometerIsExceeded": "超出设定的里程表时"
+  "whenTheSetOdometerIsExceeded": "超出设定的里程表时",
+  "whenCharging": "充电时",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "实时活动将显示在您的锁定屏幕和灵动岛上。"
 }

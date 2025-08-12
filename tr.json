@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Tesla'dan önümüzdeki 24 saat içinde bir onay isteği alacaksınız. İsteği kabul ettikten sonra, bağlantı tamamlandığında sizi e-posta ile bilgilendireceğiz.",
   "odometerHasExceededMiles": "Kilometre sayacı {distance} mi'yi aştı.",
   "odometerHasExceededKilometers": "Kilometre sayacı {distance} km'yi aştı.",
-  "whenTheSetOdometerIsExceeded": "Ayar odometer aşıldığında"
+  "whenTheSetOdometerIsExceeded": "Ayar odometer aşıldığında",
+  "whenCharging": "Şarj olurken",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Canlı aktiviteler Kilit Ekranınızda ve Dynamic Island'da görünecektir."
 }

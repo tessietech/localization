@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "В течение следующих 24 часов вы получите запрос согласия от Tesla. После принятия запроса мы уведомим вас по электронной почте, когда соединение будет установлено.",
   "odometerHasExceededMiles": "Одометр превысил {distance} мили.",
   "odometerHasExceededKilometers": "Одометр превысил {distance} км.",
-  "whenTheSetOdometerIsExceeded": "Когда заданный одометр превышен"
+  "whenTheSetOdometerIsExceeded": "Когда заданный одометр превышен",
+  "whenCharging": "Во время зарядки",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Активные действия будут отображаться на экране блокировки и в Dynamic Island."
 }

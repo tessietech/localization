@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "U ontvangt binnen 24 uur een toestemmingsverzoek van Tesla. Nadat u het verzoek hebt geaccepteerd, ontvangt u een e-mail zodra de verbinding is voltooid.",
   "odometerHasExceededMiles": "Kilometerstand heeft {distance} mi overschreden.",
   "odometerHasExceededKilometers": "Kilometerstand heeft {distance} km overschreden.",
-  "whenTheSetOdometerIsExceeded": "Wanneer de ingestelde kilometerteller wordt overschreden"
+  "whenTheSetOdometerIsExceeded": "Wanneer de ingestelde kilometerteller wordt overschreden",
+  "whenCharging": "Tijdens het opladen",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activiteiten verschijnen op je vergrendelscherm en Dynamic Island."
 }

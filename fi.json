@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Saat Teslalta suostumuspyynnön seuraavien 24 tunnin kuluessa. Kun olet hyväksynyt pyynnön, ilmoitamme sinulle sähköpostitse, kun yhteys on valmis.",
   "odometerHasExceededMiles": "Matkamittari on ylittänyt arvon {distance} mi.",
   "odometerHasExceededKilometers": "Matkamittari on ylittänyt arvon {distance} km.",
-  "whenTheSetOdometerIsExceeded": "Kun asetettu matkamittari ylittyy"
+  "whenTheSetOdometerIsExceeded": "Kun asetettu matkamittari ylittyy",
+  "whenCharging": "Latauksen aikana",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Reaaliaikaiset toiminnot näkyvät lukitusnäytössäsi ja Dynamic Islandissa."
 }

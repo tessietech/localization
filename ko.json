@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Tesla에서 향후 24시간 이내에 동의 요청을 받게 됩니다. 요청을 수락하면 연결이 완료되는 즉시 이메일로 알려드립니다.",
   "odometerHasExceededMiles": "주행 거리가 {distance}mi를 초과했습니다.",
   "odometerHasExceededKilometers": "주행 거리가 {distance}km를 초과했습니다.",
-  "whenTheSetOdometerIsExceeded": "설정된 주행 거리를 초과하면"
+  "whenTheSetOdometerIsExceeded": "설정된 주행 거리를 초과하면",
+  "whenCharging": "충전 중일 때",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "실시간 활동이 잠금 화면 및 다이내믹 아일랜드에 표시됩니다."
 }

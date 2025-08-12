@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Během následujících 24 hodin obdržíte žádost o souhlas od společnosti Tesla. Po přijetí žádosti vás e-mailem upozorníme, jakmile bude připojení dokončeno.",
   "odometerHasExceededMiles": "Počítadlo kilometrů překročilo {distance} mil.",
   "odometerHasExceededKilometers": "Počítadlo kilometrů překročilo {distance} km.",
-  "whenTheSetOdometerIsExceeded": "Po překročení nastaveného počítadla kilometrů"
+  "whenTheSetOdometerIsExceeded": "Po překročení nastaveného počítadla kilometrů",
+  "whenCharging": "Při nabíjení",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Živé aktivity se zobrazí na vaší zamykací obrazovce a dynamickém ostrově."
 }

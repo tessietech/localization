@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Du vil motta en samtykkeforespørsel fra Tesla i løpet av de neste 24 timene. Når du har godtatt forespørselen, vil vi varsle deg på e-post når tilkoblingen er fullført.",
   "odometerHasExceededMiles": "Kilometerstand har overskredet {distance} mi.",
   "odometerHasExceededKilometers": "Kilometerstand har overskredet {distance} km.",
-  "whenTheSetOdometerIsExceeded": "Når den angitte kilometertelleren overskrides"
+  "whenTheSetOdometerIsExceeded": "Når den angitte kilometertelleren overskrides",
+  "whenCharging": "Når den lader",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-aktiviteter vises på låseskjermen og i Dynamic Island."
 }

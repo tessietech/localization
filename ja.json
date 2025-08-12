@@ -2670,5 +2670,7 @@
   "youWillReceiveAConsentRequestFromTeslaWithinThe": "Teslaから24時間以内に同意リクエストが届きます。リクエストに同意すると、接続が完了したことをメールでお知らせします。",
   "odometerHasExceededMiles": "走行距離計が{distance}マイルを超えました。",
   "odometerHasExceededKilometers": "走行距離計が{distance}kmを超えました。",
-  "whenTheSetOdometerIsExceeded": "設定された走行距離を超えた場合"
+  "whenTheSetOdometerIsExceeded": "設定された走行距離を超えた場合",
+  "whenCharging": "充電時",
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "ライブアクティビティがロック画面とDynamic Islandに表示されます。"
 }
