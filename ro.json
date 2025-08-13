@@ -2672,5 +2672,7 @@
   "odometerHasExceededKilometers": "Odometrul a depășit {distance} km.",
   "whenTheSetOdometerIsExceeded": "Când odometrul setat este depășit",
   "whenCharging": "Când se încarcă",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Activitățile live vor apărea pe ecranul de blocare și pe Dynamic Island."
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Activitățile live vor apărea pe ecranul de blocare și pe Dynamic Island.",
+  "developer": "Dezvoltator",
+  "exploreDocumentation": "Explorează documentația"
 }

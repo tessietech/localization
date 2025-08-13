@@ -2672,5 +2672,7 @@
   "odometerHasExceededKilometers": "Kilometerstand har overskredet {distance} km.",
   "whenTheSetOdometerIsExceeded": "Når den angitte kilometertelleren overskrides",
   "whenCharging": "Når den lader",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-aktiviteter vises på låseskjermen og i Dynamic Island."
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-aktiviteter vises på låseskjermen og i Dynamic Island.",
+  "developer": "Utvikler",
+  "exploreDocumentation": "Utforsk dokumentasjon"
 }

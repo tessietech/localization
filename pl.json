@@ -2672,5 +2672,7 @@
   "odometerHasExceededKilometers": "Przebieg przekroczył {distance} km.",
   "whenTheSetOdometerIsExceeded": "Po przekroczeniu ustawionego licznika kilometrów",
   "whenCharging": "Quando a carregar",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Aktywności na żywo pojawią się na ekranie blokady i na wyspie Dynamic Island."
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Aktywności na żywo pojawią się na ekranie blokady i na wyspie Dynamic Island.",
+  "developer": "Programista",
+  "exploreDocumentation": "Przeglądaj dokumentację"
 }

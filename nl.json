@@ -2672,5 +2672,7 @@
   "odometerHasExceededKilometers": "Kilometerstand heeft {distance} km overschreden.",
   "whenTheSetOdometerIsExceeded": "Wanneer de ingestelde kilometerteller wordt overschreden",
   "whenCharging": "Tijdens het opladen",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activiteiten verschijnen op je vergrendelscherm en Dynamic Island."
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activiteiten verschijnen op je vergrendelscherm en Dynamic Island.",
+  "developer": "Ontwikkelaar",
+  "exploreDocumentation": "Documentatie verkennen"
 }

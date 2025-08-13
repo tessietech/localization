@@ -2672,5 +2672,7 @@
   "odometerHasExceededKilometers": "Odometer has exceeded {distance} km.",
   "whenTheSetOdometerIsExceeded": "When the set odometer is exceeded",
   "whenCharging": "When charging",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activities will appear on your Lock Screen and Dynamic Island."
+  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activities will appear on your Lock Screen and Dynamic Island.",
+  "developer": "Developer",
+  "exploreDocumentation": "Explore documentation"
 }
