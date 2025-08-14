@@ -2674,5 +2674,7 @@
   "whenCharging": "充電時",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "ライブアクティビティがロック画面とDynamic Islandに表示されます。",
   "developer": "開発者",
-  "exploreDocumentation": "ドキュメンテーションを見る"
+  "exploreDocumentation": "ドキュメンテーションを見る",
+  "numberAdditionalLicense": "{number} 追加ライセンス",
+  "numberAdditionalLicenses": "{number} 追加ライセンス"
 }

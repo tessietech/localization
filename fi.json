@@ -2674,5 +2674,7 @@
   "whenCharging": "Latauksen aikana",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Reaaliaikaiset toiminnot näkyvät lukitusnäytössäsi ja Dynamic Islandissa.",
   "developer": "Kehittäjä",
-  "exploreDocumentation": "Tutustu dokumentaatioon"
+  "exploreDocumentation": "Tutustu dokumentaatioon",
+  "numberAdditionalLicense": "{number} lisäkäyttöoikeus",
+  "numberAdditionalLicenses": "{number} lisäkäyttöoikeutta"
 }

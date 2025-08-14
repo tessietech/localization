@@ -2674,5 +2674,7 @@
   "whenCharging": "Beim Laden",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-Aktivitäten werden auf Ihrem Sperrbildschirm und der Dynamic Island angezeigt.",
   "developer": "Entwickler",
-  "exploreDocumentation": "Dokumentation erkunden"
+  "exploreDocumentation": "Dokumentation erkunden",
+  "numberAdditionalLicense": "{number} zusätzliche Lizenz",
+  "numberAdditionalLicenses": "{number} zusätzliche Lizenzen"
 }

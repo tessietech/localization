@@ -2674,5 +2674,7 @@
   "whenCharging": "Când se încarcă",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Activitățile live vor apărea pe ecranul de blocare și pe Dynamic Island.",
   "developer": "Dezvoltator",
-  "exploreDocumentation": "Explorează documentația"
+  "exploreDocumentation": "Explorează documentația",
+  "numberAdditionalLicense": "{number} licență suplimentară",
+  "numberAdditionalLicenses": "{number} licențe suplimentare"
 }

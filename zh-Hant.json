@@ -2674,5 +2674,7 @@
   "whenCharging": "充電時",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "即時活動將顯示在您的鎖定畫面和動態島上。",
   "developer": "開發者",
-  "exploreDocumentation": "探索文件"
+  "exploreDocumentation": "探索文件",
+  "numberAdditionalLicense": "{number} 個額外授權",
+  "numberAdditionalLicenses": "{number} 個額外授權"
 }

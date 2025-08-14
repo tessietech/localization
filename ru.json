@@ -2674,5 +2674,7 @@
   "whenCharging": "Во время зарядки",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Активные действия будут отображаться на экране блокировки и в Dynamic Island.",
   "developer": "Разработчик",
-  "exploreDocumentation": "Explore documentation"
+  "exploreDocumentation": "Explore documentation",
+  "numberAdditionalLicense": "{number} дополнительная лицензия",
+  "numberAdditionalLicenses": "{number} дополнительные лицензии"
 }

@@ -2674,5 +2674,7 @@
   "whenCharging": "Vid laddning",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Liveaktiviteter visas på din låsskärm och Dynamic Island.",
   "developer": "Utvecklare",
-  "exploreDocumentation": "Utforska dokumentationen"
+  "exploreDocumentation": "Utforska dokumentationen",
+  "numberAdditionalLicense": "{number} ytterligare licens",
+  "numberAdditionalLicenses": "{number} ytterligare licenser"
 }

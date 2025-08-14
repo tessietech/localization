@@ -2674,5 +2674,7 @@
   "whenCharging": "Quando a carregar",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Aktywności na żywo pojawią się na ekranie blokady i na wyspie Dynamic Island.",
   "developer": "Programista",
-  "exploreDocumentation": "Przeglądaj dokumentację"
+  "exploreDocumentation": "Przeglądaj dokumentację",
+  "numberAdditionalLicense": "{number} licença adicional",
+  "numberAdditionalLicenses": "{number} licenças adicionais"
 }

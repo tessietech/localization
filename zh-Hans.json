@@ -2674,5 +2674,7 @@
   "whenCharging": "充电时",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "实时活动将显示在您的锁定屏幕和灵动岛上。",
   "developer": "开发者",
-  "exploreDocumentation": "探索文档"
+  "exploreDocumentation": "探索文档",
+  "numberAdditionalLicense": "{number} additional license",
+  "numberAdditionalLicenses": "{number} additional licenses"
 }

@@ -2674,5 +2674,7 @@
   "whenCharging": "Tijdens het opladen",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activiteiten verschijnen op je vergrendelscherm en Dynamic Island.",
   "developer": "Ontwikkelaar",
-  "exploreDocumentation": "Documentatie verkennen"
+  "exploreDocumentation": "Documentatie verkennen",
+  "numberAdditionalLicense": "{number} extra licentie",
+  "numberAdditionalLicenses": "{number} extra licenties"
 }

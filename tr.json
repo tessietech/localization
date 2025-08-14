@@ -2674,5 +2674,7 @@
   "whenCharging": "Şarj olurken",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Canlı aktiviteler Kilit Ekranınızda ve Dynamic Island'da görünecektir.",
   "developer": "Geliştirici",
-  "exploreDocumentation": "Belgeleri incele"
+  "exploreDocumentation": "Belgeleri incele",
+  "numberAdditionalLicense": "{number} ek lisans",
+  "numberAdditionalLicenses": "{number} ek lisans"
 }

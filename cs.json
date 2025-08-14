@@ -2674,5 +2674,7 @@
   "whenCharging": "Při nabíjení",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Živé aktivity se zobrazí na vaší zamykací obrazovce a dynamickém ostrově.",
   "developer": "Vývojář",
-  "exploreDocumentation": "Prozkoumat dokumentaci"
+  "exploreDocumentation": "Prozkoumat dokumentaci",
+  "numberAdditionalLicense": "{number} další licence",
+  "numberAdditionalLicenses": "{number} dalších licencí"
 }

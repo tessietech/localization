@@ -2674,5 +2674,7 @@
   "whenCharging": "Töltés közben",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Az élő tevékenységek megjelennek a zárolási képernyőn és a Dinamikus szigeten.",
   "developer": "Fejlesztő",
-  "exploreDocumentation": "Dokumentáció böngészése"
+  "exploreDocumentation": "Dokumentáció böngészése",
+  "numberAdditionalLicense": "{number} további licenc",
+  "numberAdditionalLicenses": "{number} további licencek"
 }

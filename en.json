@@ -2674,5 +2674,7 @@
   "whenCharging": "When charging",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live activities will appear on your Lock Screen and Dynamic Island.",
   "developer": "Developer",
-  "exploreDocumentation": "Explore documentation"
+  "exploreDocumentation": "Explore documentation",
+  "numberAdditionalLicense": "{number} additional license",
+  "numberAdditionalLicenses": "{number} additional licenses"
 }

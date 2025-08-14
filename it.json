@@ -2674,5 +2674,7 @@
   "whenCharging": "Quando in carica",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Le attività in tempo reale verranno visualizzate nella schermata di blocco e nella Dynamic Island.",
   "developer": "Sviluppatore",
-  "exploreDocumentation": "Esplora la documentazione"
+  "exploreDocumentation": "Esplora la documentazione",
+  "numberAdditionalLicense": "{number} licenza aggiuntiva",
+  "numberAdditionalLicenses": "{number} licenze aggiuntive"
 }

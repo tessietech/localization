@@ -2674,5 +2674,7 @@
   "whenCharging": "Lors du chargement",
   "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Les activités en direct apparaîtront sur votre écran de verrouillage et l'île dynamique.",
   "developer": "Développeur",
-  "exploreDocumentation": "Explorer la documentation"
+  "exploreDocumentation": "Explorer la documentation",
+  "numberAdditionalLicense": "{number} licence supplémentaire",
+  "numberAdditionalLicenses": "{number} licences supplémentaires"
 }
