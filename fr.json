@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Le compteur kilométrique a dépassé {distance} km.",
   "whenTheSetOdometerIsExceeded": "Lorsque l’odomètre défini est dépassé",
   "whenCharging": "Lors du chargement",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Les activités en direct apparaîtront sur votre écran de verrouillage et l'île dynamique.",
   "developer": "Développeur",
   "exploreDocumentation": "Explorer la documentation",
   "numberAdditionalLicense": "{number} licence supplémentaire",
-  "numberAdditionalLicenses": "{number} licences supplémentaires"
+  "numberAdditionalLicenses": "{number} licences supplémentaires",
+  "liveActivity": "Activité en direct",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Les activités en direct apparaissent sur l'écran de verrouillage et Dynamic Island."
 }

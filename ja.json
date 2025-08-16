@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "走行距離計が{distance}kmを超えました。",
   "whenTheSetOdometerIsExceeded": "設定された走行距離を超えた場合",
   "whenCharging": "充電時",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "ライブアクティビティがロック画面とDynamic Islandに表示されます。",
   "developer": "開発者",
   "exploreDocumentation": "ドキュメンテーションを見る",
   "numberAdditionalLicense": "{number} 追加ライセンス",
-  "numberAdditionalLicenses": "{number} 追加ライセンス"
+  "numberAdditionalLicenses": "{number} 追加ライセンス",
+  "liveActivity": "ライブアクティビティ",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "ライブアクティビティはロック画面とDynamic Islandに表示されます。"
 }

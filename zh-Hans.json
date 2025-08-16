@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "里程表已超过 {distance} 公里。",
   "whenTheSetOdometerIsExceeded": "超出设定的里程表时",
   "whenCharging": "充电时",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "实时活动将显示在您的锁定屏幕和灵动岛上。",
   "developer": "开发者",
   "exploreDocumentation": "探索文档",
   "numberAdditionalLicense": "{number} additional license",
-  "numberAdditionalLicenses": "{number} additional licenses"
+  "numberAdditionalLicenses": "{number} additional licenses",
+  "liveActivity": "实时活动",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "实时活动会显示在锁定屏幕和灵动岛上。"
 }

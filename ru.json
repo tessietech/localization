@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Одометр превысил {distance} км.",
   "whenTheSetOdometerIsExceeded": "Когда заданный одометр превышен",
   "whenCharging": "Во время зарядки",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Активные действия будут отображаться на экране блокировки и в Dynamic Island.",
   "developer": "Разработчик",
   "exploreDocumentation": "Explore documentation",
   "numberAdditionalLicense": "{number} дополнительная лицензия",
-  "numberAdditionalLicenses": "{number} дополнительные лицензии"
+  "numberAdditionalLicenses": "{number} дополнительные лицензии",
+  "liveActivity": "Live Activity",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities отображаются на экране блокировки и в Dynamic Island."
 }

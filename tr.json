@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Kilometre sayacı {distance} km'yi aştı.",
   "whenTheSetOdometerIsExceeded": "Ayar odometer aşıldığında",
   "whenCharging": "Şarj olurken",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Canlı aktiviteler Kilit Ekranınızda ve Dynamic Island'da görünecektir.",
   "developer": "Geliştirici",
   "exploreDocumentation": "Belgeleri incele",
   "numberAdditionalLicense": "{number} ek lisans",
-  "numberAdditionalLicenses": "{number} ek lisans"
+  "numberAdditionalLicenses": "{number} ek lisans",
+  "liveActivity": "Canlı Etkinlik",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Canlı Etkinlikler Kilit Ekranı'nda ve Dynamic Island'da görünür."
 }

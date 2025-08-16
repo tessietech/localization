@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Matkamittari on ylittänyt arvon {distance} km.",
   "whenTheSetOdometerIsExceeded": "Kun asetettu matkamittari ylittyy",
   "whenCharging": "Latauksen aikana",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Reaaliaikaiset toiminnot näkyvät lukitusnäytössäsi ja Dynamic Islandissa.",
   "developer": "Kehittäjä",
   "exploreDocumentation": "Tutustu dokumentaatioon",
   "numberAdditionalLicense": "{number} lisäkäyttöoikeus",
-  "numberAdditionalLicenses": "{number} lisäkäyttöoikeutta"
+  "numberAdditionalLicenses": "{number} lisäkäyttöoikeutta",
+  "liveActivity": "Live Activity",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activity -toiminnot näkyvät lukitusnäytössä ja Dynamic Islandissa."
 }

@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "주행 거리가 {distance}km를 초과했습니다.",
   "whenTheSetOdometerIsExceeded": "설정된 주행 거리를 초과하면",
   "whenCharging": "충전 중일 때",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "실시간 활동이 잠금 화면 및 다이내믹 아일랜드에 표시됩니다.",
   "developer": "개발자",
   "exploreDocumentation": "문서 탐색",
   "numberAdditionalLicense": "{number}개의 추가 라이선스",
-  "numberAdditionalLicenses": "{number}개의 추가 라이선스"
+  "numberAdditionalLicenses": "{number}개의 추가 라이선스",
+  "liveActivity": "실시간 활동",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "실시간 활동은 잠금 화면 및 Dynamic Island에 나타납니다."
 }

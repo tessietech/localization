@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "A kilométer-számláló meghaladta a(z) {distance} km-t.",
   "whenTheSetOdometerIsExceeded": "Amikor a beállított kilométer-számláló túllépi a beállított értéket",
   "whenCharging": "Töltés közben",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Az élő tevékenységek megjelennek a zárolási képernyőn és a Dinamikus szigeten.",
   "developer": "Fejlesztő",
   "exploreDocumentation": "Dokumentáció böngészése",
   "numberAdditionalLicense": "{number} további licenc",
-  "numberAdditionalLicenses": "{number} további licencek"
+  "numberAdditionalLicenses": "{number} további licencek",
+  "liveActivity": "Élő tevékenység",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Az élő tevékenységek a zárolási képernyőn és a Dynamic Islanden jelennek meg."
 }

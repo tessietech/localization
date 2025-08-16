@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Kilometertælleren har overskredet {distance} km.",
   "whenTheSetOdometerIsExceeded": "Når den indstillede kilometertæller overskrides",
   "whenCharging": "Under opladning",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-aktiviteter vises på din låseskærm og Dynamic Island.",
   "developer": "Udvikler",
   "exploreDocumentation": "Udforsk dokumentation",
   "numberAdditionalLicense": "{number} additional license",
-  "numberAdditionalLicenses": "{number} additional licenses"
+  "numberAdditionalLicenses": "{number} additional licenses",
+  "liveActivity": "Atividade em direto",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "As atividades em direto aparecem no ecrã de bloqueio e na Dynamic Island."
 }

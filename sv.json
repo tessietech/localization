@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Mätarställningen har överskridit {distance} km.",
   "whenTheSetOdometerIsExceeded": "När den inställda trippmätaren överskrids",
   "whenCharging": "Vid laddning",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Liveaktiviteter visas på din låsskärm och Dynamic Island.",
   "developer": "Utvecklare",
   "exploreDocumentation": "Utforska dokumentationen",
   "numberAdditionalLicense": "{number} ytterligare licens",
-  "numberAdditionalLicenses": "{number} ytterligare licenser"
+  "numberAdditionalLicenses": "{number} ytterligare licenser",
+  "liveActivity": "Liveaktivitet",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Liveaktiviteter visas på låsskärmen och Dynamic Island."
 }

@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Der Kilometerzähler hat {distance} km überschritten.",
   "whenTheSetOdometerIsExceeded": "Wenn der eingestellte Kilometerstand überschritten wird",
   "whenCharging": "Beim Laden",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Live-Aktivitäten werden auf Ihrem Sperrbildschirm und der Dynamic Island angezeigt.",
   "developer": "Entwickler",
   "exploreDocumentation": "Dokumentation erkunden",
   "numberAdditionalLicense": "{number} zusätzliche Lizenz",
-  "numberAdditionalLicenses": "{number} zusätzliche Lizenzen"
+  "numberAdditionalLicenses": "{number} zusätzliche Lizenzen",
+  "liveActivity": "Live-Aktivität",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live-Aktivitäten werden auf dem Sperrbildschirm und Dynamic Island angezeigt."
 }

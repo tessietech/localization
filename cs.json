@@ -2672,9 +2672,10 @@
   "odometerHasExceededKilometers": "Počítadlo kilometrů překročilo {distance} km.",
   "whenTheSetOdometerIsExceeded": "Po překročení nastaveného počítadla kilometrů",
   "whenCharging": "Při nabíjení",
-  "liveActivitiesWillAppearOnYourLockScreenAndDynamic": "Živé aktivity se zobrazí na vaší zamykací obrazovce a dynamickém ostrově.",
   "developer": "Vývojář",
   "exploreDocumentation": "Prozkoumat dokumentaci",
   "numberAdditionalLicense": "{number} další licence",
-  "numberAdditionalLicenses": "{number} dalších licencí"
+  "numberAdditionalLicenses": "{number} dalších licencí",
+  "liveActivity": "Živá aktivita",
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Živé aktivity se zobrazují na zamčené obrazovce a v Dynamic Islandu."
 }
