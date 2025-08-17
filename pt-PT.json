@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} licenças adicionais",
   "liveActivity": "Atividade em direto",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "As atividades em direto aparecem no ecrã de bloqueio e na Dynamic Island.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "O endereço de e-mail já está a ser usado por outra conta."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "O endereço de e-mail já está a ser usado por outra conta.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "O seu email foi atualizado com sucesso. Por favor, inicie sessão novamente."
 }

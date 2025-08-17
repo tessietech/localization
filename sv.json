@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} ytterligare licenser",
   "liveActivity": "Liveaktivitet",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Liveaktiviteter visas på låsskärmen och Dynamic Island.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-postadressen används redan av ett annat konto."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-postadressen används redan av ett annat konto.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Din e-postadress uppdaterades. Vänligen logga in igen."
 }

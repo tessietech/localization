@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} lisäkäyttöoikeutta",
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activity -toiminnot näkyvät lukitusnäytössä ja Dynamic Islandissa.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Sähköpostiosoite on jo käytössä toisella tilillä."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Sähköpostiosoite on jo käytössä toisella tilillä.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Sähköpostiosoitteesi on päivitetty. Kirjaudu sisään uudelleen."
 }

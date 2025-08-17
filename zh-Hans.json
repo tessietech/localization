@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} additional licenses",
   "liveActivity": "实时活动",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "实时活动会显示在锁定屏幕和灵动岛上。",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "该电子邮件地址已被其他帐户使用。"
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "该电子邮件地址已被其他帐户使用。",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "您的电子邮件已成功更新。请重新登录。"
 }

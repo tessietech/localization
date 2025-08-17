@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} ek lisans",
   "liveActivity": "Canlı Etkinlik",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Canlı Etkinlikler Kilit Ekranı'nda ve Dynamic Island'da görünür.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-posta adresi zaten başka bir hesap tarafından kullanılıyor."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-posta adresi zaten başka bir hesap tarafından kullanılıyor.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "E-postanız başarıyla güncellendi. Lütfen tekrar giriş yapın."
 }

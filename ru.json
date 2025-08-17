@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} дополнительные лицензии",
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities отображаются на экране блокировки и в Dynamic Island.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Этот адрес электронной почты уже используется другой учетной записью."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Этот адрес электронной почты уже используется другой учетной записью.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Ваш адрес электронной почты успешно обновлен. Пожалуйста, войдите снова."
 }

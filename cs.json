@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} dalších licencí",
   "liveActivity": "Živá aktivita",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Živé aktivity se zobrazují na zamčené obrazovce a v Dynamic Islandu.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-mailová adresa je již používána jiným účtem."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-mailová adresa je již používána jiným účtem.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Váš e-mail byl úspěšně aktualizován. Přihlaste se prosím znovu."
 }

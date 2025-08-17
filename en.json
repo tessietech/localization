@@ -2678,5 +2678,6 @@
   "numberAdditionalLicenses": "{number} additional licenses",
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities appear on the Lock Screen and Dynamic Island.",
-  "theEmailAddressIsAlreadyInUseByAnotherAccount": "The email address is already in use by another account."
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "The email address is already in use by another account.",
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Your email was updated successfully. Please sign in again."
 }
