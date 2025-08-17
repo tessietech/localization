@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} extra licentie",
   "numberAdditionalLicenses": "{number} extra licenties",
   "liveActivity": "Live Activity",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities verschijnen op het vergrendelscherm en Dynamic Island."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities verschijnen op het vergrendelscherm en Dynamic Island.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Het e-mailadres is al in gebruik door een ander account."
 }

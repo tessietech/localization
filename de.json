@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} zusätzliche Lizenz",
   "numberAdditionalLicenses": "{number} zusätzliche Lizenzen",
   "liveActivity": "Live-Aktivität",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live-Aktivitäten werden auf dem Sperrbildschirm und Dynamic Island angezeigt."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live-Aktivitäten werden auf dem Sperrbildschirm und Dynamic Island angezeigt.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Die E-Mail-Adresse wird bereits von einem anderen Konto verwendet."
 }

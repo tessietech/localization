@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} licença adicional",
   "numberAdditionalLicenses": "{number} licenças adicionais",
   "liveActivity": "Atividade em tempo real",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Atividades em tempo real aparecem na tela de bloqueio e Dynamic Island."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Atividades em tempo real aparecem na tela de bloqueio e Dynamic Island.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Adres e-mail jest już używany przez inne konto."
 }

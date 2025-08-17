@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number}개의 추가 라이선스",
   "numberAdditionalLicenses": "{number}개의 추가 라이선스",
   "liveActivity": "실시간 활동",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "실시간 활동은 잠금 화면 및 Dynamic Island에 나타납니다."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "실시간 활동은 잠금 화면 및 Dynamic Island에 나타납니다.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "이 이메일 주소는 다른 계정에서 이미 사용 중입니다."
 }

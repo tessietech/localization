@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} 追加ライセンス",
   "numberAdditionalLicenses": "{number} 追加ライセンス",
   "liveActivity": "ライブアクティビティ",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "ライブアクティビティはロック画面とDynamic Islandに表示されます。"
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "ライブアクティビティはロック画面とDynamic Islandに表示されます。",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "このメールアドレスは別のアカウントですでに使用されています。"
 }

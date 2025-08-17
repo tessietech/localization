@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} další licence",
   "numberAdditionalLicenses": "{number} dalších licencí",
   "liveActivity": "Živá aktivita",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Živé aktivity se zobrazují na zamčené obrazovce a v Dynamic Islandu."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Živé aktivity se zobrazují na zamčené obrazovce a v Dynamic Islandu.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-mailová adresa je již používána jiným účtem."
 }

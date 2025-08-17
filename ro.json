@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} licență suplimentară",
   "numberAdditionalLicenses": "{number} licențe suplimentare",
   "liveActivity": "Activitate live",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Activitățile live apar pe ecranul de blocare și în Dynamic Island."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Activitățile live apar pe ecranul de blocare și în Dynamic Island.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Adresa de e-mail este deja utilizată de un alt cont."
 }

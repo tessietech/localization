@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} additional license",
   "numberAdditionalLicenses": "{number} additional licenses",
   "liveActivity": "Live Activity",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities vises på låseskjermen og Dynamic Island."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities vises på låseskjermen og Dynamic Island.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-postadressen er allerede i bruk av en annen konto."
 }

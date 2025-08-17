@@ -2677,5 +2677,6 @@
   "numberAdditionalLicense": "{number} további licenc",
   "numberAdditionalLicenses": "{number} további licencek",
   "liveActivity": "Élő tevékenység",
-  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Az élő tevékenységek a zárolási képernyőn és a Dynamic Islanden jelennek meg."
+  "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Az élő tevékenységek a zárolási képernyőn és a Dynamic Islanden jelennek meg.",
+  "theEmailAddressIsAlreadyInUseByAnotherAccount": "Az e-mail cím már használatban van egy másik fiók által."
 }
