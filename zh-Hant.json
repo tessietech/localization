@@ -2679,5 +2679,8 @@
   "liveActivity": "即時活動",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "即時活動會顯示在鎖定畫面和動態島上。",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "此電子郵件地址已被另一個帳戶使用。",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "您的電子郵件已成功更新。請重新登入。"
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "您的電子郵件已成功更新。請重新登入。",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "在 Tessie 中，在「設定」>「開發人員」下產生存取權杖。",
+  "unableToStopChargingConflictDetected": "無法停止充電。偵測到與另一個充電系統的衝突。",
+  "unableToStartChargingConflictDetected": "無法開始充電。偵測到與另一個充電系統的衝突。"
 }

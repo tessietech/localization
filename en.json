@@ -2679,5 +2679,8 @@
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities appear on the Lock Screen and Dynamic Island.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "The email address is already in use by another account.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Your email was updated successfully. Please sign in again."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Your email was updated successfully. Please sign in again.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "In Tessie, generate an access token under Settings > Developer.",
+  "unableToStopChargingConflictDetected": "Unable to stop charging. A conflict with another charging system has been detected.",
+  "unableToStartChargingConflictDetected": "Unable to start charging. A conflict with another charging system has been detected."
 }

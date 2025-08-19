@@ -2679,5 +2679,8 @@
   "liveActivity": "Canlı Etkinlik",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Canlı Etkinlikler Kilit Ekranı'nda ve Dynamic Island'da görünür.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-posta adresi zaten başka bir hesap tarafından kullanılıyor.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "E-postanız başarıyla güncellendi. Lütfen tekrar giriş yapın."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "E-postanız başarıyla güncellendi. Lütfen tekrar giriş yapın.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Tessie'de, Ayarlar > Geliştirici altında bir erişim belirteci oluşturun.",
+  "unableToStopChargingConflictDetected": "Şarj durdurulamıyor. Başka bir şarj sistemi ile çakışma tespit edildi.",
+  "unableToStartChargingConflictDetected": "Şarj başlatılamıyor. Başka bir şarj sistemi ile çakışma tespit edildi."
 }

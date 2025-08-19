@@ -2679,5 +2679,8 @@
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities отображаются на экране блокировки и в Dynamic Island.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "Этот адрес электронной почты уже используется другой учетной записью.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Ваш адрес электронной почты успешно обновлен. Пожалуйста, войдите снова."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Ваш адрес электронной почты успешно обновлен. Пожалуйста, войдите снова.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "В Tessie сгенерируйте токен доступа в Настройках > Для разработчиков.",
+  "unableToStopChargingConflictDetected": "Невозможно остановить зарядку. Обнаружен конфликт с другой системой зарядки.",
+  "unableToStartChargingConflictDetected": "Невозможно начать зарядку. Обнаружен конфликт с другой системой зарядки."
 }

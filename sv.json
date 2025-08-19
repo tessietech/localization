@@ -2679,5 +2679,8 @@
   "liveActivity": "Liveaktivitet",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Liveaktiviteter visas på låsskärmen och Dynamic Island.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-postadressen används redan av ett annat konto.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Din e-postadress uppdaterades. Vänligen logga in igen."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Din e-postadress uppdaterades. Vänligen logga in igen.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "I Tessie genererar du en åtkomsttoken under Inställningar > Utvecklare.",
+  "unableToStopChargingConflictDetected": "Det gick inte att stoppa laddningen. En konflikt med ett annat laddningssystem har upptäckts.",
+  "unableToStartChargingConflictDetected": "Det gick inte att starta laddningen. En konflikt med ett annat laddningssystem har upptäckts."
 }

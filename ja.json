@@ -2679,5 +2679,8 @@
   "liveActivity": "ライブアクティビティ",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "ライブアクティビティはロック画面とDynamic Islandに表示されます。",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "このメールアドレスは別のアカウントですでに使用されています。",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "メールアドレスが更新されました。再度サインインしてください。"
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "メールアドレスが更新されました。再度サインインしてください。",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Tessieで、「設定」>「開発者」でアクセストークンを生成します。",
+  "unableToStopChargingConflictDetected": "充電を停止できません。別の充電システムとの競合が検出されました。",
+  "unableToStartChargingConflictDetected": "充電を開始できません。別の充電システムとの競合が検出されました。"
 }

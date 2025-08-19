@@ -2679,5 +2679,8 @@
   "liveActivity": "Élő tevékenység",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Az élő tevékenységek a zárolási képernyőn és a Dynamic Islanden jelennek meg.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "Az e-mail cím már használatban van egy másik fiók által.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Az e-mail címed sikeresen frissítve. Kérlek, jelentkezz be újra."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Az e-mail címed sikeresen frissítve. Kérlek, jelentkezz be újra.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "A Tessie alkalmazásban hozz létre egy hozzáférési tokent a Beállítások > Fejlesztő menüpont alatt.",
+  "unableToStopChargingConflictDetected": "Nem sikerült leállítani a töltést. Ütközés történt egy másik töltőrendszerrel.",
+  "unableToStartChargingConflictDetected": "Nem sikerült elindítani a töltést. Ütközés történt egy másik töltőrendszerrel."
 }

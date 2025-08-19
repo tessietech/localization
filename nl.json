@@ -2679,5 +2679,8 @@
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activities verschijnen op het vergrendelscherm en Dynamic Island.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "Het e-mailadres is al in gebruik door een ander account.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Uw e-mailadres is succesvol bijgewerkt. Meld u opnieuw aan."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Uw e-mailadres is succesvol bijgewerkt. Meld u opnieuw aan.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Genereer in Tessie een toegangstoken onder Instellingen > Ontwikkelaar.",
+  "unableToStopChargingConflictDetected": "Kan het laden niet stoppen. Er is een conflict met een ander laadsysteem gedetecteerd.",
+  "unableToStartChargingConflictDetected": "Kan het laden niet starten. Er is een conflict met een ander laadsysteem gedetecteerd."
 }

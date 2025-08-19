@@ -2679,5 +2679,8 @@
   "liveActivity": "Activité en direct",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Les activités en direct apparaissent sur l'écran de verrouillage et Dynamic Island.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "L'adresse e-mail est déjà utilisée par un autre compte.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Votre e-mail a été mis à jour avec succès. Veuillez vous reconnecter."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Votre e-mail a été mis à jour avec succès. Veuillez vous reconnecter.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Dans Tessie, générez un jeton d’accès sous Paramètres > Développeur.",
+  "unableToStopChargingConflictDetected": "Impossible d'arrêter la charge. Un conflit avec un autre système de charge a été détecté.",
+  "unableToStartChargingConflictDetected": "Impossible de démarrer la charge. Un conflit avec un autre système de charge a été détecté."
 }

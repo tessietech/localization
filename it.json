@@ -2679,5 +2679,8 @@
   "liveActivity": "Attività live",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Le Attività live vengono visualizzate nella schermata di blocco e nella Dynamic Island.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "L'indirizzo email è già in uso da un altro account.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "La tua email è stata aggiornata con successo. Accedi di nuovo."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "La tua email è stata aggiornata con successo. Accedi di nuovo.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "In Tessie, genera un token di accesso in Impostazioni > Sviluppatore.",
+  "unableToStopChargingConflictDetected": "Impossibile interrompere la ricarica. È stato rilevato un conflitto con un altro sistema di ricarica.",
+  "unableToStartChargingConflictDetected": "Impossibile avviare la ricarica. È stato rilevato un conflitto con un altro sistema di ricarica."
 }

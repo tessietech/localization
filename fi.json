@@ -2679,5 +2679,8 @@
   "liveActivity": "Live Activity",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live Activity -toiminnot näkyvät lukitusnäytössä ja Dynamic Islandissa.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "Sähköpostiosoite on jo käytössä toisella tilillä.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Sähköpostiosoitteesi on päivitetty. Kirjaudu sisään uudelleen."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Sähköpostiosoitteesi on päivitetty. Kirjaudu sisään uudelleen.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Luo Tessiessä pääsyavain kohdassa Asetukset > Kehittäjä.",
+  "unableToStopChargingConflictDetected": "Latauksen pysäyttäminen ei onnistu. Latausjärjestelmässä on havaittu ristiriita.",
+  "unableToStartChargingConflictDetected": "Latauksen aloittaminen ei onnistu. Latausjärjestelmässä on havaittu ristiriita."
 }

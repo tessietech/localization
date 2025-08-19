@@ -2679,5 +2679,8 @@
   "liveActivity": "实时活动",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "实时活动会显示在锁定屏幕和灵动岛上。",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "该电子邮件地址已被其他帐户使用。",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "您的电子邮件已成功更新。请重新登录。"
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "您的电子邮件已成功更新。请重新登录。",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "在 Tessie 中，在设置 > 开发者下生成一个访问令牌。",
+  "unableToStopChargingConflictDetected": "无法停止充电。检测到与其他充电系统冲突。",
+  "unableToStartChargingConflictDetected": "无法开始充电。检测到与其他充电系统冲突。"
 }

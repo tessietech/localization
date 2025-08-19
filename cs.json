@@ -2679,5 +2679,8 @@
   "liveActivity": "Živá aktivita",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Živé aktivity se zobrazují na zamčené obrazovce a v Dynamic Islandu.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "E-mailová adresa je již používána jiným účtem.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Váš e-mail byl úspěšně aktualizován. Přihlaste se prosím znovu."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Váš e-mail byl úspěšně aktualizován. Přihlaste se prosím znovu.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "V Tessie vygenerujte přístupový token v Nastavení > Vývojář.",
+  "unableToStopChargingConflictDetected": "Nepodařilo se zastavit nabíjení. Byl zjištěn konflikt s jiným nabíjecím systémem.",
+  "unableToStartChargingConflictDetected": "Nepodařilo se zahájit nabíjení. Byl zjištěn konflikt s jiným nabíjecím systémem."
 }

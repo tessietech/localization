@@ -2679,5 +2679,8 @@
   "liveActivity": "Live-Aktivität",
   "liveActivitiesAppearOnTheLockScreenAndDynamicIsland": "Live-Aktivitäten werden auf dem Sperrbildschirm und Dynamic Island angezeigt.",
   "theEmailAddressIsAlreadyInUseByAnotherAccount": "Die E-Mail-Adresse wird bereits von einem anderen Konto verwendet.",
-  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Ihre E-Mail wurde erfolgreich aktualisiert. Bitte melden Sie sich erneut an."
+  "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Ihre E-Mail wurde erfolgreich aktualisiert. Bitte melden Sie sich erneut an.",
+  "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Generieren Sie in Tessie ein Zugriffstoken unter Einstellungen > Entwickler.",
+  "unableToStopChargingConflictDetected": "Das Laden kann nicht gestoppt werden. Es wurde ein Konflikt mit einem anderen Ladesystem erkannt.",
+  "unableToStartChargingConflictDetected": "Das Laden kann nicht gestartet werden. Es wurde ein Konflikt mit einem anderen Ladesystem erkannt."
 }
