@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Din e-post ble oppdatert. Vennligst logg inn igjen.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "I Tessie, generer en tilgangstoken under Innstillinger > Utvikler.",
   "unableToStopChargingConflictDetected": "Kan ikke stoppe ladingen. Det er oppdaget en konflikt med et annet ladesystem.",
-  "unableToStartChargingConflictDetected": "Kan ikke starte ladingen. Det er oppdaget en konflikt med et annet ladesystem."
+  "unableToStartChargingConflictDetected": "Kan ikke starte ladingen. Det er oppdaget en konflikt med et annet ladesystem.",
+  "detailedTripTracking": "Detailed trip tracking",
+  "batteryHealthTracking": "Battery health tracking",
+  "vehicleStatsGraphs": "Vehicle stats & graphs"
 }

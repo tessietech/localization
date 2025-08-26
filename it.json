@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "La tua email è stata aggiornata con successo. Accedi di nuovo.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "In Tessie, genera un token di accesso in Impostazioni > Sviluppatore.",
   "unableToStopChargingConflictDetected": "Impossibile interrompere la ricarica. È stato rilevato un conflitto con un altro sistema di ricarica.",
-  "unableToStartChargingConflictDetected": "Impossibile avviare la ricarica. È stato rilevato un conflitto con un altro sistema di ricarica."
+  "unableToStartChargingConflictDetected": "Impossibile avviare la ricarica. È stato rilevato un conflitto con un altro sistema di ricarica.",
+  "detailedTripTracking": "Monitoraggio dettagliato dei viaggi",
+  "batteryHealthTracking": "Monitoraggio dello stato della batteria",
+  "vehicleStatsGraphs": "Statistiche e grafici del veicolo"
 }

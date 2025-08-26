@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "您的電子郵件已成功更新。請重新登入。",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "在 Tessie 中，在「設定」>「開發人員」下產生存取權杖。",
   "unableToStopChargingConflictDetected": "無法停止充電。偵測到與另一個充電系統的衝突。",
-  "unableToStartChargingConflictDetected": "無法開始充電。偵測到與另一個充電系統的衝突。"
+  "unableToStartChargingConflictDetected": "無法開始充電。偵測到與另一個充電系統的衝突。",
+  "detailedTripTracking": "詳細行程追蹤",
+  "batteryHealthTracking": "電池健康度追蹤",
+  "vehicleStatsGraphs": "車輛統計資料與圖表"
 }

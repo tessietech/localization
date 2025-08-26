@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Váš e-mail byl úspěšně aktualizován. Přihlaste se prosím znovu.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "V Tessie vygenerujte přístupový token v Nastavení > Vývojář.",
   "unableToStopChargingConflictDetected": "Nepodařilo se zastavit nabíjení. Byl zjištěn konflikt s jiným nabíjecím systémem.",
-  "unableToStartChargingConflictDetected": "Nepodařilo se zahájit nabíjení. Byl zjištěn konflikt s jiným nabíjecím systémem."
+  "unableToStartChargingConflictDetected": "Nepodařilo se zahájit nabíjení. Byl zjištěn konflikt s jiným nabíjecím systémem.",
+  "detailedTripTracking": "Podrobné sledování cesty",
+  "batteryHealthTracking": "Sledování stavu baterie",
+  "vehicleStatsGraphs": "Statistiky a grafy vozidla"
 }

@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Az e-mail címed sikeresen frissítve. Kérlek, jelentkezz be újra.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "A Tessie alkalmazásban hozz létre egy hozzáférési tokent a Beállítások > Fejlesztő menüpont alatt.",
   "unableToStopChargingConflictDetected": "Nem sikerült leállítani a töltést. Ütközés történt egy másik töltőrendszerrel.",
-  "unableToStartChargingConflictDetected": "Nem sikerült elindítani a töltést. Ütközés történt egy másik töltőrendszerrel."
+  "unableToStartChargingConflictDetected": "Nem sikerült elindítani a töltést. Ütközés történt egy másik töltőrendszerrel.",
+  "detailedTripTracking": "Detailed trip tracking",
+  "batteryHealthTracking": "Battery health tracking",
+  "vehicleStatsGraphs": "Vehicle stats & graphs"
 }

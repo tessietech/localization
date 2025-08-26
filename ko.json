@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "이메일이 성공적으로 업데이트되었습니다. 다시 로그인하십시오.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Tessie에서 설정 > 개발자 아래에서 액세스 토큰을 생성하세요.",
   "unableToStopChargingConflictDetected": "충전을 중지할 수 없습니다. 다른 충전 시스템과의 충돌이 감지되었습니다.",
-  "unableToStartChargingConflictDetected": "충전을 시작할 수 없습니다. 다른 충전 시스템과의 충돌이 감지되었습니다."
+  "unableToStartChargingConflictDetected": "충전을 시작할 수 없습니다. 다른 충전 시스템과의 충돌이 감지되었습니다.",
+  "detailedTripTracking": "상세한 여행 추적",
+  "batteryHealthTracking": "배터리 상태 추적",
+  "vehicleStatsGraphs": "차량 통계 및 그래프"
 }

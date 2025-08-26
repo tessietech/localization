@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Votre e-mail a été mis à jour avec succès. Veuillez vous reconnecter.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Dans Tessie, générez un jeton d’accès sous Paramètres > Développeur.",
   "unableToStopChargingConflictDetected": "Impossible d'arrêter la charge. Un conflit avec un autre système de charge a été détecté.",
-  "unableToStartChargingConflictDetected": "Impossible de démarrer la charge. Un conflit avec un autre système de charge a été détecté."
+  "unableToStartChargingConflictDetected": "Impossible de démarrer la charge. Un conflit avec un autre système de charge a été détecté.",
+  "detailedTripTracking": "Suivi détaillé des trajets",
+  "batteryHealthTracking": "Suivi de l'état de la batterie",
+  "vehicleStatsGraphs": "Statistiques et graphiques du véhicule"
 }

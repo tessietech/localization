@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Ваш адрес электронной почты успешно обновлен. Пожалуйста, войдите снова.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "В Tessie сгенерируйте токен доступа в Настройках > Для разработчиков.",
   "unableToStopChargingConflictDetected": "Невозможно остановить зарядку. Обнаружен конфликт с другой системой зарядки.",
-  "unableToStartChargingConflictDetected": "Невозможно начать зарядку. Обнаружен конфликт с другой системой зарядки."
+  "unableToStartChargingConflictDetected": "Невозможно начать зарядку. Обнаружен конфликт с другой системой зарядки.",
+  "detailedTripTracking": "Подробное отслеживание поездок",
+  "batteryHealthTracking": "Отслеживание состояния батареи",
+  "vehicleStatsGraphs": "Статистика и графики автомобиля"
 }

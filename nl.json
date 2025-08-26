@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Uw e-mailadres is succesvol bijgewerkt. Meld u opnieuw aan.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Genereer in Tessie een toegangstoken onder Instellingen > Ontwikkelaar.",
   "unableToStopChargingConflictDetected": "Kan het laden niet stoppen. Er is een conflict met een ander laadsysteem gedetecteerd.",
-  "unableToStartChargingConflictDetected": "Kan het laden niet starten. Er is een conflict met een ander laadsysteem gedetecteerd."
+  "unableToStartChargingConflictDetected": "Kan het laden niet starten. Er is een conflict met een ander laadsysteem gedetecteerd.",
+  "detailedTripTracking": "Gedetailleerde ritregistratie",
+  "batteryHealthTracking": "Batterijgezondheid volgen",
+  "vehicleStatsGraphs": "Voertuigstatistieken & grafieken"
 }

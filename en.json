@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Your email was updated successfully. Please sign in again.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "In Tessie, generate an access token under Settings > Developer.",
   "unableToStopChargingConflictDetected": "Unable to stop charging. A conflict with another charging system has been detected.",
-  "unableToStartChargingConflictDetected": "Unable to start charging. A conflict with another charging system has been detected."
+  "unableToStartChargingConflictDetected": "Unable to start charging. A conflict with another charging system has been detected.",
+  "detailedTripTracking": "Detailed trip tracking",
+  "batteryHealthTracking": "Battery health tracking",
+  "vehicleStatsGraphs": "Vehicle stats & graphs"
 }

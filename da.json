@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Din e-mail blev opdateret. Log ind igen.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "I Tessie, generér et adgangstoken under Indstillinger > Udvikler.",
   "unableToStopChargingConflictDetected": "Kan ikke stoppe opladningen. Der er registreret en konflikt med et andet opladningssystem.",
-  "unableToStartChargingConflictDetected": "Kan ikke starte opladningen. Der er registreret en konflikt med et andet opladningssystem."
+  "unableToStartChargingConflictDetected": "Kan ikke starte opladningen. Der er registreret en konflikt med et andet opladningssystem.",
+  "detailedTripTracking": "Detaljeret tursporing",
+  "batteryHealthTracking": "Batteritilstandssporing",
+  "vehicleStatsGraphs": "Køretøjsstatistik & grafer"
 }

@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "O seu email foi atualizado com sucesso. Por favor, inicie sessão novamente.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Na Tessie, gere um token de acesso em Definições > Programador.",
   "unableToStopChargingConflictDetected": "Não é possível parar o carregamento. Foi detetado um conflito com outro sistema de carregamento.",
-  "unableToStartChargingConflictDetected": "Não é possível iniciar o carregamento. Foi detetado um conflito com outro sistema de carregamento."
+  "unableToStartChargingConflictDetected": "Não é possível iniciar o carregamento. Foi detetado um conflito com outro sistema de carregamento.",
+  "detailedTripTracking": "Rastreamento detalhado de viagens",
+  "batteryHealthTracking": "Rastreamento da saúde da bateria",
+  "vehicleStatsGraphs": "Estatísticas e gráficos do veículo"
 }

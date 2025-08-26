@@ -2682,5 +2682,8 @@
   "yourEmailWasUpdatedSuccessfullyPleaseSignInAgain": "Sähköpostiosoitteesi on päivitetty. Kirjaudu sisään uudelleen.",
   "inTessieGenerateAnAccessTokenUnderSettingsDeveloper": "Luo Tessiessä pääsyavain kohdassa Asetukset > Kehittäjä.",
   "unableToStopChargingConflictDetected": "Latauksen pysäyttäminen ei onnistu. Latausjärjestelmässä on havaittu ristiriita.",
-  "unableToStartChargingConflictDetected": "Latauksen aloittaminen ei onnistu. Latausjärjestelmässä on havaittu ristiriita."
+  "unableToStartChargingConflictDetected": "Latauksen aloittaminen ei onnistu. Latausjärjestelmässä on havaittu ristiriita.",
+  "detailedTripTracking": "Yksityiskohtainen matkojen seuranta",
+  "batteryHealthTracking": "Akun kunnon seuranta",
+  "vehicleStatsGraphs": "Ajoneuvon tilastot ja graafit"
 }
