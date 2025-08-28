@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Nem sikerült elindítani a töltést. Ütközés történt egy másik töltőrendszerrel.",
   "detailedTripTracking": "Detailed trip tracking",
   "batteryHealthTracking": "Battery health tracking",
-  "vehicleStatsGraphs": "Vehicle stats & graphs"
+  "vehicleStatsGraphs": "Vehicle stats & graphs",
+  "calculating": "Számítás",
+  "lastUpdatedAWhileAgo": "Régen frissítve"
 }

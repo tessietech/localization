@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Das Laden kann nicht gestartet werden. Es wurde ein Konflikt mit einem anderen Ladesystem erkannt.",
   "detailedTripTracking": "Detaillierte Fahrtaufzeichnung",
   "batteryHealthTracking": "Batteriezustandsüberwachung",
-  "vehicleStatsGraphs": "Fahrzeugstatistiken & Diagramme"
+  "vehicleStatsGraphs": "Fahrzeugstatistiken & Diagramme",
+  "calculating": "Wird berechnet",
+  "lastUpdatedAWhileAgo": "Vor einiger Zeit aktualisiert"
 }

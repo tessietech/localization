@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "充電を開始できません。別の充電システムとの競合が検出されました。",
   "detailedTripTracking": "詳細な走行追跡",
   "batteryHealthTracking": "バッテリーの状態追跡",
-  "vehicleStatsGraphs": "車両の統計＆グラフ"
+  "vehicleStatsGraphs": "車両の統計＆グラフ",
+  "calculating": "計算中",
+  "lastUpdatedAWhileAgo": "しばらく前に更新"
 }

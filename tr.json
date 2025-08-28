@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Şarj başlatılamıyor. Başka bir şarj sistemi ile çakışma tespit edildi.",
   "detailedTripTracking": "Detaylı seyahat takibi",
   "batteryHealthTracking": "Batarya sağlığı takibi",
-  "vehicleStatsGraphs": "Araç istatistikleri ve grafikleri"
+  "vehicleStatsGraphs": "Araç istatistikleri ve grafikleri",
+  "calculating": "Hesaplanıyor",
+  "lastUpdatedAWhileAgo": "Bir süre önce güncellendi"
 }

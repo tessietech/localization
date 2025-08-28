@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Latauksen aloittaminen ei onnistu. Latausjärjestelmässä on havaittu ristiriita.",
   "detailedTripTracking": "Yksityiskohtainen matkojen seuranta",
   "batteryHealthTracking": "Akun kunnon seuranta",
-  "vehicleStatsGraphs": "Ajoneuvon tilastot ja graafit"
+  "vehicleStatsGraphs": "Ajoneuvon tilastot ja graafit",
+  "calculating": "Lasketaan",
+  "lastUpdatedAWhileAgo": "Päivitetty viimeksi jonkin aikaa sitten"
 }

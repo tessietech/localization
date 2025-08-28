@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Kan ikke starte ladingen. Det er oppdaget en konflikt med et annet ladesystem.",
   "detailedTripTracking": "Detailed trip tracking",
   "batteryHealthTracking": "Battery health tracking",
-  "vehicleStatsGraphs": "Vehicle stats & graphs"
+  "vehicleStatsGraphs": "Vehicle stats & graphs",
+  "calculating": "Kalkulerer",
+  "lastUpdatedAWhileAgo": "Sist oppdatert for en stund siden"
 }

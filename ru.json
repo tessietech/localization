@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Невозможно начать зарядку. Обнаружен конфликт с другой системой зарядки.",
   "detailedTripTracking": "Подробное отслеживание поездок",
   "batteryHealthTracking": "Отслеживание состояния батареи",
-  "vehicleStatsGraphs": "Статистика и графики автомобиля"
+  "vehicleStatsGraphs": "Статистика и графики автомобиля",
+  "calculating": "Вычисление",
+  "lastUpdatedAWhileAgo": "Обновлено давно"
 }

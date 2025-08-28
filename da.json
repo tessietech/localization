@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Kan ikke starte opladningen. Der er registreret en konflikt med et andet opladningssystem.",
   "detailedTripTracking": "Detaljeret tursporing",
   "batteryHealthTracking": "Batteritilstandssporing",
-  "vehicleStatsGraphs": "Køretøjsstatistik & grafer"
+  "vehicleStatsGraphs": "Køretøjsstatistik & grafer",
+  "calculating": "Beregner",
+  "lastUpdatedAWhileAgo": "Sidst opdateret for et stykke tid siden"
 }

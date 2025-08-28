@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Impossibil de pornit încărcarea. A fost detectat un conflict cu un alt sistem de încărcare.",
   "detailedTripTracking": "Urmărire detaliată a călătoriilor",
   "batteryHealthTracking": "Urmărirea stării de sănătate a bateriei",
-  "vehicleStatsGraphs": "Statistici vehicul și grafice"
+  "vehicleStatsGraphs": "Statistici vehicul și grafice",
+  "calculating": "Calculând",
+  "lastUpdatedAWhileAgo": "Actualizat acum ceva timp"
 }

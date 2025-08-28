@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "无法开始充电。检测到与其他充电系统冲突。",
   "detailedTripTracking": "详细的行程跟踪",
   "batteryHealthTracking": "电池健康跟踪",
-  "vehicleStatsGraphs": "车辆统计数据和图表"
+  "vehicleStatsGraphs": "车辆统计数据和图表",
+  "calculating": "计算中",
+  "lastUpdatedAWhileAgo": "上次更新是很久以前"
 }

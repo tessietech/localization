@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Det gick inte att starta laddningen. En konflikt med ett annat laddningssystem har upptäckts.",
   "detailedTripTracking": "Detaljerad reseövervakning",
   "batteryHealthTracking": "Batterihälsoövervakning",
-  "vehicleStatsGraphs": "Fordonstatistik och grafer"
+  "vehicleStatsGraphs": "Fordonstatistik och grafer",
+  "calculating": "Beräknar",
+  "lastUpdatedAWhileAgo": "Senast uppdaterad för ett tag sedan"
 }

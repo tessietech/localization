@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Impossibile avviare la ricarica. È stato rilevato un conflitto con un altro sistema di ricarica.",
   "detailedTripTracking": "Monitoraggio dettagliato dei viaggi",
   "batteryHealthTracking": "Monitoraggio dello stato della batteria",
-  "vehicleStatsGraphs": "Statistiche e grafici del veicolo"
+  "vehicleStatsGraphs": "Statistiche e grafici del veicolo",
+  "calculating": "Calcolo in corso",
+  "lastUpdatedAWhileAgo": "Ultimo aggiornamento molto tempo fa"
 }

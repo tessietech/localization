@@ -2685,5 +2685,7 @@
   "unableToStartChargingConflictDetected": "Impossible de démarrer la charge. Un conflit avec un autre système de charge a été détecté.",
   "detailedTripTracking": "Suivi détaillé des trajets",
   "batteryHealthTracking": "Suivi de l'état de la batterie",
-  "vehicleStatsGraphs": "Statistiques et graphiques du véhicule"
+  "vehicleStatsGraphs": "Statistiques et graphiques du véhicule",
+  "calculating": "Calcul en cours",
+  "lastUpdatedAWhileAgo": "Dernière mise à jour il y a quelque temps"
 }
