@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Batterihälsoövervakning",
   "vehicleStatsGraphs": "Fordonstatistik och grafer",
   "calculating": "Beräknar",
-  "lastUpdatedAWhileAgo": "Senast uppdaterad för ett tag sedan"
+  "lastUpdatedAWhileAgo": "Senast uppdaterad för ett tag sedan",
+  "background": "Bakgrund",
+  "enableInBackground": "Aktivera i bakgrunden"
 }

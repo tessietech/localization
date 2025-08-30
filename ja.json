@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "バッテリーの状態追跡",
   "vehicleStatsGraphs": "車両の統計＆グラフ",
   "calculating": "計算中",
-  "lastUpdatedAWhileAgo": "しばらく前に更新"
+  "lastUpdatedAWhileAgo": "しばらく前に更新",
+  "background": "背景",
+  "enableInBackground": "バックグラウンドで有効にする"
 }

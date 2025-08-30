@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Battery health tracking",
   "vehicleStatsGraphs": "Vehicle stats & graphs",
   "calculating": "Számítás",
-  "lastUpdatedAWhileAgo": "Régen frissítve"
+  "lastUpdatedAWhileAgo": "Régen frissítve",
+  "background": "Háttér",
+  "enableInBackground": "Engedélyezés a háttérben"
 }

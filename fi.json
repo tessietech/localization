@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Akun kunnon seuranta",
   "vehicleStatsGraphs": "Ajoneuvon tilastot ja graafit",
   "calculating": "Lasketaan",
-  "lastUpdatedAWhileAgo": "Päivitetty viimeksi jonkin aikaa sitten"
+  "lastUpdatedAWhileAgo": "Päivitetty viimeksi jonkin aikaa sitten",
+  "background": "Tausta",
+  "enableInBackground": "Salli taustalla"
 }

@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Battery health tracking",
   "vehicleStatsGraphs": "Vehicle stats & graphs",
   "calculating": "Calculating",
-  "lastUpdatedAWhileAgo": "Last updated a while ago"
+  "lastUpdatedAWhileAgo": "Last updated a while ago",
+  "background": "Background",
+  "enableInBackground": "Enable in background"
 }

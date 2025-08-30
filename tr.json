@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Batarya sağlığı takibi",
   "vehicleStatsGraphs": "Araç istatistikleri ve grafikleri",
   "calculating": "Hesaplanıyor",
-  "lastUpdatedAWhileAgo": "Bir süre önce güncellendi"
+  "lastUpdatedAWhileAgo": "Bir süre önce güncellendi",
+  "background": "Arka Plan",
+  "enableInBackground": "Arka planda etkinleştir"
 }

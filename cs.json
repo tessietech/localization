@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Sledování stavu baterie",
   "vehicleStatsGraphs": "Statistiky a grafy vozidla",
   "calculating": "Výpočet",
-  "lastUpdatedAWhileAgo": "Aktualizováno před chvílí"
+  "lastUpdatedAWhileAgo": "Aktualizováno před chvílí",
+  "background": "Pozadí",
+  "enableInBackground": "Povolit na pozadí"
 }

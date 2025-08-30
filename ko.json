@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "배터리 상태 추적",
   "vehicleStatsGraphs": "차량 통계 및 그래프",
   "calculating": "계산 중",
-  "lastUpdatedAWhileAgo": "오래 전에 마지막으로 업데이트됨"
+  "lastUpdatedAWhileAgo": "오래 전에 마지막으로 업데이트됨",
+  "background": "배경",
+  "enableInBackground": "백그라운드에서 활성화"
 }

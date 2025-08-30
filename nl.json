@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Batterijgezondheid volgen",
   "vehicleStatsGraphs": "Voertuigstatistieken & grafieken",
   "calculating": "Berekenen",
-  "lastUpdatedAWhileAgo": "Laatst bijgewerkt een tijdje geleden"
+  "lastUpdatedAWhileAgo": "Laatst bijgewerkt een tijdje geleden",
+  "background": "Achtergrond",
+  "enableInBackground": "Inschakelen op de achtergrond"
 }

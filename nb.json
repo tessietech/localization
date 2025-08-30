@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Battery health tracking",
   "vehicleStatsGraphs": "Vehicle stats & graphs",
   "calculating": "Kalkulerer",
-  "lastUpdatedAWhileAgo": "Sist oppdatert for en stund siden"
+  "lastUpdatedAWhileAgo": "Sist oppdatert for en stund siden",
+  "background": "Bakgrunn",
+  "enableInBackground": "Aktiver i bakgrunnen"
 }

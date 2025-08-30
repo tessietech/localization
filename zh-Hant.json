@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "電池健康度追蹤",
   "vehicleStatsGraphs": "車輛統計資料與圖表",
   "calculating": "正在計算",
-  "lastUpdatedAWhileAgo": "上次更新是在不久前"
+  "lastUpdatedAWhileAgo": "上次更新是在不久前",
+  "background": "背景",
+  "enableInBackground": "在背景啟用"
 }

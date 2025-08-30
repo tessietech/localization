@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Отслеживание состояния батареи",
   "vehicleStatsGraphs": "Статистика и графики автомобиля",
   "calculating": "Вычисление",
-  "lastUpdatedAWhileAgo": "Обновлено давно"
+  "lastUpdatedAWhileAgo": "Обновлено давно",
+  "background": "Фон",
+  "enableInBackground": "Включить в фоне"
 }

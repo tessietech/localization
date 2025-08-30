@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Suivi de l'état de la batterie",
   "vehicleStatsGraphs": "Statistiques et graphiques du véhicule",
   "calculating": "Calcul en cours",
-  "lastUpdatedAWhileAgo": "Dernière mise à jour il y a quelque temps"
+  "lastUpdatedAWhileAgo": "Dernière mise à jour il y a quelque temps",
+  "background": "Arrière-plan",
+  "enableInBackground": "Activer en arrière-plan"
 }

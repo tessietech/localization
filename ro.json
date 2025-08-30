@@ -2687,5 +2687,7 @@
   "batteryHealthTracking": "Urmărirea stării de sănătate a bateriei",
   "vehicleStatsGraphs": "Statistici vehicul și grafice",
   "calculating": "Calculând",
-  "lastUpdatedAWhileAgo": "Actualizat acum ceva timp"
+  "lastUpdatedAWhileAgo": "Actualizat acum ceva timp",
+  "background": "Fundal",
+  "enableInBackground": "Activați în fundal"
 }
