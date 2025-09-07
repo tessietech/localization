@@ -2689,5 +2689,7 @@
   "calculating": "Beräknar",
   "lastUpdatedAWhileAgo": "Senast uppdaterad för ett tag sedan",
   "background": "Bakgrund",
-  "enableInBackground": "Aktivera i bakgrunden"
+  "enableInBackground": "Aktivera i bakgrunden",
+  "lowStorage": "Lite lagringsutrymme",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Frigör utrymme för att se till att Tessie kan läsa in dina data."
 }

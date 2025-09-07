@@ -2689,5 +2689,7 @@
   "calculating": "Hesaplanıyor",
   "lastUpdatedAWhileAgo": "Bir süre önce güncellendi",
   "background": "Arka Plan",
-  "enableInBackground": "Arka planda etkinleştir"
+  "enableInBackground": "Arka planda etkinleştir",
+  "lowStorage": "Düşük depolama alanı",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie'nin verilerinizi yükleyebilmesi için yer açın."
 }

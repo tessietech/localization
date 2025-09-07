@@ -2689,5 +2689,7 @@
   "calculating": "Calculând",
   "lastUpdatedAWhileAgo": "Actualizat acum ceva timp",
   "background": "Fundal",
-  "enableInBackground": "Activați în fundal"
+  "enableInBackground": "Activați în fundal",
+  "lowStorage": "Spațiu de stocare insuficient",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Eliberați spațiu pentru a vă asigura că Tessie poate încărca datele."
 }

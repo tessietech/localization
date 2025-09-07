@@ -2689,5 +2689,7 @@
   "calculating": "Výpočet",
   "lastUpdatedAWhileAgo": "Aktualizováno před chvílí",
   "background": "Pozadí",
-  "enableInBackground": "Povolit na pozadí"
+  "enableInBackground": "Povolit na pozadí",
+  "lowStorage": "Nedostatek místa",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Uvolněte místo, aby Tessie mohla načíst data."
 }

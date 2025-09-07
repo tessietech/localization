@@ -2689,5 +2689,7 @@
   "calculating": "正在計算",
   "lastUpdatedAWhileAgo": "上次更新是在不久前",
   "background": "背景",
-  "enableInBackground": "在背景啟用"
+  "enableInBackground": "在背景啟用",
+  "lowStorage": "儲存空間不足",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "釋放空間以確保 Tessie 可以載入您的資料。"
 }

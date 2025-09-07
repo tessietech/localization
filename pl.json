@@ -2687,7 +2687,9 @@
   "batteryHealthTracking": "Monitorowanie stanu baterii",
   "vehicleStatsGraphs": "Statystyki i wykresy pojazdu",
   "calculating": "Obliczanie",
-  "lastUpdatedAWhileAgo": "Atualizado há algum tempo",
+  "lastUpdatedAWhileAgo": "Ostatnia aktualizacja jakiś czas temu",
   "background": "W tle",
-  "enableInBackground": "Włącz w tle"
+  "enableInBackground": "Włącz w tle",
+  "lowStorage": "Mało miejsca w pamięci",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Zwolnij miejsce, aby Tessie mogła załadować Twoje dane."
 }

@@ -2689,5 +2689,7 @@
   "calculating": "Lasketaan",
   "lastUpdatedAWhileAgo": "Päivitetty viimeksi jonkin aikaa sitten",
   "background": "Tausta",
-  "enableInBackground": "Salli taustalla"
+  "enableInBackground": "Salli taustalla",
+  "lowStorage": "Vähän tallennustilaa",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Vapauta tilaa varmistaaksesi, että Tessie voi ladata tietosi."
 }

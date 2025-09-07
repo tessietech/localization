@@ -2689,5 +2689,7 @@
   "calculating": "計算中",
   "lastUpdatedAWhileAgo": "しばらく前に更新",
   "background": "背景",
-  "enableInBackground": "バックグラウンドで有効にする"
+  "enableInBackground": "バックグラウンドで有効にする",
+  "lowStorage": "ストレージ容量低下",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessieがデータをロードできるように、容量を解放してください。"
 }

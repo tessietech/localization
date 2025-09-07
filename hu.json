@@ -2689,5 +2689,7 @@
   "calculating": "Számítás",
   "lastUpdatedAWhileAgo": "Régen frissítve",
   "background": "Háttér",
-  "enableInBackground": "Engedélyezés a háttérben"
+  "enableInBackground": "Engedélyezés a háttérben",
+  "lowStorage": "Kevés a tárhely",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Szabadítson fel helyet, hogy a Tessie be tudja tölteni az adatait."
 }

@@ -2689,5 +2689,7 @@
   "calculating": "Beregner",
   "lastUpdatedAWhileAgo": "Sidst opdateret for et stykke tid siden",
   "background": "Baggrund",
-  "enableInBackground": "Aktiver i baggrunden"
+  "enableInBackground": "Aktiver i baggrunden",
+  "lowStorage": "Pouco espaço de armazenamento",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Libere espaço para garantir que a Tessie possa carregar seus dados."
 }

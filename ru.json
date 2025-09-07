@@ -2689,5 +2689,7 @@
   "calculating": "Вычисление",
   "lastUpdatedAWhileAgo": "Обновлено давно",
   "background": "Фон",
-  "enableInBackground": "Включить в фоне"
+  "enableInBackground": "Включить в фоне",
+  "lowStorage": "Мало места в хранилище",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Освободите место, чтобы Tessie могла загрузить ваши данные."
 }

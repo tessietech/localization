@@ -2689,5 +2689,7 @@
   "calculating": "Calculando",
   "lastUpdatedAWhileAgo": "Última actualización hace un tiempo",
   "background": "Fondo",
-  "enableInBackground": "Activar en segundo plano"
+  "enableInBackground": "Activar en segundo plano",
+  "lowStorage": "Poco almacenamiento",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Libera espacio para asegurarte de que Tessie pueda cargar tus datos."
 }

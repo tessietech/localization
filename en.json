@@ -2689,5 +2689,7 @@
   "calculating": "Calculating",
   "lastUpdatedAWhileAgo": "Last updated a while ago",
   "background": "Background",
-  "enableInBackground": "Enable in background"
+  "enableInBackground": "Enable in background",
+  "lowStorage": "Low storage",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Free up space to make sure that Tessie can load your data."
 }

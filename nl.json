@@ -2689,5 +2689,7 @@
   "calculating": "Berekenen",
   "lastUpdatedAWhileAgo": "Laatst bijgewerkt een tijdje geleden",
   "background": "Achtergrond",
-  "enableInBackground": "Inschakelen op de achtergrond"
+  "enableInBackground": "Inschakelen op de achtergrond",
+  "lowStorage": "Weinig opslagruimte",
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Maak ruimte vrij om ervoor te zorgen dat Tessie je gegevens kan laden."
 }
