@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Maak ruimte vrij om ervoor te zorgen dat Tessie je gegevens kan laden.",
   "enableProviderSmartCharging": "Slim laden met {provider} inschakelen",
   "saveMoneyAndHelpTheLocationGrid": "Bespaar geld en help het {location}-net",
-  "batteryLevel": "Batterijniveau"
+  "batteryLevel": "Batterijniveau",
+  "chargerPower": "Oplaadvermogen"
 }

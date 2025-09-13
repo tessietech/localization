@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Vapauta tilaa varmistaaksesi, että Tessie voi ladata tietosi.",
   "enableProviderSmartCharging": "Ota {provider} älykäs lataus käyttöön",
   "saveMoneyAndHelpTheLocationGrid": "Säästä rahaa ja auta {location} verkkoa",
-  "batteryLevel": "Akun varaustaso"
+  "batteryLevel": "Akun varaustaso",
+  "chargerPower": "Lataustehon"
 }

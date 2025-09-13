@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Eliberați spațiu pentru a vă asigura că Tessie poate încărca datele.",
   "enableProviderSmartCharging": "Activează încărcarea inteligentă {provider}",
   "saveMoneyAndHelpTheLocationGrid": "Economisește bani și ajută rețeaua {location}",
-  "batteryLevel": "Nivelul bateriei"
+  "batteryLevel": "Nivelul bateriei",
+  "chargerPower": "Putere încărcător"
 }

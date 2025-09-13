@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Libere espaço para garantir que o Tessie consiga carregar os seus dados.",
   "enableProviderSmartCharging": "Ativar carregamento inteligente {provider}",
   "saveMoneyAndHelpTheLocationGrid": "Poupe dinheiro e ajude a rede {location}",
-  "batteryLevel": "Nível da bateria"
+  "batteryLevel": "Nível da bateria",
+  "chargerPower": "Potência do carregador"
 }

@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie'nin verilerinizi yükleyebilmesi için yer açın.",
   "enableProviderSmartCharging": "{provider} akıllı şarjı etkinleştir",
   "saveMoneyAndHelpTheLocationGrid": "{location} şebekesine para kazandır ve yardım et",
-  "batteryLevel": "Batarya seviyesi"
+  "batteryLevel": "Batarya seviyesi",
+  "chargerPower": "Şarj cihazı gücü"
 }

@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie가 데이터를 로드할 수 있도록 공간을 확보하세요.",
   "enableProviderSmartCharging": "{provider} 스마트 충전 사용",
   "saveMoneyAndHelpTheLocationGrid": "{location} 그리드에 도움이 되고 비용 절감",
-  "batteryLevel": "배터리 잔량"
+  "batteryLevel": "배터리 잔량",
+  "chargerPower": "충전기 전력"
 }

@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Освободите место, чтобы Tessie могла загрузить ваши данные.",
   "enableProviderSmartCharging": "Включить интеллектуальную зарядку {provider}",
   "saveMoneyAndHelpTheLocationGrid": "Экономьте деньги и помогайте энергосистеме {location}",
-  "batteryLevel": "Уровень заряда батареи"
+  "batteryLevel": "Уровень заряда батареи",
+  "chargerPower": "Мощность зарядного устройства"
 }

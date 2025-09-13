@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Frigör utrymme för att se till att Tessie kan läsa in dina data.",
   "enableProviderSmartCharging": "Aktivera {provider} smartladdning",
   "saveMoneyAndHelpTheLocationGrid": "Spara pengar och hjälp {location}-nätet",
-  "batteryLevel": "Batterinivå"
+  "batteryLevel": "Batterinivå",
+  "chargerPower": "Laddareffekt"
 }

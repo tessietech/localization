@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessieがデータをロードできるように、容量を解放してください。",
   "enableProviderSmartCharging": "{provider}スマート充電を有効にする",
   "saveMoneyAndHelpTheLocationGrid": "{location}グリッドでお金を節約し、支援する",
-  "batteryLevel": "バッテリー残量"
+  "batteryLevel": "バッテリー残量",
+  "chargerPower": "充電器出力"
 }

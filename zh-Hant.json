@@ -2694,5 +2694,6 @@
   "freeUpSpaceToMakeSureThatTessieCanLoad": "釋放空間以確保 Tessie 可以載入您的資料。",
   "enableProviderSmartCharging": "啟用 {provider} 智慧充電",
   "saveMoneyAndHelpTheLocationGrid": "省錢並協助 {location} 電網",
-  "batteryLevel": "電池電量"
+  "batteryLevel": "電池電量",
+  "chargerPower": "充電器功率"
 }
