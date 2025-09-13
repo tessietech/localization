@@ -2693,5 +2693,6 @@
   "lowStorage": "Lite lagringsplass",
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Frigjør plass for å sikre at Tessie kan laste inn dataene dine.",
   "enableProviderSmartCharging": "Aktiver {provider} smart lading",
-  "saveMoneyAndHelpTheLocationGrid": "Spar penger og hjelp {location}-nettet"
+  "saveMoneyAndHelpTheLocationGrid": "Spar penger og hjelp {location}-nettet",
+  "batteryLevel": "Batterinivå"
 }

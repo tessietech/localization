@@ -2693,5 +2693,6 @@
   "lowStorage": "Spațiu de stocare insuficient",
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Eliberați spațiu pentru a vă asigura că Tessie poate încărca datele.",
   "enableProviderSmartCharging": "Activează încărcarea inteligentă {provider}",
-  "saveMoneyAndHelpTheLocationGrid": "Economisește bani și ajută rețeaua {location}"
+  "saveMoneyAndHelpTheLocationGrid": "Economisește bani și ajută rețeaua {location}",
+  "batteryLevel": "Nivelul bateriei"
 }

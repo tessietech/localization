@@ -2693,5 +2693,6 @@
   "lowStorage": "ストレージ容量低下",
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessieがデータをロードできるように、容量を解放してください。",
   "enableProviderSmartCharging": "{provider}スマート充電を有効にする",
-  "saveMoneyAndHelpTheLocationGrid": "{location}グリッドでお金を節約し、支援する"
+  "saveMoneyAndHelpTheLocationGrid": "{location}グリッドでお金を節約し、支援する",
+  "batteryLevel": "バッテリー残量"
 }

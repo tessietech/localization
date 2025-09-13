@@ -2693,5 +2693,6 @@
   "lowStorage": "Kevés a tárhely",
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Szabadítson fel helyet, hogy a Tessie be tudja tölteni az adatait.",
   "enableProviderSmartCharging": "A {provider} intelligens töltés engedélyezése",
-  "saveMoneyAndHelpTheLocationGrid": "Pénzt takaríthat meg, és segíthet a {location} hálózatnak"
+  "saveMoneyAndHelpTheLocationGrid": "Pénzt takaríthat meg, és segíthet a {location} hálózatnak",
+  "batteryLevel": "Akkumulátor töltöttsége"
 }

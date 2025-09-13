@@ -2693,5 +2693,6 @@
   "lowStorage": "Stockage faible",
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Libérez de l'espace pour vous assurer que Tessie puisse charger vos données.",
   "enableProviderSmartCharging": "Activer la recharge intelligente {provider}",
-  "saveMoneyAndHelpTheLocationGrid": "Économisez de l'argent et aidez le réseau {location}"
+  "saveMoneyAndHelpTheLocationGrid": "Économisez de l'argent et aidez le réseau {location}",
+  "batteryLevel": "Niveau de batterie"
 }

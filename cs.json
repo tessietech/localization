@@ -2693,5 +2693,6 @@
   "lowStorage": "Nedostatek místa",
   "freeUpSpaceToMakeSureThatTessieCanLoad": "Uvolněte místo, aby Tessie mohla načíst data.",
   "enableProviderSmartCharging": "Povolit inteligentní nabíjení {provider}",
-  "saveMoneyAndHelpTheLocationGrid": "Šetřete peníze a pomozte {location} síti"
+  "saveMoneyAndHelpTheLocationGrid": "Šetřete peníze a pomozte {location} síti",
+  "batteryLevel": "Úroveň nabití baterie"
 }
