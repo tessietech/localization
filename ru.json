@@ -2691,5 +2691,7 @@
   "background": "Фон",
   "enableInBackground": "Включить в фоне",
   "lowStorage": "Мало места в хранилище",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Освободите место, чтобы Tessie могла загрузить ваши данные."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Освободите место, чтобы Tessie могла загрузить ваши данные.",
+  "enableProviderSmartCharging": "Включить интеллектуальную зарядку {provider}",
+  "saveMoneyAndHelpTheLocationGrid": "Экономьте деньги и помогайте энергосистеме {location}"
 }

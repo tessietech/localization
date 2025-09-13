@@ -2691,5 +2691,7 @@
   "background": "背景",
   "enableInBackground": "バックグラウンドで有効にする",
   "lowStorage": "ストレージ容量低下",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessieがデータをロードできるように、容量を解放してください。"
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessieがデータをロードできるように、容量を解放してください。",
+  "enableProviderSmartCharging": "{provider}スマート充電を有効にする",
+  "saveMoneyAndHelpTheLocationGrid": "{location}グリッドでお金を節約し、支援する"
 }

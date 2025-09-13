@@ -2691,5 +2691,7 @@
   "background": "배경",
   "enableInBackground": "백그라운드에서 활성화",
   "lowStorage": "저장 공간 부족",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie가 데이터를 로드할 수 있도록 공간을 확보하세요."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie가 데이터를 로드할 수 있도록 공간을 확보하세요.",
+  "enableProviderSmartCharging": "{provider} 스마트 충전 사용",
+  "saveMoneyAndHelpTheLocationGrid": "{location} 그리드에 도움이 되고 비용 절감"
 }

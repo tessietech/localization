@@ -2691,5 +2691,7 @@
   "background": "W tle",
   "enableInBackground": "Włącz w tle",
   "lowStorage": "Mało miejsca w pamięci",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Zwolnij miejsce, aby Tessie mogła załadować Twoje dane."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Zwolnij miejsce, aby Tessie mogła załadować Twoje dane.",
+  "enableProviderSmartCharging": "Włącz inteligentne ładowanie {provider}",
+  "saveMoneyAndHelpTheLocationGrid": "Oszczędzaj pieniądze i wspieraj sieć {location}"
 }

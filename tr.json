@@ -2691,5 +2691,7 @@
   "background": "Arka Plan",
   "enableInBackground": "Arka planda etkinleştir",
   "lowStorage": "Düşük depolama alanı",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie'nin verilerinizi yükleyebilmesi için yer açın."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Tessie'nin verilerinizi yükleyebilmesi için yer açın.",
+  "enableProviderSmartCharging": "{provider} akıllı şarjı etkinleştir",
+  "saveMoneyAndHelpTheLocationGrid": "{location} şebekesine para kazandır ve yardım et"
 }

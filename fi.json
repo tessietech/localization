@@ -2691,5 +2691,7 @@
   "background": "Tausta",
   "enableInBackground": "Salli taustalla",
   "lowStorage": "Vähän tallennustilaa",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Vapauta tilaa varmistaaksesi, että Tessie voi ladata tietosi."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Vapauta tilaa varmistaaksesi, että Tessie voi ladata tietosi.",
+  "enableProviderSmartCharging": "Ota {provider} älykäs lataus käyttöön",
+  "saveMoneyAndHelpTheLocationGrid": "Säästä rahaa ja auta {location} verkkoa"
 }

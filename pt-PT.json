@@ -2691,5 +2691,7 @@
   "background": "Fundo",
   "enableInBackground": "Ativar em segundo plano",
   "lowStorage": "Pouco armazenamento",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Libere espaço para garantir que o Tessie consiga carregar os seus dados."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Libere espaço para garantir que o Tessie consiga carregar os seus dados.",
+  "enableProviderSmartCharging": "Ativar carregamento inteligente {provider}",
+  "saveMoneyAndHelpTheLocationGrid": "Poupe dinheiro e ajude a rede {location}"
 }

@@ -2691,5 +2691,7 @@
   "background": "背景",
   "enableInBackground": "在后台启用",
   "lowStorage": "存储空间不足",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "释放空间以确保 Tessie 可以加载您的数据。"
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "释放空间以确保 Tessie 可以加载您的数据。",
+  "enableProviderSmartCharging": "启用 {provider} 智能充电",
+  "saveMoneyAndHelpTheLocationGrid": "省钱并帮助 {location} 电网"
 }

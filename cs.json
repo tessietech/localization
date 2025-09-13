@@ -2691,5 +2691,7 @@
   "background": "Pozadí",
   "enableInBackground": "Povolit na pozadí",
   "lowStorage": "Nedostatek místa",
-  "freeUpSpaceToMakeSureThatTessieCanLoad": "Uvolněte místo, aby Tessie mohla načíst data."
+  "freeUpSpaceToMakeSureThatTessieCanLoad": "Uvolněte místo, aby Tessie mohla načíst data.",
+  "enableProviderSmartCharging": "Povolit inteligentní nabíjení {provider}",
+  "saveMoneyAndHelpTheLocationGrid": "Šetřete peníze a pomozte {location} síti"
 }
