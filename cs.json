@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Povolit inteligentní nabíjení {provider}",
   "saveMoneyAndHelpTheLocationGrid": "Šetřete peníze a pomozte {location} síti",
   "batteryLevel": "Úroveň nabití baterie",
-  "chargerPower": "Výkon nabíječky"
+  "chargerPower": "Výkon nabíječky",
+  "limitedTime": "Omezená doba",
+  "saveAmountPerYear": "Ušetřete {amount} ročně"
 }

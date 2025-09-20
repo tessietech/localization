@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Ota {provider} älykäs lataus käyttöön",
   "saveMoneyAndHelpTheLocationGrid": "Säästä rahaa ja auta {location} verkkoa",
   "batteryLevel": "Akun varaustaso",
-  "chargerPower": "Lataustehon"
+  "chargerPower": "Lataustehon",
+  "limitedTime": "Rajoitettu aika",
+  "saveAmountPerYear": "Säästä {amount} vuodessa"
 }

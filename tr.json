@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "{provider} akıllı şarjı etkinleştir",
   "saveMoneyAndHelpTheLocationGrid": "{location} şebekesine para kazandır ve yardım et",
   "batteryLevel": "Batarya seviyesi",
-  "chargerPower": "Şarj cihazı gücü"
+  "chargerPower": "Şarj cihazı gücü",
+  "limitedTime": "Sınırlı süre",
+  "saveAmountPerYear": "Yılda {amount} tasarruf edin"
 }

@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Activar la carga inteligente de {provider}",
   "saveMoneyAndHelpTheLocationGrid": "Ahorra dinero y ayuda a la red eléctrica de {location}",
   "batteryLevel": "Nivel de batería",
-  "chargerPower": "Potencia del cargador"
+  "chargerPower": "Potencia del cargador",
+  "limitedTime": "Tiempo limitado",
+  "saveAmountPerYear": "Ahorra {amount} al año"
 }

@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Enable {provider} smart charging",
   "saveMoneyAndHelpTheLocationGrid": "Save money and help the {location} grid",
   "batteryLevel": "Battery level",
-  "chargerPower": "Charger power"
+  "chargerPower": "Charger power",
+  "limitedTime": "Limited time",
+  "saveAmountPerYear": "Save {amount} per year"
 }

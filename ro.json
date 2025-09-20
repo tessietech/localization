@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Activează încărcarea inteligentă {provider}",
   "saveMoneyAndHelpTheLocationGrid": "Economisește bani și ajută rețeaua {location}",
   "batteryLevel": "Nivelul bateriei",
-  "chargerPower": "Putere încărcător"
+  "chargerPower": "Putere încărcător",
+  "limitedTime": "Perioadă limitată",
+  "saveAmountPerYear": "Economisiți {amount} pe an"
 }

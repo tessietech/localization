@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "A {provider} intelligens töltés engedélyezése",
   "saveMoneyAndHelpTheLocationGrid": "Pénzt takaríthat meg, és segíthet a {location} hálózatnak",
   "batteryLevel": "Akkumulátor töltöttsége",
-  "chargerPower": "Töltő teljesítmény"
+  "chargerPower": "Töltő teljesítmény",
+  "limitedTime": "Korlátozott ideig",
+  "saveAmountPerYear": "Megtakarítás: {amount} évente"
 }

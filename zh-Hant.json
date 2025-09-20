@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "啟用 {provider} 智慧充電",
   "saveMoneyAndHelpTheLocationGrid": "省錢並協助 {location} 電網",
   "batteryLevel": "電池電量",
-  "chargerPower": "充電器功率"
+  "chargerPower": "充電器功率",
+  "limitedTime": "限時",
+  "saveAmountPerYear": "每年節省 {amount}"
 }

@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "{provider} 스마트 충전 사용",
   "saveMoneyAndHelpTheLocationGrid": "{location} 그리드에 도움이 되고 비용 절감",
   "batteryLevel": "배터리 잔량",
-  "chargerPower": "충전기 전력"
+  "chargerPower": "충전기 전력",
+  "limitedTime": "제한된 시간",
+  "saveAmountPerYear": "연간 {amount} 절약"
 }

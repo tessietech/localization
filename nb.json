@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Aktiver {provider} smart lading",
   "saveMoneyAndHelpTheLocationGrid": "Spar penger og hjelp {location}-nettet",
   "batteryLevel": "Batterinivå",
-  "chargerPower": "Ladeeffekt"
+  "chargerPower": "Ladeeffekt",
+  "limitedTime": "Begrenset tid",
+  "saveAmountPerYear": "Spar {amount} per år"
 }

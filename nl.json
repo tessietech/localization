@@ -2695,5 +2695,7 @@
   "enableProviderSmartCharging": "Slim laden met {provider} inschakelen",
   "saveMoneyAndHelpTheLocationGrid": "Bespaar geld en help het {location}-net",
   "batteryLevel": "Batterijniveau",
-  "chargerPower": "Oplaadvermogen"
+  "chargerPower": "Oplaadvermogen",
+  "limitedTime": "Beperkte tijd",
+  "saveAmountPerYear": "Bespaar {amount} per jaar"
 }
