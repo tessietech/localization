@@ -2656,7 +2656,7 @@
   "tapToOpenTheApp": "Tik om de app te openen",
   "displayedWhenYouFirstOpenTheAppUsedForTheWatchTile": "Weergegeven wanneer u de app voor het eerst opent. Gebruikt voor de watch-tegel, batterij 1-complicatie en bedieningscomplicaties.",
   "system": "Systeem",
-  "rangeHealth": "Range health",
+  "rangeHealth": "Bereikconditie",
   "enableCostOptimizer": "Kostenoptimalisatie inschakelen",
   "activateProductIntegration": "{product} integratie activeren",
   "basedOnFleetDataTheOriginalBatteryCapacityOfThis": "Op basis van fleetgegevens is de oorspronkelijke batterijcapaciteit van deze voertuigconfiguratie {capacity} kWh.",
@@ -2697,5 +2697,9 @@
   "batteryLevel": "Batterijniveau",
   "chargerPower": "Oplaadvermogen",
   "limitedTime": "Beperkte tijd",
-  "saveAmountPerYear": "Bespaar {amount} per jaar"
+  "saveAmountPerYear": "Bespaar {amount} per jaar",
+  "trackYourTrips": "Volg je ritten",
+  "trackYourBattery": "Volg je batterij",
+  "automateYourCar": "Automatiseer je auto",
+  "knowWhatsHappening": "Weet wat er gebeurt"
 }

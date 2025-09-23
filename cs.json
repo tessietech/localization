@@ -2697,5 +2697,9 @@
   "batteryLevel": "Úroveň nabití baterie",
   "chargerPower": "Výkon nabíječky",
   "limitedTime": "Omezená doba",
-  "saveAmountPerYear": "Ušetřete {amount} ročně"
+  "saveAmountPerYear": "Ušetřete {amount} ročně",
+  "trackYourTrips": "Sledovat vaše cesty",
+  "trackYourBattery": "Sledovat vaši baterii",
+  "automateYourCar": "Automatizovat vaše auto",
+  "knowWhatsHappening": "Vědět, co se děje"
 }

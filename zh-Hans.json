@@ -2697,5 +2697,9 @@
   "batteryLevel": "电池电量",
   "chargerPower": "充电器功率",
   "limitedTime": "限时",
-  "saveAmountPerYear": "每年节省 {amount}"
+  "saveAmountPerYear": "每年节省 {amount}",
+  "trackYourTrips": "跟踪您的行程",
+  "trackYourBattery": "跟踪您的电池",
+  "automateYourCar": "自动化您的汽车",
+  "knowWhatsHappening": "了解正在发生的事情"
 }

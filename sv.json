@@ -2697,5 +2697,9 @@
   "batteryLevel": "Batterinivå",
   "chargerPower": "Laddareffekt",
   "limitedTime": "Begränsad tid",
-  "saveAmountPerYear": "Spara {amount} per år"
+  "saveAmountPerYear": "Spara {amount} per år",
+  "trackYourTrips": "Spåra dina resor",
+  "trackYourBattery": "Spåra ditt batteri",
+  "automateYourCar": "Automatisera din bil",
+  "knowWhatsHappening": "Vet vad som händer"
 }

@@ -2697,5 +2697,9 @@
   "batteryLevel": "Akkumulátor töltöttsége",
   "chargerPower": "Töltő teljesítmény",
   "limitedTime": "Korlátozott ideig",
-  "saveAmountPerYear": "Megtakarítás: {amount} évente"
+  "saveAmountPerYear": "Megtakarítás: {amount} évente",
+  "trackYourTrips": "Kövesd nyomon az utazásaidat",
+  "trackYourBattery": "Kövesd nyomon az akkumulátorodat",
+  "automateYourCar": "Automatizáld az autódat",
+  "knowWhatsHappening": "Tudd, mi történik"
 }

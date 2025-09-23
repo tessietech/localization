@@ -2697,5 +2697,9 @@
   "batteryLevel": "Nivel de batería",
   "chargerPower": "Potencia del cargador",
   "limitedTime": "Tiempo limitado",
-  "saveAmountPerYear": "Ahorra {amount} al año"
+  "saveAmountPerYear": "Ahorra {amount} al año",
+  "trackYourTrips": "Rastrear tus viajes",
+  "trackYourBattery": "Rastrear tu batería",
+  "automateYourCar": "Automatiza tu coche",
+  "knowWhatsHappening": "Saber lo que está pasando"
 }

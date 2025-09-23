@@ -2697,5 +2697,9 @@
   "batteryLevel": "Nivelul bateriei",
   "chargerPower": "Putere încărcător",
   "limitedTime": "Perioadă limitată",
-  "saveAmountPerYear": "Economisiți {amount} pe an"
+  "saveAmountPerYear": "Economisiți {amount} pe an",
+  "trackYourTrips": "Urmăriți-vă călătoriile",
+  "trackYourBattery": "Urmăriți-vă bateria",
+  "automateYourCar": "Automatizați-vă mașina",
+  "knowWhatsHappening": "Știți ce se întâmplă"
 }

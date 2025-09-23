@@ -2697,5 +2697,9 @@
   "batteryLevel": "Уровень заряда батареи",
   "chargerPower": "Мощность зарядного устройства",
   "limitedTime": "Ограниченное время",
-  "saveAmountPerYear": "Экономия {amount} в год"
+  "saveAmountPerYear": "Экономия {amount} в год",
+  "trackYourTrips": "Отслеживайте свои поездки",
+  "trackYourBattery": "Отслеживайте состояние батареи",
+  "automateYourCar": "Автоматизируйте свой автомобиль",
+  "knowWhatsHappening": "Знайте, что происходит"
 }

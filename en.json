@@ -2697,5 +2697,9 @@
   "batteryLevel": "Battery level",
   "chargerPower": "Charger power",
   "limitedTime": "Limited time",
-  "saveAmountPerYear": "Save {amount} per year"
+  "saveAmountPerYear": "Save {amount} per year",
+  "trackYourTrips": "Track your trips",
+  "trackYourBattery": "Track your battery",
+  "automateYourCar": "Automate your car",
+  "knowWhatsHappening": "Know what's happening"
 }

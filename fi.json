@@ -2697,5 +2697,9 @@
   "batteryLevel": "Akun varaustaso",
   "chargerPower": "Lataustehon",
   "limitedTime": "Rajoitettu aika",
-  "saveAmountPerYear": "Säästä {amount} vuodessa"
+  "saveAmountPerYear": "Säästä {amount} vuodessa",
+  "trackYourTrips": "Seuraa matkojasi",
+  "trackYourBattery": "Seuraa akkua",
+  "automateYourCar": "Automatisoi autosi",
+  "knowWhatsHappening": "Tiedä mitä tapahtuu"
 }

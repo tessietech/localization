@@ -2697,5 +2697,9 @@
   "batteryLevel": "Batteriestand",
   "chargerPower": "Ladeleistung",
   "limitedTime": "Befristetes Angebot",
-  "saveAmountPerYear": "Sparen Sie {amount} pro Jahr"
+  "saveAmountPerYear": "Sparen Sie {amount} pro Jahr",
+  "trackYourTrips": "Verfolge deine Fahrten",
+  "trackYourBattery": "Verfolge deinen Akku",
+  "automateYourCar": "Automatisiere dein Auto",
+  "knowWhatsHappening": "Wisse, was passiert"
 }

@@ -2697,5 +2697,9 @@
   "batteryLevel": "배터리 잔량",
   "chargerPower": "충전기 전력",
   "limitedTime": "제한된 시간",
-  "saveAmountPerYear": "연간 {amount} 절약"
+  "saveAmountPerYear": "연간 {amount} 절약",
+  "trackYourTrips": "여행 추적",
+  "trackYourBattery": "배터리 추적",
+  "automateYourCar": "차량 자동화",
+  "knowWhatsHappening": "상황 파악"
 }
