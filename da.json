@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automatiser din bil",
   "knowWhatsHappening": "Ved, hvad der sker",
   "trustedByOverNumberTeslaDrivers": "Confiança de mais de {number} condutores Tesla",
-  "bestValueSaveAmount": "Bedste værdi (spar {amount})"
+  "bestValueSaveAmount": "Bedste værdi (spar {amount})",
+  "syncing": "Synkroniserer"
 }

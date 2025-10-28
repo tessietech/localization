@@ -2703,5 +2703,6 @@
   "automateYourCar": "Arabanızı otomatikleştirin",
   "knowWhatsHappening": "Neler olup bittiğini bilin",
   "trustedByOverNumberTeslaDrivers": "{number} Tesla sürücüsünden fazlası tarafından güveniliyor",
-  "bestValueSaveAmount": "En iyi değer (tasarruf: {amount})"
+  "bestValueSaveAmount": "En iyi değer (tasarruf: {amount})",
+  "syncing": "Senkronize Ediliyor"
 }

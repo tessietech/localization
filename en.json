@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automate your car",
   "knowWhatsHappening": "Know what's happening",
   "trustedByOverNumberTeslaDrivers": "Trusted by over {number} Tesla drivers",
-  "bestValueSaveAmount": "Best value (save {amount})"
+  "bestValueSaveAmount": "Best value (save {amount})",
+  "syncing": "Syncing"
 }

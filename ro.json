@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automatizați-vă mașina",
   "knowWhatsHappening": "Știți ce se întâmplă",
   "trustedByOverNumberTeslaDrivers": "Încrezut de peste {number} șoferi Tesla",
-  "bestValueSaveAmount": "Cel mai bun preț (economisește {amount})"
+  "bestValueSaveAmount": "Cel mai bun preț (economisește {amount})",
+  "syncing": "Sincronizare"
 }

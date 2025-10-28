@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automatizza la tua auto",
   "knowWhatsHappening": "Scopri cosa sta succedendo",
   "trustedByOverNumberTeslaDrivers": "Scelto da oltre {number} guidatori Tesla",
-  "bestValueSaveAmount": "Miglior valore (risparmia {amount})"
+  "bestValueSaveAmount": "Miglior valore (risparmia {amount})",
+  "syncing": "Sincronizzazione"
 }

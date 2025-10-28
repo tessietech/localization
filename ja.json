@@ -2703,5 +2703,6 @@
   "automateYourCar": "車を自動化",
   "knowWhatsHappening": "何が起こっているかを知る",
   "trustedByOverNumberTeslaDrivers": "{number}人以上のテスラドライバーに信頼されています",
-  "bestValueSaveAmount": "最もお得 ( {amount}お得)"
+  "bestValueSaveAmount": "最もお得 ( {amount}お得)",
+  "syncing": "同期中"
 }

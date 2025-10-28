@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automatiseer je auto",
   "knowWhatsHappening": "Weet wat er gebeurt",
   "trustedByOverNumberTeslaDrivers": "Vertrouwd door meer dan {number} Tesla-rijders",
-  "bestValueSaveAmount": "Beste prijs (bespaar {amount})"
+  "bestValueSaveAmount": "Beste prijs (bespaar {amount})",
+  "syncing": "Synchroniseren"
 }

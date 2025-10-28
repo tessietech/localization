@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automatisoi autosi",
   "knowWhatsHappening": "Tiedä mitä tapahtuu",
   "trustedByOverNumberTeslaDrivers": "Luotettu yli {number} Tesla-kuljettajan toimesta",
-  "bestValueSaveAmount": "Paras vastine (säästä {amount})"
+  "bestValueSaveAmount": "Paras vastine (säästä {amount})",
+  "syncing": "Synkronoidaan"
 }

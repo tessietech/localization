@@ -2703,5 +2703,6 @@
   "automateYourCar": "Автоматизируйте свой автомобиль",
   "knowWhatsHappening": "Знайте, что происходит",
   "trustedByOverNumberTeslaDrivers": "Доверяют более {number} водителей Tesla",
-  "bestValueSaveAmount": "Лучшая цена (экономия {amount})"
+  "bestValueSaveAmount": "Лучшая цена (экономия {amount})",
+  "syncing": "Синхронизация"
 }

@@ -2703,5 +2703,6 @@
   "automateYourCar": "Automatizovat vaše auto",
   "knowWhatsHappening": "Vědět, co se děje",
   "trustedByOverNumberTeslaDrivers": "Důvěřuje jim více než {number} řidičů vozů Tesla",
-  "bestValueSaveAmount": "Nejvýhodnější (ušetříte {amount})"
+  "bestValueSaveAmount": "Nejvýhodnější (ušetříte {amount})",
+  "syncing": "Synchronizace"
 }
