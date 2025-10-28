@@ -2701,5 +2701,7 @@
   "trackYourTrips": "Отслеживайте свои поездки",
   "trackYourBattery": "Отслеживайте состояние батареи",
   "automateYourCar": "Автоматизируйте свой автомобиль",
-  "knowWhatsHappening": "Знайте, что происходит"
+  "knowWhatsHappening": "Знайте, что происходит",
+  "trustedByOverNumberTeslaDrivers": "Доверяют более {number} водителей Tesla",
+  "bestValueSaveAmount": "Лучшая цена (экономия {amount})"
 }

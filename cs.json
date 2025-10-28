@@ -2701,5 +2701,7 @@
   "trackYourTrips": "Sledovat vaše cesty",
   "trackYourBattery": "Sledovat vaši baterii",
   "automateYourCar": "Automatizovat vaše auto",
-  "knowWhatsHappening": "Vědět, co se děje"
+  "knowWhatsHappening": "Vědět, co se děje",
+  "trustedByOverNumberTeslaDrivers": "Důvěřuje jim více než {number} řidičů vozů Tesla",
+  "bestValueSaveAmount": "Nejvýhodnější (ušetříte {amount})"
 }

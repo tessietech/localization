@@ -2701,5 +2701,7 @@
   "trackYourTrips": "Spåra dina resor",
   "trackYourBattery": "Spåra ditt batteri",
   "automateYourCar": "Automatisera din bil",
-  "knowWhatsHappening": "Vet vad som händer"
+  "knowWhatsHappening": "Vet vad som händer",
+  "trustedByOverNumberTeslaDrivers": "Använt av över {number} Tesla-förare",
+  "bestValueSaveAmount": "Bästa värde (spara {amount})"
 }

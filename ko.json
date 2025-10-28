@@ -2701,5 +2701,7 @@
   "trackYourTrips": "여행 추적",
   "trackYourBattery": "배터리 추적",
   "automateYourCar": "차량 자동화",
-  "knowWhatsHappening": "상황 파악"
+  "knowWhatsHappening": "상황 파악",
+  "trustedByOverNumberTeslaDrivers": "{number}명 이상의 Tesla 운전자가 신뢰합니다.",
+  "bestValueSaveAmount": "최고 가치 (₩{amount} 절약)"
 }

@@ -2701,5 +2701,7 @@
   "trackYourTrips": "Seuraa matkojasi",
   "trackYourBattery": "Seuraa akkua",
   "automateYourCar": "Automatisoi autosi",
-  "knowWhatsHappening": "Tiedä mitä tapahtuu"
+  "knowWhatsHappening": "Tiedä mitä tapahtuu",
+  "trustedByOverNumberTeslaDrivers": "Luotettu yli {number} Tesla-kuljettajan toimesta",
+  "bestValueSaveAmount": "Paras vastine (säästä {amount})"
 }

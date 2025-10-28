@@ -2701,5 +2701,7 @@
   "trackYourTrips": "Verfolge deine Fahrten",
   "trackYourBattery": "Verfolge deinen Akku",
   "automateYourCar": "Automatisiere dein Auto",
-  "knowWhatsHappening": "Wisse, was passiert"
+  "knowWhatsHappening": "Wisse, was passiert",
+  "trustedByOverNumberTeslaDrivers": "Von über {number} Tesla-Fahrern vertraut",
+  "bestValueSaveAmount": "Bester Wert (spare {amount})"
 }

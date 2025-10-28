@@ -2701,5 +2701,7 @@
   "trackYourTrips": "追蹤您的行程",
   "trackYourBattery": "追蹤您的電池",
   "automateYourCar": "自動化您的汽車",
-  "knowWhatsHappening": "了解正在發生的事"
+  "knowWhatsHappening": "了解正在發生的事",
+  "trustedByOverNumberTeslaDrivers": "深受超過 {number} 位 Tesla 車主信賴",
+  "bestValueSaveAmount": "最划算（節省 {amount}）"
 }

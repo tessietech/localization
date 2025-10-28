@@ -2701,5 +2701,7 @@
   "trackYourTrips": "Sürüşlerinizi takip edin",
   "trackYourBattery": "Bataryanızı takip edin",
   "automateYourCar": "Arabanızı otomatikleştirin",
-  "knowWhatsHappening": "Neler olup bittiğini bilin"
+  "knowWhatsHappening": "Neler olup bittiğini bilin",
+  "trustedByOverNumberTeslaDrivers": "{number} Tesla sürücüsünden fazlası tarafından güveniliyor",
+  "bestValueSaveAmount": "En iyi değer (tasarruf: {amount})"
 }

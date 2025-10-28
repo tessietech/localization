@@ -2697,5 +2697,11 @@
   "batteryLevel": "电池电量",
   "chargerPower": "充电器功率",
   "limitedTime": "限时",
-  "saveAmountPerYear": "每年节省{amount}"
+  "saveAmountPerYear": "每年节省{amount}",
+  "trackYourTrips": "跟踪您的行程",
+  "trackYourBattery": "跟踪您的电池",
+  "automateYourCar": "自动化您的汽车",
+  "knowWhatsHappening": "了解发生了什么",
+  "trustedByOverNumberTeslaDrivers": "受到超过 {number} 位 Tesla 车主的信任",
+  "bestValueSaveAmount": "最佳价值（节省 {amount}）"
 }
