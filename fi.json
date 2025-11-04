@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Tarkista yhteytesi tai käynnistä selain uudelleen",
   "checkYourConnectionOrRestartYourDevice": "Tarkista yhteytesi tai käynnistä laite uudelleen",
   "enableTelemetry": "Ota käyttöön telemetria",
-  "downloadYetFinalizedYet": "Ladataan, mutta ei vielä viimeistelty"
+  "downloadYetFinalizedYet": "Ladataan, mutta ei vielä viimeistelty",
+  "waitingForVehicle": "Odotetaan autoa"
 }

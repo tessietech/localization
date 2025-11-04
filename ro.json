@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Verifică-ți conexiunea sau repornește browserul",
   "checkYourConnectionOrRestartYourDevice": "Verifică-ți conexiunea sau repornește dispozitivul",
   "enableTelemetry": "Activează telemetria",
-  "downloadYetFinalizedYet": "Descărcare încă finalizată încă"
+  "downloadYetFinalizedYet": "Descărcare încă finalizată încă",
+  "waitingForVehicle": "Se așteaptă vehiculul"
 }

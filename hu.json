@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Ellenőrizze a kapcsolatot, vagy indítsa újra a böngészőt",
   "checkYourConnectionOrRestartYourDevice": "Ellenőrizze a kapcsolatot, vagy indítsa újra az eszközt",
   "enableTelemetry": "Telemetria engedélyezése",
-  "downloadYetFinalizedYet": "Még nem végleges a letöltés"
+  "downloadYetFinalizedYet": "Még nem végleges a letöltés",
+  "waitingForVehicle": "Várakozás a járműre"
 }

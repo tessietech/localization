@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "請檢查您的連線或重新啟動瀏覽器",
   "checkYourConnectionOrRestartYourDevice": "請檢查您的連線或重新啟動裝置",
   "enableTelemetry": "啟用遙測",
-  "downloadYetFinalizedYet": "下載尚未最終確定"
+  "downloadYetFinalizedYet": "下載尚未最終確定",
+  "waitingForVehicle": "正在等待車輛"
 }

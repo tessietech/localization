@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Kontrollera din anslutning eller starta om din webbläsare",
   "checkYourConnectionOrRestartYourDevice": "Kontrollera din anslutning eller starta om din enhet",
   "enableTelemetry": "Aktivera telemetri",
-  "downloadYetFinalizedYet": "Nedladdning ännu ej slutförd"
+  "downloadYetFinalizedYet": "Nedladdning ännu ej slutförd",
+  "waitingForVehicle": "Väntar på fordon"
 }

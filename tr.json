@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Bağlantınızı kontrol edin veya tarayıcınızı yeniden başlatın",
   "checkYourConnectionOrRestartYourDevice": "Bağlantınızı kontrol edin veya cihazınızı yeniden başlatın",
   "enableTelemetry": "Telemetriyi etkinleştir",
-  "downloadYetFinalizedYet": "Henüz tamamlanmadı ancak indir"
+  "downloadYetFinalizedYet": "Henüz tamamlanmadı ancak indir",
+  "waitingForVehicle": "Aracı Bekleniyor"
 }

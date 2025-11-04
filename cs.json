@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Zkontrolujte připojení nebo restartujte prohlížeč",
   "checkYourConnectionOrRestartYourDevice": "Zkontrolujte připojení nebo restartujte zařízení",
   "enableTelemetry": "Povolit telemetrii",
-  "downloadYetFinalizedYet": "Stahování ještě nebylo dokončeno"
+  "downloadYetFinalizedYet": "Stahování ještě nebylo dokončeno",
+  "waitingForVehicle": "Čekání na vozidlo"
 }

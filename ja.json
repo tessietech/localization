@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "接続を確認するか、ブラウザを再起動してください",
   "checkYourConnectionOrRestartYourDevice": "接続を確認するか、デバイスを再起動してください",
   "enableTelemetry": "テレメトリを有効にする",
-  "downloadYetFinalizedYet": "ダウンロードはまだ完了していません"
+  "downloadYetFinalizedYet": "ダウンロードはまだ完了していません",
+  "waitingForVehicle": "車両を待機中"
 }

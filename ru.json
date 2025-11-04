@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Проверьте подключение или перезагрузите браузер",
   "checkYourConnectionOrRestartYourDevice": "Проверьте подключение или перезагрузите устройство",
   "enableTelemetry": "Включить телеметрию",
-  "downloadYetFinalizedYet": "Загрузка еще не завершена"
+  "downloadYetFinalizedYet": "Загрузка еще не завершена",
+  "waitingForVehicle": "Ожидание автомобиля"
 }

@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Controleer uw verbinding of herstart uw browser",
   "checkYourConnectionOrRestartYourDevice": "Controleer uw verbinding of herstart uw apparaat",
   "enableTelemetry": "Telemetrie inschakelen",
-  "downloadYetFinalizedYet": "Download nog niet definitief"
+  "downloadYetFinalizedYet": "Download nog niet definitief",
+  "waitingForVehicle": "Wachten op voertuig"
 }

@@ -2708,5 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Verifique a sua ligação ou reinicie o seu navegador",
   "checkYourConnectionOrRestartYourDevice": "Verifique a sua ligação ou reinicie o seu dispositivo",
   "enableTelemetry": "Aktivér telemetri",
-  "downloadYetFinalizedYet": "Download yet finalized yet"
+  "downloadYetFinalizedYet": "Download yet finalized yet",
+  "waitingForVehicle": "Waiting for vehicle"
 }
