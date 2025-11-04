@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Wiedz, co się dzieje",
   "trustedByOverNumberTeslaDrivers": "Zaufali nam już ponad {number} kierowcy Tesli",
   "bestValueSaveAmount": "Najlepsza oferta (oszczędzasz {amount})",
-  "syncing": "Synchronizacja"
+  "syncing": "Synchronizacja",
+  "checkYourConnectionOrRestartYourBrowser": "Sprawdź swoje połączenie lub uruchom ponownie przeglądarkę",
+  "checkYourConnectionOrRestartYourDevice": "Sprawdź swoje połączenie lub uruchom ponownie urządzenie",
+  "enableTelemetry": "Włącz telemetrię",
+  "downloadYetFinalizedYet": "Pobierz jeszcze sfinalizowane jeszcze"
 }

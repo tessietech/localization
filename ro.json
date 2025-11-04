@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Știți ce se întâmplă",
   "trustedByOverNumberTeslaDrivers": "Încrezut de peste {number} șoferi Tesla",
   "bestValueSaveAmount": "Cel mai bun preț (economisește {amount})",
-  "syncing": "Sincronizare"
+  "syncing": "Sincronizare",
+  "checkYourConnectionOrRestartYourBrowser": "Verifică-ți conexiunea sau repornește browserul",
+  "checkYourConnectionOrRestartYourDevice": "Verifică-ți conexiunea sau repornește dispozitivul",
+  "enableTelemetry": "Activează telemetria",
+  "downloadYetFinalizedYet": "Descărcare încă finalizată încă"
 }

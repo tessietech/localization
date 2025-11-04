@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Vet vad som händer",
   "trustedByOverNumberTeslaDrivers": "Använt av över {number} Tesla-förare",
   "bestValueSaveAmount": "Bästa värde (spara {amount})",
-  "syncing": "Synkroniserar"
+  "syncing": "Synkroniserar",
+  "checkYourConnectionOrRestartYourBrowser": "Kontrollera din anslutning eller starta om din webbläsare",
+  "checkYourConnectionOrRestartYourDevice": "Kontrollera din anslutning eller starta om din enhet",
+  "enableTelemetry": "Aktivera telemetri",
+  "downloadYetFinalizedYet": "Nedladdning ännu ej slutförd"
 }

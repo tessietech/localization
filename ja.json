@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "何が起こっているかを知る",
   "trustedByOverNumberTeslaDrivers": "{number}人以上のテスラドライバーに信頼されています",
   "bestValueSaveAmount": "最もお得 ( {amount}お得)",
-  "syncing": "同期中"
+  "syncing": "同期中",
+  "checkYourConnectionOrRestartYourBrowser": "接続を確認するか、ブラウザを再起動してください",
+  "checkYourConnectionOrRestartYourDevice": "接続を確認するか、デバイスを再起動してください",
+  "enableTelemetry": "テレメトリを有効にする",
+  "downloadYetFinalizedYet": "ダウンロードはまだ完了していません"
 }

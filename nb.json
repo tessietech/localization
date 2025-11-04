@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Know what's happening",
   "trustedByOverNumberTeslaDrivers": "Trusted by over {number} Tesla drivers",
   "bestValueSaveAmount": "Mest verdi (spar {amount})",
-  "syncing": "Synkroniserer"
+  "syncing": "Synkroniserer",
+  "checkYourConnectionOrRestartYourBrowser": "Sjekk tilkoblingen din, eller start nettleseren din på nytt",
+  "checkYourConnectionOrRestartYourDevice": "Sjekk tilkoblingen din, eller start enheten din på nytt",
+  "enableTelemetry": "Aktiver telemetri",
+  "downloadYetFinalizedYet": "Nedlasting ennå ikke fullført ennå"
 }

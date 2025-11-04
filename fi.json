@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Tiedä mitä tapahtuu",
   "trustedByOverNumberTeslaDrivers": "Luotettu yli {number} Tesla-kuljettajan toimesta",
   "bestValueSaveAmount": "Paras vastine (säästä {amount})",
-  "syncing": "Synkronoidaan"
+  "syncing": "Synkronoidaan",
+  "checkYourConnectionOrRestartYourBrowser": "Tarkista yhteytesi tai käynnistä selain uudelleen",
+  "checkYourConnectionOrRestartYourDevice": "Tarkista yhteytesi tai käynnistä laite uudelleen",
+  "enableTelemetry": "Ota käyttöön telemetria",
+  "downloadYetFinalizedYet": "Ladataan, mutta ei vielä viimeistelty"
 }

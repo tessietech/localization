@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Vědět, co se děje",
   "trustedByOverNumberTeslaDrivers": "Důvěřuje jim více než {number} řidičů vozů Tesla",
   "bestValueSaveAmount": "Nejvýhodnější (ušetříte {amount})",
-  "syncing": "Synchronizace"
+  "syncing": "Synchronizace",
+  "checkYourConnectionOrRestartYourBrowser": "Zkontrolujte připojení nebo restartujte prohlížeč",
+  "checkYourConnectionOrRestartYourDevice": "Zkontrolujte připojení nebo restartujte zařízení",
+  "enableTelemetry": "Povolit telemetrii",
+  "downloadYetFinalizedYet": "Stahování ještě nebylo dokončeno"
 }

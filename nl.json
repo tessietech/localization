@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Weet wat er gebeurt",
   "trustedByOverNumberTeslaDrivers": "Vertrouwd door meer dan {number} Tesla-rijders",
   "bestValueSaveAmount": "Beste prijs (bespaar {amount})",
-  "syncing": "Synchroniseren"
+  "syncing": "Synchroniseren",
+  "checkYourConnectionOrRestartYourBrowser": "Controleer uw verbinding of herstart uw browser",
+  "checkYourConnectionOrRestartYourDevice": "Controleer uw verbinding of herstart uw apparaat",
+  "enableTelemetry": "Telemetrie inschakelen",
+  "downloadYetFinalizedYet": "Download nog niet definitief"
 }

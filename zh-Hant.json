@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "了解正在發生的事",
   "trustedByOverNumberTeslaDrivers": "深受超過 {number} 位 Tesla 車主信賴",
   "bestValueSaveAmount": "最划算（節省 {amount}）",
-  "syncing": "正在同步"
+  "syncing": "正在同步",
+  "checkYourConnectionOrRestartYourBrowser": "請檢查您的連線或重新啟動瀏覽器",
+  "checkYourConnectionOrRestartYourDevice": "請檢查您的連線或重新啟動裝置",
+  "enableTelemetry": "啟用遙測",
+  "downloadYetFinalizedYet": "下載尚未最終確定"
 }

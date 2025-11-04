@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "상황 파악",
   "trustedByOverNumberTeslaDrivers": "{number}명 이상의 Tesla 운전자가 신뢰합니다.",
   "bestValueSaveAmount": "최고 가치 (₩{amount} 절약)",
-  "syncing": "동기화 중"
+  "syncing": "동기화 중",
+  "checkYourConnectionOrRestartYourBrowser": "연결을 확인하거나 브라우저를 다시 시작하세요.",
+  "checkYourConnectionOrRestartYourDevice": "연결을 확인하거나 장치를 다시 시작하세요.",
+  "enableTelemetry": "텔레메트리 활성화",
+  "downloadYetFinalizedYet": "아직 다운로드 완료되지 않음"
 }

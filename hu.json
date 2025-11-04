@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Tudd, mi történik",
   "trustedByOverNumberTeslaDrivers": "Több mint {number} Tesla-sofőr megbízik bennünk",
   "bestValueSaveAmount": "Legjobb érték (megtakarítás: {amount})",
-  "syncing": "Szinkronizálás"
+  "syncing": "Szinkronizálás",
+  "checkYourConnectionOrRestartYourBrowser": "Ellenőrizze a kapcsolatot, vagy indítsa újra a böngészőt",
+  "checkYourConnectionOrRestartYourDevice": "Ellenőrizze a kapcsolatot, vagy indítsa újra az eszközt",
+  "enableTelemetry": "Telemetria engedélyezése",
+  "downloadYetFinalizedYet": "Még nem végleges a letöltés"
 }

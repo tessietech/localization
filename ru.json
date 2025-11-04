@@ -2704,5 +2704,9 @@
   "knowWhatsHappening": "Знайте, что происходит",
   "trustedByOverNumberTeslaDrivers": "Доверяют более {number} водителей Tesla",
   "bestValueSaveAmount": "Лучшая цена (экономия {amount})",
-  "syncing": "Синхронизация"
+  "syncing": "Синхронизация",
+  "checkYourConnectionOrRestartYourBrowser": "Проверьте подключение или перезагрузите браузер",
+  "checkYourConnectionOrRestartYourDevice": "Проверьте подключение или перезагрузите устройство",
+  "enableTelemetry": "Включить телеметрию",
+  "downloadYetFinalizedYet": "Загрузка еще не завершена"
 }
