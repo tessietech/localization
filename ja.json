@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "接続を確認するか、デバイスを再起動してください",
   "enableTelemetry": "テレメトリを有効にする",
   "downloadYetFinalizedYet": "ダウンロードはまだ完了していません",
-  "waitingForVehicle": "車両を待機中"
+  "waitingForVehicle": "車両を待機中",
+  "lowPowerModeIsEnabled": "低電力モードが有効になっています",
+  "noSubscriptionLinkedToEmail": "{email} にリンクされたサブスクリプションはありません。",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "正しいメールアドレスでサインインするか、support@tessie.com までお問い合わせください。"
 }

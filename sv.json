@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Kontrollera din anslutning eller starta om din enhet",
   "enableTelemetry": "Aktivera telemetri",
   "downloadYetFinalizedYet": "Nedladdning ännu ej slutförd",
-  "waitingForVehicle": "Väntar på fordon"
+  "waitingForVehicle": "Väntar på fordon",
+  "lowPowerModeIsEnabled": "Lågeffektsläge är aktiverat",
+  "noSubscriptionLinkedToEmail": "Ingen prenumeration är länkad till {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Logga in med rätt e-postadress eller kontakta support@tessie.com för hjälp."
 }

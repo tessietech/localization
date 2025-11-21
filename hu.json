@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Ellenőrizze a kapcsolatot, vagy indítsa újra az eszközt",
   "enableTelemetry": "Telemetria engedélyezése",
   "downloadYetFinalizedYet": "Még nem végleges a letöltés",
-  "waitingForVehicle": "Várakozás a járműre"
+  "waitingForVehicle": "Várakozás a járműre",
+  "lowPowerModeIsEnabled": "Az alacsony energiafelhasználású mód engedélyezve van",
+  "noSubscriptionLinkedToEmail": "Nincs előfizetés összekapcsolva ezzel az e-mail címmel: {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Jelentkezzen be a helyes e-mail címmel, vagy lépjen kapcsolatba a support@tessie.com címmel segítségért."
 }

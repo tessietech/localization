@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "請檢查您的連線或重新啟動裝置",
   "enableTelemetry": "啟用遙測",
   "downloadYetFinalizedYet": "下載尚未最終確定",
-  "waitingForVehicle": "正在等待車輛"
+  "waitingForVehicle": "正在等待車輛",
+  "lowPowerModeIsEnabled": "已啟用低耗電模式",
+  "noSubscriptionLinkedToEmail": "{email} 沒有連結的訂閱。",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "請使用正確的電子郵件登入，或聯絡 support@tessie.com 尋求協助。"
 }

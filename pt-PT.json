@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Verifique a sua ligação ou reinicie o seu dispositivo",
   "enableTelemetry": "Ativar telemetria",
   "downloadYetFinalizedYet": "Download ainda finalizado ainda",
-  "waitingForVehicle": "A aguardar pelo veículo"
+  "waitingForVehicle": "A aguardar pelo veículo",
+  "lowPowerModeIsEnabled": "O modo de baixo consumo está ativado",
+  "noSubscriptionLinkedToEmail": "Nenhuma subscrição associada a {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Inicie sessão com o email correto ou contacte support@tessie.com para obter ajuda."
 }

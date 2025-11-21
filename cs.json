@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Zkontrolujte připojení nebo restartujte zařízení",
   "enableTelemetry": "Povolit telemetrii",
   "downloadYetFinalizedYet": "Stahování ještě nebylo dokončeno",
-  "waitingForVehicle": "Čekání na vozidlo"
+  "waitingForVehicle": "Čekání na vozidlo",
+  "lowPowerModeIsEnabled": "Režim nízké spotřeby je povolen",
+  "noSubscriptionLinkedToEmail": "K {email} není propojeno žádné předplatné.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Přihlaste se správným e-mailem nebo se obraťte na podporu na support@tessie.com."
 }

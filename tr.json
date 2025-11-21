@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Bağlantınızı kontrol edin veya cihazınızı yeniden başlatın",
   "enableTelemetry": "Telemetriyi etkinleştir",
   "downloadYetFinalizedYet": "Henüz tamamlanmadı ancak indir",
-  "waitingForVehicle": "Aracı Bekleniyor"
+  "waitingForVehicle": "Aracı Bekleniyor",
+  "lowPowerModeIsEnabled": "Düşük güç modu etkin",
+  "noSubscriptionLinkedToEmail": "{email} ile bağlantılı abonelik yok.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Doğru e-posta ile giriş yapın veya yardım için support@tessie.com ile iletişime geçin."
 }

@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Controleer uw verbinding of herstart uw apparaat",
   "enableTelemetry": "Telemetrie inschakelen",
   "downloadYetFinalizedYet": "Download nog niet definitief",
-  "waitingForVehicle": "Wachten op voertuig"
+  "waitingForVehicle": "Wachten op voertuig",
+  "lowPowerModeIsEnabled": "De energiebesparingsmodus is ingeschakeld",
+  "noSubscriptionLinkedToEmail": "Geen abonnement gekoppeld aan {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Meld u aan met het juiste e-mailadres of neem contact op met support@tessie.com voor hulp."
 }

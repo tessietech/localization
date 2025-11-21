@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Проверьте подключение или перезагрузите устройство",
   "enableTelemetry": "Включить телеметрию",
   "downloadYetFinalizedYet": "Загрузка еще не завершена",
-  "waitingForVehicle": "Ожидание автомобиля"
+  "waitingForVehicle": "Ожидание автомобиля",
+  "lowPowerModeIsEnabled": "Режим низкого энергопотребления включен",
+  "noSubscriptionLinkedToEmail": "Нет подписки, связанной с {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Войдите с правильным адресом электронной почты или обратитесь в support@tessie.com за помощью."
 }

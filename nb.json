@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Sjekk tilkoblingen din, eller start enheten din på nytt",
   "enableTelemetry": "Aktiver telemetri",
   "downloadYetFinalizedYet": "Nedlasting ennå ikke fullført ennå",
-  "waitingForVehicle": "Venter på kjøretøy"
+  "waitingForVehicle": "Venter på kjøretøy",
+  "lowPowerModeIsEnabled": "Lavstrømmodus er aktivert",
+  "noSubscriptionLinkedToEmail": "Ingen abonnement er knyttet til {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Logg på med riktig e-post eller kontakt support@tessie.com for hjelp."
 }

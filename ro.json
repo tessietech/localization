@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Verifică-ți conexiunea sau repornește dispozitivul",
   "enableTelemetry": "Activează telemetria",
   "downloadYetFinalizedYet": "Descărcare încă finalizată încă",
-  "waitingForVehicle": "Se așteaptă vehiculul"
+  "waitingForVehicle": "Se așteaptă vehiculul",
+  "lowPowerModeIsEnabled": "Modul de consum redus este activat",
+  "noSubscriptionLinkedToEmail": "Niciun abonament legat de {email}.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Conectați-vă cu adresa de e-mail corectă sau contactați support@tessie.com pentru ajutor."
 }

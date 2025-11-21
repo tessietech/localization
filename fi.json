@@ -2709,5 +2709,8 @@
   "checkYourConnectionOrRestartYourDevice": "Tarkista yhteytesi tai käynnistä laite uudelleen",
   "enableTelemetry": "Ota käyttöön telemetria",
   "downloadYetFinalizedYet": "Ladataan, mutta ei vielä viimeistelty",
-  "waitingForVehicle": "Odotetaan autoa"
+  "waitingForVehicle": "Odotetaan autoa",
+  "lowPowerModeIsEnabled": "Virransäästötila on käytössä",
+  "noSubscriptionLinkedToEmail": "Tilin {email} kanssa ei ole yhdistetty tilausta.",
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Kirjaudu sisään oikealla sähköpostiosoitteella tai ota yhteyttä tukeen osoitteessa support@tessie.com saadaksesi apua."
 }
