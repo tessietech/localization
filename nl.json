@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Bij Sentry-alarm",
   "runsWhenSentryModeDetectsMovement": "Wordt uitgevoerd wanneer Sentry beweging detecteert",
   "runsWhenSentryModeTriggersTheAlarm": "Wordt uitgevoerd wanneer Sentry het alarm activeert",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Wordt binnen een minuut uitgevoerd nadat Sentry beweging heeft gedetecteerd",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Wordt binnen een minuut uitgevoerd nadat Sentry het alarm heeft geactiveerd",
   "noiseWarning": "Geluids waarschuwing",
   "ensureComplianceWithLocalNoiseRegulations": "Zorg voor naleving van de lokale geluidsvoorschriften."
 }

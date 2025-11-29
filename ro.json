@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "La alarmă Sentry",
   "runsWhenSentryModeDetectsMovement": "Rulează când Sentry detectează mișcare",
   "runsWhenSentryModeTriggersTheAlarm": "Rulează când Sentry declanșează alarma",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Rulează în decurs de un minut de la detectarea mișcării de către Sentry",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Rulează în decurs de un minut de la declanșarea alarmei de către Sentry",
   "noiseWarning": "Avertizare zgomot",
   "ensureComplianceWithLocalNoiseRegulations": "Asigurați-vă că respectați reglementările locale privind zgomotul."
 }

@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Hälytyksestä Sentryssä",
   "runsWhenSentryModeDetectsMovement": "Suoritetaan, kun Sentry havaitsee liikettä",
   "runsWhenSentryModeTriggersTheAlarm": "Suoritetaan, kun Sentry käynnistää hälytyksen",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Suoritetaan minuutin sisällä siitä, kun Sentry havaitsee liikettä",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Suoritetaan minuutin sisällä siitä, kun Sentry käynnistää hälytyksen",
   "noiseWarning": "Meluvaroitus",
   "ensureComplianceWithLocalNoiseRegulations": "Varmista, että noudatat paikallisia melumääräyksiä."
 }

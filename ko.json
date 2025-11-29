@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "센트리 모드 경보 발생 시",
   "runsWhenSentryModeDetectsMovement": "센트리 모드가 움직임을 감지하면 실행됩니다.",
   "runsWhenSentryModeTriggersTheAlarm": "센트리 모드가 경보를 울리면 실행됩니다.",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "센트리 모드가 움직임을 감지한 후 1분 이내에 실행됩니다.",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "센트리 모드가 경보를 울린 후 1분 이내에 실행됩니다.",
   "noiseWarning": "소음 경고",
   "ensureComplianceWithLocalNoiseRegulations": "현지 소음 규정을 준수하십시오."
 }

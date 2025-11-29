@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Nöbetçi Alarmı Açık",
   "runsWhenSentryModeDetectsMovement": "Nöbetçi modu hareket algıladığında çalışır",
   "runsWhenSentryModeTriggersTheAlarm": "Nöbetçi modu alarmı tetiklediğinde çalışır",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Nöbetçi modunun hareket algılamasından sonraki bir dakika içinde çalışır",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Nöbetçi modunun alarmı tetiklemesinden sonraki bir dakika içinde çalışır",
   "noiseWarning": "Gürültü uyarısı",
   "ensureComplianceWithLocalNoiseRegulations": "Yerel gürültü yönetmeliklerine uyumu sağlayın."
 }

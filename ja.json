@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "警戒モードアラーム時",
   "runsWhenSentryModeDetectsMovement": "警戒モードが動きを検知したときに実行",
   "runsWhenSentryModeTriggersTheAlarm": "警戒モードがアラームをトリガーしたときに実行",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "警戒モードが動きを検知してから1分以内に実行",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "警戒モードがアラームをトリガーしてから1分以内に実行",
   "noiseWarning": "騒音警告",
   "ensureComplianceWithLocalNoiseRegulations": "地域の騒音規制を遵守してください。"
 }

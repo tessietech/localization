@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "En cas d'alarme en mode Sentinelle",
   "runsWhenSentryModeDetectsMovement": "S'exécute lorsque le mode Sentinelle détecte un mouvement",
   "runsWhenSentryModeTriggersTheAlarm": "S'exécute lorsque le mode Sentinelle déclenche l'alarme",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "S'exécute dans la minute suivant la détection d'un mouvement par le mode Sentinelle",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "S'exécute dans la minute suivant le déclenchement de l'alarme par le mode Sentinelle",
   "noiseWarning": "Avertissement sonore",
   "ensureComplianceWithLocalNoiseRegulations": "Assurer la conformité avec les réglementations locales en matière de bruit."
 }

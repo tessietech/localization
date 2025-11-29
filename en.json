@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "On Sentry alarm",
   "runsWhenSentryModeDetectsMovement": "Runs when Sentry detects movement",
   "runsWhenSentryModeTriggersTheAlarm": "Runs when Sentry triggers the alarm",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Runs within a minute of Sentry detecting movement",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Runs within a minute of Sentry triggering the alarm",
   "noiseWarning": "Noise warning",
   "ensureComplianceWithLocalNoiseRegulations": "Ensure compliance with local noise regulations."
 }

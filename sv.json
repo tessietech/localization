@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Vid Sentry-larm",
   "runsWhenSentryModeDetectsMovement": "Körs när Sentry upptäcker rörelse",
   "runsWhenSentryModeTriggersTheAlarm": "Körs när Sentry utlöser larmet",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Körs inom en minut efter att Sentry upptäckt rörelse",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Körs inom en minut efter att Sentry har utlöst larmet",
   "noiseWarning": "Varningsljud",
   "ensureComplianceWithLocalNoiseRegulations": "Säkerställ överensstämmelse med lokala bullerbestämmelser."
 }

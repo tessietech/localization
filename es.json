@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Al activarse la alarma del Modo Centinela",
   "runsWhenSentryModeDetectsMovement": "Se ejecuta cuando el Modo Centinela detecta movimiento",
   "runsWhenSentryModeTriggersTheAlarm": "Se ejecuta cuando el Modo Centinela activa la alarma",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Se ejecuta en un minuto después de que el Modo Centinela detecte movimiento",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Se ejecuta en un minuto después de que el Modo Centinela active la alarma",
   "noiseWarning": "Advertencia de ruido",
   "ensureComplianceWithLocalNoiseRegulations": "Asegúrese de cumplir con las normativas locales sobre ruido."
 }

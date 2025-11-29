@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Při spuštění alarmu v režimu Sentry",
   "runsWhenSentryModeDetectsMovement": "Spustí se, když Sentry detekuje pohyb",
   "runsWhenSentryModeTriggersTheAlarm": "Spustí se, když Sentry spustí alarm",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Spustí se do minuty od detekce pohybu v režimu Sentry",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Spustí se do minuty od spuštění alarmu v režimu Sentry",
   "noiseWarning": "Varování před hlukem",
   "ensureComplianceWithLocalNoiseRegulations": "Zajistěte dodržování místních hlukových předpisů."
 }

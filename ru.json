@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "При тревоге Sentry",
   "runsWhenSentryModeDetectsMovement": "Запускается, когда Sentry обнаруживает движение",
   "runsWhenSentryModeTriggersTheAlarm": "Запускается, когда Sentry запускает сигнализацию",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Запускается в течение минуты после обнаружения движения Sentry",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Запускается в течение минуты после срабатывания сигнализации Sentry",
   "noiseWarning": "Предупреждение о шуме",
   "ensureComplianceWithLocalNoiseRegulations": "Обеспечьте соблюдение местных правил по борьбе с шумом."
 }

@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Sentry riasztásra",
   "runsWhenSentryModeDetectsMovement": "Akkor fut, ha a Sentry mozgást észlel",
   "runsWhenSentryModeTriggersTheAlarm": "Akkor fut, ha a Sentry riasztást indít",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Akkor fut, ha a Sentry egy percen belül mozgást észlel",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Akkor fut, ha a Sentry egy percen belül riasztást indít",
   "noiseWarning": "Zaj figyelmeztetés",
   "ensureComplianceWithLocalNoiseRegulations": "Biztosítsa a helyi zajvédelmi előírások betartását."
 }

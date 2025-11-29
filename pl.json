@@ -2719,8 +2719,6 @@
   "onSentryAlarm": "Przy alarmie w trybie Sentry",
   "runsWhenSentryModeDetectsMovement": "Uruchamia się, gdy tryb Sentry wykryje ruch",
   "runsWhenSentryModeTriggersTheAlarm": "Uruchamia się, gdy tryb Sentry uruchomi alarm",
-  "runsWithinAMinuteOfSentryModeDetectingMovement": "Uruchamia się w ciągu minuty od wykrycia ruchu przez tryb Sentry",
-  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Uruchamia się w ciągu minuty od uruchomienia alarmu przez tryb Sentry",
   "noiseWarning": "Ostrzeżenie o hałasie",
   "ensureComplianceWithLocalNoiseRegulations": "Zapewnij zgodność z lokalnymi przepisami dotyczącymi hałasu."
 }
