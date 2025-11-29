@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Wachten op voertuig",
   "lowPowerModeIsEnabled": "De energiebesparingsmodus is ingeschakeld",
   "noSubscriptionLinkedToEmail": "Geen abonnement gekoppeld aan {email}.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Meld u aan met het juiste e-mailadres of neem contact op met support@tessie.com voor hulp."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Meld u aan met het juiste e-mailadres of neem contact op met support@tessie.com voor hulp.",
+  "theWorldsMostPowerfulVehicleApp": "De krachtigste voertuig-app ter wereld",
+  "trustedByOverNumberDrivers": "Vertrouwd door meer dan {number} bestuurders",
+  "onSentryMovement": "Bij Sentry-beweging",
+  "onSentryAlarm": "Bij Sentry-alarm",
+  "runsWhenSentryModeDetectsMovement": "Wordt uitgevoerd wanneer Sentry beweging detecteert",
+  "runsWhenSentryModeTriggersTheAlarm": "Wordt uitgevoerd wanneer Sentry het alarm activeert",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Wordt binnen een minuut uitgevoerd nadat Sentry beweging heeft gedetecteerd",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Wordt binnen een minuut uitgevoerd nadat Sentry het alarm heeft geactiveerd",
+  "noiseWarning": "Geluids waarschuwing",
+  "ensureComplianceWithLocalNoiseRegulations": "Zorg voor naleving van de lokale geluidsvoorschriften."
 }

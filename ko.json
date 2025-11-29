@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "차량을 기다리는 중",
   "lowPowerModeIsEnabled": "저전력 모드가 활성화되었습니다.",
   "noSubscriptionLinkedToEmail": "{email}에 연결된 구독이 없습니다.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "올바른 이메일로 로그인하거나 support@tessie.com에 문의하여 도움을 받으세요."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "올바른 이메일로 로그인하거나 support@tessie.com에 문의하여 도움을 받으세요.",
+  "theWorldsMostPowerfulVehicleApp": "세계에서 가장 강력한 차량 앱",
+  "trustedByOverNumberDrivers": "{number}명 이상의 운전자가 신뢰합니다.",
+  "onSentryMovement": "센트리 모드 움직임 감지 시",
+  "onSentryAlarm": "센트리 모드 경보 발생 시",
+  "runsWhenSentryModeDetectsMovement": "센트리 모드가 움직임을 감지하면 실행됩니다.",
+  "runsWhenSentryModeTriggersTheAlarm": "센트리 모드가 경보를 울리면 실행됩니다.",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "센트리 모드가 움직임을 감지한 후 1분 이내에 실행됩니다.",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "센트리 모드가 경보를 울린 후 1분 이내에 실행됩니다.",
+  "noiseWarning": "소음 경고",
+  "ensureComplianceWithLocalNoiseRegulations": "현지 소음 규정을 준수하십시오."
 }

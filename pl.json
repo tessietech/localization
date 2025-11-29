@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Czekanie na pojazd",
   "lowPowerModeIsEnabled": "Włączony tryb niskiej mocy",
   "noSubscriptionLinkedToEmail": "Brak subskrypcji powiązanej z adresem {email}.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Zaloguj się za pomocą właściwego adresu e-mail lub skontaktuj się z support@tessie.com, aby uzyskać pomoc."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Zaloguj się za pomocą właściwego adresu e-mail lub skontaktuj się z support@tessie.com, aby uzyskać pomoc.",
+  "theWorldsMostPowerfulVehicleApp": "Najpotężniejsza aplikacja pojazdu na świecie",
+  "trustedByOverNumberDrivers": "Zaufało jej ponad {number} kierowców",
+  "onSentryMovement": "Przy ruchu w trybie Sentry",
+  "onSentryAlarm": "Przy alarmie w trybie Sentry",
+  "runsWhenSentryModeDetectsMovement": "Uruchamia się, gdy tryb Sentry wykryje ruch",
+  "runsWhenSentryModeTriggersTheAlarm": "Uruchamia się, gdy tryb Sentry uruchomi alarm",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Uruchamia się w ciągu minuty od wykrycia ruchu przez tryb Sentry",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Uruchamia się w ciągu minuty od uruchomienia alarmu przez tryb Sentry",
+  "noiseWarning": "Ostrzeżenie o hałasie",
+  "ensureComplianceWithLocalNoiseRegulations": "Zapewnij zgodność z lokalnymi przepisami dotyczącymi hałasu."
 }

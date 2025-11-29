@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Várakozás a járműre",
   "lowPowerModeIsEnabled": "Az alacsony energiafelhasználású mód engedélyezve van",
   "noSubscriptionLinkedToEmail": "Nincs előfizetés összekapcsolva ezzel az e-mail címmel: {email}.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Jelentkezzen be a helyes e-mail címmel, vagy lépjen kapcsolatba a support@tessie.com címmel segítségért."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Jelentkezzen be a helyes e-mail címmel, vagy lépjen kapcsolatba a support@tessie.com címmel segítségért.",
+  "theWorldsMostPowerfulVehicleApp": "A világ legerősebb járműalkalmazása",
+  "trustedByOverNumberDrivers": "Több mint {number} járművezető bízik benne",
+  "onSentryMovement": "Sentry mozgásra",
+  "onSentryAlarm": "Sentry riasztásra",
+  "runsWhenSentryModeDetectsMovement": "Akkor fut, ha a Sentry mozgást észlel",
+  "runsWhenSentryModeTriggersTheAlarm": "Akkor fut, ha a Sentry riasztást indít",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Akkor fut, ha a Sentry egy percen belül mozgást észlel",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Akkor fut, ha a Sentry egy percen belül riasztást indít",
+  "noiseWarning": "Zaj figyelmeztetés",
+  "ensureComplianceWithLocalNoiseRegulations": "Biztosítsa a helyi zajvédelmi előírások betartását."
 }

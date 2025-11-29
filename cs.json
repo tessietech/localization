@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Čekání na vozidlo",
   "lowPowerModeIsEnabled": "Režim nízké spotřeby je povolen",
   "noSubscriptionLinkedToEmail": "K {email} není propojeno žádné předplatné.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Přihlaste se správným e-mailem nebo se obraťte na podporu na support@tessie.com."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Přihlaste se správným e-mailem nebo se obraťte na podporu na support@tessie.com.",
+  "theWorldsMostPowerfulVehicleApp": "Nejvýkonnější automobilová aplikace na světě",
+  "trustedByOverNumberDrivers": "Důvěřuje jí více než {number} řidičů",
+  "onSentryMovement": "Při pohybu v režimu Sentry",
+  "onSentryAlarm": "Při spuštění alarmu v režimu Sentry",
+  "runsWhenSentryModeDetectsMovement": "Spustí se, když Sentry detekuje pohyb",
+  "runsWhenSentryModeTriggersTheAlarm": "Spustí se, když Sentry spustí alarm",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Spustí se do minuty od detekce pohybu v režimu Sentry",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Spustí se do minuty od spuštění alarmu v režimu Sentry",
+  "noiseWarning": "Varování před hlukem",
+  "ensureComplianceWithLocalNoiseRegulations": "Zajistěte dodržování místních hlukových předpisů."
 }

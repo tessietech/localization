@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Venter på kjøretøy",
   "lowPowerModeIsEnabled": "Lavstrømmodus er aktivert",
   "noSubscriptionLinkedToEmail": "Ingen abonnement er knyttet til {email}.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Logg på med riktig e-post eller kontakt support@tessie.com for hjelp."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Logg på med riktig e-post eller kontakt support@tessie.com for hjelp.",
+  "theWorldsMostPowerfulVehicleApp": "Verdens mest kraftfulle kjøretøyapp",
+  "trustedByOverNumberDrivers": "Stolt brukt av over {number} sjåfører",
+  "onSentryMovement": "Ved bevegelse i Sentry-modus",
+  "onSentryAlarm": "Ved Sentry-alarm",
+  "runsWhenSentryModeDetectsMovement": "Kjøres når Sentry oppdager bevegelse",
+  "runsWhenSentryModeTriggersTheAlarm": "Kjøres når Sentry utløser alarmen",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Kjøres innen et minutt etter at Sentry oppdager bevegelse",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Kjøres innen et minutt etter at Sentry utløser alarmen",
+  "noiseWarning": "Støyvarsel",
+  "ensureComplianceWithLocalNoiseRegulations": "Sørg for overholdelse av lokale støyforskrifter."
 }

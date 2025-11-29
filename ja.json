@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "車両を待機中",
   "lowPowerModeIsEnabled": "低電力モードが有効になっています",
   "noSubscriptionLinkedToEmail": "{email} にリンクされたサブスクリプションはありません。",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "正しいメールアドレスでサインインするか、support@tessie.com までお問い合わせください。"
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "正しいメールアドレスでサインインするか、support@tessie.com までお問い合わせください。",
+  "theWorldsMostPowerfulVehicleApp": "世界で最もパワフルな車両アプリ",
+  "trustedByOverNumberDrivers": "{number}人以上のドライバーに信頼されています",
+  "onSentryMovement": "警戒モード動作時",
+  "onSentryAlarm": "警戒モードアラーム時",
+  "runsWhenSentryModeDetectsMovement": "警戒モードが動きを検知したときに実行",
+  "runsWhenSentryModeTriggersTheAlarm": "警戒モードがアラームをトリガーしたときに実行",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "警戒モードが動きを検知してから1分以内に実行",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "警戒モードがアラームをトリガーしてから1分以内に実行",
+  "noiseWarning": "騒音警告",
+  "ensureComplianceWithLocalNoiseRegulations": "地域の騒音規制を遵守してください。"
 }

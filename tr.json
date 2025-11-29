@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Aracı Bekleniyor",
   "lowPowerModeIsEnabled": "Düşük güç modu etkin",
   "noSubscriptionLinkedToEmail": "{email} ile bağlantılı abonelik yok.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Doğru e-posta ile giriş yapın veya yardım için support@tessie.com ile iletişime geçin."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Doğru e-posta ile giriş yapın veya yardım için support@tessie.com ile iletişime geçin.",
+  "theWorldsMostPowerfulVehicleApp": "Dünyanın en güçlü araç uygulaması",
+  "trustedByOverNumberDrivers": "{number} üzeri sürücü tarafından güveniliyor",
+  "onSentryMovement": "Nöbetçi Hareketi Açık",
+  "onSentryAlarm": "Nöbetçi Alarmı Açık",
+  "runsWhenSentryModeDetectsMovement": "Nöbetçi modu hareket algıladığında çalışır",
+  "runsWhenSentryModeTriggersTheAlarm": "Nöbetçi modu alarmı tetiklediğinde çalışır",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Nöbetçi modunun hareket algılamasından sonraki bir dakika içinde çalışır",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Nöbetçi modunun alarmı tetiklemesinden sonraki bir dakika içinde çalışır",
+  "noiseWarning": "Gürültü uyarısı",
+  "ensureComplianceWithLocalNoiseRegulations": "Yerel gürültü yönetmeliklerine uyumu sağlayın."
 }

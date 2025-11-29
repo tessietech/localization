@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "正在等待车辆",
   "lowPowerModeIsEnabled": "低功耗模式已启用",
   "noSubscriptionLinkedToEmail": "没有与 {email} 关联的订阅。",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "使用正确的电子邮件登录或联系 support@tessie.com 寻求帮助。"
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "使用正确的电子邮件登录或联系 support@tessie.com 寻求帮助。",
+  "theWorldsMostPowerfulVehicleApp": "世界上最强大的车辆应用程序",
+  "trustedByOverNumberDrivers": "受到超过 {number} 位驾驶员的信赖",
+  "onSentryMovement": "哨兵模式检测到移动",
+  "onSentryAlarm": "哨兵模式警报",
+  "runsWhenSentryModeDetectsMovement": "当哨兵模式检测到移动时运行",
+  "runsWhenSentryModeTriggersTheAlarm": "当哨兵模式触发警报时运行",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "在哨兵模式检测到移动后一分钟内运行",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "在哨兵模式触发警报后一分钟内运行",
+  "noiseWarning": "噪音警告",
+  "ensureComplianceWithLocalNoiseRegulations": "确保符合当地噪音法规。"
 }

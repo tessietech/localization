@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Odotetaan autoa",
   "lowPowerModeIsEnabled": "Virransäästötila on käytössä",
   "noSubscriptionLinkedToEmail": "Tilin {email} kanssa ei ole yhdistetty tilausta.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Kirjaudu sisään oikealla sähköpostiosoitteella tai ota yhteyttä tukeen osoitteessa support@tessie.com saadaksesi apua."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Kirjaudu sisään oikealla sähköpostiosoitteella tai ota yhteyttä tukeen osoitteessa support@tessie.com saadaksesi apua.",
+  "theWorldsMostPowerfulVehicleApp": "Maailman tehokkain ajoneuvosovellus",
+  "trustedByOverNumberDrivers": "Yli {number} kuljettajan luottama",
+  "onSentryMovement": "Liikkeestä Sentryssä",
+  "onSentryAlarm": "Hälytyksestä Sentryssä",
+  "runsWhenSentryModeDetectsMovement": "Suoritetaan, kun Sentry havaitsee liikettä",
+  "runsWhenSentryModeTriggersTheAlarm": "Suoritetaan, kun Sentry käynnistää hälytyksen",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Suoritetaan minuutin sisällä siitä, kun Sentry havaitsee liikettä",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Suoritetaan minuutin sisällä siitä, kun Sentry käynnistää hälytyksen",
+  "noiseWarning": "Meluvaroitus",
+  "ensureComplianceWithLocalNoiseRegulations": "Varmista, että noudatat paikallisia melumääräyksiä."
 }

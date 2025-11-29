@@ -2712,5 +2712,15 @@
   "waitingForVehicle": "Se așteaptă vehiculul",
   "lowPowerModeIsEnabled": "Modul de consum redus este activat",
   "noSubscriptionLinkedToEmail": "Niciun abonament legat de {email}.",
-  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Conectați-vă cu adresa de e-mail corectă sau contactați support@tessie.com pentru ajutor."
+  "signInWithTheCorrectEmailOrContactSupporttessiecomForHelp": "Conectați-vă cu adresa de e-mail corectă sau contactați support@tessie.com pentru ajutor.",
+  "theWorldsMostPowerfulVehicleApp": "Cea mai puternică aplicație pentru vehicule din lume",
+  "trustedByOverNumberDrivers": "Încredere de peste {number} șoferi",
+  "onSentryMovement": "La detectarea mișcării de către Sentry",
+  "onSentryAlarm": "La alarmă Sentry",
+  "runsWhenSentryModeDetectsMovement": "Rulează când Sentry detectează mișcare",
+  "runsWhenSentryModeTriggersTheAlarm": "Rulează când Sentry declanșează alarma",
+  "runsWithinAMinuteOfSentryModeDetectingMovement": "Rulează în decurs de un minut de la detectarea mișcării de către Sentry",
+  "runsWithinAMinuteOfSentryModeTriggeringTheAlarm": "Rulează în decurs de un minut de la declanșarea alarmei de către Sentry",
+  "noiseWarning": "Avertizare zgomot",
+  "ensureComplianceWithLocalNoiseRegulations": "Asigurați-vă că respectați reglementările locale privind zgomotul."
 }
