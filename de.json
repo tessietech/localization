@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Wird ausgeführt, wenn Sentry eine Bewegung erkennt",
   "runsWhenSentryModeTriggersTheAlarm": "Wird ausgeführt, wenn Sentry den Alarm auslöst",
   "noiseWarning": "Geräuschwarnung",
-  "ensureComplianceWithLocalNoiseRegulations": "Stellen Sie die Einhaltung der örtlichen Lärmschutzbestimmungen sicher."
+  "ensureComplianceWithLocalNoiseRegulations": "Stellen Sie die Einhaltung der örtlichen Lärmschutzbestimmungen sicher.",
+  "seeAllNumberVehicles": "Alle {number} Fahrzeuge anzeigen"
 }

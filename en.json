@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Runs when Sentry detects movement",
   "runsWhenSentryModeTriggersTheAlarm": "Runs when Sentry triggers the alarm",
   "noiseWarning": "Noise warning",
-  "ensureComplianceWithLocalNoiseRegulations": "Ensure compliance with local noise regulations."
+  "ensureComplianceWithLocalNoiseRegulations": "Ensure compliance with local noise regulations.",
+  "seeAllNumberVehicles": "See all {number} vehicles"
 }

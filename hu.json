@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Akkor fut, ha a Sentry mozgást észlel",
   "runsWhenSentryModeTriggersTheAlarm": "Akkor fut, ha a Sentry riasztást indít",
   "noiseWarning": "Zaj figyelmeztetés",
-  "ensureComplianceWithLocalNoiseRegulations": "Biztosítsa a helyi zajvédelmi előírások betartását."
+  "ensureComplianceWithLocalNoiseRegulations": "Biztosítsa a helyi zajvédelmi előírások betartását.",
+  "seeAllNumberVehicles": "Összes {number} jármű megtekintése"
 }

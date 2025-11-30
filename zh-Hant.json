@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "在哨兵模式偵測到動作時執行",
   "runsWhenSentryModeTriggersTheAlarm": "在哨兵模式觸發警報時執行",
   "noiseWarning": "噪音警告",
-  "ensureComplianceWithLocalNoiseRegulations": "確保符合當地噪音法規。"
+  "ensureComplianceWithLocalNoiseRegulations": "確保符合當地噪音法規。",
+  "seeAllNumberVehicles": "查看全部 {number} 輛車"
 }

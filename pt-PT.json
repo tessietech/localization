@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Executa quando o sentinela deteta movimento",
   "runsWhenSentryModeTriggersTheAlarm": "Executa quando o sentinela dispara o alarme",
   "noiseWarning": "Aviso de ruído",
-  "ensureComplianceWithLocalNoiseRegulations": "Assegure a conformidade com os regulamentos locais de ruído."
+  "ensureComplianceWithLocalNoiseRegulations": "Assegure a conformidade com os regulamentos locais de ruído.",
+  "seeAllNumberVehicles": "Ver todos os {number} veículos"
 }

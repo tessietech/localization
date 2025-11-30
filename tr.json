@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Nöbetçi modu hareket algıladığında çalışır",
   "runsWhenSentryModeTriggersTheAlarm": "Nöbetçi modu alarmı tetiklediğinde çalışır",
   "noiseWarning": "Gürültü uyarısı",
-  "ensureComplianceWithLocalNoiseRegulations": "Yerel gürültü yönetmeliklerine uyumu sağlayın."
+  "ensureComplianceWithLocalNoiseRegulations": "Yerel gürültü yönetmeliklerine uyumu sağlayın.",
+  "seeAllNumberVehicles": "{number} aracın tümünü gör"
 }

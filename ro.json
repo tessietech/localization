@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Rulează când Sentry detectează mișcare",
   "runsWhenSentryModeTriggersTheAlarm": "Rulează când Sentry declanșează alarma",
   "noiseWarning": "Avertizare zgomot",
-  "ensureComplianceWithLocalNoiseRegulations": "Asigurați-vă că respectați reglementările locale privind zgomotul."
+  "ensureComplianceWithLocalNoiseRegulations": "Asigurați-vă că respectați reglementările locale privind zgomotul.",
+  "seeAllNumberVehicles": "Vezi toate cele {number} vehicule"
 }

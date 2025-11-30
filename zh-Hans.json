@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "当哨兵模式检测到移动时运行",
   "runsWhenSentryModeTriggersTheAlarm": "当哨兵模式触发警报时运行",
   "noiseWarning": "噪音警告",
-  "ensureComplianceWithLocalNoiseRegulations": "确保符合当地噪音法规。"
+  "ensureComplianceWithLocalNoiseRegulations": "确保符合当地噪音法规。",
+  "seeAllNumberVehicles": "查看所有 {number} 辆车"
 }

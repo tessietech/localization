@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Kører, når Sentry registrerer bevægelse",
   "runsWhenSentryModeTriggersTheAlarm": "Kører, når Sentry udløser alarmen",
   "noiseWarning": "Støjadvarsel",
-  "ensureComplianceWithLocalNoiseRegulations": "Sørg for overholdelse af lokale støjregler."
+  "ensureComplianceWithLocalNoiseRegulations": "Sørg for overholdelse af lokale støjregler.",
+  "seeAllNumberVehicles": "Se alle {number} køretøjer"
 }

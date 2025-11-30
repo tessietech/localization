@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "警戒モードが動きを検知したときに実行",
   "runsWhenSentryModeTriggersTheAlarm": "警戒モードがアラームをトリガーしたときに実行",
   "noiseWarning": "騒音警告",
-  "ensureComplianceWithLocalNoiseRegulations": "地域の騒音規制を遵守してください。"
+  "ensureComplianceWithLocalNoiseRegulations": "地域の騒音規制を遵守してください。",
+  "seeAllNumberVehicles": "{number}台すべての車両を見る"
 }

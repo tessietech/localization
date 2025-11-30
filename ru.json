@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Запускается, когда Sentry обнаруживает движение",
   "runsWhenSentryModeTriggersTheAlarm": "Запускается, когда Sentry запускает сигнализацию",
   "noiseWarning": "Предупреждение о шуме",
-  "ensureComplianceWithLocalNoiseRegulations": "Обеспечьте соблюдение местных правил по борьбе с шумом."
+  "ensureComplianceWithLocalNoiseRegulations": "Обеспечьте соблюдение местных правил по борьбе с шумом.",
+  "seeAllNumberVehicles": "Просмотреть все {number} автомобилей"
 }

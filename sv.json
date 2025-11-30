@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Körs när Sentry upptäcker rörelse",
   "runsWhenSentryModeTriggersTheAlarm": "Körs när Sentry utlöser larmet",
   "noiseWarning": "Varningsljud",
-  "ensureComplianceWithLocalNoiseRegulations": "Säkerställ överensstämmelse med lokala bullerbestämmelser."
+  "ensureComplianceWithLocalNoiseRegulations": "Säkerställ överensstämmelse med lokala bullerbestämmelser.",
+  "seeAllNumberVehicles": "Se alla {number} fordon"
 }

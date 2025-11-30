@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Suoritetaan, kun Sentry havaitsee liikettä",
   "runsWhenSentryModeTriggersTheAlarm": "Suoritetaan, kun Sentry käynnistää hälytyksen",
   "noiseWarning": "Meluvaroitus",
-  "ensureComplianceWithLocalNoiseRegulations": "Varmista, että noudatat paikallisia melumääräyksiä."
+  "ensureComplianceWithLocalNoiseRegulations": "Varmista, että noudatat paikallisia melumääräyksiä.",
+  "seeAllNumberVehicles": "Näytä kaikki {number} ajoneuvoa"
 }

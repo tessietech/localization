@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Se ejecuta cuando el Modo Centinela detecta movimiento",
   "runsWhenSentryModeTriggersTheAlarm": "Se ejecuta cuando el Modo Centinela activa la alarma",
   "noiseWarning": "Advertencia de ruido",
-  "ensureComplianceWithLocalNoiseRegulations": "Asegúrese de cumplir con las normativas locales sobre ruido."
+  "ensureComplianceWithLocalNoiseRegulations": "Asegúrese de cumplir con las normativas locales sobre ruido.",
+  "seeAllNumberVehicles": "Ver todos los {number} vehículos"
 }

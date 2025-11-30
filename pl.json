@@ -2720,5 +2720,6 @@
   "runsWhenSentryModeDetectsMovement": "Uruchamia się, gdy tryb Sentry wykryje ruch",
   "runsWhenSentryModeTriggersTheAlarm": "Uruchamia się, gdy tryb Sentry uruchomi alarm",
   "noiseWarning": "Ostrzeżenie o hałasie",
-  "ensureComplianceWithLocalNoiseRegulations": "Zapewnij zgodność z lokalnymi przepisami dotyczącymi hałasu."
+  "ensureComplianceWithLocalNoiseRegulations": "Zapewnij zgodność z lokalnymi przepisami dotyczącymi hałasu.",
+  "seeAllNumberVehicles": "{number} pojazdów"
 }
