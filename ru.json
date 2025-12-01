@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Проверьте подключение или перезагрузите браузер",
   "checkYourConnectionOrRestartYourDevice": "Проверьте подключение или перезагрузите устройство",
   "enableTelemetry": "Включить телеметрию",
-  "downloadYetFinalizedYet": "Загрузка еще не завершена",
   "waitingForVehicle": "Ожидание автомобиля",
   "lowPowerModeIsEnabled": "Режим низкого энергопотребления включен",
   "noSubscriptionLinkedToEmail": "Нет подписки, связанной с {email}.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Запускается, когда Sentry запускает сигнализацию",
   "noiseWarning": "Предупреждение о шуме",
   "ensureComplianceWithLocalNoiseRegulations": "Обеспечьте соблюдение местных правил по борьбе с шумом.",
-  "seeAllNumberVehicles": "Просмотреть все {number} автомобилей"
+  "seeAllNumberVehicles": "Просмотреть все {number} автомобилей",
+  "downloadNotFinalizedYet": "Загрузка еще не завершена"
 }

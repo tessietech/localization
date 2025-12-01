@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Überprüfe deine Verbindung oder starte deinen Browser neu",
   "checkYourConnectionOrRestartYourDevice": "Überprüfe deine Verbindung oder starte dein Gerät neu",
   "enableTelemetry": "Telemetrie aktivieren",
-  "downloadYetFinalizedYet": "Download noch finalisiert noch",
   "waitingForVehicle": "Warten auf Fahrzeug",
   "lowPowerModeIsEnabled": "Energiesparmodus ist aktiviert",
   "noSubscriptionLinkedToEmail": "Kein Abonnement mit {email} verknüpft.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Wird ausgeführt, wenn Sentry den Alarm auslöst",
   "noiseWarning": "Geräuschwarnung",
   "ensureComplianceWithLocalNoiseRegulations": "Stellen Sie die Einhaltung der örtlichen Lärmschutzbestimmungen sicher.",
-  "seeAllNumberVehicles": "Alle {number} Fahrzeuge anzeigen"
+  "seeAllNumberVehicles": "Alle {number} Fahrzeuge anzeigen",
+  "downloadNotFinalizedYet": "Download noch nicht abgeschlossen"
 }

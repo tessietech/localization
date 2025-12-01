@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Kontrollera din anslutning eller starta om din webbläsare",
   "checkYourConnectionOrRestartYourDevice": "Kontrollera din anslutning eller starta om din enhet",
   "enableTelemetry": "Aktivera telemetri",
-  "downloadYetFinalizedYet": "Nedladdning ännu ej slutförd",
   "waitingForVehicle": "Väntar på fordon",
   "lowPowerModeIsEnabled": "Lågeffektsläge är aktiverat",
   "noSubscriptionLinkedToEmail": "Ingen prenumeration är länkad till {email}.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Körs när Sentry utlöser larmet",
   "noiseWarning": "Varningsljud",
   "ensureComplianceWithLocalNoiseRegulations": "Säkerställ överensstämmelse med lokala bullerbestämmelser.",
-  "seeAllNumberVehicles": "Se alla {number} fordon"
+  "seeAllNumberVehicles": "Se alla {number} fordon",
+  "downloadNotFinalizedYet": "Nedladdning inte slutförd ännu"
 }

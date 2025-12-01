@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Verifică-ți conexiunea sau repornește browserul",
   "checkYourConnectionOrRestartYourDevice": "Verifică-ți conexiunea sau repornește dispozitivul",
   "enableTelemetry": "Activează telemetria",
-  "downloadYetFinalizedYet": "Descărcare încă finalizată încă",
   "waitingForVehicle": "Se așteaptă vehiculul",
   "lowPowerModeIsEnabled": "Modul de consum redus este activat",
   "noSubscriptionLinkedToEmail": "Niciun abonament legat de {email}.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Rulează când Sentry declanșează alarma",
   "noiseWarning": "Avertizare zgomot",
   "ensureComplianceWithLocalNoiseRegulations": "Asigurați-vă că respectați reglementările locale privind zgomotul.",
-  "seeAllNumberVehicles": "Vezi toate cele {number} vehicule"
+  "seeAllNumberVehicles": "Vezi toate cele {number} vehicule",
+  "downloadNotFinalizedYet": "Descărcarea nu este încă finalizată"
 }

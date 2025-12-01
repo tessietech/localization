@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "接続を確認するか、ブラウザを再起動してください",
   "checkYourConnectionOrRestartYourDevice": "接続を確認するか、デバイスを再起動してください",
   "enableTelemetry": "テレメトリを有効にする",
-  "downloadYetFinalizedYet": "ダウンロードはまだ完了していません",
   "waitingForVehicle": "車両を待機中",
   "lowPowerModeIsEnabled": "低電力モードが有効になっています",
   "noSubscriptionLinkedToEmail": "{email} にリンクされたサブスクリプションはありません。",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "警戒モードがアラームをトリガーしたときに実行",
   "noiseWarning": "騒音警告",
   "ensureComplianceWithLocalNoiseRegulations": "地域の騒音規制を遵守してください。",
-  "seeAllNumberVehicles": "{number}台すべての車両を見る"
+  "seeAllNumberVehicles": "{number}台すべての車両を見る",
+  "downloadNotFinalizedYet": "ダウンロードはまだ完了していません"
 }

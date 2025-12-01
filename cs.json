@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Zkontrolujte připojení nebo restartujte prohlížeč",
   "checkYourConnectionOrRestartYourDevice": "Zkontrolujte připojení nebo restartujte zařízení",
   "enableTelemetry": "Povolit telemetrii",
-  "downloadYetFinalizedYet": "Stahování ještě nebylo dokončeno",
   "waitingForVehicle": "Čekání na vozidlo",
   "lowPowerModeIsEnabled": "Režim nízké spotřeby je povolen",
   "noSubscriptionLinkedToEmail": "K {email} není propojeno žádné předplatné.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Spustí se, když Sentry spustí alarm",
   "noiseWarning": "Varování před hlukem",
   "ensureComplianceWithLocalNoiseRegulations": "Zajistěte dodržování místních hlukových předpisů.",
-  "seeAllNumberVehicles": "Zobrazit všech {number} vozidel"
+  "seeAllNumberVehicles": "Zobrazit všech {number} vozidel",
+  "downloadNotFinalizedYet": "Stahování ještě nebylo dokončeno"
 }

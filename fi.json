@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Tarkista yhteytesi tai käynnistä selain uudelleen",
   "checkYourConnectionOrRestartYourDevice": "Tarkista yhteytesi tai käynnistä laite uudelleen",
   "enableTelemetry": "Ota käyttöön telemetria",
-  "downloadYetFinalizedYet": "Ladataan, mutta ei vielä viimeistelty",
   "waitingForVehicle": "Odotetaan autoa",
   "lowPowerModeIsEnabled": "Virransäästötila on käytössä",
   "noSubscriptionLinkedToEmail": "Tilin {email} kanssa ei ole yhdistetty tilausta.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Suoritetaan, kun Sentry käynnistää hälytyksen",
   "noiseWarning": "Meluvaroitus",
   "ensureComplianceWithLocalNoiseRegulations": "Varmista, että noudatat paikallisia melumääräyksiä.",
-  "seeAllNumberVehicles": "Näytä kaikki {number} ajoneuvoa"
+  "seeAllNumberVehicles": "Näytä kaikki {number} ajoneuvoa",
+  "downloadNotFinalizedYet": "Lataus ei ole vielä valmis"
 }

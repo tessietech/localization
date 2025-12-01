@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "检查您的连接或重新启动浏览器",
   "checkYourConnectionOrRestartYourDevice": "检查您的连接或重新启动设备",
   "enableTelemetry": "启用遥测",
-  "downloadYetFinalizedYet": "下载尚未最终完成",
   "waitingForVehicle": "正在等待车辆",
   "lowPowerModeIsEnabled": "低功耗模式已启用",
   "noSubscriptionLinkedToEmail": "没有与 {email} 关联的订阅。",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "当哨兵模式触发警报时运行",
   "noiseWarning": "噪音警告",
   "ensureComplianceWithLocalNoiseRegulations": "确保符合当地噪音法规。",
-  "seeAllNumberVehicles": "查看所有 {number} 辆车"
+  "seeAllNumberVehicles": "查看所有 {number} 辆车",
+  "downloadNotFinalizedYet": "下载尚未完成"
 }

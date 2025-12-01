@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "연결을 확인하거나 브라우저를 다시 시작하세요.",
   "checkYourConnectionOrRestartYourDevice": "연결을 확인하거나 장치를 다시 시작하세요.",
   "enableTelemetry": "텔레메트리 활성화",
-  "downloadYetFinalizedYet": "아직 다운로드 완료되지 않음",
   "waitingForVehicle": "차량을 기다리는 중",
   "lowPowerModeIsEnabled": "저전력 모드가 활성화되었습니다.",
   "noSubscriptionLinkedToEmail": "{email}에 연결된 구독이 없습니다.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "센트리 모드가 경보를 울리면 실행됩니다.",
   "noiseWarning": "소음 경고",
   "ensureComplianceWithLocalNoiseRegulations": "현지 소음 규정을 준수하십시오.",
-  "seeAllNumberVehicles": "{number}대 차량 모두 보기"
+  "seeAllNumberVehicles": "{number}대 차량 모두 보기",
+  "downloadNotFinalizedYet": "아직 다운로드가 완료되지 않았습니다."
 }

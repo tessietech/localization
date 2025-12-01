@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Controleer uw verbinding of herstart uw browser",
   "checkYourConnectionOrRestartYourDevice": "Controleer uw verbinding of herstart uw apparaat",
   "enableTelemetry": "Telemetrie inschakelen",
-  "downloadYetFinalizedYet": "Download nog niet definitief",
   "waitingForVehicle": "Wachten op voertuig",
   "lowPowerModeIsEnabled": "De energiebesparingsmodus is ingeschakeld",
   "noSubscriptionLinkedToEmail": "Geen abonnement gekoppeld aan {email}.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Wordt uitgevoerd wanneer Sentry het alarm activeert",
   "noiseWarning": "Geluids waarschuwing",
   "ensureComplianceWithLocalNoiseRegulations": "Zorg voor naleving van de lokale geluidsvoorschriften.",
-  "seeAllNumberVehicles": "Bekijk alle {number} voertuigen"
+  "seeAllNumberVehicles": "Bekijk alle {number} voertuigen",
+  "downloadNotFinalizedYet": "Download nog niet afgerond"
 }

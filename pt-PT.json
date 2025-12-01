@@ -2708,7 +2708,6 @@
   "checkYourConnectionOrRestartYourBrowser": "Verifique a sua ligação ou reinicie o seu navegador",
   "checkYourConnectionOrRestartYourDevice": "Verifique a sua ligação ou reinicie o seu dispositivo",
   "enableTelemetry": "Ativar telemetria",
-  "downloadYetFinalizedYet": "Download ainda não finalizado",
   "waitingForVehicle": "A aguardar pelo veículo",
   "lowPowerModeIsEnabled": "O modo de baixo consumo está ativado",
   "noSubscriptionLinkedToEmail": "Nenhuma subscrição associada a {email}.",
@@ -2721,5 +2720,6 @@
   "runsWhenSentryModeTriggersTheAlarm": "Executa quando o sentinela dispara o alarme",
   "noiseWarning": "Aviso de ruído",
   "ensureComplianceWithLocalNoiseRegulations": "Assegure a conformidade com os regulamentos locais de ruído.",
-  "seeAllNumberVehicles": "Ver todos os {number} veículos"
+  "seeAllNumberVehicles": "Ver todos os {number} veículos",
+  "downloadNotFinalizedYet": "Download ainda não finalizado"
 }
