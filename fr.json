@@ -2721,5 +2721,9 @@
   "noiseWarning": "Avertissement sonore",
   "ensureComplianceWithLocalNoiseRegulations": "Assurer la conformité avec les réglementations locales en matière de bruit.",
   "seeAllNumberVehicles": "Voir les {number} véhicules",
-  "downloadNotFinalizedYet": "Téléchargement non finalisé pour le moment"
+  "downloadNotFinalizedYet": "Téléchargement non finalisé pour le moment",
+  "wakeTheVehicleToRefreshScheduleData": "Réveiller le véhicule pour actualiser les données de planification",
+  "selfdriving": "Conduite entièrement autonome",
+  "selfdrivingDistanceDistanceDistanceformat": "Distance en conduite entièrement autonome : {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

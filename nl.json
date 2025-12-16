@@ -2721,5 +2721,9 @@
   "noiseWarning": "Geluids waarschuwing",
   "ensureComplianceWithLocalNoiseRegulations": "Zorg voor naleving van de lokale geluidsvoorschriften.",
   "seeAllNumberVehicles": "Bekijk alle {number} voertuigen",
-  "downloadNotFinalizedYet": "Download nog niet afgerond"
+  "downloadNotFinalizedYet": "Download nog niet afgerond",
+  "wakeTheVehicleToRefreshScheduleData": "Activeer de auto om de schema gegevens te vernieuwen",
+  "selfdriving": "Self-Driving",
+  "selfdrivingDistanceDistanceDistanceformat": "Self-Driving afstand: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

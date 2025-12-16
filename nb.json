@@ -2721,5 +2721,9 @@
   "noiseWarning": "Støyvarsel",
   "ensureComplianceWithLocalNoiseRegulations": "Sørg for overholdelse av lokale støyforskrifter.",
   "seeAllNumberVehicles": "See all {number} vehicles",
-  "downloadNotFinalizedYet": "Nedlasting ikke ferdig ennå"
+  "downloadNotFinalizedYet": "Nedlasting ikke ferdig ennå",
+  "wakeTheVehicleToRefreshScheduleData": "Vekk kjøretøyet for å oppdatere planleggingsdata",
+  "selfdriving": "Self-Driving",
+  "selfdrivingDistanceDistanceDistanceformat": "Self-Driving distance: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

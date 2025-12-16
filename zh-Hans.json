@@ -2721,5 +2721,9 @@
   "noiseWarning": "噪音警告",
   "ensureComplianceWithLocalNoiseRegulations": "确保符合当地噪音法规。",
   "seeAllNumberVehicles": "查看所有 {number} 辆车",
-  "downloadNotFinalizedYet": "下载尚未完成"
+  "downloadNotFinalizedYet": "下载尚未完成",
+  "wakeTheVehicleToRefreshScheduleData": "唤醒车辆以刷新计划数据",
+  "selfdriving": "自动驾驶",
+  "selfdrivingDistanceDistanceDistanceformat": "自动驾驶距离：{distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

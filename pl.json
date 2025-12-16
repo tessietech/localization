@@ -2721,5 +2721,9 @@
   "noiseWarning": "Ostrzeżenie o hałasie",
   "ensureComplianceWithLocalNoiseRegulations": "Zapewnij zgodność z lokalnymi przepisami dotyczącymi hałasu.",
   "seeAllNumberVehicles": "{number} pojazdów",
-  "downloadNotFinalizedYet": "Pobieranie jeszcze nie zostało zakończone"
+  "downloadNotFinalizedYet": "Pobieranie jeszcze nie zostało zakończone",
+  "wakeTheVehicleToRefreshScheduleData": "Obudź pojazd, aby odświeżyć dane harmonogramu",
+  "selfdriving": "Autopilot",
+  "selfdrivingDistanceDistanceDistanceformat": "Odległość Autopilota: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

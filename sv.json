@@ -2721,5 +2721,9 @@
   "noiseWarning": "Varningsljud",
   "ensureComplianceWithLocalNoiseRegulations": "Säkerställ överensstämmelse med lokala bullerbestämmelser.",
   "seeAllNumberVehicles": "Se alla {number} fordon",
-  "downloadNotFinalizedYet": "Nedladdning inte slutförd ännu"
+  "downloadNotFinalizedYet": "Nedladdning inte slutförd ännu",
+  "wakeTheVehicleToRefreshScheduleData": "Väck fordonet för att uppdatera schemaläggningsdata",
+  "selfdriving": "Självkörning",
+  "selfdrivingDistanceDistanceDistanceformat": "Självkörningsdistans: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

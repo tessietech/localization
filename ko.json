@@ -2721,5 +2721,9 @@
   "noiseWarning": "소음 경고",
   "ensureComplianceWithLocalNoiseRegulations": "현지 소음 규정을 준수하십시오.",
   "seeAllNumberVehicles": "{number}대 차량 모두 보기",
-  "downloadNotFinalizedYet": "아직 다운로드가 완료되지 않았습니다."
+  "downloadNotFinalizedYet": "아직 다운로드가 완료되지 않았습니다.",
+  "wakeTheVehicleToRefreshScheduleData": "일정 데이터를 새로 고치기 위해 차량을 깨우기",
+  "selfdriving": "자율 주행",
+  "selfdrivingDistanceDistanceDistanceformat": "자율 주행 거리: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

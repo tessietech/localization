@@ -2721,5 +2721,9 @@
   "noiseWarning": "Предупреждение о шуме",
   "ensureComplianceWithLocalNoiseRegulations": "Обеспечьте соблюдение местных правил по борьбе с шумом.",
   "seeAllNumberVehicles": "Просмотреть все {number} автомобилей",
-  "downloadNotFinalizedYet": "Загрузка еще не завершена"
+  "downloadNotFinalizedYet": "Загрузка еще не завершена",
+  "wakeTheVehicleToRefreshScheduleData": "Разбудить автомобиль, чтобы обновить данные расписания",
+  "selfdriving": "Автопилот",
+  "selfdrivingDistanceDistanceDistanceformat": "Пробег на автопилоте: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

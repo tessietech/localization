@@ -2721,5 +2721,9 @@
   "noiseWarning": "Gürültü uyarısı",
   "ensureComplianceWithLocalNoiseRegulations": "Yerel gürültü yönetmeliklerine uyumu sağlayın.",
   "seeAllNumberVehicles": "{number} aracın tümünü gör",
-  "downloadNotFinalizedYet": "İndirme henüz tamamlanmadı"
+  "downloadNotFinalizedYet": "İndirme henüz tamamlanmadı",
+  "wakeTheVehicleToRefreshScheduleData": "Planlama verilerini yenilemek için aracı uyandır",
+  "selfdriving": "Otonom Sürüş",
+  "selfdrivingDistanceDistanceDistanceformat": "Otonom Sürüş mesafesi: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

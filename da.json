@@ -2721,5 +2721,9 @@
   "noiseWarning": "Støjadvarsel",
   "ensureComplianceWithLocalNoiseRegulations": "Sørg for overholdelse af lokale støjregler.",
   "seeAllNumberVehicles": "Se alle {number} køretøjer",
-  "downloadNotFinalizedYet": "Download ikke færdiggjort endnu"
+  "downloadNotFinalizedYet": "Download ikke færdiggjort endnu",
+  "wakeTheVehicleToRefreshScheduleData": "Acorde o veículo para atualizar os dados da programação",
+  "selfdriving": "Self-Driving",
+  "selfdrivingDistanceDistanceDistanceformat": "Self-Driving distance: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

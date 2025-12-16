@@ -2721,5 +2721,9 @@
   "noiseWarning": "Avertizare zgomot",
   "ensureComplianceWithLocalNoiseRegulations": "Asigurați-vă că respectați reglementările locale privind zgomotul.",
   "seeAllNumberVehicles": "Vezi toate cele {number} vehicule",
-  "downloadNotFinalizedYet": "Descărcarea nu este încă finalizată"
+  "downloadNotFinalizedYet": "Descărcarea nu este încă finalizată",
+  "wakeTheVehicleToRefreshScheduleData": "Activează vehiculul pentru a reîmprospăta datele programului",
+  "selfdriving": "Self-Driving",
+  "selfdrivingDistanceDistanceDistanceformat": "Distanța Self-Driving: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }

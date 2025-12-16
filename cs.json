@@ -2721,5 +2721,9 @@
   "noiseWarning": "Varování před hlukem",
   "ensureComplianceWithLocalNoiseRegulations": "Zajistěte dodržování místních hlukových předpisů.",
   "seeAllNumberVehicles": "Zobrazit všech {number} vozidel",
-  "downloadNotFinalizedYet": "Stahování ještě nebylo dokončeno"
+  "downloadNotFinalizedYet": "Stahování ještě nebylo dokončeno",
+  "wakeTheVehicleToRefreshScheduleData": "Probuzení vozidla pro obnovení dat plánu",
+  "selfdriving": "Automatické rizení",
+  "selfdrivingDistanceDistanceDistanceformat": "Vzdálenost s automatickým řízením: {distance} {distanceFormat}",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
 }
