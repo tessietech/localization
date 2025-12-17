@@ -2725,5 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "喚醒車輛以重新整理排程資料",
   "selfdriving": "自動駕駛",
   "selfdrivingDistanceDistanceDistanceformat": "自動駕駛距離：{distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "tripTracking": "旅程追蹤",
+  "selfdrivingStats": "自動駕駛統計資料"
 }

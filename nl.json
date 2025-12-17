@@ -2725,5 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "Activeer de auto om de schema gegevens te vernieuwen",
   "selfdriving": "Self-Driving",
   "selfdrivingDistanceDistanceDistanceformat": "Self-Driving afstand: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "tripTracking": "Rit volgen",
+  "selfdrivingStats": "Zelfrijdende statistieken"
 }

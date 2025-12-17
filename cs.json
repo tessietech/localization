@@ -2725,5 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "Probuzení vozidla pro obnovení dat plánu",
   "selfdriving": "Automatické rizení",
   "selfdrivingDistanceDistanceDistanceformat": "Vzdálenost s automatickým řízením: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "tripTracking": "Sledování jízdy",
+  "selfdrivingStats": "Statistiky samořízení"
 }
