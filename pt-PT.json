@@ -2727,5 +2727,6 @@
   "selfdrivingDistanceDistanceDistanceformat": "Distância de Condução Autónoma: {distance} {distanceFormat}",
   "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
   "tripTracking": "Seguimento da viagem",
-  "selfdrivingStats": "Estatísticas de condução autónoma"
+  "selfdrivingStats": "Estatísticas de condução autónoma",
+  "upgrade": "Atualizar"
 }

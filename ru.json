@@ -2727,5 +2727,6 @@
   "selfdrivingDistanceDistanceDistanceformat": "Пробег на автопилоте: {distance} {distanceFormat}",
   "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
   "tripTracking": "Отслеживание поездок",
-  "selfdrivingStats": "Статистика автономного вождения"
+  "selfdrivingStats": "Статистика автономного вождения",
+  "upgrade": "Обновить"
 }
