@@ -2728,5 +2728,7 @@
   "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
   "tripTracking": "Útvonalkövetés",
   "selfdrivingStats": "Önvezető statisztikák",
-  "upgrade": "Upgrade"
+  "upgrade": "Upgrade",
+  "childLeftAloneDetectionIsEnabled": "A Child Left Alone Detection engedélyezve van",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "A Tesla 1 mérföldes lépésekben biztosítja az önvezető adatokat, ami miatt a rövid utak túl- vagy aluljelentettek lehetnek."
 }

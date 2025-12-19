@@ -2728,5 +2728,7 @@
   "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
   "tripTracking": "Monitoraggio del viaggio",
   "selfdrivingStats": "Statistiche di guida autonoma",
-  "upgrade": "Aggiorna"
+  "upgrade": "Aggiorna",
+  "childLeftAloneDetectionIsEnabled": "La rilevazione bambino solo è abilitata",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla fornisce dati di guida autonoma con incrementi di 1 miglio, il che potrebbe causare la segnalazione in eccesso o in difetto di brevi tragitti."
 }
