@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Itseohjautuvan ajon tilastot",
   "upgrade": "Päivitä",
   "childLeftAloneDetectionIsEnabled": "Child Left Alone Detection on käytössä",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla tarjoaa itseohjautuvuusdataa 1 mailin erissä, mikä voi aiheuttaa sen, että lyhyet ajot yliraportoidaan tai aliraportoidaan."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla tarjoaa itseohjautuvuusdataa 1 mailin erissä, mikä voi aiheuttaa sen, että lyhyet ajot yliraportoidaan tai aliraportoidaan.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "Nykyinen kapasiteetti verrattuna alkuperäiseen kapasiteettiin.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Akun energiakapasiteetti. Lukemat kerätään jokaisen yli 5 kWh:n latauksen jälkeen.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Lataussyklien määrä, jotka akku on käynyt läpi.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Ajoneuvon enimmäiskantama. Lukemat kerätään jokaisen yli 5 kWh:n latauksen jälkeen."
 }
