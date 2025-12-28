@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Statistiky samořízení",
   "upgrade": "Upgradovat",
   "childLeftAloneDetectionIsEnabled": "Detekce ponechání dítěte v autě je povolena",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Společnost Tesla poskytuje data o samořízení v přírůstcích po 1 míli, což může způsobit nadhodnocení nebo podhodnocení krátkých jízd."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Společnost Tesla poskytuje data o samořízení v přírůstcích po 1 míli, což může způsobit nadhodnocení nebo podhodnocení krátkých jízd.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "Aktuální kapacita ve srovnání s původní kapacitou.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Energetická kapacita baterie. Hodnoty se shromažďují po každém nabití >5 kWh.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Počet nabíjecích cyklů, kterými baterie prošla.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maximální dojezd vozidla. Hodnoty se shromažďují po každém nabití >5 kWh."
 }
