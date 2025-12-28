@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "自动驾驶统计信息",
   "upgrade": "升级",
   "childLeftAloneDetectionIsEnabled": "已启用儿童单独逗留检测",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla 以 1 英里的增量提供自动驾驶数据，这可能导致短途行驶数据过高或过低。"
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla 以 1 英里的增量提供自动驾驶数据，这可能导致短途行驶数据过高或过低。",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "当前容量与初始容量的对比。",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "电池能量容量。每次充电超过5千瓦时后收集读数。",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "电池已完成的充电循环次数。",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "车辆最大续航里程。每次充电超过5千瓦时后收集读数。"
 }

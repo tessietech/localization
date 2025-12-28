@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Önvezető statisztikák",
   "upgrade": "Upgrade",
   "childLeftAloneDetectionIsEnabled": "A Child Left Alone Detection engedélyezve van",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "A Tesla 1 mérföldes lépésekben biztosítja az önvezető adatokat, ami miatt a rövid utak túl- vagy aluljelentettek lehetnek."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "A Tesla 1 mérföldes lépésekben biztosítja az önvezető adatokat, ami miatt a rövid utak túl- vagy aluljelentettek lehetnek.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "Az aktuális kapacitás az eredeti kapacitással összehasonlítva.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Az akkumulátor energiakapacitása. Értékek gyűjtése minden >5 kWh-s töltés után.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Az akkumulátoron átesett töltési ciklusok száma.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "A jármű maximális hatótávolsága. Értékek gyűjtése minden >5 kWh-s töltés után."
 }

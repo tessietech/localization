@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Statistici de conducere autonomă",
   "upgrade": "Actualizare",
   "childLeftAloneDetectionIsEnabled": "Detectarea Copil Lăsat Singur este activată",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla furnizează date despre conducerea autonomă în incrementuri de 1 milă, ceea ce poate face ca deplasările scurte să fie supra- sau sub-raportate."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla furnizează date despre conducerea autonomă în incrementuri de 1 milă, ceea ce poate face ca deplasările scurte să fie supra- sau sub-raportate.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "Capacitatea actuală comparată cu capacitatea inițială.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Capacitatea energetică a bateriei. Citiri colectate după fiecare încărcare de peste 5 kWh.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Numărul de cicluri de încărcare prin care a trecut bateria.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Autonomia maximă a vehiculului. Citiri colectate după fiecare încărcare de peste 5 kWh."
 }

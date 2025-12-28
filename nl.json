@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Zelfrijdende statistieken",
   "upgrade": "Upgrade",
   "childLeftAloneDetectionIsEnabled": "Child Left Alone Detection is enabled",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla levert Self-Driving data in stappen van 1 mijl, waardoor korte ritten over- of ondergerapporteerd kunnen worden."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla levert Self-Driving data in stappen van 1 mijl, waardoor korte ritten over- of ondergerapporteerd kunnen worden.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "De huidige capaciteit vergeleken met de oorspronkelijke capaciteit.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "De energiecapaciteit van de batterij. Metingen verzameld na elke >5 kWh lading.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Het aantal laadcycli dat de batterij heeft doorlopen.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Het maximale bereik van het voertuig. Metingen verzameld na elke >5 kWh lading."
 }

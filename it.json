@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Statistiche di guida autonoma",
   "upgrade": "Aggiorna",
   "childLeftAloneDetectionIsEnabled": "La rilevazione bambino solo è abilitata",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla fornisce dati di guida autonoma con incrementi di 1 miglio, il che potrebbe causare la segnalazione in eccesso o in difetto di brevi tragitti."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla fornisce dati di guida autonoma con incrementi di 1 miglio, il che potrebbe causare la segnalazione in eccesso o in difetto di brevi tragitti.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "La capacità attuale rispetto alla capacità originale.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "La capacità energetica della batteria. Letture raccolte dopo ogni ricarica >5 kWh.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Il numero di cicli di ricarica che la batteria ha completato.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "L'autonomia massima del veicolo. Letture raccolte dopo ogni ricarica >5 kWh."
 }

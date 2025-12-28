@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "자율 주행 통계",
   "upgrade": "업그레이드",
   "childLeftAloneDetectionIsEnabled": "Child Left Alone Detection 활성화됨",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla는 1마일 단위로 자율 주행 데이터를 제공하므로 짧은 주행 거리가 과대 또는 과소 보고될 수 있습니다."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla는 1마일 단위로 자율 주행 데이터를 제공하므로 짧은 주행 거리가 과대 또는 과소 보고될 수 있습니다.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "원래 용량 대비 현재 용량",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "배터리 에너지 용량. 5 kWh 초과 충전 시마다 측정값 수집.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "배터리 충전 사이클 횟수",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "차량 최대 주행 가능 거리. 5 kWh 초과 충전 시마다 측정값 수집."
 }

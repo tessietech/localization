@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Otonom Sürüş istatistikleri",
   "upgrade": "Yükselt",
   "childLeftAloneDetectionIsEnabled": "Child Left Alone Detection is enabled",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla provides Self-Driving data in 1-mile increments, which may cause short drives to be over- or under-reported."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla provides Self-Driving data in 1-mile increments, which may cause short drives to be over- or under-reported.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "Mevcut kapasitenin orijinal kapasiteyle karşılaştırılması.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Bataryanın enerji kapasitesi. Her >5 kWh şarjdan sonra toplanan okumalar.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Bataryanın tamamladığı şarj döngüsü sayısı.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Aracın maksimum menzili. Her >5 kWh şarjdan sonra toplanan okumalar."
 }

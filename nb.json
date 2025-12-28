@@ -2730,5 +2730,9 @@
   "selfdrivingStats": "Self-Driving stats",
   "upgrade": "Oppgrader",
   "childLeftAloneDetectionIsEnabled": "Child Left Alone Detection is enabled",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla provides Self-Driving data in 1-mile increments, which may cause short drives to be over- or under-reported."
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsWhichMayCause": "Tesla provides Self-Driving data in 1-mile increments, which may cause short drives to be over- or under-reported.",
+  "theCurrentCapacityComparedToTheOriginalCapacity": "Den nåværende kapasiteten sammenlignet med den originale kapasiteten.",
+  "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Batteriets energikapasitet. Avlesninger samlet inn etter hver >5 kWh lading.",
+  "theNumberOfChargeCyclesTheBatteryHasGone": "Antall ladesykluser batteriet har vært gjennom.",
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Kjøretøyets maksimale rekkevidde. Avlesninger samlet inn etter hver >5 kWh lading."
 }
