@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Die aktuelle Kapazität im Vergleich zur ursprünglichen Kapazität.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Die Energiekapazität der Batterie. Messwerte werden nach jeder Ladung von >5 kWh erfasst.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Die Anzahl der Ladezyklen, die die Batterie durchlaufen hat.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Die maximale Reichweite des Fahrzeugs. Messwerte werden nach jeder Ladung von >5 kWh erfasst."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Die maximale Reichweite des Fahrzeugs. Messwerte werden nach jeder Ladung von >5 kWh erfasst.",
+  "importData": "Daten importieren"
 }

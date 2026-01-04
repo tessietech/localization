@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Den aktuella kapaciteten jämfört med den ursprungliga kapaciteten.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Batteriets energikapacitet. Avläsningar samlas in efter varje laddning på över 5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Antalet laddcykler som batteriet har genomgått.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Fordonets maximala räckvidd. Avläsningar samlas in efter varje laddning på över 5 kWh."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Fordonets maximala räckvidd. Avläsningar samlas in efter varje laddning på över 5 kWh.",
+  "importData": "Importera data"
 }

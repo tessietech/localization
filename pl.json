@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Obecna pojemność w porównaniu do oryginalnej pojemności.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Pojemność energetyczna baterii. Odczyty zbierane po każdym ładowaniu powyżej 5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Liczba cykli ładowania, które przeszła bateria.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maksymalny zasięg pojazdu. Odczyty zbierane po każdym ładowaniu powyżej 5 kWh."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maksymalny zasięg pojazdu. Odczyty zbierane po każdym ładowaniu powyżej 5 kWh.",
+  "importData": "Importuj dane"
 }

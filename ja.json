@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "元の容量と比較した現在の容量。",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "バッテリーのエネルギー容量。5 kWhを超える充電ごとに収集される測定値。",
   "theNumberOfChargeCyclesTheBatteryHasGone": "バッテリーが経験した充電サイクルの回数。",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "車両の最大航続距離。5 kWhを超える充電ごとに収集される測定値。"
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "車両の最大航続距離。5 kWhを超える充電ごとに収集される測定値。",
+  "importData": "データをインポート"
 }

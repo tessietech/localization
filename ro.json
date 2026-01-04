@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Capacitatea actuală comparată cu capacitatea inițială.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Capacitatea energetică a bateriei. Citiri colectate după fiecare încărcare de peste 5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Numărul de cicluri de încărcare prin care a trecut bateria.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Autonomia maximă a vehiculului. Citiri colectate după fiecare încărcare de peste 5 kWh."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Autonomia maximă a vehiculului. Citiri colectate după fiecare încărcare de peste 5 kWh.",
+  "importData": "Importă date"
 }

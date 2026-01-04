@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Aktuální kapacita ve srovnání s původní kapacitou.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Energetická kapacita baterie. Hodnoty se shromažďují po každém nabití >5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Počet nabíjecích cyklů, kterými baterie prošla.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maximální dojezd vozidla. Hodnoty se shromažďují po každém nabití >5 kWh."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maximální dojezd vozidla. Hodnoty se shromažďují po každém nabití >5 kWh.",
+  "importData": "Importovat data"
 }

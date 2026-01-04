@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Az aktuális kapacitás az eredeti kapacitással összehasonlítva.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Az akkumulátor energiakapacitása. Értékek gyűjtése minden >5 kWh-s töltés után.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Az akkumulátoron átesett töltési ciklusok száma.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "A jármű maximális hatótávolsága. Értékek gyűjtése minden >5 kWh-s töltés után."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "A jármű maximális hatótávolsága. Értékek gyűjtése minden >5 kWh-s töltés után.",
+  "importData": "Adatok importálása"
 }

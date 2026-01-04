@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "De huidige capaciteit vergeleken met de oorspronkelijke capaciteit.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "De energiecapaciteit van de batterij. Metingen verzameld na elke >5 kWh lading.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Het aantal laadcycli dat de batterij heeft doorlopen.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Het maximale bereik van het voertuig. Metingen verzameld na elke >5 kWh lading."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Het maximale bereik van het voertuig. Metingen verzameld na elke >5 kWh lading.",
+  "importData": "Gegevens importeren"
 }

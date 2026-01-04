@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "La capacidad actual comparada con la capacidad original.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "La capacidad energética de la batería. Lecturas recopiladas después de cada carga >5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "El número de ciclos de carga por los que ha pasado la batería.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "La autonomía máxima del vehículo. Lecturas recopiladas después de cada carga >5 kWh."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "La autonomía máxima del vehículo. Lecturas recopiladas después de cada carga >5 kWh.",
+  "importData": "Importar datos"
 }

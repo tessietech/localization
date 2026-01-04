@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Mevcut kapasitenin orijinal kapasiteyle karşılaştırılması.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Bataryanın enerji kapasitesi. Her >5 kWh şarjdan sonra toplanan okumalar.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Bataryanın tamamladığı şarj döngüsü sayısı.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Aracın maksimum menzili. Her >5 kWh şarjdan sonra toplanan okumalar."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Aracın maksimum menzili. Her >5 kWh şarjdan sonra toplanan okumalar.",
+  "importData": "Veri İçe Aktar"
 }

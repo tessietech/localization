@@ -2734,5 +2734,6 @@
   "theCurrentCapacityComparedToTheOriginalCapacity": "Текущая ёмкость по сравнению с изначальной ёмкостью.",
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Энергетическая ёмкость батареи. Показания собираются после каждой зарядки >5 кВт·ч.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Количество циклов зарядки, которые прошла батарея.",
-  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Максимальный запас хода автомобиля. Показания собираются после каждой зарядки >5 кВт·ч."
+  "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Максимальный запас хода автомобиля. Показания собираются после каждой зарядки >5 кВт·ч.",
+  "importData": "Импортировать данные"
 }
