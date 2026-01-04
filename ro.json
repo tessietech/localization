@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Numărul de cicluri de încărcare prin care a trecut bateria.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Autonomia maximă a vehiculului. Citiri colectate după fiecare încărcare de peste 5 kWh.",
   "importData": "Importă date",
-  "exportAllCollectedRawData": "Exportați toate datele brute colectate."
+  "exportAllCollectedRawData": "Exportați toate datele brute colectate.",
+  "importCounts": "Importate: {importedCount}. Omise: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importă călătorii, încărcări sau perioade de inactivitate folosind exporturi CSV Tessie sau șabloane descărcabile.",
+  "downloadTemplates": "Descarcă șabloane",
+  "importCsv": "Importă CSV",
+  "downloadCsvTemplates": "Descarcă șabloane CSV",
+  "importFromAnotherService": "Importă dintr-un alt serviciu",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Alege o integrare pentru a-ți aduce datele în Tessie.",
+  "browseIntegrations": "Răsfoiește integrările",
+  "importACsv": "Importă un CSV",
+  "uploadATessieExportOrUseATemplate": "Încarcă un export Tessie sau folosește un șablon."
 }

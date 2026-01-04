@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Počet nabíjecích cyklů, kterými baterie prošla.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maximální dojezd vozidla. Hodnoty se shromažďují po každém nabití >5 kWh.",
   "importData": "Importovat data",
-  "exportAllCollectedRawData": "Exportovat všechna shromážděná surová data."
+  "exportAllCollectedRawData": "Exportovat všechna shromážděná surová data.",
+  "importCounts": "Importováno: {importedCount}. Přeskočeno: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importujte jízdy, nabíjení nebo stání pomocí exportů CSV z Tessie nebo stahovatelných šablon.",
+  "downloadTemplates": "Stáhnout šablony",
+  "importCsv": "Importovat CSV",
+  "downloadCsvTemplates": "Stáhnout šablony CSV",
+  "importFromAnotherService": "Importovat z jiné služby",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Vyberte integraci pro import vašich dat do Tessie.",
+  "browseIntegrations": "Procházet integrace",
+  "importACsv": "Importovat CSV",
+  "uploadATessieExportOrUseATemplate": "Nahrajte export z Tessie nebo použijte šablonu."
 }

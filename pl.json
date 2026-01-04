@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Liczba cykli ładowania, które przeszła bateria.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maksymalny zasięg pojazdu. Odczyty zbierane po każdym ładowaniu powyżej 5 kWh.",
   "importData": "Importuj dane",
-  "exportAllCollectedRawData": "Eksportuj wszystkie zebrane surowe dane."
+  "exportAllCollectedRawData": "Eksportuj wszystkie zebrane surowe dane.",
+  "importCounts": "Zaimportowano: {importedCount}. Pominięto: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importuj jazdy, ładowania lub postoje, używając eksportów CSV Tessie lub szablonów do pobrania.",
+  "downloadTemplates": "Pobierz szablony",
+  "importCsv": "Importuj CSV",
+  "downloadCsvTemplates": "Pobierz szablony CSV",
+  "importFromAnotherService": "Importuj z innej usługi",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Wybierz integrację, aby przenieść swoje dane do Tessie.",
+  "browseIntegrations": "Przeglądaj integracje",
+  "importACsv": "Importuj plik CSV",
+  "uploadATessieExportOrUseATemplate": "Prześlij eksport z Tessie lub użyj szablonu."
 }

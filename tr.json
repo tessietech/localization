@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Bataryanın tamamladığı şarj döngüsü sayısı.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Aracın maksimum menzili. Her >5 kWh şarjdan sonra toplanan okumalar.",
   "importData": "Veri İçe Aktar",
-  "exportAllCollectedRawData": "Toplanmış tüm ham veriyi dışa aktar."
+  "exportAllCollectedRawData": "Toplanmış tüm ham veriyi dışa aktar.",
+  "importCounts": "İçe Aktarılan: {importedCount}. Atlanan: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Sürüşleri, şarjları veya beklemeleri Tessie CSV dışa aktarımlarını veya indirilebilir şablonları kullanarak içe aktarın.",
+  "downloadTemplates": "Şablonları indir",
+  "importCsv": "CSV İçe Aktar",
+  "downloadCsvTemplates": "CSV Şablonlarını İndir",
+  "importFromAnotherService": "Başka bir servisten içe aktar",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Verilerinizi Tessie'ye aktarmak için bir entegrasyon seçin.",
+  "browseIntegrations": "Entegrasyonlara göz at",
+  "importACsv": "CSV içe aktar",
+  "uploadATessieExportOrUseATemplate": "Bir Tessie dışa aktarımını yükleyin veya bir şablon kullanın."
 }

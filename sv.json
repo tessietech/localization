@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Antalet laddcykler som batteriet har genomgått.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Fordonets maximala räckvidd. Avläsningar samlas in efter varje laddning på över 5 kWh.",
   "importData": "Importera data",
-  "exportAllCollectedRawData": "Exportera all insamlad rådata."
+  "exportAllCollectedRawData": "Exportera all insamlad rådata.",
+  "importCounts": "Importerade: {importedCount}. Överskridna: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importera körningar, laddningar eller stillastående med Tessie CSV-exporter eller nedladdningsbara mallar.",
+  "downloadTemplates": "Ladda ner mallar",
+  "importCsv": "Importera CSV",
+  "downloadCsvTemplates": "Ladda ner CSV-mallar",
+  "importFromAnotherService": "Importera från en annan tjänst",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Välj en integration för att importera din data till Tessie.",
+  "browseIntegrations": "Bläddra bland integrationer",
+  "importACsv": "Importera en CSV",
+  "uploadATessieExportOrUseATemplate": "Ladda upp en Tessie-export eller använd en mall."
 }

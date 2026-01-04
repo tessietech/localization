@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "電池已完成的充電循環次數。",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "車輛的最大續航里程。每次充電超過 5 kWh 後收集的讀數。",
   "importData": "匯入資料",
-  "exportAllCollectedRawData": "導出所有收集的原始數據。"
+  "exportAllCollectedRawData": "導出所有收集的原始數據。",
+  "importCounts": "已匯入：{importedCount}。已跳過：{skippedCount}。",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "使用 Tessie CSV 匯出檔案或可下載的範本，匯入駕駛、充電或閒置紀錄。",
+  "downloadTemplates": "下載範本",
+  "importCsv": "匯入 CSV",
+  "downloadCsvTemplates": "下載 CSV 範本",
+  "importFromAnotherService": "從其他服務匯入",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "選擇一個整合服務將您的資料匯入 Tessie。",
+  "browseIntegrations": "瀏覽整合服務",
+  "importACsv": "匯入 CSV",
+  "uploadATessieExportOrUseATemplate": "上傳 Tessie 匯出檔或使用範本。"
 }

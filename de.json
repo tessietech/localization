@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Die Anzahl der Ladezyklen, die die Batterie durchlaufen hat.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Die maximale Reichweite des Fahrzeugs. Messwerte werden nach jeder Ladung von >5 kWh erfasst.",
   "importData": "Daten importieren",
-  "exportAllCollectedRawData": "Alle gesammelten Rohdaten exportieren."
+  "exportAllCollectedRawData": "Alle gesammelten Rohdaten exportieren.",
+  "importCounts": "Importiert: {importedCount}. Übersprungen: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Fahrten, Ladevorgänge oder Standzeiten mithilfe von Tessie CSV-Exporten oder herunterladbaren Vorlagen importieren.",
+  "downloadTemplates": "Vorlagen herunterladen",
+  "importCsv": "CSV importieren",
+  "downloadCsvTemplates": "CSV-Vorlagen herunterladen",
+  "importFromAnotherService": "Aus einem anderen Dienst importieren",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Wählen Sie eine Integration, um Ihre Daten in Tessie zu importieren.",
+  "browseIntegrations": "Integrationen durchsuchen",
+  "importACsv": "Eine CSV-Datei importieren",
+  "uploadATessieExportOrUseATemplate": "Einen Tessie-Export hochladen oder eine Vorlage verwenden."
 }

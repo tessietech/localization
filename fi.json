@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Lataussyklien määrä, jotka akku on käynyt läpi.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Ajoneuvon enimmäiskantama. Lukemat kerätään jokaisen yli 5 kWh:n latauksen jälkeen.",
   "importData": "Tuo tietoja",
-  "exportAllCollectedRawData": "Vie kaikki kerätty raakadata."
+  "exportAllCollectedRawData": "Vie kaikki kerätty raakadata.",
+  "importCounts": "Tuotu: {importedCount}. Ohitettu: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Tuo ajot, lataukset tai tyhjäkäynnit käyttämällä Tessien CSV-vientejä tai ladattavia malleja.",
+  "downloadTemplates": "Lataa mallit",
+  "importCsv": "Tuo CSV",
+  "downloadCsvTemplates": "Lataa CSV-mallit",
+  "importFromAnotherService": "Tuo toisesta palvelusta",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Valitse integraatio tuodaksesi tietosi Tessieen.",
+  "browseIntegrations": "Selaa integraatioita",
+  "importACsv": "Tuo CSV",
+  "uploadATessieExportOrUseATemplate": "Lataa Tessie-vienti tai käytä mallia."
 }

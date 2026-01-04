@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Antall ladesykluser batteriet har vært gjennom.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Kjøretøyets maksimale rekkevidde. Avlesninger samlet inn etter hver >5 kWh lading.",
   "importData": "Importer data",
-  "exportAllCollectedRawData": "Eksporter all innsamlet rådata."
+  "exportAllCollectedRawData": "Eksporter all innsamlet rådata.",
+  "importCounts": "Importert: {importedCount}. Utelatt: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importer turer, lading eller tomgangskjøring ved hjelp av Tessie CSV-eksportfiler eller nedlastbare maler.",
+  "downloadTemplates": "Last ned maler",
+  "importCsv": "Importer CSV",
+  "downloadCsvTemplates": "Last ned CSV-maler",
+  "importFromAnotherService": "Importer fra en annen tjeneste",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Velg en integrasjon for å hente dataene dine inn i Tessie.",
+  "browseIntegrations": "Bla gjennom integrasjoner",
+  "importACsv": "Importer en CSV",
+  "uploadATessieExportOrUseATemplate": "Last opp en Tessie-eksport eller bruk en mal."
 }

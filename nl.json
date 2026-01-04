@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Het aantal laadcycli dat de batterij heeft doorlopen.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Het maximale bereik van het voertuig. Metingen verzameld na elke >5 kWh lading.",
   "importData": "Gegevens importeren",
-  "exportAllCollectedRawData": "Exporteer alle verzamelde ruwe gegevens."
+  "exportAllCollectedRawData": "Exporteer alle verzamelde ruwe gegevens.",
+  "importCounts": "Geïmporteerd: {importedCount}. Overgeslagen: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importeer ritten, laadbeurten of stilstanden met behulp van Tessie CSV-exports of downloadbare sjablonen.",
+  "downloadTemplates": "Download sjablonen",
+  "importCsv": "CSV importeren",
+  "downloadCsvTemplates": "CSV sjablonen downloaden",
+  "importFromAnotherService": "Importeren uit een andere service",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Kies een integratie om uw gegevens in Tessie te importeren.",
+  "browseIntegrations": "Integraties bekijken",
+  "importACsv": "Een CSV importeren",
+  "uploadATessieExportOrUseATemplate": "Upload een Tessie-export of gebruik een sjabloon."
 }

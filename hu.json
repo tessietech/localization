@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Az akkumulátoron átesett töltési ciklusok száma.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "A jármű maximális hatótávolsága. Értékek gyűjtése minden >5 kWh-s töltés után.",
   "importData": "Adatok importálása",
-  "exportAllCollectedRawData": "Exportálja az összes gyűjtött nyers adatot."
+  "exportAllCollectedRawData": "Exportálja az összes gyűjtött nyers adatot.",
+  "importCounts": "Importálva: {importedCount}. Kihagyva: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importáljon utakat, töltéseket vagy alapjáratokat Tessie CSV exportok vagy letölthető sablonok használatával.",
+  "downloadTemplates": "Sablonok letöltése",
+  "importCsv": "CSV importálása",
+  "downloadCsvTemplates": "CSV sablonok letöltése",
+  "importFromAnotherService": "Importálás másik szolgáltatásból",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Válasszon integrációt adatai Tessie-be történő importálásához.",
+  "browseIntegrations": "Integrációk böngészése",
+  "importACsv": "CSV importálása",
+  "uploadATessieExportOrUseATemplate": "Töltse fel a Tessie exportfájlját, vagy használjon sablont."
 }

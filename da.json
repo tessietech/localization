@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Antallet af opladningscyklusser batteriet har gennemgået.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Køretøjets maksimale rækkevidde. Aflæsninger indsamlet efter hver >5 kWh opladning.",
   "importData": "Importer data",
-  "exportAllCollectedRawData": "Eksporter alle indsamlede rådata."
+  "exportAllCollectedRawData": "Eksporter alle indsamlede rådata.",
+  "importCounts": "Importeret: {importedCount}. Ignoreret: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Importer kørsler, opladninger eller tomgang ved hjælp af Tessie CSV-eksportfiler eller downloadbare skabeloner.",
+  "downloadTemplates": "Download skabeloner",
+  "importCsv": "Importer CSV",
+  "downloadCsvTemplates": "Download CSV-skabeloner",
+  "importFromAnotherService": "Importer fra en anden tjeneste",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Vælg en integration for at importere dine data til Tessie.",
+  "browseIntegrations": "Gennemse integrationer",
+  "importACsv": "Importer en CSV",
+  "uploadATessieExportOrUseATemplate": "Upload en Tessie-eksport eller brug en skabelon."
 }

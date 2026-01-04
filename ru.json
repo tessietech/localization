@@ -2736,5 +2736,15 @@
   "theNumberOfChargeCyclesTheBatteryHasGone": "Количество циклов зарядки, которые прошла батарея.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Максимальный запас хода автомобиля. Показания собираются после каждой зарядки >5 кВт·ч.",
   "importData": "Импортировать данные",
-  "exportAllCollectedRawData": "Экспортировать все собранные исходные данные."
+  "exportAllCollectedRawData": "Экспортировать все собранные исходные данные.",
+  "importCounts": "Импортировано: {importedCount}. Пропущено: {skippedCount}.",
+  "importDrivesChargesOrIdlesUsingTessieCsvExportsOr": "Импортируйте поездки, зарядки или простои, используя экспорты Tessie CSV или загружаемые шаблоны.",
+  "downloadTemplates": "Скачать шаблоны",
+  "importCsv": "Импортировать CSV",
+  "downloadCsvTemplates": "Скачать шаблоны CSV",
+  "importFromAnotherService": "Импорт из другого сервиса",
+  "chooseAnIntegrationToBringYourDataIntoTessie": "Выберите интеграцию, чтобы импортировать ваши данные в Tessie.",
+  "browseIntegrations": "Обзор интеграций",
+  "importACsv": "Импортировать CSV",
+  "uploadATessieExportOrUseATemplate": "Загрузите экспорт Tessie или используйте шаблон."
 }
