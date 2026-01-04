@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Batteriets energikapasitet. Avlesninger samlet inn etter hver >5 kWh lading.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Antall ladesykluser batteriet har vært gjennom.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Kjøretøyets maksimale rekkevidde. Avlesninger samlet inn etter hver >5 kWh lading.",
-  "importData": "Importer data"
+  "importData": "Importer data",
+  "exportAllCollectedRawData": "Eksporter all innsamlet rådata."
 }

@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Энергетическая ёмкость батареи. Показания собираются после каждой зарядки >5 кВт·ч.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Количество циклов зарядки, которые прошла батарея.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Максимальный запас хода автомобиля. Показания собираются после каждой зарядки >5 кВт·ч.",
-  "importData": "Импортировать данные"
+  "importData": "Импортировать данные",
+  "exportAllCollectedRawData": "Экспортировать все собранные исходные данные."
 }

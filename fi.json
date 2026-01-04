@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Akun energiakapasiteetti. Lukemat kerätään jokaisen yli 5 kWh:n latauksen jälkeen.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Lataussyklien määrä, jotka akku on käynyt läpi.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Ajoneuvon enimmäiskantama. Lukemat kerätään jokaisen yli 5 kWh:n latauksen jälkeen.",
-  "importData": "Tuo tietoja"
+  "importData": "Tuo tietoja",
+  "exportAllCollectedRawData": "Vie kaikki kerätty raakadata."
 }

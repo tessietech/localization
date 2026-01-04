@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Bataryanın enerji kapasitesi. Her >5 kWh şarjdan sonra toplanan okumalar.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Bataryanın tamamladığı şarj döngüsü sayısı.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Aracın maksimum menzili. Her >5 kWh şarjdan sonra toplanan okumalar.",
-  "importData": "Veri İçe Aktar"
+  "importData": "Veri İçe Aktar",
+  "exportAllCollectedRawData": "Toplanmış tüm ham veriyi dışa aktar."
 }

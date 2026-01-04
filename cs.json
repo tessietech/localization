@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "Energetická kapacita baterie. Hodnoty se shromažďují po každém nabití >5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Počet nabíjecích cyklů, kterými baterie prošla.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Maximální dojezd vozidla. Hodnoty se shromažďují po každém nabití >5 kWh.",
-  "importData": "Importovat data"
+  "importData": "Importovat data",
+  "exportAllCollectedRawData": "Exportovat všechna shromážděná surová data."
 }

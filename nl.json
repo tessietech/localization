@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "De energiecapaciteit van de batterij. Metingen verzameld na elke >5 kWh lading.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "Het aantal laadcycli dat de batterij heeft doorlopen.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "Het maximale bereik van het voertuig. Metingen verzameld na elke >5 kWh lading.",
-  "importData": "Gegevens importeren"
+  "importData": "Gegevens importeren",
+  "exportAllCollectedRawData": "Exporteer alle verzamelde ruwe gegevens."
 }

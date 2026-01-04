@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "电池能量容量。每次充电超过5千瓦时后收集读数。",
   "theNumberOfChargeCyclesTheBatteryHasGone": "电池已完成的充电循环次数。",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "车辆最大续航里程。每次充电超过5千瓦时后收集读数。",
-  "importData": "导入数据"
+  "importData": "导入数据",
+  "exportAllCollectedRawData": "导出所有收集的原始数据。"
 }

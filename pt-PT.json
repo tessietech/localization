@@ -2735,5 +2735,6 @@
   "theBatterysEnergyCapacityReadingsCollectedAfterEvery5Kwh": "A capacidade de energia da bateria. Leituras recolhidas após cada carga superior a 5 kWh.",
   "theNumberOfChargeCyclesTheBatteryHasGone": "O número de ciclos de carga pelos quais a bateria passou.",
   "theVehiclesMaximumRangeReadingsCollectedAfterEvery5Kwh": "A autonomia máxima do veículo. Leituras recolhidas após cada carga superior a 5 kWh.",
-  "importData": "Importar dados"
+  "importData": "Importar dados",
+  "exportAllCollectedRawData": "Exportar todos os dados brutos recolhidos."
 }
