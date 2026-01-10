@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Välj en integration för att importera din data till Tessie.",
   "browseIntegrations": "Bläddra bland integrationer",
   "importACsv": "Importera en CSV",
-  "uploadATessieExportOrUseATemplate": "Ladda upp en Tessie-export eller använd en mall."
+  "uploadATessieExportOrUseATemplate": "Ladda upp en Tessie-export eller använd en mall.",
+  "energyUsage": "Energiförbrukning",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Procentandelen av den tid fordonet tillbringade i viloläge. Att maximera vilotiden minskar batteriförbrukningen och sänker driftskostnaderna."
 }

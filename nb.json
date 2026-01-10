@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Velg en integrasjon for å hente dataene dine inn i Tessie.",
   "browseIntegrations": "Bla gjennom integrasjoner",
   "importACsv": "Importer en CSV",
-  "uploadATessieExportOrUseATemplate": "Last opp en Tessie-eksport eller bruk en mal."
+  "uploadATessieExportOrUseATemplate": "Last opp en Tessie-eksport eller bruk en mal.",
+  "energyUsage": "Energiforbruk",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Prosentandelen av tiden kjøretøyet var i dvale. Maksimering av dvaletiden reduserer batteritapping og senker driftskostnadene."
 }

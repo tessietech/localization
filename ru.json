@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Выберите интеграцию, чтобы импортировать ваши данные в Tessie.",
   "browseIntegrations": "Обзор интеграций",
   "importACsv": "Импортировать CSV",
-  "uploadATessieExportOrUseATemplate": "Загрузите экспорт Tessie или используйте шаблон."
+  "uploadATessieExportOrUseATemplate": "Загрузите экспорт Tessie или используйте шаблон.",
+  "energyUsage": "Потребление энергии",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Процент времени, в течение которого автомобиль находился в спящем режиме. Максимизация времени сна снижает расход заряда батареи и уменьшает эксплуатационные расходы."
 }

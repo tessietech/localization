@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "데이터를 Tessie로 가져올 통합을 선택하세요.",
   "browseIntegrations": "통합 찾아보기",
   "importACsv": "CSV 가져오기",
-  "uploadATessieExportOrUseATemplate": "Tessie 내보내기 파일을 업로드하거나 템플릿을 사용하세요."
+  "uploadATessieExportOrUseATemplate": "Tessie 내보내기 파일을 업로드하거나 템플릿을 사용하세요.",
+  "energyUsage": "에너지 사용량",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "차량이 잠들어 있는 시간의 비율입니다. 절전 시간을 최대화하면 배터리 소모를 줄이고 운영 비용을 낮출 수 있습니다."
 }

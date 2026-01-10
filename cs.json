@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Vyberte integraci pro import vašich dat do Tessie.",
   "browseIntegrations": "Procházet integrace",
   "importACsv": "Importovat CSV",
-  "uploadATessieExportOrUseATemplate": "Nahrajte export z Tessie nebo použijte šablonu."
+  "uploadATessieExportOrUseATemplate": "Nahrajte export z Tessie nebo použijte šablonu.",
+  "energyUsage": "Spotřeba energie",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Procento času, který vozidlo strávilo v režimu spánku. Maximalizace doby spánku snižuje vybíjení baterie a snižuje provozní náklady."
 }

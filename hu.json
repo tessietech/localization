@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Válasszon integrációt adatai Tessie-be történő importálásához.",
   "browseIntegrations": "Integrációk böngészése",
   "importACsv": "CSV importálása",
-  "uploadATessieExportOrUseATemplate": "Töltse fel a Tessie exportfájlját, vagy használjon sablont."
+  "uploadATessieExportOrUseATemplate": "Töltse fel a Tessie exportfájlját, vagy használjon sablont.",
+  "energyUsage": "Energiafelhasználás",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "A jármű alvással töltött idejének százalékos aránya. Az alvásidő maximalizálása csökkenti az akkumulátor lemerülését és az üzemeltetési költségeket."
 }

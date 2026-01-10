@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Tessie にデータを取り込む連携機能を選択してください。",
   "browseIntegrations": "連携機能を参照",
   "importACsv": "CSVをインポート",
-  "uploadATessieExportOrUseATemplate": "Tessieのエクスポートをアップロードするか、テンプレートを使用してください。"
+  "uploadATessieExportOrUseATemplate": "Tessieのエクスポートをアップロードするか、テンプレートを使用してください。",
+  "energyUsage": "エネルギー消費量",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "車両がスリープ状態であった時間の割合。スリープ時間を最大化することで、バッテリーの消耗を抑え、運用コストを削減できます。"
 }

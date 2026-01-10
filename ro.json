@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Alege o integrare pentru a-ți aduce datele în Tessie.",
   "browseIntegrations": "Răsfoiește integrările",
   "importACsv": "Importă un CSV",
-  "uploadATessieExportOrUseATemplate": "Încarcă un export Tessie sau folosește un șablon."
+  "uploadATessieExportOrUseATemplate": "Încarcă un export Tessie sau folosește un șablon.",
+  "energyUsage": "Consumul de energie",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Procentul de timp petrecut de vehicul în stare de repaus. Maximizarea timpului de repaus reduce consumul bateriei și scade costurile de operare."
 }

@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Choisissez une intégration pour importer vos données dans Tessie.",
   "browseIntegrations": "Parcourir les intégrations",
   "importACsv": "Importer un CSV",
-  "uploadATessieExportOrUseATemplate": "Téléchargez une exportation Tessie ou utilisez un modèle."
+  "uploadATessieExportOrUseATemplate": "Téléchargez une exportation Tessie ou utilisez un modèle.",
+  "energyUsage": "Consommation d'énergie",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Le pourcentage de temps que le véhicule a passé en veille. Maximiser le temps de veille réduit la décharge de la batterie et diminue les coûts d'exploitation."
 }

@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Choose an integration to bring your data into Tessie.",
   "browseIntegrations": "Browse integrations",
   "importACsv": "Import a CSV",
-  "uploadATessieExportOrUseATemplate": "Upload a Tessie export or use a template."
+  "uploadATessieExportOrUseATemplate": "Upload a Tessie export or use a template.",
+  "energyUsage": "Energy usage",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "The percentage of time the vehicle spent asleep. Maximizing sleep time reduces battery drain and lowers operating costs."
 }

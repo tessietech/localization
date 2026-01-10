@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "选择一个集成，将您的数据导入 Tessie。",
   "browseIntegrations": "浏览集成",
   "importACsv": "导入 CSV",
-  "uploadATessieExportOrUseATemplate": "上传 Tessie 导出文件或使用模板。"
+  "uploadATessieExportOrUseATemplate": "上传 Tessie 导出文件或使用模板。",
+  "energyUsage": "能耗",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "车辆处于睡眠状态的时间百分比。最大化睡眠时间可以减少电池消耗并降低运营成本。"
 }

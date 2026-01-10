@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Vælg en integration for at importere dine data til Tessie.",
   "browseIntegrations": "Gennemse integrationer",
   "importACsv": "Importer en CSV",
-  "uploadATessieExportOrUseATemplate": "Upload en Tessie-eksport eller brug en skabelon."
+  "uploadATessieExportOrUseATemplate": "Upload en Tessie-eksport eller brug en skabelon.",
+  "energyUsage": "Energiforbrug",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Procentdelen af den tid, køretøjet sov. Maksimering af søvntiden reducerer batteriforbruget og sænker driftsomkostningerne."
 }

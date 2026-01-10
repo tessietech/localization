@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Verilerinizi Tessie'ye aktarmak için bir entegrasyon seçin.",
   "browseIntegrations": "Entegrasyonlara göz at",
   "importACsv": "CSV içe aktar",
-  "uploadATessieExportOrUseATemplate": "Bir Tessie dışa aktarımını yükleyin veya bir şablon kullanın."
+  "uploadATessieExportOrUseATemplate": "Bir Tessie dışa aktarımını yükleyin veya bir şablon kullanın.",
+  "energyUsage": "Enerji kullanımı",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Aracın uykuda geçirdiği sürenin yüzdesi. Uyku süresini en üst düzeye çıkarmak pil tüketimini azaltır ve işletme maliyetlerini düşürür."
 }

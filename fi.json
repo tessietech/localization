@@ -2746,5 +2746,7 @@
   "chooseAnIntegrationToBringYourDataIntoTessie": "Valitse integraatio tuodaksesi tietosi Tessieen.",
   "browseIntegrations": "Selaa integraatioita",
   "importACsv": "Tuo CSV",
-  "uploadATessieExportOrUseATemplate": "Lataa Tessie-vienti tai käytä mallia."
+  "uploadATessieExportOrUseATemplate": "Lataa Tessie-vienti tai käytä mallia.",
+  "energyUsage": "Energiakulutus",
+  "thePercentageOfTimeTheVehicleSpentAsleep": "Ajoneuvon lepotilassa viettämän ajan prosenttiosuus. Lepotilan maksimointi vähentää akun tyhjenemistä ja alentaa käyttökustannuksia."
 }
