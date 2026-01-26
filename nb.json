@@ -2288,7 +2288,7 @@
   "preconditioningSchedule": "Tidsplan for forvarming",
   "preconditionBy": "Forvarm innen",
   "preconditioning": "Forvarming",
-  "byTime": "Etter {time}",
+  "byTime": "Innen {time}",
   "startAtTime": "Start {time}",
   "startAt": "Starttid",
   "endBy": "Slutt innen",
