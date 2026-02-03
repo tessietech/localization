@@ -2725,7 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "Väck fordonet för att uppdatera schemaläggningsdata",
   "selfdriving": "Självkörning",
   "selfdrivingDistanceDistanceDistanceformat": "Självkörningsdistans: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla tillhandahåller data för självkörning i steg om 1 engelsk mil. Tessie avrundar uppåt för att undvika att underskatta självkörningen.",
   "tripTracking": "Resesekvensering",
   "selfdrivingStats": "Självkörningsstatistik",
   "upgrade": "Uppgradera",

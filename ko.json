@@ -2725,7 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "일정 데이터를 새로 고치기 위해 차량을 깨우기",
   "selfdriving": "자율 주행",
   "selfdrivingDistanceDistanceDistanceformat": "자율 주행 거리: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "테슬라는 자율주행 데이터를 1마일 단위로 제공합니다. 테시는 자율주행 기록이 과소집계되는 것을 방지하기 위해 반올림합니다.",
   "tripTracking": "여행 추적",
   "selfdrivingStats": "자율 주행 통계",
   "upgrade": "업그레이드",

@@ -2725,7 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "Разбудить автомобиль, чтобы обновить данные расписания",
   "selfdriving": "Автопилот",
   "selfdrivingDistanceDistanceDistanceformat": "Пробег на автопилоте: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla предоставляет данные об автопилоте с шагом в 1 милю. Tessie округляет в большую сторону, чтобы не занижать показания автопилота.",
   "tripTracking": "Отслеживание поездок",
   "selfdrivingStats": "Статистика автономного вождения",
   "upgrade": "Обновить",

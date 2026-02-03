@@ -2725,7 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "Fahrzeug aufwecken, um die Zeitplandaten zu aktualisieren",
   "selfdriving": "Autonomes Fahren",
   "selfdrivingDistanceDistanceDistanceformat": "Distanz im autonomen Modus: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla stellt Daten zum autonomen Fahren in 1-Meilen-Schritten bereit. Tessie rundet auf, um eine Untererfassung des autonomen Fahrens zu vermeiden.",
   "tripTracking": "Trip Tracking",
   "selfdrivingStats": "Autopilot-Statistiken",
   "upgrade": "Upgrade",

@@ -2725,7 +2725,7 @@
   "wakeTheVehicleToRefreshScheduleData": "Acordar o veículo para atualizar os dados da programação",
   "selfdriving": "Condução Autónoma",
   "selfdrivingDistanceDistanceDistanceformat": "Distância de Condução Autónoma: {distance} {distanceFormat}",
-  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "Tesla provides Self-Driving data in 1-mile increments. Tessie rounds up to avoid undercounting Self-Driving.",
+  "teslaProvidesSelfdrivingDataIn1mileIncrementsTessieRoundsUp": "A Tesla fornece dados de Condução Autónoma em incrementos de 1 milha. A Tessie arredonda para cima para evitar a subcontagem da Condução Autónoma.",
   "tripTracking": "Seguimento da viagem",
   "selfdrivingStats": "Estatísticas de condução autónoma",
   "upgrade": "Atualizar",
