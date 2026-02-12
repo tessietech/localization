@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "低功耗模式现已禁用。",
   "keepAccessoryPowerModeIsNowEnabled": "保持附件电源模式现已启用。",
   "keepAccessoryPowerModeIsNowDisabled": "保持附件电源模式现已禁用。",
-  "guestModeDescription": "限制车辆访问并启用有限的特斯拉手机应用程序访问"
+  "guestModeDescription": "限制车辆访问并启用有限的特斯拉手机应用程序访问",
+  "forAllTessieAutomations": "所有 Tessie 自动化",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "开启通知以接收提醒和实时更新。"
 }

@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Režim nízké spotřeby je nyní zakázán.",
   "keepAccessoryPowerModeIsNowEnabled": "Režim zachování napájení příslušenství je nyní povolen.",
   "keepAccessoryPowerModeIsNowDisabled": "Režim zachování napájení příslušenství je nyní zakázán.",
-  "guestModeDescription": "Omezuje přístup k vozidlu a umožňuje omezený přístup k mobilní aplikaci Tesla"
+  "guestModeDescription": "Omezuje přístup k vozidlu a umožňuje omezený přístup k mobilní aplikaci Tesla",
+  "forAllTessieAutomations": "Pro všechny automatizace Tessie",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Povolit oznámení pro příjem upozornění a aktuálních informací."
 }

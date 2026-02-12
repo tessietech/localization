@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Az alacsony teljesítményű üzemmód mostantól letiltva van.",
   "keepAccessoryPowerModeIsNowEnabled": "A kiegészítő áramellátás fenntartása üzemmód mostantól engedélyezve van.",
   "keepAccessoryPowerModeIsNowDisabled": "A kiegészítő áramellátás fenntartása üzemmód mostantól letiltva van.",
-  "guestModeDescription": "Korlátozza a járműhöz való hozzáférést és korlátozott Tesla mobilalkalmazás-hozzáférést tesz lehetővé"
+  "guestModeDescription": "Korlátozza a járműhöz való hozzáférést és korlátozott Tesla mobilalkalmazás-hozzáférést tesz lehetővé",
+  "forAllTessieAutomations": "Minden Tessie automatizációhoz",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Értesítések engedélyezése riasztások és élő frissítések fogadásához."
 }

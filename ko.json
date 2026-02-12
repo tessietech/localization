@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "저전력 모드가 비활성화되었습니다.",
   "keepAccessoryPowerModeIsNowEnabled": "액세서리 전원 유지 모드가 활성화되었습니다.",
   "keepAccessoryPowerModeIsNowDisabled": "액세서리 전원 유지 모드가 비활성화되었습니다.",
-  "guestModeDescription": "차량 접근을 제한하고 테슬라 모바일 앱의 제한된 접근을 활성화합니다."
+  "guestModeDescription": "차량 접근을 제한하고 테슬라 모바일 앱의 제한된 접근을 활성화합니다.",
+  "forAllTessieAutomations": "모든 Tessie 자동화에 대해",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "알림 및 실시간 업데이트 수신을 위해 알림을 활성화하세요."
 }

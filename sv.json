@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Lågenergiläget är nu inaktiverat.",
   "keepAccessoryPowerModeIsNowEnabled": "Behåll tillbehörsström-läget är nu aktiverat.",
   "keepAccessoryPowerModeIsNowDisabled": "Behåll tillbehörsström-läget är nu inaktiverat.",
-  "guestModeDescription": "Begränsar fordonets åtkomst och möjliggör begränsad åtkomst till Teslas mobilapp"
+  "guestModeDescription": "Begränsar fordonets åtkomst och möjliggör begränsad åtkomst till Teslas mobilapp",
+  "forAllTessieAutomations": "För alla Tessie-automatiseringar",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Aktivera aviseringar för att ta emot varningar och liveuppdateringar."
 }

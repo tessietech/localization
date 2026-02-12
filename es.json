@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "El Modo de bajo consumo ahora está desactivado.",
   "keepAccessoryPowerModeIsNowEnabled": "El Modo Mantener Energía de Accesorios ahora está activado.",
   "keepAccessoryPowerModeIsNowDisabled": "El Modo Mantener Energía de Accesorios ahora está desactivado.",
-  "guestModeDescription": "Restringe el acceso al vehículo y habilita el acceso limitado a la aplicación móvil de Tesla"
+  "guestModeDescription": "Restringe el acceso al vehículo y habilita el acceso limitado a la aplicación móvil de Tesla",
+  "forAllTessieAutomations": "Para todas las automatizaciones de Tessie",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Activar notificaciones para recibir alertas y actualizaciones en tiempo real."
 }

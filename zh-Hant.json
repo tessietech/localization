@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "低電量模式現已停用。",
   "keepAccessoryPowerModeIsNowEnabled": "保持輔助電源模式現已啟用。",
   "keepAccessoryPowerModeIsNowDisabled": "保持輔助電源模式現已停用。",
-  "guestModeDescription": "限制車輛存取並啟用有限的 Tesla 行動應用程式存取權"
+  "guestModeDescription": "限制車輛存取並啟用有限的 Tesla 行動應用程式存取權",
+  "forAllTessieAutomations": "適用於所有 Tessie 自動化功能",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "啟用通知以接收警報和即時更新。"
 }

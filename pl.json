@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Tryb niskiego zużycia energii jest teraz wyłączony.",
   "keepAccessoryPowerModeIsNowEnabled": "Tryb podtrzymania zasilania akcesoriów jest teraz włączony.",
   "keepAccessoryPowerModeIsNowDisabled": "Tryb podtrzymania zasilania akcesoriów jest teraz wyłączony.",
-  "guestModeDescription": "Ogranicza dostęp do pojazdu i umożliwia ograniczony dostęp do aplikacji mobilnej Tesla"
+  "guestModeDescription": "Ogranicza dostęp do pojazdu i umożliwia ograniczony dostęp do aplikacji mobilnej Tesla",
+  "forAllTessieAutomations": "Dla wszystkich automatyzacji Tessie",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Włącz powiadomienia, aby otrzymywać alerty i bieżące aktualizacje."
 }

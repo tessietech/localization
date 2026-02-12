@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Düşük Güç Modu devre dışı bırakıldı.",
   "keepAccessoryPowerModeIsNowEnabled": "Aksesuar Gücünü Açık Tutma Modu etkinleştirildi.",
   "keepAccessoryPowerModeIsNowDisabled": "Aksesuar Gücünü Açık Tutma Modu devre dışı bırakıldı.",
-  "guestModeDescription": "Araç erişimini kısıtlar ve sınırlı Tesla mobil uygulama erişimi sağlar"
+  "guestModeDescription": "Araç erişimini kısıtlar ve sınırlı Tesla mobil uygulama erişimi sağlar",
+  "forAllTessieAutomations": "Tüm Tessie otomasyonları için",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Uyarılar ve canlı güncellemeler almak için bildirimleri etkinleştirin."
 }

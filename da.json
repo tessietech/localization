@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Lavenergitilstand er nu deaktiveret.",
   "keepAccessoryPowerModeIsNowEnabled": "Vedvarende tilbehørsstrømtilstand er nu aktiveret.",
   "keepAccessoryPowerModeIsNowDisabled": "Vedvarende tilbehørsstrømtilstand er nu deaktiveret.",
-  "guestModeDescription": "Begrænser adgang til bilen og giver begrænset adgang til Tesla-mobilappen"
+  "guestModeDescription": "Begrænser adgang til bilen og giver begrænset adgang til Tesla-mobilappen",
+  "forAllTessieAutomations": "For alle Tessie-automatiseringer",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Aktiver notifikationer for at modtage advarsler og live-opdateringer."
 }

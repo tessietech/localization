@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Low Power Mode is now disabled.",
   "keepAccessoryPowerModeIsNowEnabled": "Keep Accessory Power Mode is now enabled.",
   "keepAccessoryPowerModeIsNowDisabled": "Keep Accessory Power Mode is now disabled.",
-  "guestModeDescription": "Restricts vehicle access and enables limited Tesla mobile app access"
+  "guestModeDescription": "Restricts vehicle access and enables limited Tesla mobile app access",
+  "forAllTessieAutomations": "For all Tessie automations",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Enable notifications to receive alerts and live updates."
 }

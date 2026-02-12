@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Virransäästötila on nyt poissa käytöstä.",
   "keepAccessoryPowerModeIsNowEnabled": "Lisävarustevirran ylläpitotila on nyt käytössä.",
   "keepAccessoryPowerModeIsNowDisabled": "Lisävarustevirran ylläpitotila on nyt poissa käytöstä.",
-  "guestModeDescription": "Rajoittaa ajoneuvon käyttöä ja mahdollistaa rajoitetun Tesla-mobiilisovelluksen käytön"
+  "guestModeDescription": "Rajoittaa ajoneuvon käyttöä ja mahdollistaa rajoitetun Tesla-mobiilisovelluksen käytön",
+  "forAllTessieAutomations": "Kaikkiin Tessie-automaatioihin",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Ota ilmoitukset käyttöön saadaksesi hälytyksiä ja reaaliaikaisia päivityksiä."
 }

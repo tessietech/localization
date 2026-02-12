@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Energiebesparingsmodus is nu uitgeschakeld.",
   "keepAccessoryPowerModeIsNowEnabled": "Accessoirevoeding behouden is nu ingeschakeld.",
   "keepAccessoryPowerModeIsNowDisabled": "Accessoirevoeding behouden is nu uitgeschakeld.",
-  "guestModeDescription": "Beperkt de toegang tot het voertuig en maakt beperkte toegang tot de Tesla mobiele app mogelijk"
+  "guestModeDescription": "Beperkt de toegang tot het voertuig en maakt beperkte toegang tot de Tesla mobiele app mogelijk",
+  "forAllTessieAutomations": "Voor alle Tessie-automatiseringen",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Meldingen inschakelen om waarschuwingen en live updates te ontvangen."
 }

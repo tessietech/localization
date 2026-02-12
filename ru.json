@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Режим низкого энергопотребления теперь отключен.",
   "keepAccessoryPowerModeIsNowEnabled": "Режим сохранения питания аксессуаров теперь включен.",
   "keepAccessoryPowerModeIsNowDisabled": "Режим сохранения питания аксессуаров теперь отключен.",
-  "guestModeDescription": "Ограничивает доступ к автомобилю и предоставляет ограниченный доступ к мобильному приложению Tesla"
+  "guestModeDescription": "Ограничивает доступ к автомобилю и предоставляет ограниченный доступ к мобильному приложению Tesla",
+  "forAllTessieAutomations": "Для всех автоматизаций Тесси",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Включить уведомления, чтобы получать оповещения и оперативные обновления."
 }

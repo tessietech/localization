@@ -2767,5 +2767,7 @@
   "lowPowerModeIsNowDisabled": "Modul economie energie este acum dezactivat.",
   "keepAccessoryPowerModeIsNowEnabled": "Modul menținere alimentare accesorii este acum activat.",
   "keepAccessoryPowerModeIsNowDisabled": "Modul menținere alimentare accesorii este acum dezactivat.",
-  "guestModeDescription": "Restricționează accesul la vehicul și permite acces limitat la aplicația mobilă Tesla"
+  "guestModeDescription": "Restricționează accesul la vehicul și permite acces limitat la aplicația mobilă Tesla",
+  "forAllTessieAutomations": "Pentru toate automatizările Tessie",
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Activează notificările pentru a primi alerte și actualizări în timp real."
 }
