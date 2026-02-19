@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Modul menținere alimentare accesorii este acum dezactivat.",
   "guestModeDescription": "Restricționează accesul la vehicul și permite acces limitat la aplicația mobilă Tesla",
   "forAllTessieAutomations": "Pentru toate automatizările Tessie",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Activează notificările pentru a primi alerte și actualizări în timp real."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Activează notificările pentru a primi alerte și actualizări în timp real.",
+  "byHour": "Pe oră",
+  "byDay": "Pe zi",
+  "byMonth": "Pe lună",
+  "byYear": "Pe an",
+  "invalidDate": "Dată invalidă",
+  "thisActivityContainsAnInvalidDate": "Această activitate conține o dată invalidă și nu poate fi afișată. Aceasta este de obicei cauzată de date incorecte într-un import."
 }

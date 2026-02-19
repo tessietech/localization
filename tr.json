@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Aksesuar Gücünü Açık Tutma Modu devre dışı bırakıldı.",
   "guestModeDescription": "Araç erişimini kısıtlar ve sınırlı Tesla mobil uygulama erişimi sağlar",
   "forAllTessieAutomations": "Tüm Tessie otomasyonları için",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Uyarılar ve canlı güncellemeler almak için bildirimleri etkinleştirin."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Uyarılar ve canlı güncellemeler almak için bildirimleri etkinleştirin.",
+  "byHour": "Saatlik",
+  "byDay": "Günlük",
+  "byMonth": "Aylık",
+  "byYear": "Yıllık",
+  "invalidDate": "Geçersiz tarih",
+  "thisActivityContainsAnInvalidDate": "Bu etkinlik geçersiz bir tarih içeriyor ve görüntülenemiyor. Bu genellikle bir içe aktarmadaki hatalı verilerden kaynaklanır."
 }

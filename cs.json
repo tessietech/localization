@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Režim zachování napájení příslušenství je nyní zakázán.",
   "guestModeDescription": "Omezuje přístup k vozidlu a umožňuje omezený přístup k mobilní aplikaci Tesla",
   "forAllTessieAutomations": "Pro všechny automatizace Tessie",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Povolit oznámení pro příjem upozornění a aktuálních informací."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Povolit oznámení pro příjem upozornění a aktuálních informací.",
+  "byHour": "Po hodinách",
+  "byDay": "Po dnech",
+  "byMonth": "Po měsících",
+  "byYear": "Po rocích",
+  "invalidDate": "Neplatné datum",
+  "thisActivityContainsAnInvalidDate": "Tato aktivita obsahuje neplatné datum a nelze ji zobrazit. Obvykle je to způsobeno nesprávnými daty v importu."
 }

@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "アクセサリー電源維持モードが無効になりました。",
   "guestModeDescription": "車両へのアクセスを制限し、テスラモバイルアプリのアクセスを限定的に有効にします",
   "forAllTessieAutomations": "すべてのテッシー自動化",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "通知を有効にすると、アラートやライブアップデートを受け取れます。"
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "通知を有効にすると、アラートやライブアップデートを受け取れます。",
+  "byHour": "時間別",
+  "byDay": "日別",
+  "byMonth": "月別",
+  "byYear": "年別",
+  "invalidDate": "無効な日付",
+  "thisActivityContainsAnInvalidDate": "このアクティビティには無効な日付が含まれているため、表示できません。これは通常、インポートの不正なデータが原因です。"
 }

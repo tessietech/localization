@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "A kiegészítő áramellátás fenntartása üzemmód mostantól letiltva van.",
   "guestModeDescription": "Korlátozza a járműhöz való hozzáférést és korlátozott Tesla mobilalkalmazás-hozzáférést tesz lehetővé",
   "forAllTessieAutomations": "Minden Tessie automatizációhoz",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Értesítések engedélyezése riasztások és élő frissítések fogadásához."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Értesítések engedélyezése riasztások és élő frissítések fogadásához.",
+  "byHour": "Óránként",
+  "byDay": "Naponta",
+  "byMonth": "Havonta",
+  "byYear": "Évente",
+  "invalidDate": "Érvénytelen dátum",
+  "thisActivityContainsAnInvalidDate": "Ez a tevékenység érvénytelen dátumot tartalmaz, és nem jeleníthető meg. Ezt általában egy importálás hibás adatai okozzák."
 }

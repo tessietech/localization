@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "액세서리 전원 유지 모드가 비활성화되었습니다.",
   "guestModeDescription": "차량 접근을 제한하고 테슬라 모바일 앱의 제한된 접근을 활성화합니다.",
   "forAllTessieAutomations": "모든 Tessie 자동화에 대해",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "알림 및 실시간 업데이트 수신을 위해 알림을 활성화하세요."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "알림 및 실시간 업데이트 수신을 위해 알림을 활성화하세요.",
+  "byHour": "시간별",
+  "byDay": "일별",
+  "byMonth": "월별",
+  "byYear": "연별",
+  "invalidDate": "잘못된 날짜",
+  "thisActivityContainsAnInvalidDate": "이 활동에는 잘못된 날짜가 포함되어 있어 표시할 수 없습니다. 이는 일반적으로 가져오기의 잘못된 데이터로 인해 발생합니다."
 }

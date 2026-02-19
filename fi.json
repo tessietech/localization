@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Lisävarustevirran ylläpitotila on nyt poissa käytöstä.",
   "guestModeDescription": "Rajoittaa ajoneuvon käyttöä ja mahdollistaa rajoitetun Tesla-mobiilisovelluksen käytön",
   "forAllTessieAutomations": "Kaikkiin Tessie-automaatioihin",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Ota ilmoitukset käyttöön saadaksesi hälytyksiä ja reaaliaikaisia päivityksiä."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Ota ilmoitukset käyttöön saadaksesi hälytyksiä ja reaaliaikaisia päivityksiä.",
+  "byHour": "Tunneittain",
+  "byDay": "Päivittäin",
+  "byMonth": "Kuukausittain",
+  "byYear": "Vuosittain",
+  "invalidDate": "Virheellinen päivämäärä",
+  "thisActivityContainsAnInvalidDate": "Tämä aktiviteetti sisältää virheellisen päivämäärän eikä sitä voida näyttää. Tämä johtuu yleensä virheellisistä tiedoista tuonnissa."
 }

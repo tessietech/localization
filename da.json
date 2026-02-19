@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Vedvarende tilbehørsstrømtilstand er nu deaktiveret.",
   "guestModeDescription": "Begrænser adgang til bilen og giver begrænset adgang til Tesla-mobilappen",
   "forAllTessieAutomations": "For alle Tessie-automatiseringer",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Aktiver notifikationer for at modtage advarsler og live-opdateringer."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Aktiver notifikationer for at modtage advarsler og live-opdateringer.",
+  "byHour": "Per time",
+  "byDay": "Per dag",
+  "byMonth": "Per måned",
+  "byYear": "Per år",
+  "invalidDate": "Ugyldig dato",
+  "thisActivityContainsAnInvalidDate": "Denne aktivitet indeholder en ugyldig dato og kan ikke vises. Dette skyldes normalt forkerte data i en import."
 }

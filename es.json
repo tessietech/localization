@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "El Modo Mantener Energía de Accesorios ahora está desactivado.",
   "guestModeDescription": "Restringe el acceso al vehículo y habilita el acceso limitado a la aplicación móvil de Tesla",
   "forAllTessieAutomations": "Para todas las automatizaciones de Tessie",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Activar notificaciones para recibir alertas y actualizaciones en tiempo real."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Activar notificaciones para recibir alertas y actualizaciones en tiempo real.",
+  "byHour": "Por hora",
+  "byDay": "Por día",
+  "byMonth": "Por mes",
+  "byYear": "Por año",
+  "invalidDate": "Fecha inválida",
+  "thisActivityContainsAnInvalidDate": "Esta actividad contiene una fecha inválida y no se puede mostrar. Esto generalmente es causado por datos incorrectos en una importación."
 }

@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Accessoirevoeding behouden is nu uitgeschakeld.",
   "guestModeDescription": "Beperkt de toegang tot het voertuig en maakt beperkte toegang tot de Tesla mobiele app mogelijk",
   "forAllTessieAutomations": "Voor alle Tessie-automatiseringen",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Meldingen inschakelen om waarschuwingen en live updates te ontvangen."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Meldingen inschakelen om waarschuwingen en live updates te ontvangen.",
+  "byHour": "Per uur",
+  "byDay": "Per dag",
+  "byMonth": "Per maand",
+  "byYear": "Per jaar",
+  "invalidDate": "Ongeldige datum",
+  "thisActivityContainsAnInvalidDate": "Deze activiteit bevat een ongeldige datum en kan niet worden weergegeven. Dit wordt meestal veroorzaakt door onjuiste gegevens in een import."
 }

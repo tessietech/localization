@@ -2769,5 +2769,11 @@
   "keepAccessoryPowerModeIsNowDisabled": "Keep Accessory Power Mode is now disabled.",
   "guestModeDescription": "Restricts vehicle access and enables limited Tesla mobile app access",
   "forAllTessieAutomations": "For all Tessie automations",
-  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Enable notifications to receive alerts and live updates."
+  "enableNotificationsToReceiveAlertsAndLiveUpdates": "Enable notifications to receive alerts and live updates.",
+  "byHour": "By hour",
+  "byDay": "By day",
+  "byMonth": "By month",
+  "byYear": "By year",
+  "invalidDate": "Invalid Date",
+  "thisActivityContainsAnInvalidDate": "This activity contains an invalid date and cannot be displayed. This is usually caused by incorrect data in an import."
 }
