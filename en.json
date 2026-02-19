@@ -2774,6 +2774,6 @@
   "byDay": "By day",
   "byMonth": "By month",
   "byYear": "By year",
-  "invalidDate": "Invalid Date",
+  "invalidDate": "Invalid date",
   "thisActivityContainsAnInvalidDate": "This activity contains an invalid date and cannot be displayed. This is usually caused by incorrect data in an import."
 }
