@@ -2787,7 +2787,7 @@
   "manageYourFleet": "フリートを管理する",
   "mobileWebApps": "モバイルアプリとウェブアプリ",
   "overTheAirTripTracking": "ハードウェア不要の旅行追跡",
-  "syncedCountVehicles": "\\{count} 台の車両を同期しました",
+  "syncedCountVehicles": "{count} 台の車両を同期しました",
   "syncedOneVehicle": "1台の車両を同期しました",
   "weWillConfirmIfTheyAreCompatible": "互換性があるかどうかを確認します",
   "yourBrand": "あなたのブランド",

@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Spravujte svou flotilu",
   "mobileWebApps": "Mobilní a webové aplikace",
   "overTheAirTripTracking": "Sledování cesty bez hardwaru",
-  "syncedCountVehicles": "Synchronizováno \\{count} vozidel",
+  "syncedCountVehicles": "Synchronizováno {count} vozidel",
   "syncedOneVehicle": "Synchronizováno 1 vozidlo",
   "weWillConfirmIfTheyAreCompatible": "Potvrdíme, zda jsou kompatibilní",
   "yourBrand": "Vaše značka",

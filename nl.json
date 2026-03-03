@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Beheer uw wagenpark",
   "mobileWebApps": "Mobiele en webapps",
   "overTheAirTripTracking": "Hardwarevrije ritregistratie",
-  "syncedCountVehicles": "Gesynchroniseerde \\{count} voertuigen",
+  "syncedCountVehicles": "Gesynchroniseerde {count} voertuigen",
   "syncedOneVehicle": "1 voertuig gesynchroniseerd",
   "weWillConfirmIfTheyAreCompatible": "We zullen bevestigen of ze compatibel zijn",
   "yourBrand": "Jouw merk",

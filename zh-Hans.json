@@ -2775,5 +2775,21 @@
   "byMonth": "按月",
   "byYear": "按年",
   "invalidDate": "无效日期",
-  "thisActivityContainsAnInvalidDate": "此活动包含无效日期，无法显示。这通常是由导入中的错误数据引起的。"
+  "thisActivityContainsAnInvalidDate": "此活动包含无效日期，无法显示。这通常是由导入中的错误数据引起的。",
+  "forSupportedModels": "适用于支持的车型",
+  "manageYourFleet": "管理您的车队",
+  "yourBrand": "您的品牌",
+  "connectYourVehicles": "连接您的车辆",
+  "weWillConfirmIfTheyAreCompatible": "我们将确认它们是否兼容",
+  "gettingVehicleInformation": "正在获取车辆信息",
+  "syncedOneVehicle": "已同步 1 辆车",
+  "syncedCountVehicles": "已同步 {count} 辆车辆",
+  "connectVehicleToContinue": "连接车辆以继续",
+  "manageConnectivity": "管理连接性",
+  "connectAnAccountWithAVehicleToContinue": "将账户与车辆连接以继续",
+  "connectAccount": "连接账户",
+  "mobileWebApps": "移动应用和网页应用",
+  "overTheAirTripTracking": "无硬件行程跟踪",
+  "connectVehicles": "连接车辆",
+  "syncVehicles": "同步车辆"
 }

@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Hallitse kalustosi",
   "mobileWebApps": "Mobiili- ja verkkosovellukset",
   "overTheAirTripTracking": "Laitteistoton matkaseuranta",
-  "syncedCountVehicles": "Synkronoitu \\{count} ajoneuvoa",
+  "syncedCountVehicles": "Synkronoitu {count} ajoneuvoa",
   "syncedOneVehicle": "Synkronoitu 1 ajoneuvo",
   "weWillConfirmIfTheyAreCompatible": "Vahvistamme, ovatko ne yhteensopivia",
   "yourBrand": "Sinun brändisi",

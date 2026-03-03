@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Gestionați-vă flota",
   "mobileWebApps": "Aplicații mobile și web",
   "overTheAirTripTracking": "Urmărirea călătoriilor fără hardware",
-  "syncedCountVehicles": "\\{count} vehicule sincronizate",
+  "syncedCountVehicles": "{count} vehicule sincronizate",
   "syncedOneVehicle": "Sincronizat 1 vehicul",
   "weWillConfirmIfTheyAreCompatible": "Vom confirma dacă sunt compatibile",
   "yourBrand": "Marca ta",

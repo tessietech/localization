@@ -2788,7 +2788,7 @@
   "mobileWebApps": "行動和網路應用程式",
   "overTheAirTripTracking": "無硬體行程追蹤",
   "syncVehicles": "同步車輛",
-  "syncedCountVehicles": "已同步 \\{count} 輛車輛",
+  "syncedCountVehicles": "已同步 {count} 輛車輛",
   "syncedOneVehicle": "已同步 1 輛車",
   "weWillConfirmIfTheyAreCompatible": "我們將確認它們是否相容",
   "yourBrand": "你的品牌"

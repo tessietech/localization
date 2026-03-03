@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Kezelje flottáját",
   "mobileWebApps": "Mobil és webes alkalmazások",
   "overTheAirTripTracking": "Hardvermentes utazáskövetés",
-  "syncedCountVehicles": "\\{count} jármű szinkronizált",
+  "syncedCountVehicles": "{count} jármű szinkronizált",
   "syncedOneVehicle": "1 jármű szinkronizálva",
   "weWillConfirmIfTheyAreCompatible": "Megerősítjük, hogy kompatibilisek-e",
   "yourBrand": "Az Ön márkája",

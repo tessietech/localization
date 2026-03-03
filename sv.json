@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Hantera din flotta",
   "mobileWebApps": "Mobil- och webbappar",
   "overTheAirTripTracking": "Hårdvarufri spårning av resor",
-  "syncedCountVehicles": "Synkroniserade \\{count} fordon",
+  "syncedCountVehicles": "Synkroniserade {count} fordon",
   "syncedOneVehicle": "Synkat 1 fordon",
   "weWillConfirmIfTheyAreCompatible": "Vi bekräftar om de är kompatibla",
   "yourBrand": "Ditt varumärke",

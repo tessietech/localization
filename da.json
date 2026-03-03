@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Administrer din flåde",
   "mobileWebApps": "Mobil- og webapps",
   "overTheAirTripTracking": "Hardwarefri tursporing",
-  "syncedCountVehicles": "Synkroniserede \\{count} køretøjer",
+  "syncedCountVehicles": "Synkroniserede {count} køretøjer",
   "syncedOneVehicle": "Synkroniseret 1 køretøj",
   "weWillConfirmIfTheyAreCompatible": "Vi bekræfter, om de er kompatible",
   "yourBrand": "Dit brand",

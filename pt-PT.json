@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Gerencie sua frota",
   "mobileWebApps": "Aplicativos móveis e da web",
   "overTheAirTripTracking": "Rastreamento de viagem sem hardware",
-  "syncedCountVehicles": "\\{count} veículos sincronizados",
+  "syncedCountVehicles": "{count} veículos sincronizados",
   "syncedOneVehicle": "1 veículo sincronizado",
   "weWillConfirmIfTheyAreCompatible": "Confirmaremos se são compatíveis",
   "yourBrand": "Sua marca",

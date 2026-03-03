@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Zarządzaj swoją flotą",
   "mobileWebApps": "Aplikacje mobilne i internetowe",
   "overTheAirTripTracking": "Śledzenie podróży bez sprzętu",
-  "syncedCountVehicles": "Zsynchronizowanych \\{count} pojazdów",
+  "syncedCountVehicles": "Zsynchronizowanych {count} pojazdów",
   "syncedOneVehicle": "Zsynchronizowano 1 pojazd",
   "weWillConfirmIfTheyAreCompatible": "Potwierdzimy, czy są kompatybilne",
   "yourBrand": "Twoja marka",

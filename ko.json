@@ -2787,7 +2787,7 @@
   "manageYourFleet": "차량 관리",
   "mobileWebApps": "모바일 및 웹 앱",
   "overTheAirTripTracking": "하드웨어가 필요 없는 여행 추적",
-  "syncedCountVehicles": "동기화된 차량 \\{count}대",
+  "syncedCountVehicles": "동기화된 차량 {count}대",
   "syncedOneVehicle": "차량 1대 동기화됨",
   "weWillConfirmIfTheyAreCompatible": "호환되는지 확인하겠습니다",
   "yourBrand": "귀하의 브랜드",

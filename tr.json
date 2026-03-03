@@ -2787,7 +2787,7 @@
   "manageYourFleet": "Filonuzu yönetin",
   "mobileWebApps": "Mobil ve web uygulamaları",
   "overTheAirTripTracking": "Donanımsız yolculuk takibi",
-  "syncedCountVehicles": "\\{count} araç senkronize edildi",
+  "syncedCountVehicles": "{count} araç senkronize edildi",
   "syncedOneVehicle": "1 araç senkronize edildi",
   "weWillConfirmIfTheyAreCompatible": "Uyumlu olup olmadıklarını onaylayacağız",
   "yourBrand": "Markanız",
