@@ -2775,5 +2775,21 @@
   "byMonth": "Per månad",
   "byYear": "Per år",
   "invalidDate": "Ogiltigt datum",
-  "thisActivityContainsAnInvalidDate": "Denna aktivitet innehåller ett ogiltigt datum och kan inte visas. Detta orsakas vanligtvis av felaktiga data i en import."
+  "thisActivityContainsAnInvalidDate": "Denna aktivitet innehåller ett ogiltigt datum och kan inte visas. Detta orsakas vanligtvis av felaktiga data i en import.",
+  "connectVehicles": "Anslut fordon",
+  "connectAccount": "Anslut konto",
+  "connectAnAccountWithAVehicleToContinue": "Koppla ett konto till ett fordon för att fortsätta",
+  "connectVehicleToContinue": "Anslut ett fordon för att fortsätta",
+  "connectYourVehicles": "Anslut dina fordon",
+  "forSupportedModels": "För modeller som stöds",
+  "gettingVehicleInformation": "Hämta fordonsinformation",
+  "manageConnectivity": "Hantera anslutningar",
+  "manageYourFleet": "Hantera din flotta",
+  "mobileWebApps": "Mobil- och webbappar",
+  "overTheAirTripTracking": "Hårdvarufri spårning av resor",
+  "syncedCountVehicles": "Synkroniserade \\{count} fordon",
+  "syncedOneVehicle": "Synkat 1 fordon",
+  "weWillConfirmIfTheyAreCompatible": "Vi bekräftar om de är kompatibla",
+  "yourBrand": "Ditt varumärke",
+  "syncVehicles": "Synkronisera fordon"
 }

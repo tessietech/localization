@@ -2775,5 +2775,21 @@
   "byMonth": "Per maand",
   "byYear": "Per jaar",
   "invalidDate": "Ongeldige datum",
-  "thisActivityContainsAnInvalidDate": "Deze activiteit bevat een ongeldige datum en kan niet worden weergegeven. Dit wordt meestal veroorzaakt door onjuiste gegevens in een import."
+  "thisActivityContainsAnInvalidDate": "Deze activiteit bevat een ongeldige datum en kan niet worden weergegeven. Dit wordt meestal veroorzaakt door onjuiste gegevens in een import.",
+  "connectVehicles": "Voertuigen verbinden",
+  "connectAccount": "Account koppelen",
+  "connectAnAccountWithAVehicleToContinue": "Koppel een account aan een voertuig om door te gaan",
+  "connectVehicleToContinue": "Sluit een voertuig aan om door te gaan",
+  "connectYourVehicles": "Verbind uw voertuigen",
+  "forSupportedModels": "Voor ondersteunde modellen",
+  "gettingVehicleInformation": "Voertuiginformatie verkrijgen",
+  "manageConnectivity": "Beheer connectiviteit",
+  "manageYourFleet": "Beheer uw wagenpark",
+  "mobileWebApps": "Mobiele en webapps",
+  "overTheAirTripTracking": "Hardwarevrije ritregistratie",
+  "syncedCountVehicles": "Gesynchroniseerde \\{count} voertuigen",
+  "syncedOneVehicle": "1 voertuig gesynchroniseerd",
+  "weWillConfirmIfTheyAreCompatible": "We zullen bevestigen of ze compatibel zijn",
+  "yourBrand": "Jouw merk",
+  "syncVehicles": "Synchroniseer voertuigen"
 }

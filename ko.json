@@ -2775,5 +2775,21 @@
   "byMonth": "월별",
   "byYear": "연별",
   "invalidDate": "잘못된 날짜",
-  "thisActivityContainsAnInvalidDate": "이 활동에는 잘못된 날짜가 포함되어 있어 표시할 수 없습니다. 이는 일반적으로 가져오기의 잘못된 데이터로 인해 발생합니다."
+  "thisActivityContainsAnInvalidDate": "이 활동에는 잘못된 날짜가 포함되어 있어 표시할 수 없습니다. 이는 일반적으로 가져오기의 잘못된 데이터로 인해 발생합니다.",
+  "connectVehicles": "차량 연결",
+  "connectAccount": "계정 연결",
+  "connectAnAccountWithAVehicleToContinue": "계속하려면 계정을 차량에 연결하세요.",
+  "connectVehicleToContinue": "계속하려면 차량을 연결하세요.",
+  "connectYourVehicles": "차량을 연결하세요",
+  "forSupportedModels": "지원되는 모델의 경우",
+  "gettingVehicleInformation": "차량 정보 가져오기",
+  "manageConnectivity": "연결 관리",
+  "manageYourFleet": "차량 관리",
+  "mobileWebApps": "모바일 및 웹 앱",
+  "overTheAirTripTracking": "하드웨어가 필요 없는 여행 추적",
+  "syncedCountVehicles": "동기화된 차량 \\{count}대",
+  "syncedOneVehicle": "차량 1대 동기화됨",
+  "weWillConfirmIfTheyAreCompatible": "호환되는지 확인하겠습니다",
+  "yourBrand": "귀하의 브랜드",
+  "syncVehicles": "차량 동기화"
 }

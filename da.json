@@ -2775,5 +2775,21 @@
   "byMonth": "Per måned",
   "byYear": "Per år",
   "invalidDate": "Ugyldig dato",
-  "thisActivityContainsAnInvalidDate": "Denne aktivitet indeholder en ugyldig dato og kan ikke vises. Dette skyldes normalt forkerte data i en import."
+  "thisActivityContainsAnInvalidDate": "Denne aktivitet indeholder en ugyldig dato og kan ikke vises. Dette skyldes normalt forkerte data i en import.",
+  "connectVehicles": "Tilslut køretøjer",
+  "connectAccount": "Tilslut konto",
+  "connectAnAccountWithAVehicleToContinue": "Forbind en konto med et køretøj for at fortsætte",
+  "connectVehicleToContinue": "Tilslut et køretøj for at fortsætte",
+  "connectYourVehicles": "Tilslut dine køretøjer",
+  "forSupportedModels": "Til understøttede modeller",
+  "gettingVehicleInformation": "Hentning af køretøjsoplysninger",
+  "manageConnectivity": "Administrer forbindelse",
+  "manageYourFleet": "Administrer din flåde",
+  "mobileWebApps": "Mobil- og webapps",
+  "overTheAirTripTracking": "Hardwarefri tursporing",
+  "syncedCountVehicles": "Synkroniserede \\{count} køretøjer",
+  "syncedOneVehicle": "Synkroniseret 1 køretøj",
+  "weWillConfirmIfTheyAreCompatible": "Vi bekræfter, om de er kompatible",
+  "yourBrand": "Dit brand",
+  "syncVehicles": "Synkroniser køretøjer"
 }

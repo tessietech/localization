@@ -2775,5 +2775,21 @@
   "byMonth": "Po měsících",
   "byYear": "Po rocích",
   "invalidDate": "Neplatné datum",
-  "thisActivityContainsAnInvalidDate": "Tato aktivita obsahuje neplatné datum a nelze ji zobrazit. Obvykle je to způsobeno nesprávnými daty v importu."
+  "thisActivityContainsAnInvalidDate": "Tato aktivita obsahuje neplatné datum a nelze ji zobrazit. Obvykle je to způsobeno nesprávnými daty v importu.",
+  "connectVehicles": "Připojit vozidla",
+  "connectAccount": "Připojit účet",
+  "connectAnAccountWithAVehicleToContinue": "Chcete-li pokračovat, propojte účet s vozidlem",
+  "connectVehicleToContinue": "Chcete-li pokračovat, připojte vozidlo",
+  "connectYourVehicles": "Připojte svá vozidla",
+  "forSupportedModels": "Pro podporované modely",
+  "gettingVehicleInformation": "Získání informací o vozidle",
+  "manageConnectivity": "Správa připojení",
+  "manageYourFleet": "Spravujte svou flotilu",
+  "mobileWebApps": "Mobilní a webové aplikace",
+  "overTheAirTripTracking": "Sledování cesty bez hardwaru",
+  "syncedCountVehicles": "Synchronizováno \\{count} vozidel",
+  "syncedOneVehicle": "Synchronizováno 1 vozidlo",
+  "weWillConfirmIfTheyAreCompatible": "Potvrdíme, zda jsou kompatibilní",
+  "yourBrand": "Vaše značka",
+  "syncVehicles": "Synchronizace vozidel"
 }

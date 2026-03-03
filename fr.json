@@ -2775,5 +2775,21 @@
   "byMonth": "Par mois",
   "byYear": "Par année",
   "invalidDate": "Date invalide",
-  "thisActivityContainsAnInvalidDate": "Cette activité contient une date invalide et ne peut pas être affichée. Cela est généralement causé par des données incorrectes dans une importation."
+  "thisActivityContainsAnInvalidDate": "Cette activité contient une date invalide et ne peut pas être affichée. Cela est généralement causé par des données incorrectes dans une importation.",
+  "connectVehicles": "Connecter les véhicules",
+  "connectAccount": "Connecter le compte",
+  "connectAnAccountWithAVehicleToContinue": "Connectez un compte à un véhicule pour continuer",
+  "connectVehicleToContinue": "Connectez un véhicule pour continuer",
+  "connectYourVehicles": "Connectez vos véhicules",
+  "forSupportedModels": "Pour les modèles pris en charge",
+  "gettingVehicleInformation": "Obtenir des informations sur le véhicule",
+  "manageConnectivity": "Gérer la connectivité",
+  "manageYourFleet": "Gérez votre flotte",
+  "mobileWebApps": "Applications mobiles et Web",
+  "overTheAirTripTracking": "Suivi des déplacements sans matériel",
+  "syncedCountVehicles": "\\{count} véhicules synchronisés",
+  "syncedOneVehicle": "Synchronisé 1 véhicule",
+  "weWillConfirmIfTheyAreCompatible": "Nous confirmerons s'ils sont compatibles",
+  "yourBrand": "Votre marque",
+  "syncVehicles": "Synchroniser les véhicules"
 }

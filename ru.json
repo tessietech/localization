@@ -2775,5 +2775,21 @@
   "byMonth": "По месяцам",
   "byYear": "По годам",
   "invalidDate": "Недопустимая дата",
-  "thisActivityContainsAnInvalidDate": "Эта активность содержит недопустимую дату и не может быть отображена. Обычно это вызвано некорректными данными при импорте."
+  "thisActivityContainsAnInvalidDate": "Эта активность содержит недопустимую дату и не может быть отображена. Обычно это вызвано некорректными данными при импорте.",
+  "connectVehicles": "Подключить автомобили",
+  "connectAccount": "Подключить аккаунт",
+  "connectAnAccountWithAVehicleToContinue": "Подключите аккаунт к автомобилю, чтобы продолжить",
+  "connectVehicleToContinue": "Подключите автомобиль, чтобы продолжить",
+  "connectYourVehicles": "Подключите свои автомобили",
+  "forSupportedModels": "Для поддерживаемых моделей",
+  "gettingVehicleInformation": "Получение информации об автомобиле",
+  "manageConnectivity": "Управление подключением",
+  "manageYourFleet": "Управляйте своим автопарком",
+  "mobileWebApps": "Мобильные и веб-приложения",
+  "overTheAirTripTracking": "Безаппаратное отслеживание поездок",
+  "syncedCountVehicles": "Синхронизировано \\{count} автомобилей",
+  "syncedOneVehicle": "Синхронизирован 1 автомобиль",
+  "weWillConfirmIfTheyAreCompatible": "Мы подтвердим, совместимы ли они",
+  "yourBrand": "Ваш бренд",
+  "syncVehicles": "Синхронизировать транспортные средства"
 }

@@ -2775,5 +2775,21 @@
   "byMonth": "Aylık",
   "byYear": "Yıllık",
   "invalidDate": "Geçersiz tarih",
-  "thisActivityContainsAnInvalidDate": "Bu etkinlik geçersiz bir tarih içeriyor ve görüntülenemiyor. Bu genellikle bir içe aktarmadaki hatalı verilerden kaynaklanır."
+  "thisActivityContainsAnInvalidDate": "Bu etkinlik geçersiz bir tarih içeriyor ve görüntülenemiyor. Bu genellikle bir içe aktarmadaki hatalı verilerden kaynaklanır.",
+  "connectVehicles": "Araçları bağla",
+  "connectAccount": "Hesabı bağla",
+  "connectAnAccountWithAVehicleToContinue": "Devam etmek için bir hesabı bir araca bağlayın",
+  "connectVehicleToContinue": "Devam etmek için bir araç bağlayın",
+  "connectYourVehicles": "Araçlarınızı bağlayın",
+  "forSupportedModels": "Desteklenen modeller için",
+  "gettingVehicleInformation": "Araç bilgilerini alma",
+  "manageConnectivity": "Bağlantıyı yönet",
+  "manageYourFleet": "Filonuzu yönetin",
+  "mobileWebApps": "Mobil ve web uygulamaları",
+  "overTheAirTripTracking": "Donanımsız yolculuk takibi",
+  "syncedCountVehicles": "\\{count} araç senkronize edildi",
+  "syncedOneVehicle": "1 araç senkronize edildi",
+  "weWillConfirmIfTheyAreCompatible": "Uyumlu olup olmadıklarını onaylayacağız",
+  "yourBrand": "Markanız",
+  "syncVehicles": "Araçları senkronize et"
 }

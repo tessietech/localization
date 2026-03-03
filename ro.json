@@ -2775,5 +2775,21 @@
   "byMonth": "Pe lună",
   "byYear": "Pe an",
   "invalidDate": "Dată invalidă",
-  "thisActivityContainsAnInvalidDate": "Această activitate conține o dată invalidă și nu poate fi afișată. Aceasta este de obicei cauzată de date incorecte într-un import."
+  "thisActivityContainsAnInvalidDate": "Această activitate conține o dată invalidă și nu poate fi afișată. Aceasta este de obicei cauzată de date incorecte într-un import.",
+  "connectVehicles": "Conectează vehiculele",
+  "connectAccount": "Conectați contul",
+  "connectAnAccountWithAVehicleToContinue": "Conectați un cont cu un vehicul pentru a continua",
+  "connectVehicleToContinue": "Conectați un vehicul pentru a continua",
+  "connectYourVehicles": "Conectați-vă vehiculele",
+  "forSupportedModels": "Pentru modelele acceptate",
+  "gettingVehicleInformation": "Obținerea de informații despre vehicul",
+  "manageConnectivity": "Gestionați conectivitatea",
+  "manageYourFleet": "Gestionați-vă flota",
+  "mobileWebApps": "Aplicații mobile și web",
+  "overTheAirTripTracking": "Urmărirea călătoriilor fără hardware",
+  "syncedCountVehicles": "\\{count} vehicule sincronizate",
+  "syncedOneVehicle": "Sincronizat 1 vehicul",
+  "weWillConfirmIfTheyAreCompatible": "Vom confirma dacă sunt compatibile",
+  "yourBrand": "Marca ta",
+  "syncVehicles": "Sincronizați vehiculele"
 }

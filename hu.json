@@ -2775,5 +2775,21 @@
   "byMonth": "Havonta",
   "byYear": "Évente",
   "invalidDate": "Érvénytelen dátum",
-  "thisActivityContainsAnInvalidDate": "Ez a tevékenység érvénytelen dátumot tartalmaz, és nem jeleníthető meg. Ezt általában egy importálás hibás adatai okozzák."
+  "thisActivityContainsAnInvalidDate": "Ez a tevékenység érvénytelen dátumot tartalmaz, és nem jeleníthető meg. Ezt általában egy importálás hibás adatai okozzák.",
+  "connectVehicles": "Járművek csatlakoztatása",
+  "connectAccount": "Csatlakoztassa a fiókot",
+  "connectAnAccountWithAVehicleToContinue": "A folytatáshoz csatlakoztasson egy fiókot egy járműhöz",
+  "connectVehicleToContinue": "Csatlakoztasson egy járművet a folytatáshoz",
+  "connectYourVehicles": "Csatlakoztassa járműveit",
+  "forSupportedModels": "Támogatott modellekhez",
+  "gettingVehicleInformation": "Járműadatok beszerzése",
+  "manageConnectivity": "Kapcsolatok kezelése",
+  "manageYourFleet": "Kezelje flottáját",
+  "mobileWebApps": "Mobil és webes alkalmazások",
+  "overTheAirTripTracking": "Hardvermentes utazáskövetés",
+  "syncedCountVehicles": "\\{count} jármű szinkronizált",
+  "syncedOneVehicle": "1 jármű szinkronizálva",
+  "weWillConfirmIfTheyAreCompatible": "Megerősítjük, hogy kompatibilisek-e",
+  "yourBrand": "Az Ön márkája",
+  "syncVehicles": "Szinkronizálja a járműveket"
 }

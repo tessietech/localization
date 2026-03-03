@@ -2775,5 +2775,21 @@
   "byMonth": "月別",
   "byYear": "年別",
   "invalidDate": "無効な日付",
-  "thisActivityContainsAnInvalidDate": "このアクティビティには無効な日付が含まれているため、表示できません。これは通常、インポートの不正なデータが原因です。"
+  "thisActivityContainsAnInvalidDate": "このアクティビティには無効な日付が含まれているため、表示できません。これは通常、インポートの不正なデータが原因です。",
+  "connectVehicles": "車両を接続",
+  "connectAccount": "アカウントを接続する",
+  "connectAnAccountWithAVehicleToContinue": "続行するにはアカウントを車両に接続してください",
+  "connectVehicleToContinue": "続行するには車両を接続してください",
+  "connectYourVehicles": "車両を接続する",
+  "forSupportedModels": "対応機種について",
+  "gettingVehicleInformation": "車両情報の取得",
+  "manageConnectivity": "接続を管理する",
+  "manageYourFleet": "フリートを管理する",
+  "mobileWebApps": "モバイルアプリとウェブアプリ",
+  "overTheAirTripTracking": "ハードウェア不要の旅行追跡",
+  "syncedCountVehicles": "\\{count} 台の車両を同期しました",
+  "syncedOneVehicle": "1台の車両を同期しました",
+  "weWillConfirmIfTheyAreCompatible": "互換性があるかどうかを確認します",
+  "yourBrand": "あなたのブランド",
+  "syncVehicles": "車両を同期する"
 }

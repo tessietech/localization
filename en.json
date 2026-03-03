@@ -2775,5 +2775,21 @@
   "byMonth": "By month",
   "byYear": "By year",
   "invalidDate": "Invalid date",
-  "thisActivityContainsAnInvalidDate": "This activity contains an invalid date and cannot be displayed. This is usually caused by incorrect data in an import."
+  "thisActivityContainsAnInvalidDate": "This activity contains an invalid date and cannot be displayed. This is usually caused by incorrect data in an import.",
+  "forSupportedModels": "For supported models",
+  "manageYourFleet": "Manage your fleet",
+  "yourBrand": "Your brand",
+  "connectYourVehicles": "Connect your vehicles",
+  "weWillConfirmIfTheyAreCompatible": "We'll confirm if they're compatible",
+  "gettingVehicleInformation": "Getting vehicle information",
+  "syncedOneVehicle": "Synced 1 vehicle",
+  "syncedCountVehicles": "Synced {count} vehicles",
+  "connectVehicleToContinue": "Connect a vehicle to continue",
+  "manageConnectivity": "Manage connectivity",
+  "connectAnAccountWithAVehicleToContinue": "Connect an account with a vehicle to continue",
+  "connectAccount": "Connect account",
+  "mobileWebApps": "Mobile & web apps",
+  "overTheAirTripTracking": "Hardware-free trip tracking",
+  "connectVehicles": "Connect vehicles",
+  "syncVehicles": "Sync vehicles"
 }

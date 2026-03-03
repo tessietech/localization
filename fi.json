@@ -2775,5 +2775,21 @@
   "byMonth": "Kuukausittain",
   "byYear": "Vuosittain",
   "invalidDate": "Virheellinen päivämäärä",
-  "thisActivityContainsAnInvalidDate": "Tämä aktiviteetti sisältää virheellisen päivämäärän eikä sitä voida näyttää. Tämä johtuu yleensä virheellisistä tiedoista tuonnissa."
+  "thisActivityContainsAnInvalidDate": "Tämä aktiviteetti sisältää virheellisen päivämäärän eikä sitä voida näyttää. Tämä johtuu yleensä virheellisistä tiedoista tuonnissa.",
+  "connectVehicles": "Yhdistä ajoneuvot",
+  "connectAccount": "Yhdistä tili",
+  "connectAnAccountWithAVehicleToContinue": "Jatka yhdistämällä tili ajoneuvoon",
+  "connectVehicleToContinue": "Liitä ajoneuvo jatkaaksesi",
+  "connectYourVehicles": "Yhdistä ajoneuvosi",
+  "forSupportedModels": "Tuetuille malleille",
+  "gettingVehicleInformation": "Ajoneuvon tietojen saaminen",
+  "manageConnectivity": "Hallitse yhteyksiä",
+  "manageYourFleet": "Hallitse kalustosi",
+  "mobileWebApps": "Mobiili- ja verkkosovellukset",
+  "overTheAirTripTracking": "Laitteistoton matkaseuranta",
+  "syncedCountVehicles": "Synkronoitu \\{count} ajoneuvoa",
+  "syncedOneVehicle": "Synkronoitu 1 ajoneuvo",
+  "weWillConfirmIfTheyAreCompatible": "Vahvistamme, ovatko ne yhteensopivia",
+  "yourBrand": "Sinun brändisi",
+  "syncVehicles": "Synkronoi ajoneuvot"
 }
