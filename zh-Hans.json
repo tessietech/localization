@@ -2791,5 +2791,9 @@
   "mobileWebApps": "移动应用和网页应用",
   "overTheAirTripTracking": "无硬件行程跟踪",
   "connectVehicles": "连接车辆",
-  "syncVehicles": "同步车辆"
+  "syncVehicles": "同步车辆",
+  "tripsChargingCostsAndMore": "行程、充电成本等",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "访问行程、充电或怠速并按“选择”，即可导出用于报告和记录保存的数据",
+  "rawData": "原始数据",
+  "downloadCsvFilesWithAllRawVehicleData": "下载包含所有原始车辆数据的 CSV 文件"
 }

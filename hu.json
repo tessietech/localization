@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "1 jármű szinkronizálva",
   "weWillConfirmIfTheyAreCompatible": "Megerősítjük, hogy kompatibilisek-e",
   "yourBrand": "Az Ön márkája",
-  "syncVehicles": "Szinkronizálja a járműveket"
+  "syncVehicles": "Szinkronizálja a járműveket",
+  "tripsChargingCostsAndMore": "Utak, töltési költségek és továbbiak",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Lépj a Menetek, Töltések vagy Üresjárat menüpontba, majd nyomd meg a Kiválasztás gombot az adatok exportálásához jelentéskészítéshez és nyilvántartáshoz",
+  "rawData": "Nyers adatok",
+  "downloadCsvFilesWithAllRawVehicleData": "CSV-fájlok letöltése az összes nyers járműadattal"
 }

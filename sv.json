@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Synkat 1 fordon",
   "weWillConfirmIfTheyAreCompatible": "Vi bekräftar om de är kompatibla",
   "yourBrand": "Ditt varumärke",
-  "syncVehicles": "Synkronisera fordon"
+  "syncVehicles": "Synkronisera fordon",
+  "tripsChargingCostsAndMore": "Resor, laddningskostnader och mer",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Gå till Körningar, Laddningar eller Tomgång och tryck på Välj för att exportera data för rapportering och arkivering",
+  "rawData": "Rådata",
+  "downloadCsvFilesWithAllRawVehicleData": "Ladda ner CSV-filer med all rå fordonsdata"
 }

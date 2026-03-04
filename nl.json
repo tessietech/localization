@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "1 voertuig gesynchroniseerd",
   "weWillConfirmIfTheyAreCompatible": "We zullen bevestigen of ze compatibel zijn",
   "yourBrand": "Jouw merk",
-  "syncVehicles": "Synchroniseer voertuigen"
+  "syncVehicles": "Synchroniseer voertuigen",
+  "tripsChargingCostsAndMore": "Ritten, laadkosten en meer",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Ga naar Ritten, Laadsessies of Stationair en druk op Selecteren om gegevens te exporteren voor rapportage en administratie",
+  "rawData": "Ruwe gegevens",
+  "downloadCsvFilesWithAllRawVehicleData": "Download CSV-bestanden met alle ruwe voertuiggegevens"
 }

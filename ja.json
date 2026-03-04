@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "1台の車両を同期しました",
   "weWillConfirmIfTheyAreCompatible": "互換性があるかどうかを確認します",
   "yourBrand": "あなたのブランド",
-  "syncVehicles": "車両を同期する"
+  "syncVehicles": "車両を同期する",
+  "tripsChargingCostsAndMore": "走行、充電コストなど",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "ドライブ、充電、またはアイドルを開き、レポート作成や記録保存のためにデータをエクスポートするには「選択」を押してください",
+  "rawData": "生データ",
+  "downloadCsvFilesWithAllRawVehicleData": "車両のすべての生データを含むCSVファイルをダウンロード"
 }

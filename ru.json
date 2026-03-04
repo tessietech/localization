@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Синхронизирован 1 автомобиль",
   "weWillConfirmIfTheyAreCompatible": "Мы подтвердим, совместимы ли они",
   "yourBrand": "Ваш бренд",
-  "syncVehicles": "Синхронизировать транспортные средства"
+  "syncVehicles": "Синхронизировать транспортные средства",
+  "tripsChargingCostsAndMore": "Поездки, расходы на зарядку и другое",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Откройте Поездки, Зарядки или Простой и нажмите «Выбрать», чтобы экспортировать данные для отчетности и хранения",
+  "rawData": "Необработанные данные",
+  "downloadCsvFilesWithAllRawVehicleData": "Скачать CSV-файлы со всеми необработанными данными автомобиля"
 }

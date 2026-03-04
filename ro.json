@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Sincronizat 1 vehicul",
   "weWillConfirmIfTheyAreCompatible": "Vom confirma dacă sunt compatibile",
   "yourBrand": "Marca ta",
-  "syncVehicles": "Sincronizați vehiculele"
+  "syncVehicles": "Sincronizați vehiculele",
+  "tripsChargingCostsAndMore": "Călătorii, costuri de încărcare și altele",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Accesează Curse, Încărcări sau Staționări și apasă Selectează pentru a exporta date pentru raportare și arhivare",
+  "rawData": "Date brute",
+  "downloadCsvFilesWithAllRawVehicleData": "Descarcă fișiere CSV cu toate datele brute ale vehiculului"
 }

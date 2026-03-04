@@ -2791,5 +2791,9 @@
   "mobileWebApps": "Mobile & web apps",
   "overTheAirTripTracking": "Hardware-free trip tracking",
   "connectVehicles": "Connect vehicles",
-  "syncVehicles": "Sync vehicles"
+  "syncVehicles": "Sync vehicles",
+  "tripsChargingCostsAndMore": "Trips, charging costs and more",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Visit Drives, Charges or Idles and press Select to export data for reporting and record-keeping",
+  "rawData": "Raw data",
+  "downloadCsvFilesWithAllRawVehicleData": "Download CSV files with all raw vehicle data"
 }

@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "1 araç senkronize edildi",
   "weWillConfirmIfTheyAreCompatible": "Uyumlu olup olmadıklarını onaylayacağız",
   "yourBrand": "Markanız",
-  "syncVehicles": "Araçları senkronize et"
+  "syncVehicles": "Araçları senkronize et",
+  "tripsChargingCostsAndMore": "Sürüşler, şarj maliyetleri ve daha fazlası",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Raporlama ve kayıt tutma için verileri dışa aktarmak üzere Sürüşler, Şarjlar veya Rölanti bölümüne gidin ve Seç düğmesine basın",
+  "rawData": "Ham veriler",
+  "downloadCsvFilesWithAllRawVehicleData": "Tüm ham araç verilerini içeren CSV dosyalarını indirin"
 }

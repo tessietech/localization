@@ -2791,5 +2791,9 @@
   "syncedCountVehicles": "已同步 {count} 輛車輛",
   "syncedOneVehicle": "已同步 1 輛車",
   "weWillConfirmIfTheyAreCompatible": "我們將確認它們是否相容",
-  "yourBrand": "你的品牌"
+  "yourBrand": "你的品牌",
+  "tripsChargingCostsAndMore": "行程、充電成本等",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "前往行程、充電或怠速，然後按下「選擇」以匯出用於報告與記錄保存的資料",
+  "rawData": "原始資料",
+  "downloadCsvFilesWithAllRawVehicleData": "下載包含所有原始車輛資料的 CSV 檔案"
 }

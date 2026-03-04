@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Synkronisert 1 kjøretøy",
   "weWillConfirmIfTheyAreCompatible": "Vi vil bekrefte om de er kompatible",
   "yourBrand": "Ditt merke",
-  "syncVehicles": "Synkroniser kjøretøy"
+  "syncVehicles": "Synkroniser kjøretøy",
+  "tripsChargingCostsAndMore": "Turer, ladekostnader og mer",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Gå til Kjøringer, Ladinger eller Tomgang og trykk Velg for å eksportere data for rapportering og arkivering",
+  "rawData": "Rådata",
+  "downloadCsvFilesWithAllRawVehicleData": "Last ned CSV-filer med alle rå kjøretøydata"
 }

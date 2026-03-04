@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Synchronizováno 1 vozidlo",
   "weWillConfirmIfTheyAreCompatible": "Potvrdíme, zda jsou kompatibilní",
   "yourBrand": "Vaše značka",
-  "syncVehicles": "Synchronizace vozidel"
+  "syncVehicles": "Synchronizace vozidel",
+  "tripsChargingCostsAndMore": "Cesty, náklady na nabíjení a další",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Přejděte na Jízdy, Nabíjení nebo Nečinnost a stiskněte Vybrat pro export dat pro reporting a archivaci",
+  "rawData": "Nezpracovaná data",
+  "downloadCsvFilesWithAllRawVehicleData": "Stáhněte soubory CSV se všemi nezpracovanými daty vozidla"
 }

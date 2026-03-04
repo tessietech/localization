@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Synkronoitu 1 ajoneuvo",
   "weWillConfirmIfTheyAreCompatible": "Vahvistamme, ovatko ne yhteensopivia",
   "yourBrand": "Sinun brändisi",
-  "syncVehicles": "Synkronoi ajoneuvot"
+  "syncVehicles": "Synkronoi ajoneuvot",
+  "tripsChargingCostsAndMore": "Ajot, latauskustannukset ja paljon muuta",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Siirry kohtiin Ajot, Lataukset tai Tyhjäkäynnit ja paina Valitse viedäksesi tiedot raportointia ja kirjanpitoa varten",
+  "rawData": "Raakadata",
+  "downloadCsvFilesWithAllRawVehicleData": "Lataa CSV-tiedostot, jotka sisältävät kaiken ajoneuvon raakadatan"
 }

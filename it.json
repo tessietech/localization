@@ -2791,5 +2791,9 @@
   "syncedOneVehicle": "Sincronizzato 1 veicolo",
   "weWillConfirmIfTheyAreCompatible": "Confermeremo se sono compatibili",
   "yourBrand": "Il tuo marchio",
-  "syncVehicles": "Sincronizza i veicoli"
+  "syncVehicles": "Sincronizza i veicoli",
+  "tripsChargingCostsAndMore": "Viaggi, costi di ricarica e altro",
+  "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Vai su Viaggi, Ricariche o Soste e premi Seleziona per esportare i dati per reportistica e archiviazione",
+  "rawData": "Dati grezzi",
+  "downloadCsvFilesWithAllRawVehicleData": "Scarica file CSV con tutti i dati grezzi del veicolo"
 }
