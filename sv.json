@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "Total kostnad för körning om bränsle användes",
   "theAverageEnergyEfficiencyWhileDriving": "Genomsnittlig energieffektivitet under körning",
   "theTotalTimeSpentDriving": "Total tid spenderad på körning",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Totalt antal körningar",
   "theNumberOfDrivesDuringThisPeriod": "Antal körningar under denna period",
   "speedEfficiency": "Hastighetseffektivitet",

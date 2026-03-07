@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "A vezetés összes költsége üzemanyag felhasználása esetén.",
   "theAverageEnergyEfficiencyWhileDriving": "Az átlagos energiahatékonyság vezetés közben.",
   "theTotalTimeSpentDriving": "A vezetéssel töltött teljes idő.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Összes utazás",
   "theNumberOfDrivesDuringThisPeriod": "A utak száma ebben az időszakban.",
   "speedEfficiency": "Sebesség hatékonyság",

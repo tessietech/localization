@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "Yakıt kullanılsaydı toplam sürüş maliyeti.",
   "theAverageEnergyEfficiencyWhileDriving": "Sürüş sırasındaki ortalama enerji verimliliği.",
   "theTotalTimeSpentDriving": "Sürüşe harcanan toplam süre.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Toplam sürüşler",
   "theNumberOfDrivesDuringThisPeriod": "Bu süre zarfında gerçekleştirilen sürüşlerin sayısı.",
   "speedEfficiency": "Hız verimliliği",

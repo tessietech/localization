@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "The total cost of driving if fuel was used.",
   "theAverageEnergyEfficiencyWhileDriving": "The average energy efficiency while driving.",
   "theTotalTimeSpentDriving": "The total time spent driving.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Total drives",
   "theNumberOfDrivesDuringThisPeriod": "The number of drives during this period.",
   "speedEfficiency": "Speed efficiency",

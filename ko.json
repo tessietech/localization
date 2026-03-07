@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "연료를 사용한 경우의 주행 총 비용.",
   "theAverageEnergyEfficiencyWhileDriving": "주행 중의 평균 에너지 효율.",
   "theTotalTimeSpentDriving": "주행에 소요된 총 시간.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "총 주행",
   "theNumberOfDrivesDuringThisPeriod": "이 기간 동안의 주행 횟수.",
   "speedEfficiency": "속도 효율",

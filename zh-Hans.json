@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "使用燃油的等效驾驶总费用",
   "theAverageEnergyEfficiencyWhileDriving": "驾驶时的平均能效",
   "theTotalTimeSpentDriving": "总驾驶时间",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "总驾驶次数",
   "theNumberOfDrivesDuringThisPeriod": "此期间的驾驶次数",
   "speedEfficiency": "速度-能效",

@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "如果使用燃料，駕駛的總成本。",
   "theAverageEnergyEfficiencyWhileDriving": "駕駛時的平均能源效率。",
   "theTotalTimeSpentDriving": "花費在駕駛上的總時間。",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "總駕駛次數",
   "theNumberOfDrivesDuringThisPeriod": "此期間的駕駛次數。",
   "speedEfficiency": "速度效率",

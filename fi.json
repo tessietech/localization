@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "Ajon kokonaiskustannukset, jos polttoainetta olisi käytetty.",
   "theAverageEnergyEfficiencyWhileDriving": "Keskimääräinen energiatehokkuus ajon aikana.",
   "theTotalTimeSpentDriving": "Ajoon käytetty aika yhteensä.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Ajojen kokonaismäärä",
   "theNumberOfDrivesDuringThisPeriod": "Tämän ajanjakson ajojen lukumäärä.",
   "speedEfficiency": "Nopeustehokkuus",

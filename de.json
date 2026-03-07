@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "Die gesamten Fahrtkosten, wenn Kraftstoff verwendet wurde.",
   "theAverageEnergyEfficiencyWhileDriving": "Die durchschnittliche Energieeffizienz beim Fahren.",
   "theTotalTimeSpentDriving": "Die gesamte aufgewendete Zeit zum Fahren.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Gesamtfahrten",
   "theNumberOfDrivesDuringThisPeriod": "Die Anzahl der Fahrten während dieses Zeitraums.",
   "speedEfficiency": "Geschwindigkeitseffizienz",

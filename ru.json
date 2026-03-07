@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "Общая стоимость вождения, если бы использовалось топливо.",
   "theAverageEnergyEfficiencyWhileDriving": "Средняя энергоэффективность во время вождения.",
   "theTotalTimeSpentDriving": "Общее время, потраченное на вождение.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Всего поездок",
   "theNumberOfDrivesDuringThisPeriod": "Количество поездок за этот период.",
   "speedEfficiency": "Эффективность скорости",

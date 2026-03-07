@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "燃料を使用した場合の運転の総費用。",
   "theAverageEnergyEfficiencyWhileDriving": "運転中の平均エネルギー効率。",
   "theTotalTimeSpentDriving": "運転に費やした合計時間。",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "合計運転回数",
   "theNumberOfDrivesDuringThisPeriod": "この期間中の運転回数。",
   "speedEfficiency": "速度効率",

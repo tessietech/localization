@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "De totale rijkosten als er brandstof zou worden gebruikt.",
   "theAverageEnergyEfficiencyWhileDriving": "De gemiddelde energie-efficiëntie tijdens het rijden.",
   "theTotalTimeSpentDriving": "De totale tijd die is besteed aan rijden.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Totale ritten",
   "theNumberOfDrivesDuringThisPeriod": "Het aantal ritten in deze periode.",
   "speedEfficiency": "Snelheidsefficiëntie",

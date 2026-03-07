@@ -1290,6 +1290,7 @@
   "theTotalCostOfDrivingIfFuelWasUsed": "Totalul costului de condus dacă se folosea combustibil.",
   "theAverageEnergyEfficiencyWhileDriving": "Eficiența energetică medie în timpul conducerii.",
   "theTotalTimeSpentDriving": "Timpul total petrecut cu conducerea.",
+  "averageAndPeakDrivingSpeedsDuringThisPeriod": "Average and peak driving speeds during this period.",
   "totalDrives": "Total trasee",
   "theNumberOfDrivesDuringThisPeriod": "Numărul de trasee din această perioadă.",
   "speedEfficiency": "Eficiența vitezei",
