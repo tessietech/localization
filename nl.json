@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 keer inactief op deze locatie",
   "oneDriveToThisLocation": "1 keer gereden naar deze locatie",
   "showAll": "Alles weergeven",
+  "allDataHidden": "Alle gegevens zijn verborgen",
   "liveIdle": "Live stationair",
   "enableDirectTelemetry": "Directe telemetrie inschakelen",
   "configureYourFleetToCollectAndSendTelemetryData": "Configureer uw wagenpark om telemetriegegevens te verzamelen en te verzenden",

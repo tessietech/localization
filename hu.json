@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 tétlenség ezen a helyen",
   "oneDriveToThisLocation": "1 vezetés erre a helyre",
   "showAll": "Mutass mindent",
+  "allDataHidden": "Minden adat el van rejtve",
   "liveIdle": "Élő tétlenség",
   "enableDirectTelemetry": "Közvetlen telemetria engedélyezése",
   "configureYourFleetToCollectAndSendTelemetryData": "Konfigurálja flottáját telemetriai adatok küldésére",

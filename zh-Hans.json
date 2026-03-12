@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "在此地点闲置1次",
   "oneDriveToThisLocation": "至此地的驾驶1次",
   "showAll": "显示全部",
+  "allDataHidden": "所有数据均已隐藏",
   "liveIdle": "实时闲置",
   "enableDirectTelemetry": "启用直接遥测",
   "configureYourFleetToCollectAndSendTelemetryData": "配置您的车队以收集和发送遥测数据",

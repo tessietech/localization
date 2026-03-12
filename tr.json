@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "Bu konumda 1 bekleme",
   "oneDriveToThisLocation": "Bu konuma 1 sürüş",
   "showAll": "Tümünü göster",
+  "allDataHidden": "Tüm veriler gizlendi",
   "liveIdle": "Canlı boşta",
   "enableDirectTelemetry": "Doğrudan Telemetriyi Etkinleştir",
   "configureYourFleetToCollectAndSendTelemetryData": "Telemetri verilerini toplamak ve göndermek için filonuzu yapılandırın",

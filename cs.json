@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 nečinnost v tomto umístění",
   "oneDriveToThisLocation": "1 jízda do tohoto umístění",
   "showAll": "Zobrazit vše",
+  "allDataHidden": "Všechna data jsou skrytá",
   "liveIdle": "Živá nečinnost",
   "enableDirectTelemetry": "Povolit přímou telemetrii",
   "configureYourFleetToCollectAndSendTelemetryData": "Nakonfigurujte svůj vozový park tak, aby odesílal telemetrická data",

@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "此位置閒置 1 次",
   "oneDriveToThisLocation": "開車到此位置 1 次",
   "showAll": "顯示全部",
+  "allDataHidden": "所有資料皆已隱藏",
   "liveIdle": "閒置運作中",
   "enableDirectTelemetry": "啟用直接遙測",
   "configureYourFleetToCollectAndSendTelemetryData": "設定您的車隊以傳送遙測數據",

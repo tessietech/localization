@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 gang inaktiv på denne placering",
   "oneDriveToThisLocation": "1 køretur til denne placering",
   "showAll": "Vis alle",
+  "allDataHidden": "Alle data er skjult",
   "liveIdle": "Live inaktiv",
   "enableDirectTelemetry": "Aktivér direkte telemetri",
   "configureYourFleetToCollectAndSendTelemetryData": "Konfigurer din flåde til at sende telemetridata",

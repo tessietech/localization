@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 простой в этом месте",
   "oneDriveToThisLocation": "1 поездка в это место",
   "showAll": "Показать все",
+  "allDataHidden": "Все данные скрыты",
   "liveIdle": "Живой простой",
   "enableDirectTelemetry": "Включить прямую телеметрию",
   "configureYourFleetToCollectAndSendTelemetryData": "Настройте свой автопарк для сбора и отправки данных телеметрии",

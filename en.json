@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 idle at this location",
   "oneDriveToThisLocation": "1 drive to this location",
   "showAll": "Show all",
+  "allDataHidden": "All data hidden",
   "liveIdle": "Live idle",
   "enableDirectTelemetry": "Enable Direct Telemetry",
   "configureYourFleetToCollectAndSendTelemetryData": "Configure your fleet to send telemetry data",

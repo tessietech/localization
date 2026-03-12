@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 inaktivitet på denna plats",
   "oneDriveToThisLocation": "1 körning till denna plats",
   "showAll": "Visa alla",
+  "allDataHidden": "Alla data är dolda",
   "liveIdle": "Aktiv inaktivitet",
   "enableDirectTelemetry": "Aktivera Direkt Telemetri",
   "configureYourFleetToCollectAndSendTelemetryData": "Konfigurera din fordonsflotta för att samla in och skicka telemetridata",

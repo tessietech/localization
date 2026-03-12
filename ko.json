@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "이 위치에서 1회 유휴",
   "oneDriveToThisLocation": "이 위치로 1회 주행",
   "showAll": "모두 보기",
+  "allDataHidden": "모든 데이터가 숨겨졌습니다",
   "liveIdle": "실시간 유휴",
   "enableDirectTelemetry": "직접 원격 측정 사용",
   "configureYourFleetToCollectAndSendTelemetryData": "원격 측정 데이터를 수집하고 전송하도록 차량을 구성하세요.",

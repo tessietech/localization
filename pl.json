@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 postój w tej lokalizacji",
   "oneDriveToThisLocation": "1 przejazd do tej lokalizacji",
   "showAll": "Pokaż wszystko",
+  "allDataHidden": "Wszystkie dane są ukryte",
   "liveIdle": "Bieżący postój",
   "enableDirectTelemetry": "Włącz telemetrię bezpośrednią",
   "configureYourFleetToCollectAndSendTelemetryData": "Skonfiguruj swoją flotę, aby zbierała i wysyłała dane telemetryczne",

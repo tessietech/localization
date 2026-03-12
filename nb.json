@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 tomgangskjøring på dette stedet",
   "oneDriveToThisLocation": "1 kjøretur til dette stedet",
   "showAll": "Vis alle",
+  "allDataHidden": "Alle data er skjult",
   "liveIdle": "Tomgangskjøring",
   "enableDirectTelemetry": "Aktiver direkte telemetri",
   "configureYourFleetToCollectAndSendTelemetryData": "Konfigurer bilparken din til å sende telemetridata",

@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "1 odotusaika tässä sijainnissa",
   "oneDriveToThisLocation": "1 ajo tähän sijaintiin",
   "showAll": "Näytä kaikki",
+  "allDataHidden": "Kaikki tiedot on piilotettu",
   "liveIdle": "Live-odotusaika",
   "enableDirectTelemetry": "Ota käyttöön suora telemetria",
   "configureYourFleetToCollectAndSendTelemetryData": "Määritä kalustosi lähettämään telemetriatietoja",

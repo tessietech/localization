@@ -2218,6 +2218,7 @@
   "oneIdleAtThisLocation": "この場所でのアイドル時間：1回",
   "oneDriveToThisLocation": "この場所への運転回数：1回",
   "showAll": "すべて表示",
+  "allDataHidden": "すべてのデータが非表示です",
   "liveIdle": "ライブアイドル",
   "enableDirectTelemetry": "直接テレメトリを有効にする",
   "configureYourFleetToCollectAndSendTelemetryData": "テレメトリデータを収集して送信するようにフリートを構成する",
