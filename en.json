@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "Trips, charging costs and more",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Visit Drives, Charges or Idles and press Select to export data for reporting and record-keeping",
   "rawData": "Raw data",
-  "downloadCsvFilesWithAllRawVehicleData": "Download CSV files with all raw vehicle data"
+  "downloadCsvFilesWithAllRawVehicleData": "Download CSV files with all raw vehicle data",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }

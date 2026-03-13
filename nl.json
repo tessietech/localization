@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "Ritten, laadkosten en meer",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Ga naar Ritten, Laadsessies of Stationair en druk op Selecteren om gegevens te exporteren voor rapportage en administratie",
   "rawData": "Ruwe gegevens",
-  "downloadCsvFilesWithAllRawVehicleData": "Download CSV-bestanden met alle ruwe voertuiggegevens"
+  "downloadCsvFilesWithAllRawVehicleData": "Download CSV-bestanden met alle ruwe voertuiggegevens",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }

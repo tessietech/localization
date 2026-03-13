@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "Поездки, расходы на зарядку и другое",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Откройте Поездки, Зарядки или Простой и нажмите «Выбрать», чтобы экспортировать данные для отчетности и хранения",
   "rawData": "Необработанные данные",
-  "downloadCsvFilesWithAllRawVehicleData": "Скачать CSV-файлы со всеми необработанными данными автомобиля"
+  "downloadCsvFilesWithAllRawVehicleData": "Скачать CSV-файлы со всеми необработанными данными автомобиля",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }

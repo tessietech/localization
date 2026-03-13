@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "走行、充電コストなど",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "ドライブ、充電、またはアイドルを開き、レポート作成や記録保存のためにデータをエクスポートするには「選択」を押してください",
   "rawData": "生データ",
-  "downloadCsvFilesWithAllRawVehicleData": "車両のすべての生データを含むCSVファイルをダウンロード"
+  "downloadCsvFilesWithAllRawVehicleData": "車両のすべての生データを含むCSVファイルをダウンロード",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }

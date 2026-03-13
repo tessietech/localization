@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "行程、充电成本等",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "访问行程、充电或怠速并按“选择”，即可导出用于报告和记录保存的数据",
   "rawData": "原始数据",
-  "downloadCsvFilesWithAllRawVehicleData": "下载包含所有原始车辆数据的 CSV 文件"
+  "downloadCsvFilesWithAllRawVehicleData": "下载包含所有原始车辆数据的 CSV 文件",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }

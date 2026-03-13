@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "Sürüşler, şarj maliyetleri ve daha fazlası",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Raporlama ve kayıt tutma için verileri dışa aktarmak üzere Sürüşler, Şarjlar veya Rölanti bölümüne gidin ve Seç düğmesine basın",
   "rawData": "Ham veriler",
-  "downloadCsvFilesWithAllRawVehicleData": "Tüm ham araç verilerini içeren CSV dosyalarını indirin"
+  "downloadCsvFilesWithAllRawVehicleData": "Tüm ham araç verilerini içeren CSV dosyalarını indirin",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }

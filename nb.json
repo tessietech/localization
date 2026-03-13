@@ -2797,5 +2797,7 @@
   "tripsChargingCostsAndMore": "Turer, ladekostnader og mer",
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Gå til Kjøringer, Ladinger eller Tomgang og trykk Velg for å eksportere data for rapportering og arkivering",
   "rawData": "Rådata",
-  "downloadCsvFilesWithAllRawVehicleData": "Last ned CSV-filer med alle rå kjøretøydata"
+  "downloadCsvFilesWithAllRawVehicleData": "Last ned CSV-filer med alle rå kjøretøydata",
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
 }
