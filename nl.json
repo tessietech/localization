@@ -2799,5 +2799,9 @@
   "rawData": "Ruwe gegevens",
   "downloadCsvFilesWithAllRawVehicleData": "Download CSV-bestanden met alle ruwe voertuiggegevens",
   "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
-  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle."
+  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle.",
+  "resetWatchKey": "Reset Watch Key",
+  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "You'll need to be near the vehicle to set up Watch Key again.",
+  "turnYourWatchIntoABluetoothKeyAndKeycard": "Turn your watch into a Bluetooth key and keycard",
+  "turnYourWatchIntoABluetoothKey": "Turn your watch into a Bluetooth key"
 }
