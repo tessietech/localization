@@ -2798,10 +2798,10 @@
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "ドライブ、充電、またはアイドルを開き、レポート作成や記録保存のためにデータをエクスポートするには「選択」を押してください",
   "rawData": "生データ",
   "downloadCsvFilesWithAllRawVehicleData": "車両のすべての生データを含むCSVファイルをダウンロード",
-  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
-  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle.",
-  "resetWatchKey": "Reset Watch Key",
-  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "You'll need to be near the vehicle to set up Watch Key again.",
-  "turnYourWatchIntoABluetoothKeyAndKeycard": "Turn your watch into a Bluetooth key and keycard",
-  "turnYourWatchIntoABluetoothKey": "Turn your watch into a Bluetooth key"
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "施錠または解錠するには、運転席側ドアのピラーにウォッチをかざすこともできます。",
+  "turnOnNfcToUnlockByTappingYourWatch": "ウォッチを車両にかざして施錠または解錠できるように、NFCを有効にします。",
+  "resetWatchKey": "Watch Keyをリセット",
+  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Watch Keyをもう一度設定するには、車両の近くにいる必要があります。",
+  "turnYourWatchIntoABluetoothKeyAndKeycard": "ウォッチをBluetoothキー兼キーカードにする",
+  "turnYourWatchIntoABluetoothKey": "ウォッチをBluetoothキーにする"
 }

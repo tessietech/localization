@@ -2798,10 +2798,10 @@
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Öffnen Sie Fahrten, Ladevorgänge oder Leerlauf und tippen Sie auf Auswählen, um Daten für Berichte und Aufzeichnungen zu exportieren",
   "rawData": "Rohdaten",
   "downloadCsvFilesWithAllRawVehicleData": "CSV-Dateien mit allen Rohdaten des Fahrzeugs herunterladen",
-  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
-  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle.",
-  "resetWatchKey": "Reset Watch Key",
-  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "You'll need to be near the vehicle to set up Watch Key again.",
-  "turnYourWatchIntoABluetoothKeyAndKeycard": "Turn your watch into a Bluetooth key and keycard",
-  "turnYourWatchIntoABluetoothKey": "Turn your watch into a Bluetooth key"
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "Du kannst deine Uhr auch an die Türsäule auf der Fahrerseite halten, um zu ver- oder entriegeln.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Aktiviere NFC, um durch Antippen deiner Uhr am Fahrzeug zu ver- oder entriegeln.",
+  "resetWatchKey": "Watch Key zurücksetzen",
+  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Du musst dich in der Nähe des Fahrzeugs befinden, um Watch Key erneut einzurichten.",
+  "turnYourWatchIntoABluetoothKeyAndKeycard": "Verwandle deine Uhr in einen Bluetooth-Schlüssel und eine Schlüsselkarte",
+  "turnYourWatchIntoABluetoothKey": "Verwandle deine Uhr in einen Bluetooth-Schlüssel"
 }

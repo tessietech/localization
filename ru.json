@@ -2798,10 +2798,10 @@
   "visitDrivesChargesOrIdlesAndPressSelectToExportDataForReportingAndRecordkeeping": "Откройте Поездки, Зарядки или Простой и нажмите «Выбрать», чтобы экспортировать данные для отчетности и хранения",
   "rawData": "Необработанные данные",
   "downloadCsvFilesWithAllRawVehicleData": "Скачать CSV-файлы со всеми необработанными данными автомобиля",
-  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "You can also tap your watch against the driver's door pillar to lock or unlock.",
-  "turnOnNfcToUnlockByTappingYourWatch": "Enable NFC to lock or unlock by tapping your watch to the vehicle.",
-  "resetWatchKey": "Reset Watch Key",
-  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "You'll need to be near the vehicle to set up Watch Key again.",
-  "turnYourWatchIntoABluetoothKeyAndKeycard": "Turn your watch into a Bluetooth key and keycard",
-  "turnYourWatchIntoABluetoothKey": "Turn your watch into a Bluetooth key"
+  "tapYourWatchAgainstTheDriversDoorPillarToUnlock": "Вы также можете приложить часы к стойке водительской двери, чтобы запереть или отпереть автомобиль.",
+  "turnOnNfcToUnlockByTappingYourWatch": "Включите NFC, чтобы запирать или отпирать автомобиль, прикладывая часы к автомобилю.",
+  "resetWatchKey": "Сбросить Watch Key",
+  "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Чтобы снова настроить Watch Key, вам нужно находиться рядом с автомобилем.",
+  "turnYourWatchIntoABluetoothKeyAndKeycard": "Превратите свои часы в Bluetooth-ключ и ключ-карту",
+  "turnYourWatchIntoABluetoothKey": "Превратите свои часы в Bluetooth-ключ"
 }
