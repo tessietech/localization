@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Resetează Cheie ceas",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Va trebui să fii lângă vehicul pentru a configura din nou Cheie ceas.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Transformă-ți ceasul într-o cheie Bluetooth și card-cheie",
-  "turnYourWatchIntoABluetoothKey": "Transformă-ți ceasul într-o cheie Bluetooth"
+  "turnYourWatchIntoABluetoothKey": "Transformă-ți ceasul într-o cheie Bluetooth",
+  "wifi": "Wi-Fi",
+  "cellular": "Celular"
 }

@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Zresetuj klucz zegarka",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Aby ponownie skonfigurować klucz zegarka, musisz znajdować się w pobliżu pojazdu.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Zmień swój zegarek w klucz Bluetooth i kartę-klucz",
-  "turnYourWatchIntoABluetoothKey": "Zmień swój zegarek w klucz Bluetooth"
+  "turnYourWatchIntoABluetoothKey": "Zmień swój zegarek w klucz Bluetooth",
+  "wifi": "Wi-Fi",
+  "cellular": "Sieć komórkowa"
 }

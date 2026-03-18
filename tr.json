@@ -2803,5 +2803,7 @@
   "resetWatchKey": "İzleme Anahtarını sıfırla",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "İzleme Anahtarını yeniden ayarlamak için aracın yakınında olmanız gerekir.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Saatinizi Bluetooth anahtarına ve anahtar karta dönüştürün",
-  "turnYourWatchIntoABluetoothKey": "Saatinizi Bluetooth anahtarına dönüştürün"
+  "turnYourWatchIntoABluetoothKey": "Saatinizi Bluetooth anahtarına dönüştürün",
+  "wifi": "WiFi",
+  "cellular": "Hücresel"
 }

@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Watch 키 재설정",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Watch 키를 다시 설정하려면 차량 가까이에 있어야 합니다.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "시계를 Bluetooth 키이자 키 카드로 바꾸세요",
-  "turnYourWatchIntoABluetoothKey": "시계를 Bluetooth 키로 바꾸세요"
+  "turnYourWatchIntoABluetoothKey": "시계를 Bluetooth 키로 바꾸세요",
+  "wifi": "Wi-Fi",
+  "cellular": "셀룰러"
 }

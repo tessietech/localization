@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Återställ Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Du måste vara nära fordonet för att konfigurera Watch Key igen.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Gör din klocka till en Bluetooth-nyckel och ett nyckelkort",
-  "turnYourWatchIntoABluetoothKey": "Gör din klocka till en Bluetooth-nyckel"
+  "turnYourWatchIntoABluetoothKey": "Gör din klocka till en Bluetooth-nyckel",
+  "wifi": "WiFi",
+  "cellular": "Mobilnät"
 }

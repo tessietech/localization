@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Nulstil urnøgle",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Du skal være i nærheden af køretøjet for at konfigurere urnøglen igen.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Gør dit ur til en Bluetooth-nøgle og et nøglekort",
-  "turnYourWatchIntoABluetoothKey": "Gør dit ur til en Bluetooth-nøgle"
+  "turnYourWatchIntoABluetoothKey": "Gør dit ur til en Bluetooth-nøgle",
+  "wifi": "Wi-Fi",
+  "cellular": "Mobilnetværk"
 }

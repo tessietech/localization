@@ -2803,5 +2803,7 @@
   "resetWatchKey": "重設 Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "您需要靠近車輛才能再次設定 Watch Key。",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "將您的手錶變成藍牙鑰匙和鑰匙卡",
-  "turnYourWatchIntoABluetoothKey": "將您的手錶變成藍牙鑰匙"
+  "turnYourWatchIntoABluetoothKey": "將您的手錶變成藍牙鑰匙",
+  "wifi": "Wi-Fi",
+  "cellular": "行動網路"
 }

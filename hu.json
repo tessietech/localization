@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Órakulcs visszaállítása",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Az Órakulcs újbóli beállításához a jármű közelében kell lennie.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Alakítsa az óráját Bluetooth-kulccsá és kulcskártyává",
-  "turnYourWatchIntoABluetoothKey": "Alakítsa az óráját Bluetooth-kulccsá"
+  "turnYourWatchIntoABluetoothKey": "Alakítsa az óráját Bluetooth-kulccsá",
+  "wifi": "WiFi",
+  "cellular": "Mobilhálózat"
 }

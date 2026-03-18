@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Resetovat Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Abyste mohli Watch Key znovu nastavit, musíte být poblíž vozidla.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Proměňte své hodinky v Bluetooth klíč a klíčovou kartu",
-  "turnYourWatchIntoABluetoothKey": "Proměňte své hodinky v Bluetooth klíč"
+  "turnYourWatchIntoABluetoothKey": "Proměňte své hodinky v Bluetooth klíč",
+  "wifi": "Wi-Fi",
+  "cellular": "Mobilní síť"
 }

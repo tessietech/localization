@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Réinitialiser Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Vous devrez être près du véhicule pour configurer à nouveau Watch Key.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Transformez votre montre en clé Bluetooth et en carte-clé",
-  "turnYourWatchIntoABluetoothKey": "Transformez votre montre en clé Bluetooth"
+  "turnYourWatchIntoABluetoothKey": "Transformez votre montre en clé Bluetooth",
+  "wifi": "Wi-Fi",
+  "cellular": "Cellulaire"
 }

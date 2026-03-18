@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Tilbakestill Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Du må være nær kjøretøyet for å konfigurere Watch Key på nytt.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Gjør klokken om til en Bluetooth-nøkkel og et nøkkelkort",
-  "turnYourWatchIntoABluetoothKey": "Gjør klokken om til en Bluetooth-nøkkel"
+  "turnYourWatchIntoABluetoothKey": "Gjør klokken om til en Bluetooth-nøkkel",
+  "wifi": "Wi-Fi",
+  "cellular": "Mobilnett"
 }

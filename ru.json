@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Сбросить Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Чтобы снова настроить Watch Key, вам нужно находиться рядом с автомобилем.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Превратите свои часы в Bluetooth-ключ и ключ-карту",
-  "turnYourWatchIntoABluetoothKey": "Превратите свои часы в Bluetooth-ключ"
+  "turnYourWatchIntoABluetoothKey": "Превратите свои часы в Bluetooth-ключ",
+  "wifi": "Wi-Fi",
+  "cellular": "Сотовая связь"
 }

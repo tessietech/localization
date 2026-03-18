@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Nollaa Watch Key",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Sinun on oltava ajoneuvon lähellä, jotta voit määrittää Watch Keyn uudelleen.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Muuta kellosi Bluetooth-avaimeksi ja avainkortiksi",
-  "turnYourWatchIntoABluetoothKey": "Muuta kellosi Bluetooth-avaimeksi"
+  "turnYourWatchIntoABluetoothKey": "Muuta kellosi Bluetooth-avaimeksi",
+  "wifi": "Wi-Fi",
+  "cellular": "Matkapuhelinverkko"
 }

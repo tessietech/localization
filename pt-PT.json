@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Redefinir chave do relógio",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Terá de estar perto do veículo para configurar novamente a Chave do relógio.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Transforme o seu relógio numa chave Bluetooth e num cartão-chave",
-  "turnYourWatchIntoABluetoothKey": "Transforme o seu relógio numa chave Bluetooth"
+  "turnYourWatchIntoABluetoothKey": "Transforme o seu relógio numa chave Bluetooth",
+  "wifi": "Wi-Fi",
+  "cellular": "Rede móvel"
 }

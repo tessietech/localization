@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Watch Keyをリセット",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Watch Keyをもう一度設定するには、車両の近くにいる必要があります。",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "ウォッチをBluetoothキー兼キーカードにする",
-  "turnYourWatchIntoABluetoothKey": "ウォッチをBluetoothキーにする"
+  "turnYourWatchIntoABluetoothKey": "ウォッチをBluetoothキーにする",
+  "wifi": "WiFi",
+  "cellular": "携帯電話"
 }

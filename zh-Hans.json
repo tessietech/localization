@@ -2803,5 +2803,7 @@
   "resetWatchKey": "重置手表钥匙",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "您需要靠近车辆才能再次设置手表钥匙。",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "将您的手表变成蓝牙钥匙和钥匙卡",
-  "turnYourWatchIntoABluetoothKey": "将您的手表变成蓝牙钥匙"
+  "turnYourWatchIntoABluetoothKey": "将您的手表变成蓝牙钥匙",
+  "wifi": "Wi-Fi",
+  "cellular": "蜂窝网络"
 }

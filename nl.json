@@ -2803,5 +2803,7 @@
   "resetWatchKey": "Watch Key resetten",
   "youllNeedToBeNearTheVehicleToSetUpWatchKeyAgain": "Je moet in de buurt van het voertuig zijn om Watch Key opnieuw in te stellen.",
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Maak van je horloge een Bluetooth-sleutel en sleutelkaart",
-  "turnYourWatchIntoABluetoothKey": "Maak van je horloge een Bluetooth-sleutel"
+  "turnYourWatchIntoABluetoothKey": "Maak van je horloge een Bluetooth-sleutel",
+  "wifi": "Wifi",
+  "cellular": "Mobiel netwerk"
 }
