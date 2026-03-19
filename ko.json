@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "시계를 Bluetooth 키이자 키 카드로 바꾸세요",
   "turnYourWatchIntoABluetoothKey": "시계를 Bluetooth 키로 바꾸세요",
   "wifi": "Wi-Fi",
-  "cellular": "셀룰러"
+  "cellular": "셀룰러",
+  "yourPlanHasBeenUpdatedSuccessfully": "요금제가 성공적으로 업데이트되었습니다.",
+  "pleaseContactSupporttessiecomForHelp": "도움이 필요하면 support@tessie.com으로 문의해 주세요."
 }

@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "ウォッチをBluetoothキー兼キーカードにする",
   "turnYourWatchIntoABluetoothKey": "ウォッチをBluetoothキーにする",
   "wifi": "WiFi",
-  "cellular": "携帯電話"
+  "cellular": "携帯電話",
+  "yourPlanHasBeenUpdatedSuccessfully": "プランが正常に更新されました。",
+  "pleaseContactSupporttessiecomForHelp": "サポートが必要な場合は support@tessie.com までご連絡ください。"
 }

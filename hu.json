@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Alakítsa az óráját Bluetooth-kulccsá és kulcskártyává",
   "turnYourWatchIntoABluetoothKey": "Alakítsa az óráját Bluetooth-kulccsá",
   "wifi": "WiFi",
-  "cellular": "Mobilhálózat"
+  "cellular": "Mobilhálózat",
+  "yourPlanHasBeenUpdatedSuccessfully": "A csomagja sikeresen frissült.",
+  "pleaseContactSupporttessiecomForHelp": "Segítségért kérjük, lépjen kapcsolatba a support@tessie.com címmel."
 }

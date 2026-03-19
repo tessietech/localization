@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Gør dit ur til en Bluetooth-nøgle og et nøglekort",
   "turnYourWatchIntoABluetoothKey": "Gør dit ur til en Bluetooth-nøgle",
   "wifi": "Wi-Fi",
-  "cellular": "Mobilnetværk"
+  "cellular": "Mobilnetværk",
+  "yourPlanHasBeenUpdatedSuccessfully": "Dit abonnement er blevet opdateret.",
+  "pleaseContactSupporttessiecomForHelp": "Kontakt venligst support@tessie.com for hjælp."
 }

@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Saatinizi Bluetooth anahtarına ve anahtar karta dönüştürün",
   "turnYourWatchIntoABluetoothKey": "Saatinizi Bluetooth anahtarına dönüştürün",
   "wifi": "WiFi",
-  "cellular": "Hücresel"
+  "cellular": "Hücresel",
+  "yourPlanHasBeenUpdatedSuccessfully": "Planınız başarıyla güncellendi.",
+  "pleaseContactSupporttessiecomForHelp": "Yardım için lütfen support@tessie.com ile iletişime geçin."
 }

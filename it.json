@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Trasforma il tuo orologio in una chiave Bluetooth e una tessera-chiave",
   "turnYourWatchIntoABluetoothKey": "Trasforma il tuo orologio in una chiave Bluetooth",
   "wifi": "Wi-Fi",
-  "cellular": "Cellulare"
+  "cellular": "Cellulare",
+  "yourPlanHasBeenUpdatedSuccessfully": "Il tuo piano è stato aggiornato correttamente.",
+  "pleaseContactSupporttessiecomForHelp": "Contatta support@tessie.com per assistenza."
 }

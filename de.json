@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Verwandle deine Uhr in einen Bluetooth-Schlüssel und eine Schlüsselkarte",
   "turnYourWatchIntoABluetoothKey": "Verwandle deine Uhr in einen Bluetooth-Schlüssel",
   "wifi": "WLAN",
-  "cellular": "Mobilfunk"
+  "cellular": "Mobilfunk",
+  "yourPlanHasBeenUpdatedSuccessfully": "Dein Tarif wurde erfolgreich aktualisiert.",
+  "pleaseContactSupporttessiecomForHelp": "Bitte kontaktiere support@tessie.com, wenn du Hilfe brauchst."
 }

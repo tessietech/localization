@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Muuta kellosi Bluetooth-avaimeksi ja avainkortiksi",
   "turnYourWatchIntoABluetoothKey": "Muuta kellosi Bluetooth-avaimeksi",
   "wifi": "Wi-Fi",
-  "cellular": "Matkapuhelinverkko"
+  "cellular": "Matkapuhelinverkko",
+  "yourPlanHasBeenUpdatedSuccessfully": "Tilauksesi päivitettiin onnistuneesti.",
+  "pleaseContactSupporttessiecomForHelp": "Ota yhteyttä osoitteeseen support@tessie.com saadaksesi apua."
 }

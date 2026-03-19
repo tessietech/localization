@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "将您的手表变成蓝牙钥匙和钥匙卡",
   "turnYourWatchIntoABluetoothKey": "将您的手表变成蓝牙钥匙",
   "wifi": "Wi-Fi",
-  "cellular": "蜂窝网络"
+  "cellular": "蜂窝网络",
+  "yourPlanHasBeenUpdatedSuccessfully": "您的套餐已成功更新。",
+  "pleaseContactSupporttessiecomForHelp": "如需帮助，请联系 support@tessie.com。"
 }

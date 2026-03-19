@@ -2805,5 +2805,7 @@
   "turnYourWatchIntoABluetoothKeyAndKeycard": "Превратите свои часы в Bluetooth-ключ и ключ-карту",
   "turnYourWatchIntoABluetoothKey": "Превратите свои часы в Bluetooth-ключ",
   "wifi": "Wi-Fi",
-  "cellular": "Сотовая связь"
+  "cellular": "Сотовая связь",
+  "yourPlanHasBeenUpdatedSuccessfully": "Ваш тариф был успешно обновлен.",
+  "pleaseContactSupporttessiecomForHelp": "Пожалуйста, свяжитесь с support@tessie.com для получения помощи."
 }
