@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "Cellulare",
   "yourPlanHasBeenUpdatedSuccessfully": "Il tuo piano è stato aggiornato correttamente.",
-  "pleaseContactSupporttessiecomForHelp": "Contatta support@tessie.com per assistenza."
+  "pleaseContactSupporttessiecomForHelp": "Contatta support@tessie.com per assistenza.",
+  "nextBillingDate": "Prossima data di fatturazione",
+  "provider": "Fornitore",
+  "vehicleLicenses": "Licenze veicolo",
+  "includedInYourPlan": "Incluso nel tuo piano",
+  "licensesUsed": "Licenze utilizzate",
+  "addLicense": "Aggiungi licenza",
+  "renewsDate": "Si rinnova il {date}"
 }

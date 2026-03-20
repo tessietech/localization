@@ -2807,5 +2807,12 @@
   "wifi": "WiFi",
   "cellular": "Mobilhálózat",
   "yourPlanHasBeenUpdatedSuccessfully": "A csomagja sikeresen frissült.",
-  "pleaseContactSupporttessiecomForHelp": "Segítségért kérjük, lépjen kapcsolatba a support@tessie.com címmel."
+  "pleaseContactSupporttessiecomForHelp": "Segítségért kérjük, lépjen kapcsolatba a support@tessie.com címmel.",
+  "nextBillingDate": "Következő számlázási dátum",
+  "provider": "Szolgáltató",
+  "vehicleLicenses": "Járműlicencek",
+  "includedInYourPlan": "A csomagod része",
+  "licensesUsed": "Felhasznált licencek",
+  "addLicense": "Licenc hozzáadása",
+  "renewsDate": "Megújul ekkor: {date}"
 }

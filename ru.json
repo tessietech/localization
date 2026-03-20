@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "Сотовая связь",
   "yourPlanHasBeenUpdatedSuccessfully": "Ваш тариф был успешно обновлен.",
-  "pleaseContactSupporttessiecomForHelp": "Пожалуйста, свяжитесь с support@tessie.com для получения помощи."
+  "pleaseContactSupporttessiecomForHelp": "Пожалуйста, свяжитесь с support@tessie.com для получения помощи.",
+  "nextBillingDate": "Следующая дата списания",
+  "provider": "Поставщик",
+  "vehicleLicenses": "Лицензии на автомобили",
+  "includedInYourPlan": "Включено в ваш план",
+  "licensesUsed": "Использовано лицензий",
+  "addLicense": "Добавить лицензию",
+  "renewsDate": "Продлевается {date}"
 }

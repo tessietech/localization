@@ -2807,5 +2807,12 @@
   "wifi": "WiFi",
   "cellular": "Mobilnät",
   "yourPlanHasBeenUpdatedSuccessfully": "Ditt abonnemang har uppdaterats.",
-  "pleaseContactSupporttessiecomForHelp": "Kontakta support@tessie.com om du behöver hjälp."
+  "pleaseContactSupporttessiecomForHelp": "Kontakta support@tessie.com om du behöver hjälp.",
+  "nextBillingDate": "Nästa faktureringsdatum",
+  "provider": "Leverantör",
+  "vehicleLicenses": "Fordonlicenser",
+  "includedInYourPlan": "Ingår i din plan",
+  "licensesUsed": "Använda licenser",
+  "addLicense": "Lägg till licens",
+  "renewsDate": "Förnyas {date}"
 }

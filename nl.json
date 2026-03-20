@@ -2807,5 +2807,12 @@
   "wifi": "Wifi",
   "cellular": "Mobiel netwerk",
   "yourPlanHasBeenUpdatedSuccessfully": "Je abonnement is bijgewerkt.",
-  "pleaseContactSupporttessiecomForHelp": "Neem contact op met support@tessie.com voor hulp."
+  "pleaseContactSupporttessiecomForHelp": "Neem contact op met support@tessie.com voor hulp.",
+  "nextBillingDate": "Volgende factuurdatum",
+  "provider": "Aanbieder",
+  "vehicleLicenses": "Voertuiglicenties",
+  "includedInYourPlan": "Inbegrepen in je abonnement",
+  "licensesUsed": "Gebruikte licenties",
+  "addLicense": "Licentie toevoegen",
+  "renewsDate": "Wordt verlengd op {date}"
 }

@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "蜂窝网络",
   "yourPlanHasBeenUpdatedSuccessfully": "您的套餐已成功更新。",
-  "pleaseContactSupporttessiecomForHelp": "如需帮助，请联系 support@tessie.com。"
+  "pleaseContactSupporttessiecomForHelp": "如需帮助，请联系 support@tessie.com。",
+  "nextBillingDate": "下次账单日期",
+  "provider": "服务提供商",
+  "vehicleLicenses": "车辆许可证",
+  "includedInYourPlan": "已包含在您的套餐中",
+  "licensesUsed": "已使用许可证",
+  "addLicense": "添加许可证",
+  "renewsDate": "{date}续订"
 }

@@ -2807,5 +2807,12 @@
   "wifi": "WiFi",
   "cellular": "Hücresel",
   "yourPlanHasBeenUpdatedSuccessfully": "Planınız başarıyla güncellendi.",
-  "pleaseContactSupporttessiecomForHelp": "Yardım için lütfen support@tessie.com ile iletişime geçin."
+  "pleaseContactSupporttessiecomForHelp": "Yardım için lütfen support@tessie.com ile iletişime geçin.",
+  "nextBillingDate": "Sonraki fatura tarihi",
+  "provider": "Sağlayıcı",
+  "vehicleLicenses": "Araç lisansları",
+  "includedInYourPlan": "Planınıza dahil",
+  "licensesUsed": "Kullanılan lisanslar",
+  "addLicense": "Lisans ekle",
+  "renewsDate": "{date} tarihinde yenilenir"
 }

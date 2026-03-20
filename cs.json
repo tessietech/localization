@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "Mobilní síť",
   "yourPlanHasBeenUpdatedSuccessfully": "Váš tarif byl úspěšně aktualizován.",
-  "pleaseContactSupporttessiecomForHelp": "Kontaktujte prosím support@tessie.com a požádejte o pomoc."
+  "pleaseContactSupporttessiecomForHelp": "Kontaktujte prosím support@tessie.com a požádejte o pomoc.",
+  "nextBillingDate": "Datum příští platby",
+  "provider": "Poskytovatel",
+  "vehicleLicenses": "Licence vozidel",
+  "includedInYourPlan": "Součást vašeho tarifu",
+  "licensesUsed": "Použité licence",
+  "addLicense": "Přidat licenci",
+  "renewsDate": "Obnoví se {date}"
 }

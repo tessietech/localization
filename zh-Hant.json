@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "行動網路",
   "yourPlanHasBeenUpdatedSuccessfully": "您的方案已成功更新。",
-  "pleaseContactSupporttessiecomForHelp": "如需協助，請聯絡 support@tessie.com。"
+  "pleaseContactSupporttessiecomForHelp": "如需協助，請聯絡 support@tessie.com。",
+  "nextBillingDate": "下次帳單日期",
+  "provider": "服務供應商",
+  "vehicleLicenses": "車輛授權",
+  "includedInYourPlan": "已包含在您的方案中",
+  "licensesUsed": "已使用授權",
+  "addLicense": "新增授權",
+  "renewsDate": "{date}續訂"
 }

@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "Celular",
   "yourPlanHasBeenUpdatedSuccessfully": "Planul dumneavoastră a fost actualizat cu succes.",
-  "pleaseContactSupporttessiecomForHelp": "Contactați support@tessie.com pentru ajutor."
+  "pleaseContactSupporttessiecomForHelp": "Contactați support@tessie.com pentru ajutor.",
+  "nextBillingDate": "Următoarea dată de facturare",
+  "provider": "Furnizor",
+  "vehicleLicenses": "Licențe pentru vehicule",
+  "includedInYourPlan": "Inclus în planul tău",
+  "licensesUsed": "Licențe utilizate",
+  "addLicense": "Adaugă licență",
+  "renewsDate": "Se reînnoiește la {date}"
 }

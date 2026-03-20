@@ -2807,5 +2807,12 @@
   "wifi": "WiFi",
   "cellular": "携帯電話",
   "yourPlanHasBeenUpdatedSuccessfully": "プランが正常に更新されました。",
-  "pleaseContactSupporttessiecomForHelp": "サポートが必要な場合は support@tessie.com までご連絡ください。"
+  "pleaseContactSupporttessiecomForHelp": "サポートが必要な場合は support@tessie.com までご連絡ください。",
+  "nextBillingDate": "次回請求日",
+  "provider": "プロバイダー",
+  "vehicleLicenses": "車両ライセンス",
+  "includedInYourPlan": "プランに含まれています",
+  "licensesUsed": "使用中のライセンス",
+  "addLicense": "ライセンスを追加",
+  "renewsDate": "{date}に更新されます"
 }

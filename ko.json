@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "셀룰러",
   "yourPlanHasBeenUpdatedSuccessfully": "요금제가 성공적으로 업데이트되었습니다.",
-  "pleaseContactSupporttessiecomForHelp": "도움이 필요하면 support@tessie.com으로 문의해 주세요."
+  "pleaseContactSupporttessiecomForHelp": "도움이 필요하면 support@tessie.com으로 문의해 주세요.",
+  "nextBillingDate": "다음 결제일",
+  "provider": "제공업체",
+  "vehicleLicenses": "차량 라이선스",
+  "includedInYourPlan": "요금제에 포함됨",
+  "licensesUsed": "사용 중인 라이선스",
+  "addLicense": "라이선스 추가",
+  "renewsDate": "{date}에 갱신"
 }

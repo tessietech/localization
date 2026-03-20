@@ -2807,5 +2807,12 @@
   "wifi": "Wi-Fi",
   "cellular": "Matkapuhelinverkko",
   "yourPlanHasBeenUpdatedSuccessfully": "Tilauksesi päivitettiin onnistuneesti.",
-  "pleaseContactSupporttessiecomForHelp": "Ota yhteyttä osoitteeseen support@tessie.com saadaksesi apua."
+  "pleaseContactSupporttessiecomForHelp": "Ota yhteyttä osoitteeseen support@tessie.com saadaksesi apua.",
+  "nextBillingDate": "Seuraava laskutuspäivä",
+  "provider": "Palveluntarjoaja",
+  "vehicleLicenses": "Ajoneuvolisenssit",
+  "includedInYourPlan": "Sisältyy tilaukseesi",
+  "licensesUsed": "Käytetyt lisenssit",
+  "addLicense": "Lisää lisenssi",
+  "renewsDate": "Uusiutuu {date}"
 }
