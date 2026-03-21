@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Sisältyy tilaukseesi",
   "licensesUsed": "Käytetyt lisenssit",
   "addLicense": "Lisää lisenssi",
-  "renewsDate": "Uusiutuu {date}"
+  "renewsDate": "Uusiutuu {date}",
+  "exportingTripsAndCosts": "Matkojen ja kustannusten vienti"
 }

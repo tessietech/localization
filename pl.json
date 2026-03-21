@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Wliczone w Twój plan",
   "licensesUsed": "Wykorzystane licencje",
   "addLicense": "Dodaj licencję",
-  "renewsDate": "Odnowi się {date}"
+  "renewsDate": "Odnowi się {date}",
+  "exportingTripsAndCosts": "Eksport podróży i kosztów"
 }

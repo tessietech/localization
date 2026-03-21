@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "プランに含まれています",
   "licensesUsed": "使用中のライセンス",
   "addLicense": "ライセンスを追加",
-  "renewsDate": "{date}に更新されます"
+  "renewsDate": "{date}に更新されます",
+  "exportingTripsAndCosts": "走行とコストのエクスポート"
 }

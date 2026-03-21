@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "요금제에 포함됨",
   "licensesUsed": "사용 중인 라이선스",
   "addLicense": "라이선스 추가",
-  "renewsDate": "{date}에 갱신"
+  "renewsDate": "{date}에 갱신",
+  "exportingTripsAndCosts": "주행 및 비용 내보내기"
 }

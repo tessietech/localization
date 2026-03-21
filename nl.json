@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Inbegrepen in je abonnement",
   "licensesUsed": "Gebruikte licenties",
   "addLicense": "Licentie toevoegen",
-  "renewsDate": "Wordt verlengd op {date}"
+  "renewsDate": "Wordt verlengd op {date}",
+  "exportingTripsAndCosts": "Export van ritten en kosten"
 }

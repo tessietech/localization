@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Inclus dans votre abonnement",
   "licensesUsed": "Licences utilisées",
   "addLicense": "Ajouter une licence",
-  "renewsDate": "Renouvelle le {date}"
+  "renewsDate": "Renouvelle le {date}",
+  "exportingTripsAndCosts": "Exportation des trajets et des coûts"
 }

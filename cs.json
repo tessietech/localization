@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Součást vašeho tarifu",
   "licensesUsed": "Použité licence",
   "addLicense": "Přidat licenci",
-  "renewsDate": "Obnoví se {date}"
+  "renewsDate": "Obnoví se {date}",
+  "exportingTripsAndCosts": "Export jízd a nákladů"
 }

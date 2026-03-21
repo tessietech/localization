@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "A csomagod része",
   "licensesUsed": "Felhasznált licencek",
   "addLicense": "Licenc hozzáadása",
-  "renewsDate": "Megújul ekkor: {date}"
+  "renewsDate": "Megújul ekkor: {date}",
+  "exportingTripsAndCosts": "Utak és költségek exportálása"
 }

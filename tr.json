@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Planınıza dahil",
   "licensesUsed": "Kullanılan lisanslar",
   "addLicense": "Lisans ekle",
-  "renewsDate": "{date} tarihinde yenilenir"
+  "renewsDate": "{date} tarihinde yenilenir",
+  "exportingTripsAndCosts": "Sürüşleri ve maliyetleri dışa aktarma"
 }

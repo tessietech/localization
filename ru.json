@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Включено в ваш план",
   "licensesUsed": "Использовано лицензий",
   "addLicense": "Добавить лицензию",
-  "renewsDate": "Продлевается {date}"
+  "renewsDate": "Продлевается {date}",
+  "exportingTripsAndCosts": "Экспорт поездок и затрат"
 }

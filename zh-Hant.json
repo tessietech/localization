@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "已包含在您的方案中",
   "licensesUsed": "已使用授權",
   "addLicense": "新增授權",
-  "renewsDate": "{date}續訂"
+  "renewsDate": "{date}續訂",
+  "exportingTripsAndCosts": "匯出行程和費用"
 }

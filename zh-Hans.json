@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "已包含在您的套餐中",
   "licensesUsed": "已使用许可证",
   "addLicense": "添加许可证",
-  "renewsDate": "{date}续订"
+  "renewsDate": "{date}续订",
+  "exportingTripsAndCosts": "导出行程和费用"
 }

@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Ingår i din plan",
   "licensesUsed": "Använda licenser",
   "addLicense": "Lägg till licens",
-  "renewsDate": "Förnyas {date}"
+  "renewsDate": "Förnyas {date}",
+  "exportingTripsAndCosts": "Export av resor och kostnader"
 }

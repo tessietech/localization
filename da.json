@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Inkluderet i dit abonnement",
   "licensesUsed": "Brugte licenser",
   "addLicense": "Tilføj licens",
-  "renewsDate": "Fornyes {date}"
+  "renewsDate": "Fornyes {date}",
+  "exportingTripsAndCosts": "Eksport af ture og omkostninger"
 }

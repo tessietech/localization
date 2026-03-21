@@ -2814,5 +2814,6 @@
   "includedInYourPlan": "Inclus în planul tău",
   "licensesUsed": "Licențe utilizate",
   "addLicense": "Adaugă licență",
-  "renewsDate": "Se reînnoiește la {date}"
+  "renewsDate": "Se reînnoiește la {date}",
+  "exportingTripsAndCosts": "Exportul călătoriilor și costurilor"
 }
