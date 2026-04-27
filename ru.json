@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Добро пожаловать",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie подключено и собирает для вас данные",
   "perSession": "За сеанс",
-  "forChargersThatBillPerSession": "Для зарядных устройств, которые выставляют счет за сеанс"
+  "forChargersThatBillPerSession": "Для зарядных устройств, которые выставляют счет за сеанс",
+  "linkingVehicle": "Подключение автомобиля",
+  "durationCounterDaysShort": "{count}д",
+  "durationCounterHoursShort": "{count}ч",
+  "durationCounterMinutesShort": "{count}мин",
+  "durationCounterSecondsShort": "{count}с",
+  "durationCounterLessThanOneMinuteShort": "<1мин",
+  "notifications": "Уведомления",
+  "freeTrial": "Бесплатная пробная версия",
+  "renew": "Продлить",
+  "subscriptions": "Подписки",
+  "vehicleLicenseCountOne": "{count} лицензия автомобиля",
+  "vehicleLicenseCountMany": "{count} лицензий автомобиля",
+  "yourSubscriptions": "Ваши подписки",
+  "unlimitedVehicleLicenses": "Неограниченные лицензии автомобилей",
+  "purchasedDate": "Куплено {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Не удалось загрузить. Повторите попытку позже или обратитесь в support@tessie.com, если проблема не исчезнет.",
+  "redeemedDate": "Активировано {date}"
 }

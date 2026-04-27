@@ -2852,5 +2852,22 @@
   "welcomeAboard": "ようこそ",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie が接続され、データを収集しています",
   "perSession": "1セッションあたり",
-  "forChargersThatBillPerSession": "1セッション単位で課金する充電器の場合"
+  "forChargersThatBillPerSession": "1セッション単位で課金する充電器の場合",
+  "linkingVehicle": "車両をリンクしています",
+  "durationCounterDaysShort": "{count}日",
+  "durationCounterHoursShort": "{count}時間",
+  "durationCounterMinutesShort": "{count}分",
+  "durationCounterSecondsShort": "{count}秒",
+  "durationCounterLessThanOneMinuteShort": "<1分",
+  "notifications": "通知",
+  "freeTrial": "無料トライアル",
+  "renew": "更新",
+  "subscriptions": "サブスクリプション",
+  "vehicleLicenseCountOne": "車両ライセンス {count} 件",
+  "vehicleLicenseCountMany": "車両ライセンス {count} 件",
+  "yourSubscriptions": "あなたのサブスクリプション",
+  "unlimitedVehicleLicenses": "無制限の車両ライセンス",
+  "purchasedDate": "購入日 {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "読み込めません。しばらくしてからもう一度お試しください。問題が解決しない場合は support@tessie.com までお問い合わせください。",
+  "redeemedDate": "{date}に引き換え済み"
 }

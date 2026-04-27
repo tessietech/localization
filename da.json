@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Velkommen ombord",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie er tilsluttet og indsamler data for dig",
   "perSession": "Pr. session",
-  "forChargersThatBillPerSession": "Til ladestandere, der fakturerer pr. session"
+  "forChargersThatBillPerSession": "Til ladestandere, der fakturerer pr. session",
+  "linkingVehicle": "Kobler køretøj",
+  "durationCounterDaysShort": "{count}d",
+  "durationCounterHoursShort": "{count}t",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}sek",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Notifikationer",
+  "freeTrial": "Gratis prøveperiode",
+  "renew": "Forny",
+  "subscriptions": "Abonnementer",
+  "vehicleLicenseCountOne": "{count} køretøjslicens",
+  "vehicleLicenseCountMany": "{count} køretøjslicenser",
+  "yourSubscriptions": "Dine abonnementer",
+  "unlimitedVehicleLicenses": "Ubegrænsede køretøjslicenser",
+  "purchasedDate": "Købt {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Kan ikke indlæses. Prøv igen senere, eller kontakt support@tessie.com, hvis problemet fortsætter.",
+  "redeemedDate": "Indløst {date}"
 }

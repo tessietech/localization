@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Bine ai venit la bord",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie este conectat și colectează date pentru tine",
   "perSession": "Pe sesiune",
-  "forChargersThatBillPerSession": "Pentru încărcătoarele care facturează pe sesiune"
+  "forChargersThatBillPerSession": "Pentru încărcătoarele care facturează pe sesiune",
+  "linkingVehicle": "Se conectează vehiculul",
+  "durationCounterDaysShort": "{count}z",
+  "durationCounterHoursShort": "{count}h",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}s",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Notificări",
+  "freeTrial": "Perioadă de probă gratuită",
+  "renew": "Reînnoiește",
+  "subscriptions": "Abonamente",
+  "vehicleLicenseCountOne": "{count} licență vehicul",
+  "vehicleLicenseCountMany": "{count} licențe vehicul",
+  "yourSubscriptions": "Abonamentele tale",
+  "unlimitedVehicleLicenses": "Licențe vehicul nelimitate",
+  "purchasedDate": "Cumpărat pe {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Nu se poate încărca. Încearcă din nou mai târziu sau contactează support@tessie.com dacă problema persistă.",
+  "redeemedDate": "Valorificat pe {date}"
 }

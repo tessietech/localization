@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Vítejte na palubě",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie je připojeno a shromažďuje pro vás data",
   "perSession": "Za relaci",
-  "forChargersThatBillPerSession": "Pro nabíječky, které účtují za relaci"
+  "forChargersThatBillPerSession": "Pro nabíječky, které účtují za relaci",
+  "linkingVehicle": "Propojování vozidla",
+  "durationCounterDaysShort": "{count}d",
+  "durationCounterHoursShort": "{count}h",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}s",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Oznámení",
+  "freeTrial": "Bezplatná zkušební verze",
+  "renew": "Obnovit",
+  "subscriptions": "Předplatná",
+  "vehicleLicenseCountOne": "{count} licence vozidla",
+  "vehicleLicenseCountMany": "{count} licencí vozidla",
+  "yourSubscriptions": "Vaše předplatná",
+  "unlimitedVehicleLicenses": "Neomezené licence vozidel",
+  "purchasedDate": "Zakoupeno {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Nelze načíst. Zkuste to prosím později nebo kontaktujte support@tessie.com, pokud problém přetrvává.",
+  "redeemedDate": "Uplatněno {date}"
 }

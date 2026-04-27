@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Tervetuloa mukaan",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie on yhdistetty ja kerää tietoja puolestasi",
   "perSession": "Per latauskerta",
-  "forChargersThatBillPerSession": "Latureille, joiden laskutusperuste on latauskerta"
+  "forChargersThatBillPerSession": "Latureille, joiden laskutusperuste on latauskerta",
+  "linkingVehicle": "Yhdistetään ajoneuvoa",
+  "durationCounterDaysShort": "{count}pv",
+  "durationCounterHoursShort": "{count}h",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}s",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Ilmoitukset",
+  "freeTrial": "Ilmainen kokeilu",
+  "renew": "Uusi",
+  "subscriptions": "Tilaukset",
+  "vehicleLicenseCountOne": "{count} ajoneuvolisenssi",
+  "vehicleLicenseCountMany": "{count} ajoneuvolisenssiä",
+  "yourSubscriptions": "Tilauksesi",
+  "unlimitedVehicleLicenses": "Rajattomat ajoneuvolisenssit",
+  "purchasedDate": "Ostettu {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Lataaminen ei onnistu. Yritä myöhemmin uudelleen tai ota yhteyttä osoitteeseen support@tessie.com, jos ongelma jatkuu.",
+  "redeemedDate": "Lunastettu {date}"
 }

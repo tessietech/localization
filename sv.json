@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Välkommen ombord",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie är ansluten och samlar in data åt dig",
   "perSession": "Per session",
-  "forChargersThatBillPerSession": "För laddare som debiterar per session"
+  "forChargersThatBillPerSession": "För laddare som debiterar per session",
+  "linkingVehicle": "Ansluter fordon",
+  "durationCounterDaysShort": "{count}d",
+  "durationCounterHoursShort": "{count}h",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}s",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Aviseringar",
+  "freeTrial": "Gratis provperiod",
+  "renew": "Förnya",
+  "subscriptions": "Prenumerationer",
+  "vehicleLicenseCountOne": "{count} fordonslicens",
+  "vehicleLicenseCountMany": "{count} fordonslicenser",
+  "yourSubscriptions": "Dina prenumerationer",
+  "unlimitedVehicleLicenses": "Obegränsade fordonslicenser",
+  "purchasedDate": "Köpt {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Det går inte att läsa in. Försök igen senare eller kontakta support@tessie.com om problemet kvarstår.",
+  "redeemedDate": "Inlöst {date}"
 }

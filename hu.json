@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Üdv a fedélzeten",
   "tessieIsConnectedAndCollectingDataForYou": "A Tessie csatlakoztatva van, és adatokat gyűjt Önnek",
   "perSession": "Munkamenetenként",
-  "forChargersThatBillPerSession": "A munkamenetenként számlázó töltőkre"
+  "forChargersThatBillPerSession": "A munkamenetenként számlázó töltőkre",
+  "linkingVehicle": "Jármű összekapcsolása",
+  "durationCounterDaysShort": "{count}n",
+  "durationCounterHoursShort": "{count}ó",
+  "durationCounterMinutesShort": "{count}p",
+  "durationCounterSecondsShort": "{count}mp",
+  "durationCounterLessThanOneMinuteShort": "<1p",
+  "notifications": "Értesítések",
+  "freeTrial": "Ingyenes próbaidőszak",
+  "renew": "Megújítás",
+  "subscriptions": "Előfizetések",
+  "vehicleLicenseCountOne": "{count} járműlicenc",
+  "vehicleLicenseCountMany": "{count} járműlicenc",
+  "yourSubscriptions": "Előfizetéseid",
+  "unlimitedVehicleLicenses": "Korlátlan járműlicencek",
+  "purchasedDate": "Megvásárolva: {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Nem sikerült betölteni. Próbáld újra később, vagy írj a support@tessie.com címre, ha a probléma továbbra is fennáll.",
+  "redeemedDate": "Beváltva {date}"
 }

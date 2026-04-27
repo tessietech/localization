@@ -2852,5 +2852,22 @@
   "welcomeAboard": "欢迎加入",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie 已连接，正在为您收集数据",
   "perSession": "每次会话",
-  "forChargersThatBillPerSession": "适用于按次充电会话收费的充电器"
+  "forChargersThatBillPerSession": "适用于按次充电会话收费的充电器",
+  "linkingVehicle": "正在关联车辆",
+  "durationCounterDaysShort": "{count}天",
+  "durationCounterHoursShort": "{count}小时",
+  "durationCounterMinutesShort": "{count}分",
+  "durationCounterSecondsShort": "{count}秒",
+  "durationCounterLessThanOneMinuteShort": "<1分",
+  "notifications": "通知",
+  "freeTrial": "免费试用",
+  "renew": "续订",
+  "subscriptions": "订阅",
+  "vehicleLicenseCountOne": "{count} 个车辆许可证",
+  "vehicleLicenseCountMany": "{count} 个车辆许可证",
+  "yourSubscriptions": "你的订阅",
+  "unlimitedVehicleLicenses": "无限车辆许可证",
+  "purchasedDate": "购买日期 {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "无法加载。请稍后重试；如果问题仍然存在，请联系 support@tessie.com。",
+  "redeemedDate": "{date}已兑换"
 }

@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Aramıza hoş geldiniz",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie bağlı ve sizin için veri topluyor",
   "perSession": "Oturum başına",
-  "forChargersThatBillPerSession": "Oturum başına fatura kesen şarj aletleri için"
+  "forChargersThatBillPerSession": "Oturum başına fatura kesen şarj aletleri için",
+  "linkingVehicle": "Araç bağlanıyor",
+  "durationCounterDaysShort": "{count}g",
+  "durationCounterHoursShort": "{count}sa",
+  "durationCounterMinutesShort": "{count}dk",
+  "durationCounterSecondsShort": "{count}sn",
+  "durationCounterLessThanOneMinuteShort": "<1dk",
+  "notifications": "Bildirimler",
+  "freeTrial": "Ücretsiz deneme",
+  "renew": "Yenile",
+  "subscriptions": "Abonelikler",
+  "vehicleLicenseCountOne": "{count} araç lisansı",
+  "vehicleLicenseCountMany": "{count} araç lisansı",
+  "yourSubscriptions": "Abonelikleriniz",
+  "unlimitedVehicleLicenses": "Sınırsız araç lisansı",
+  "purchasedDate": "Satın alındı {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Yüklenemedi. Lütfen daha sonra tekrar deneyin veya sorun devam ederse support@tessie.com ile iletişime geçin.",
+  "redeemedDate": "{date} tarihinde kullanıldı"
 }

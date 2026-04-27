@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Welkom aan boord",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie is verbonden en verzamelt gegevens voor u",
   "perSession": "Per sessie",
-  "forChargersThatBillPerSession": "Voor opladers die per sessie factureren"
+  "forChargersThatBillPerSession": "Voor opladers die per sessie factureren",
+  "linkingVehicle": "Voertuig koppelen",
+  "durationCounterDaysShort": "{count}d",
+  "durationCounterHoursShort": "{count}u",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}s",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Meldingen",
+  "freeTrial": "Gratis proefperiode",
+  "renew": "Verlengen",
+  "subscriptions": "Abonnementen",
+  "vehicleLicenseCountOne": "{count} voertuiglicentie",
+  "vehicleLicenseCountMany": "{count} voertuiglicenties",
+  "yourSubscriptions": "Je abonnementen",
+  "unlimitedVehicleLicenses": "Onbeperkte voertuiglicenties",
+  "purchasedDate": "Gekocht op {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Kan niet laden. Probeer het later opnieuw of neem contact op met support@tessie.com als het probleem aanhoudt.",
+  "redeemedDate": "Ingewisseld op {date}"
 }

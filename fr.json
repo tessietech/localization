@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Bienvenue à bord",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie est connecté et collecte des données pour vous",
   "perSession": "Par session",
-  "forChargersThatBillPerSession": "Pour les chargeurs qui facturent par session"
+  "forChargersThatBillPerSession": "Pour les chargeurs qui facturent par session",
+  "linkingVehicle": "Association du véhicule",
+  "durationCounterDaysShort": "{count}j",
+  "durationCounterHoursShort": "{count}h",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}s",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Notifications",
+  "freeTrial": "Essai gratuit",
+  "renew": "Renouveler",
+  "subscriptions": "Abonnements",
+  "vehicleLicenseCountOne": "{count} licence de véhicule",
+  "vehicleLicenseCountMany": "{count} licences de véhicule",
+  "yourSubscriptions": "Vos abonnements",
+  "unlimitedVehicleLicenses": "Licences de véhicule illimitées",
+  "purchasedDate": "Acheté le {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Impossible de charger. Veuillez réessayer plus tard ou contacter support@tessie.com si le problème persiste.",
+  "redeemedDate": "Utilisé le {date}"
 }

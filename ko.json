@@ -2852,5 +2852,22 @@
   "welcomeAboard": "환영합니다",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie가 연결되어 데이터를 수집하고 있습니다",
   "perSession": "세션당",
-  "forChargersThatBillPerSession": "세션당 요금이 부과되는 충전기의 경우"
+  "forChargersThatBillPerSession": "세션당 요금이 부과되는 충전기의 경우",
+  "linkingVehicle": "차량 연결 중",
+  "durationCounterDaysShort": "{count}일",
+  "durationCounterHoursShort": "{count}시간",
+  "durationCounterMinutesShort": "{count}분",
+  "durationCounterSecondsShort": "{count}초",
+  "durationCounterLessThanOneMinuteShort": "<1분",
+  "notifications": "알림",
+  "freeTrial": "무료 체험",
+  "renew": "갱신",
+  "subscriptions": "구독",
+  "vehicleLicenseCountOne": "차량 라이선스 {count}개",
+  "vehicleLicenseCountMany": "차량 라이선스 {count}개",
+  "yourSubscriptions": "내 구독",
+  "unlimitedVehicleLicenses": "무제한 차량 라이선스",
+  "purchasedDate": "구매일 {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "불러올 수 없습니다. 나중에 다시 시도하거나 문제가 계속되면 support@tessie.com으로 문의하세요.",
+  "redeemedDate": "{date}에 사용됨"
 }

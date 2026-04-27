@@ -2852,5 +2852,22 @@
   "welcomeAboard": "歡迎加入",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie 已連線，正在為您收集資料",
   "perSession": "每次工作階段",
-  "forChargersThatBillPerSession": "針對按次充電工作階段計費的充電器"
+  "forChargersThatBillPerSession": "針對按次充電工作階段計費的充電器",
+  "linkingVehicle": "正在連結車輛",
+  "durationCounterDaysShort": "{count}天",
+  "durationCounterHoursShort": "{count}小時",
+  "durationCounterMinutesShort": "{count}分",
+  "durationCounterSecondsShort": "{count}秒",
+  "durationCounterLessThanOneMinuteShort": "<1分",
+  "notifications": "通知",
+  "freeTrial": "免費試用",
+  "renew": "續訂",
+  "subscriptions": "訂閱",
+  "vehicleLicenseCountOne": "{count} 個車輛授權",
+  "vehicleLicenseCountMany": "{count} 個車輛授權",
+  "yourSubscriptions": "您的訂閱",
+  "unlimitedVehicleLicenses": "無限車輛授權",
+  "purchasedDate": "購買日期 {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "無法載入。請稍後再試；如果問題仍然存在，請聯絡 support@tessie.com。",
+  "redeemedDate": "{date}已兌換"
 }

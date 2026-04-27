@@ -2852,5 +2852,22 @@
   "welcomeAboard": "Velkommen om bord",
   "tessieIsConnectedAndCollectingDataForYou": "Tessie er tilkoblet og samler inn data for deg",
   "perSession": "Per økt",
-  "forChargersThatBillPerSession": "For ladere som fakturerer per økt"
+  "forChargersThatBillPerSession": "For ladere som fakturerer per økt",
+  "linkingVehicle": "Kobler til kjøretøy",
+  "durationCounterDaysShort": "{count}d",
+  "durationCounterHoursShort": "{count}t",
+  "durationCounterMinutesShort": "{count}min",
+  "durationCounterSecondsShort": "{count}sek",
+  "durationCounterLessThanOneMinuteShort": "<1min",
+  "notifications": "Varsler",
+  "freeTrial": "Gratis prøveperiode",
+  "renew": "Forny",
+  "subscriptions": "Abonnementer",
+  "vehicleLicenseCountOne": "{count} kjøretøylisens",
+  "vehicleLicenseCountMany": "{count} kjøretøylisenser",
+  "yourSubscriptions": "Dine abonnementer",
+  "unlimitedVehicleLicenses": "Ubegrensede kjøretøylisenser",
+  "purchasedDate": "Kjøpt {date}",
+  "unableToLoadPleaseTryAgainLaterOrContactSupporttessiecomIfTheIssuePersists": "Kan ikke lastes inn. Prøv igjen senere eller kontakt support@tessie.com hvis problemet vedvarer.",
+  "redeemedDate": "Innløst {date}"
 }
