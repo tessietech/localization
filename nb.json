@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Utløper {dateTimeExpiration}",
   "revoke": "Tilbaketrek",
   "thisInvitationWillBeRevoked": "Denne invitasjonen vil bli trukket tilbake.",
-  "addUpToFiveDriversToYourVehicle": "Legg til opptil fem førere til kjøretøyet ditt",
   "addDriver": "Legg til fører",
   "editLocation": "Rediger lokasjon",
   "unableToScheduleClimate": "Kan ikke planlegge klima",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Prøv igjen eller kontakt support@tessie.com hvis problemet vedvarer",
   "anUnknownErrorOccurred": "Det oppstod en ukjent feil",
   "roles": "Roller",
-  "manageVehicleSubscriptionAndChargingPayers": "Administrer betalere for kjøretøyabonnement og lading",
   "subscriptionPayer": "Abonnementsbetaler",
   "chargingPayer": "Ladebetaler",
   "setAsSubscriptionPayer": "Angi som abonnementsbetaler",
   "setAsChargingPayer": "Angi som ladebetaler",
   "unableToLoadRolesPleaseTryAgainLater": "Kan ikke laste inn roller. Prøv igjen senere",
-  "errorSettingPayer": "Feil ved innstilling av betaler"
+  "errorSettingPayer": "Feil ved innstilling av betaler",
+  "manageDriversAndPayers": "Administrer førere og betalere",
+  "addOrRemoveDrivers": "Legg til eller fjern førere",
+  "addOrRemoveVehicleAccess": "Legg til eller fjern kjøretøytilgang",
+  "scanTheQrCodeShownInYourVehicle": "Skann QR-koden som vises i kjøretøyet ditt"
 }

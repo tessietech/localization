@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Verloopt {dateTimeExpiration}",
   "revoke": "Intrekken",
   "thisInvitationWillBeRevoked": "Deze uitnodiging wordt ingetrokken.",
-  "addUpToFiveDriversToYourVehicle": "Voeg maximaal vijf bestuurders toe aan je voertuig",
   "addDriver": "Bestuurder toevoegen",
   "editLocation": "Locatie bewerken",
   "unableToScheduleClimate": "Kan klimaat niet plannen",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Probeer het opnieuw of neem contact op met support@tessie.com als het probleem aanhoudt",
   "anUnknownErrorOccurred": "Er is een onbekende fout opgetreden",
   "roles": "Rollen",
-  "manageVehicleSubscriptionAndChargingPayers": "Beheer betalers voor voertuigabonnement en laden",
   "subscriptionPayer": "Abonnementsbetaler",
   "chargingPayer": "Laadbetaler",
   "setAsSubscriptionPayer": "Instellen als abonnementsbetaler",
   "setAsChargingPayer": "Instellen als laadbetaler",
   "unableToLoadRolesPleaseTryAgainLater": "Kan rollen niet laden. Probeer het later opnieuw",
-  "errorSettingPayer": "Fout bij instellen van betaler"
+  "errorSettingPayer": "Fout bij instellen van betaler",
+  "manageDriversAndPayers": "Bestuurders en betalers beheren",
+  "addOrRemoveDrivers": "Bestuurders toevoegen of verwijderen",
+  "addOrRemoveVehicleAccess": "Voertuigtoegang toevoegen of verwijderen",
+  "scanTheQrCodeShownInYourVehicle": "Scan de QR-code die in je voertuig wordt weergegeven"
 }

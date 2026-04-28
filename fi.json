@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Vanhenee {dateTimeExpiration}",
   "revoke": "Peruuta",
   "thisInvitationWillBeRevoked": "Tämä kutsu perutaan.",
-  "addUpToFiveDriversToYourVehicle": "Lisää ajoneuvoosi jopa viisi kuljettajaa",
   "addDriver": "Lisää kuljettaja",
   "editLocation": "Muokkaa sijaintia",
   "unableToScheduleClimate": "Ilmastointia ei voi ajoittaa",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Yritä uudelleen tai ota yhteyttä osoitteeseen support@tessie.com, jos ongelma jatkuu",
   "anUnknownErrorOccurred": "Tapahtui tuntematon virhe",
   "roles": "Roolit",
-  "manageVehicleSubscriptionAndChargingPayers": "Hallitse ajoneuvon tilauksen ja latauksen maksajia",
   "subscriptionPayer": "Tilauksen maksaja",
   "chargingPayer": "Latauksen maksaja",
   "setAsSubscriptionPayer": "Aseta tilauksen maksajaksi",
   "setAsChargingPayer": "Aseta latauksen maksajaksi",
   "unableToLoadRolesPleaseTryAgainLater": "Rooleja ei voi ladata. Yritä myöhemmin uudelleen",
-  "errorSettingPayer": "Virhe maksajan asettamisessa"
+  "errorSettingPayer": "Virhe maksajan asettamisessa",
+  "manageDriversAndPayers": "Hallitse kuljettajia ja maksajia",
+  "addOrRemoveDrivers": "Lisää tai poista kuljettajia",
+  "addOrRemoveVehicleAccess": "Lisää tai poista ajoneuvon käyttöoikeus",
+  "scanTheQrCodeShownInYourVehicle": "Skannaa ajoneuvossasi näkyvä QR-koodi"
 }

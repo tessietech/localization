@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Lejár {dateTimeExpiration}",
   "revoke": "Visszavonás",
   "thisInvitationWillBeRevoked": "Ez a meghívó visszavonásra kerül.",
-  "addUpToFiveDriversToYourVehicle": "Adjon hozzá akár öt sofőrt járművéhez",
   "addDriver": "Sofőr hozzáadása",
   "editLocation": "Hely szerkesztése",
   "unableToScheduleClimate": "Nem sikerült ütemezni a klímát",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Próbálja újra, vagy lépjen kapcsolatba a support@tessie.com címmel, ha a probléma továbbra is fennáll",
   "anUnknownErrorOccurred": "Ismeretlen hiba történt",
   "roles": "Szerepkörök",
-  "manageVehicleSubscriptionAndChargingPayers": "A jármű előfizetési és töltési fizetőinek kezelése",
   "subscriptionPayer": "Előfizetés fizetője",
   "chargingPayer": "Töltés fizetője",
   "setAsSubscriptionPayer": "Beállítás előfizetés fizetőjeként",
   "setAsChargingPayer": "Beállítás töltés fizetőjeként",
   "unableToLoadRolesPleaseTryAgainLater": "Nem sikerült betölteni a szerepköröket. Próbálja újra később",
-  "errorSettingPayer": "Hiba a fizető beállításakor"
+  "errorSettingPayer": "Hiba a fizető beállításakor",
+  "manageDriversAndPayers": "Járművezetők és fizetők kezelése",
+  "addOrRemoveDrivers": "Járművezetők hozzáadása vagy eltávolítása",
+  "addOrRemoveVehicleAccess": "Járműhozzáférés hozzáadása vagy eltávolítása",
+  "scanTheQrCodeShownInYourVehicle": "Olvasd be a járművedben látható QR-kódot"
 }

@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Истекает {dateTimeExpiration}",
   "revoke": "Отозвать",
   "thisInvitationWillBeRevoked": "Это приглашение будет отозвано.",
-  "addUpToFiveDriversToYourVehicle": "Добавьте до пяти водителей к своему автомобилю",
   "addDriver": "Добавить водителя",
   "editLocation": "Редактировать местоположение",
   "unableToScheduleClimate": "Невозможно запланировать климат",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Повторите попытку или обратитесь в support@tessie.com, если проблема не исчезнет",
   "anUnknownErrorOccurred": "Произошла неизвестная ошибка",
   "roles": "Роли",
-  "manageVehicleSubscriptionAndChargingPayers": "Управляйте плательщиками подписки и зарядки автомобиля",
   "subscriptionPayer": "Плательщик подписки",
   "chargingPayer": "Плательщик зарядки",
   "setAsSubscriptionPayer": "Назначить плательщиком подписки",
   "setAsChargingPayer": "Назначить плательщиком зарядки",
   "unableToLoadRolesPleaseTryAgainLater": "Не удалось загрузить роли. Повторите попытку позже",
-  "errorSettingPayer": "Ошибка при назначении плательщика"
+  "errorSettingPayer": "Ошибка при назначении плательщика",
+  "manageDriversAndPayers": "Управляйте водителями и плательщиками",
+  "addOrRemoveDrivers": "Добавить или удалить водителей",
+  "addOrRemoveVehicleAccess": "Добавить или удалить доступ к автомобилю",
+  "scanTheQrCodeShownInYourVehicle": "Отсканируйте QR-код, показанный в автомобиле"
 }

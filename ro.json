@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Expiră la {dateTimeExpiration}",
   "revoke": "Revocați",
   "thisInvitationWillBeRevoked": "Această invitație va fi revocată.",
-  "addUpToFiveDriversToYourVehicle": "Adăugați până la cinci șoferi la vehiculul dvs",
   "addDriver": "Adăugați șofer",
   "editLocation": "Editați locația",
   "unableToScheduleClimate": "Nu se poate programa climatizarea",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Încearcă din nou sau contactează support@tessie.com dacă problema persistă",
   "anUnknownErrorOccurred": "A apărut o eroare necunoscută",
   "roles": "Roluri",
-  "manageVehicleSubscriptionAndChargingPayers": "Gestionați plătitorii abonamentului și încărcării vehiculului",
   "subscriptionPayer": "Plătitor abonament",
   "chargingPayer": "Plătitor încărcare",
   "setAsSubscriptionPayer": "Setați ca plătitor al abonamentului",
   "setAsChargingPayer": "Setați ca plătitor al încărcării",
   "unableToLoadRolesPleaseTryAgainLater": "Nu se pot încărca rolurile. Încercați din nou mai târziu",
-  "errorSettingPayer": "Eroare la setarea plătitorului"
+  "errorSettingPayer": "Eroare la setarea plătitorului",
+  "manageDriversAndPayers": "Gestionați șoferii și plătitorii",
+  "addOrRemoveDrivers": "Adăugați sau eliminați șoferi",
+  "addOrRemoveVehicleAccess": "Adăugați sau eliminați accesul la vehicul",
+  "scanTheQrCodeShownInYourVehicle": "Scanați codul QR afișat în vehicul"
 }

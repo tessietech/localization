@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Wygasa {dateTimeExpiration}",
   "revoke": "Cofnij",
   "thisInvitationWillBeRevoked": "To zaproszenie zostanie cofnięte.",
-  "addUpToFiveDriversToYourVehicle": "Dodaj do pięciu kierowców do swojego pojazdu",
   "addDriver": "Dodaj kierowcę",
   "editLocation": "Edytuj lokalizację",
   "unableToScheduleClimate": "Nie można zaplanować klimatyzacji",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Spróbuj ponownie lub skontaktuj się z support@tessie.com, jeśli problem będzie się powtarzał",
   "anUnknownErrorOccurred": "Wystąpił nieznany błąd",
   "roles": "Role",
-  "manageVehicleSubscriptionAndChargingPayers": "Zarządzaj płatnikami subskrypcji i ładowania pojazdu",
   "subscriptionPayer": "Płatnik subskrypcji",
   "chargingPayer": "Płatnik ładowania",
   "setAsSubscriptionPayer": "Ustaw jako płatnika subskrypcji",
   "setAsChargingPayer": "Ustaw jako płatnika ładowania",
   "unableToLoadRolesPleaseTryAgainLater": "Nie można wczytać ról. Spróbuj ponownie później",
-  "errorSettingPayer": "Błąd ustawiania płatnika"
+  "errorSettingPayer": "Błąd ustawiania płatnika",
+  "manageDriversAndPayers": "Zarządzaj kierowcami i płatnikami",
+  "addOrRemoveDrivers": "Dodaj lub usuń kierowców",
+  "addOrRemoveVehicleAccess": "Dodaj lub usuń dostęp do pojazdu",
+  "scanTheQrCodeShownInYourVehicle": "Zeskanuj kod QR wyświetlany w pojeździe"
 }

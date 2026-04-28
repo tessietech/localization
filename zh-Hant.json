@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "將於 {dateTimeExpiration} 到期",
   "revoke": "撤銷",
   "thisInvitationWillBeRevoked": "此邀請將被撤銷。",
-  "addUpToFiveDriversToYourVehicle": "將最多五名駕駛新增至您的車輛",
   "addDriver": "新增駕駛",
   "editLocation": "編輯地點",
   "unableToScheduleClimate": "無法排定空調時間",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "請再試一次；如果問題仍然存在，請聯絡 support@tessie.com",
   "anUnknownErrorOccurred": "發生未知錯誤",
   "roles": "角色",
-  "manageVehicleSubscriptionAndChargingPayers": "管理車輛訂閱和充電付款方",
   "subscriptionPayer": "訂閱付款方",
   "chargingPayer": "充電付款方",
   "setAsSubscriptionPayer": "設為訂閱付款方",
   "setAsChargingPayer": "設為充電付款方",
   "unableToLoadRolesPleaseTryAgainLater": "無法載入角色。請稍後再試",
-  "errorSettingPayer": "設定付款方時發生錯誤"
+  "errorSettingPayer": "設定付款方時發生錯誤",
+  "manageDriversAndPayers": "管理駕駛員和付款方",
+  "addOrRemoveDrivers": "新增或移除駕駛員",
+  "addOrRemoveVehicleAccess": "新增或移除車輛存取權限",
+  "scanTheQrCodeShownInYourVehicle": "掃描車輛中顯示的 QR 碼"
 }

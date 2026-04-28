@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Expires {dateTimeExpiration}",
   "revoke": "Revoke",
   "thisInvitationWillBeRevoked": "This invitation will be revoked.",
-  "addUpToFiveDriversToYourVehicle": "Add up to five drivers to your vehicle",
   "addDriver": "Add driver",
   "editLocation": "Edit location",
   "unableToScheduleClimate": "Unable to schedule climate",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Please try again or contact support@tessie.com if the issue persists",
   "anUnknownErrorOccurred": "An unknown error occurred",
   "roles": "Roles",
-  "manageVehicleSubscriptionAndChargingPayers": "Manage vehicle subscription and charging payers",
   "subscriptionPayer": "Subscription payer",
   "chargingPayer": "Charging payer",
   "setAsSubscriptionPayer": "Set as subscription payer",
   "setAsChargingPayer": "Set as charging payer",
   "unableToLoadRolesPleaseTryAgainLater": "Unable to load roles. Please try again later",
-  "errorSettingPayer": "Error setting payer"
+  "errorSettingPayer": "Error setting payer",
+  "manageDriversAndPayers": "Manage drivers and payers",
+  "addOrRemoveDrivers": "Add or remove drivers",
+  "addOrRemoveVehicleAccess": "Add or remove vehicle access",
+  "scanTheQrCodeShownInYourVehicle": "Scan the QR code shown in your vehicle"
 }

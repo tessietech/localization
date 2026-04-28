@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Platnost vyprší: {dateTimeExpiration}",
   "revoke": "Zrušit",
   "thisInvitationWillBeRevoked": "Tato pozvánka bude zrušena.",
-  "addUpToFiveDriversToYourVehicle": "Přidejte do svého vozidla až pět řidičů",
   "addDriver": "Přidat řidiče",
   "editLocation": "Upravit polohu",
   "unableToScheduleClimate": "Klimatizaci nelze naplánovat",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Zkuste to znovu nebo kontaktujte support@tessie.com, pokud problém přetrvává",
   "anUnknownErrorOccurred": "Došlo k neznámé chybě",
   "roles": "Role",
-  "manageVehicleSubscriptionAndChargingPayers": "Spravovat plátce předplatného a nabíjení vozidla",
   "subscriptionPayer": "Plátce předplatného",
   "chargingPayer": "Plátce nabíjení",
   "setAsSubscriptionPayer": "Nastavit jako plátce předplatného",
   "setAsChargingPayer": "Nastavit jako plátce nabíjení",
   "unableToLoadRolesPleaseTryAgainLater": "Nelze načíst role. Zkuste to prosím později",
-  "errorSettingPayer": "Chyba při nastavování plátce"
+  "errorSettingPayer": "Chyba při nastavování plátce",
+  "manageDriversAndPayers": "Spravovat řidiče a plátce",
+  "addOrRemoveDrivers": "Přidat nebo odebrat řidiče",
+  "addOrRemoveVehicleAccess": "Přidat nebo odebrat přístup k vozidlu",
+  "scanTheQrCodeShownInYourVehicle": "Naskenujte QR kód zobrazený ve vašem vozidle"
 }

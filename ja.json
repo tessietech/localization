@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "有効期限 {dateTimeExpiration}",
   "revoke": "取り消し",
   "thisInvitationWillBeRevoked": "この招待は取り消されます。",
-  "addUpToFiveDriversToYourVehicle": "車両に最大5人のドライバーを追加",
   "addDriver": "ドライバーを追加",
   "editLocation": "場所を編集",
   "unableToScheduleClimate": "気候をスケジュールできません",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "もう一度お試しいただくか、問題が解決しない場合は support@tessie.com までお問い合わせください",
   "anUnknownErrorOccurred": "不明なエラーが発生しました",
   "roles": "ロール",
-  "manageVehicleSubscriptionAndChargingPayers": "車両のサブスクリプションと充電の支払者を管理",
   "subscriptionPayer": "サブスクリプション支払者",
   "chargingPayer": "充電支払者",
   "setAsSubscriptionPayer": "サブスクリプション支払者に設定",
   "setAsChargingPayer": "充電支払者に設定",
   "unableToLoadRolesPleaseTryAgainLater": "ロールを読み込めません。後でもう一度お試しください",
-  "errorSettingPayer": "支払者の設定エラー"
+  "errorSettingPayer": "支払者の設定エラー",
+  "manageDriversAndPayers": "ドライバーと支払者を管理",
+  "addOrRemoveDrivers": "ドライバーを追加または削除",
+  "addOrRemoveVehicleAccess": "車両アクセスを追加または削除",
+  "scanTheQrCodeShownInYourVehicle": "車両に表示されているQRコードをスキャンしてください"
 }

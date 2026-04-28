@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "Expire le {dateTimeExpiration}",
   "revoke": "Révoquer",
   "thisInvitationWillBeRevoked": "Cette invitation sera révoquée.",
-  "addUpToFiveDriversToYourVehicle": "Ajoutez jusqu'à cinq conducteurs à votre véhicule",
   "addDriver": "Ajouter un conducteur",
   "editLocation": "Modifier l'emplacement",
   "unableToScheduleClimate": "Impossible de planifier la climatisation",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Veuillez réessayer ou contacter support@tessie.com si le problème persiste",
   "anUnknownErrorOccurred": "Une erreur inconnue s’est produite",
   "roles": "Rôles",
-  "manageVehicleSubscriptionAndChargingPayers": "Gérer les payeurs de l’abonnement et de la recharge du véhicule",
   "subscriptionPayer": "Payeur de l’abonnement",
   "chargingPayer": "Payeur de la recharge",
   "setAsSubscriptionPayer": "Définir comme payeur de l’abonnement",
   "setAsChargingPayer": "Définir comme payeur de la recharge",
   "unableToLoadRolesPleaseTryAgainLater": "Impossible de charger les rôles. Veuillez réessayer ultérieurement",
-  "errorSettingPayer": "Erreur lors de la définition du payeur"
+  "errorSettingPayer": "Erreur lors de la définition du payeur",
+  "manageDriversAndPayers": "Gérer les conducteurs et les payeurs",
+  "addOrRemoveDrivers": "Ajouter ou supprimer des conducteurs",
+  "addOrRemoveVehicleAccess": "Ajouter ou supprimer l’accès au véhicule",
+  "scanTheQrCodeShownInYourVehicle": "Scannez le code QR affiché dans votre véhicule"
 }

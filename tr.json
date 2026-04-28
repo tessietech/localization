@@ -1220,7 +1220,6 @@
   "expiresDateTimeExpiration": "{dateTimeExpiration} tarihinde sona eriyor",
   "revoke": "Geri çek",
   "thisInvitationWillBeRevoked": "Bu davet geri çekilecek.",
-  "addUpToFiveDriversToYourVehicle": "Arabanıza en fazla beş sürücü ekleyin",
   "addDriver": "Sürücü ekle",
   "editLocation": "Konumu düzenle",
   "unableToScheduleClimate": "İklim zamanlaması yapılamıyor",
@@ -2881,11 +2880,14 @@
   "pleaseTryAgainOrContactSupporttessiecomIfTheIssuePersists": "Lütfen tekrar deneyin veya sorun devam ederse support@tessie.com ile iletişime geçin",
   "anUnknownErrorOccurred": "Bilinmeyen bir hata oluştu",
   "roles": "Roller",
-  "manageVehicleSubscriptionAndChargingPayers": "Araç aboneliği ve şarj ödeyicilerini yönetin",
   "subscriptionPayer": "Abonelik ödeyicisi",
   "chargingPayer": "Şarj ödeyicisi",
   "setAsSubscriptionPayer": "Abonelik ödeyicisi olarak ayarla",
   "setAsChargingPayer": "Şarj ödeyicisi olarak ayarla",
   "unableToLoadRolesPleaseTryAgainLater": "Roller yüklenemiyor. Lütfen daha sonra tekrar deneyin",
-  "errorSettingPayer": "Ödeyici ayarlanırken hata"
+  "errorSettingPayer": "Ödeyici ayarlanırken hata",
+  "manageDriversAndPayers": "Sürücüleri ve ödeyicileri yönetin",
+  "addOrRemoveDrivers": "Sürücü ekle veya kaldır",
+  "addOrRemoveVehicleAccess": "Araç erişimi ekle veya kaldır",
+  "scanTheQrCodeShownInYourVehicle": "Aracınızda gösterilen QR kodunu tarayın"
 }
