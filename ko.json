@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "운전자 및 결제자 관리",
   "addOrRemoveDrivers": "운전자 추가 또는 제거",
   "addOrRemoveVehicleAccess": "차량 접근 권한 추가 또는 제거",
-  "scanTheQrCodeShownInYourVehicle": "차량에 표시된 QR 코드를 스캔하세요"
+  "scanTheQrCodeShownInYourVehicle": "차량에 표시된 QR 코드를 스캔하세요",
+  "color": "색상",
+  "blue": "파란색",
+  "red": "빨간색",
+  "orange": "주황색",
+  "green": "초록색",
+  "teal": "청록색",
+  "purple": "보라색",
+  "pink": "분홍색",
+  "custom": "사용자 지정",
+  "currentPlanDuplicateBillingNote": "이 구독은 현재 요금제에 이미 포함되어 있습니다. 중복 청구를 피하려면 취소할 수 있습니다.",
+  "experience": "경험"
 }

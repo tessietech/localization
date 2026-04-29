@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Hantera förare och betalare",
   "addOrRemoveDrivers": "Lägg till eller ta bort förare",
   "addOrRemoveVehicleAccess": "Lägg till eller ta bort fordonsåtkomst",
-  "scanTheQrCodeShownInYourVehicle": "Skanna QR-koden som visas i ditt fordon"
+  "scanTheQrCodeShownInYourVehicle": "Skanna QR-koden som visas i ditt fordon",
+  "color": "Färg",
+  "blue": "Blå",
+  "red": "Röd",
+  "orange": "Orange",
+  "green": "Grön",
+  "teal": "Blågrön",
+  "purple": "Lila",
+  "pink": "Rosa",
+  "custom": "Anpassad",
+  "currentPlanDuplicateBillingNote": "Den här prenumerationen ingår redan i din nuvarande plan. Du kan säga upp den för att undvika dubbel fakturering.",
+  "experience": "Upplevelse"
 }

@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Zarządzaj kierowcami i płatnikami",
   "addOrRemoveDrivers": "Dodaj lub usuń kierowców",
   "addOrRemoveVehicleAccess": "Dodaj lub usuń dostęp do pojazdu",
-  "scanTheQrCodeShownInYourVehicle": "Zeskanuj kod QR wyświetlany w pojeździe"
+  "scanTheQrCodeShownInYourVehicle": "Zeskanuj kod QR wyświetlany w pojeździe",
+  "color": "Kolor",
+  "blue": "Niebieski",
+  "red": "Czerwony",
+  "orange": "Pomarańczowy",
+  "green": "Zielony",
+  "teal": "Morski",
+  "purple": "Fioletowy",
+  "pink": "Różowy",
+  "custom": "Niestandardowy",
+  "currentPlanDuplicateBillingNote": "Ta subskrypcja jest już uwzględniona w Twoim obecnym planie. Możesz ją anulować, aby uniknąć podwójnego naliczania opłat.",
+  "experience": "Wrażenia"
 }

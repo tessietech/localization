@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Fahrer und Zahler verwalten",
   "addOrRemoveDrivers": "Fahrer hinzufügen oder entfernen",
   "addOrRemoveVehicleAccess": "Fahrzeugzugriff hinzufügen oder entfernen",
-  "scanTheQrCodeShownInYourVehicle": "Scanne den QR-Code, der in deinem Fahrzeug angezeigt wird"
+  "scanTheQrCodeShownInYourVehicle": "Scanne den QR-Code, der in deinem Fahrzeug angezeigt wird",
+  "color": "Farbe",
+  "blue": "Blau",
+  "red": "Rot",
+  "orange": "Orange",
+  "green": "Grün",
+  "teal": "Blaugrün",
+  "purple": "Lila",
+  "pink": "Pink",
+  "custom": "Benutzerdefiniert",
+  "currentPlanDuplicateBillingNote": "Dieses Abonnement ist bereits in deinem aktuellen Tarif enthalten. Du kannst es kündigen, um doppelte Abrechnung zu vermeiden.",
+  "experience": "Erlebnis"
 }

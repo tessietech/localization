@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "ドライバーと支払者を管理",
   "addOrRemoveDrivers": "ドライバーを追加または削除",
   "addOrRemoveVehicleAccess": "車両アクセスを追加または削除",
-  "scanTheQrCodeShownInYourVehicle": "車両に表示されているQRコードをスキャンしてください"
+  "scanTheQrCodeShownInYourVehicle": "車両に表示されているQRコードをスキャンしてください",
+  "color": "色",
+  "blue": "ブルー",
+  "red": "レッド",
+  "orange": "オレンジ",
+  "green": "グリーン",
+  "teal": "ティール",
+  "purple": "パープル",
+  "pink": "ピンク",
+  "custom": "カスタム",
+  "currentPlanDuplicateBillingNote": "このサブスクリプションは現在のプランにすでに含まれています。重複請求を避けるため、キャンセルできます。",
+  "experience": "体験"
 }

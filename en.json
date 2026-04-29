@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Manage drivers and payers",
   "addOrRemoveDrivers": "Add or remove drivers",
   "addOrRemoveVehicleAccess": "Add or remove vehicle access",
-  "scanTheQrCodeShownInYourVehicle": "Scan the QR code shown in your vehicle"
+  "scanTheQrCodeShownInYourVehicle": "Scan the QR code shown in your vehicle",
+  "color": "Color",
+  "blue": "Blue",
+  "red": "Red",
+  "orange": "Orange",
+  "green": "Green",
+  "teal": "Teal",
+  "purple": "Purple",
+  "pink": "Pink",
+  "custom": "Custom",
+  "currentPlanDuplicateBillingNote": "This subscription is already included in your current plan. You can cancel it to avoid duplicate billing.",
+  "experience": "Experience"
 }

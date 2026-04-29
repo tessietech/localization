@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Управляйте водителями и плательщиками",
   "addOrRemoveDrivers": "Добавить или удалить водителей",
   "addOrRemoveVehicleAccess": "Добавить или удалить доступ к автомобилю",
-  "scanTheQrCodeShownInYourVehicle": "Отсканируйте QR-код, показанный в автомобиле"
+  "scanTheQrCodeShownInYourVehicle": "Отсканируйте QR-код, показанный в автомобиле",
+  "color": "Цвет",
+  "blue": "Синий",
+  "red": "Красный",
+  "orange": "Оранжевый",
+  "green": "Зелёный",
+  "teal": "Бирюзовый",
+  "purple": "Фиолетовый",
+  "pink": "Розовый",
+  "custom": "Пользовательский",
+  "currentPlanDuplicateBillingNote": "Эта подписка уже включена в ваш текущий план. Вы можете отменить её, чтобы избежать двойного списания.",
+  "experience": "Впечатления"
 }

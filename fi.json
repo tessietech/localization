@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Hallitse kuljettajia ja maksajia",
   "addOrRemoveDrivers": "Lisää tai poista kuljettajia",
   "addOrRemoveVehicleAccess": "Lisää tai poista ajoneuvon käyttöoikeus",
-  "scanTheQrCodeShownInYourVehicle": "Skannaa ajoneuvossasi näkyvä QR-koodi"
+  "scanTheQrCodeShownInYourVehicle": "Skannaa ajoneuvossasi näkyvä QR-koodi",
+  "color": "Väri",
+  "blue": "Sininen",
+  "red": "Punainen",
+  "orange": "Oranssi",
+  "green": "Vihreä",
+  "teal": "Sinivihreä",
+  "purple": "Violetti",
+  "pink": "Pinkki",
+  "custom": "Mukautettu",
+  "currentPlanDuplicateBillingNote": "Tämä tilaus sisältyy jo nykyiseen pakettiisi. Voit peruuttaa sen välttääksesi päällekkäisen laskutuksen.",
+  "experience": "Kokemus"
 }

@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Gestionați șoferii și plătitorii",
   "addOrRemoveDrivers": "Adăugați sau eliminați șoferi",
   "addOrRemoveVehicleAccess": "Adăugați sau eliminați accesul la vehicul",
-  "scanTheQrCodeShownInYourVehicle": "Scanați codul QR afișat în vehicul"
+  "scanTheQrCodeShownInYourVehicle": "Scanați codul QR afișat în vehicul",
+  "color": "Culoare",
+  "blue": "Albastru",
+  "red": "Roșu",
+  "orange": "Portocaliu",
+  "green": "Verde",
+  "teal": "Turcoaz",
+  "purple": "Mov",
+  "pink": "Roz",
+  "custom": "Personalizat",
+  "currentPlanDuplicateBillingNote": "Acest abonament este deja inclus în planul tău actual. Îl poți anula pentru a evita facturarea dublă.",
+  "experience": "Experiență"
 }

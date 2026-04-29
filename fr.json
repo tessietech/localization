@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Gérer les conducteurs et les payeurs",
   "addOrRemoveDrivers": "Ajouter ou supprimer des conducteurs",
   "addOrRemoveVehicleAccess": "Ajouter ou supprimer l’accès au véhicule",
-  "scanTheQrCodeShownInYourVehicle": "Scannez le code QR affiché dans votre véhicule"
+  "scanTheQrCodeShownInYourVehicle": "Scannez le code QR affiché dans votre véhicule",
+  "color": "Couleur",
+  "blue": "Bleu",
+  "red": "Rouge",
+  "orange": "Orange",
+  "green": "Vert",
+  "teal": "Bleu sarcelle",
+  "purple": "Violet",
+  "pink": "Rose",
+  "custom": "Personnalisé",
+  "currentPlanDuplicateBillingNote": "Cet abonnement est déjà inclus dans votre forfait actuel. Vous pouvez l’annuler pour éviter une facturation en double.",
+  "experience": "Expérience"
 }

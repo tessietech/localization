@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Bestuurders en betalers beheren",
   "addOrRemoveDrivers": "Bestuurders toevoegen of verwijderen",
   "addOrRemoveVehicleAccess": "Voertuigtoegang toevoegen of verwijderen",
-  "scanTheQrCodeShownInYourVehicle": "Scan de QR-code die in je voertuig wordt weergegeven"
+  "scanTheQrCodeShownInYourVehicle": "Scan de QR-code die in je voertuig wordt weergegeven",
+  "color": "Kleur",
+  "blue": "Blauw",
+  "red": "Rood",
+  "orange": "Oranje",
+  "green": "Groen",
+  "teal": "Blauwgroen",
+  "purple": "Paars",
+  "pink": "Roze",
+  "custom": "Aangepast",
+  "currentPlanDuplicateBillingNote": "Dit abonnement is al inbegrepen in je huidige abonnement. Je kunt het annuleren om dubbele facturering te voorkomen.",
+  "experience": "Ervaring"
 }

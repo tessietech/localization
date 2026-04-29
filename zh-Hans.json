@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "管理驾驶员和付款方",
   "addOrRemoveDrivers": "添加或移除驾驶员",
   "addOrRemoveVehicleAccess": "添加或移除车辆访问权限",
-  "scanTheQrCodeShownInYourVehicle": "扫描车辆中显示的二维码"
+  "scanTheQrCodeShownInYourVehicle": "扫描车辆中显示的二维码",
+  "color": "颜色",
+  "blue": "蓝色",
+  "red": "红色",
+  "orange": "橙色",
+  "green": "绿色",
+  "teal": "青色",
+  "purple": "紫色",
+  "pink": "粉色",
+  "custom": "自定义",
+  "currentPlanDuplicateBillingNote": "此订阅已包含在您当前的套餐中。您可以取消它，以避免重复计费。",
+  "experience": "体验"
 }

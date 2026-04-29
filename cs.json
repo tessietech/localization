@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Spravovat řidiče a plátce",
   "addOrRemoveDrivers": "Přidat nebo odebrat řidiče",
   "addOrRemoveVehicleAccess": "Přidat nebo odebrat přístup k vozidlu",
-  "scanTheQrCodeShownInYourVehicle": "Naskenujte QR kód zobrazený ve vašem vozidle"
+  "scanTheQrCodeShownInYourVehicle": "Naskenujte QR kód zobrazený ve vašem vozidle",
+  "color": "Barva",
+  "blue": "Modrá",
+  "red": "Červená",
+  "orange": "Oranžová",
+  "green": "Zelená",
+  "teal": "Tyrkysová",
+  "purple": "Fialová",
+  "pink": "Růžová",
+  "custom": "Vlastní",
+  "currentPlanDuplicateBillingNote": "Toto předplatné je již zahrnuto ve vašem aktuálním tarifu. Můžete ho zrušit, abyste se vyhnuli duplicitní fakturaci.",
+  "experience": "Prostředí"
 }

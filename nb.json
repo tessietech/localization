@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Administrer førere og betalere",
   "addOrRemoveDrivers": "Legg til eller fjern førere",
   "addOrRemoveVehicleAccess": "Legg til eller fjern kjøretøytilgang",
-  "scanTheQrCodeShownInYourVehicle": "Skann QR-koden som vises i kjøretøyet ditt"
+  "scanTheQrCodeShownInYourVehicle": "Skann QR-koden som vises i kjøretøyet ditt",
+  "color": "Farge",
+  "blue": "Blå",
+  "red": "Rød",
+  "orange": "Oransje",
+  "green": "Grønn",
+  "teal": "Blågrønn",
+  "purple": "Lilla",
+  "pink": "Rosa",
+  "custom": "Tilpasset",
+  "currentPlanDuplicateBillingNote": "Dette abonnementet er allerede inkludert i det nåværende abonnementet ditt. Du kan kansellere det for å unngå dobbel fakturering.",
+  "experience": "Opplevelse"
 }

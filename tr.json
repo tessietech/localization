@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Sürücüleri ve ödeyicileri yönetin",
   "addOrRemoveDrivers": "Sürücü ekle veya kaldır",
   "addOrRemoveVehicleAccess": "Araç erişimi ekle veya kaldır",
-  "scanTheQrCodeShownInYourVehicle": "Aracınızda gösterilen QR kodunu tarayın"
+  "scanTheQrCodeShownInYourVehicle": "Aracınızda gösterilen QR kodunu tarayın",
+  "color": "Renk",
+  "blue": "Mavi",
+  "red": "Kırmızı",
+  "orange": "Turuncu",
+  "green": "Yeşil",
+  "teal": "Camgöbeği",
+  "purple": "Mor",
+  "pink": "Pembe",
+  "custom": "Özel",
+  "currentPlanDuplicateBillingNote": "Bu abonelik mevcut planınıza zaten dahildir. Yinelenen faturalandırmayı önlemek için iptal edebilirsiniz.",
+  "experience": "Deneyim"
 }

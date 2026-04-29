@@ -2889,5 +2889,16 @@
   "manageDriversAndPayers": "Járművezetők és fizetők kezelése",
   "addOrRemoveDrivers": "Járművezetők hozzáadása vagy eltávolítása",
   "addOrRemoveVehicleAccess": "Járműhozzáférés hozzáadása vagy eltávolítása",
-  "scanTheQrCodeShownInYourVehicle": "Olvasd be a járművedben látható QR-kódot"
+  "scanTheQrCodeShownInYourVehicle": "Olvasd be a járművedben látható QR-kódot",
+  "color": "Szín",
+  "blue": "Kék",
+  "red": "Piros",
+  "orange": "Narancssárga",
+  "green": "Zöld",
+  "teal": "Türkiz",
+  "purple": "Lila",
+  "pink": "Rózsaszín",
+  "custom": "Egyéni",
+  "currentPlanDuplicateBillingNote": "Ez az előfizetés már benne van a jelenlegi csomagodban. Lemondhatod, hogy elkerüld a dupla számlázást.",
+  "experience": "Élmény"
 }
