@@ -2900,5 +2900,11 @@
   "pink": "Pink",
   "custom": "Benutzerdefiniert",
   "currentPlanDuplicateBillingNote": "Dieses Abonnement ist bereits in deinem aktuellen Tarif enthalten. Du kannst es kündigen, um doppelte Abrechnung zu vermeiden.",
-  "experience": "Erlebnis"
+  "experience": "Erlebnis",
+  "accentColor": "Akzentfarbe",
+  "makeYourTeslaEvenBetter": "Mach deinen Tesla noch besser",
+  "customize": "Anpassen",
+  "setBackground": "Hintergrund festlegen",
+  "connectYourVehicle": "Verbinden Sie Ihr Fahrzeug",
+  "selectABrandToGetStarted": "Wählen Sie eine Marke aus, um loszulegen"
 }

@@ -2900,5 +2900,11 @@
   "pink": "粉紅色",
   "custom": "自訂",
   "currentPlanDuplicateBillingNote": "此訂閱已包含在您目前的方案中。您可以取消它，以避免重複計費。",
-  "experience": "體驗"
+  "experience": "體驗",
+  "accentColor": "強調色",
+  "makeYourTeslaEvenBetter": "讓您的 Tesla 更出色",
+  "customize": "\u81EA\u8A02",
+  "setBackground": "\u8A2D\u5B9A\u80CC\u666F",
+  "connectYourVehicle": "連接您的車輛",
+  "selectABrandToGetStarted": "選擇品牌以開始"
 }

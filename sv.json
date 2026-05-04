@@ -2900,5 +2900,11 @@
   "pink": "Rosa",
   "custom": "Anpassad",
   "currentPlanDuplicateBillingNote": "Den här prenumerationen ingår redan i din nuvarande plan. Du kan säga upp den för att undvika dubbel fakturering.",
-  "experience": "Upplevelse"
+  "experience": "Upplevelse",
+  "accentColor": "Accentfärg",
+  "makeYourTeslaEvenBetter": "Gör din Tesla ännu bättre",
+  "customize": "Anpassa",
+  "setBackground": "St\u00E4ll in bakgrund",
+  "connectYourVehicle": "Anslut ditt fordon",
+  "selectABrandToGetStarted": "Välj ett märke för att komma igång"
 }

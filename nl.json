@@ -2900,5 +2900,11 @@
   "pink": "Roze",
   "custom": "Aangepast",
   "currentPlanDuplicateBillingNote": "Dit abonnement is al inbegrepen in je huidige abonnement. Je kunt het annuleren om dubbele facturering te voorkomen.",
-  "experience": "Ervaring"
+  "experience": "Ervaring",
+  "accentColor": "Accentkleur",
+  "makeYourTeslaEvenBetter": "Maak je Tesla nog beter",
+  "customize": "Aanpassen",
+  "setBackground": "Achtergrond instellen",
+  "connectYourVehicle": "Verbind je voertuig",
+  "selectABrandToGetStarted": "Selecteer een merk om te beginnen"
 }

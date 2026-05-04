@@ -2900,5 +2900,11 @@
   "pink": "Pembe",
   "custom": "Özel",
   "currentPlanDuplicateBillingNote": "Bu abonelik mevcut planınıza zaten dahildir. Yinelenen faturalandırmayı önlemek için iptal edebilirsiniz.",
-  "experience": "Deneyim"
+  "experience": "Deneyim",
+  "accentColor": "Vurgu rengi",
+  "makeYourTeslaEvenBetter": "Tesla'nızı daha da iyi hale getirin",
+  "customize": "\u00D6zelle\u015Ftir",
+  "setBackground": "Arka plan\u0131 ayarla",
+  "connectYourVehicle": "Aracınızı bağlayın",
+  "selectABrandToGetStarted": "Başlamak için bir marka seçin"
 }

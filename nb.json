@@ -2900,5 +2900,11 @@
   "pink": "Rosa",
   "custom": "Tilpasset",
   "currentPlanDuplicateBillingNote": "Dette abonnementet er allerede inkludert i det nåværende abonnementet ditt. Du kan kansellere det for å unngå dobbel fakturering.",
-  "experience": "Opplevelse"
+  "experience": "Opplevelse",
+  "accentColor": "Aksentfarge",
+  "makeYourTeslaEvenBetter": "Gjør Teslaen din enda bedre",
+  "customize": "Tilpass",
+  "setBackground": "Angi bakgrunn",
+  "connectYourVehicle": "Koble til kjøretøyet ditt",
+  "selectABrandToGetStarted": "Velg et merke for å komme i gang"
 }

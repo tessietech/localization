@@ -2900,5 +2900,11 @@
   "pink": "Розовый",
   "custom": "Пользовательский",
   "currentPlanDuplicateBillingNote": "Эта подписка уже включена в ваш текущий план. Вы можете отменить её, чтобы избежать двойного списания.",
-  "experience": "Впечатления"
+  "experience": "Впечатления",
+  "accentColor": "Акцентный цвет",
+  "makeYourTeslaEvenBetter": "Сделайте вашу Tesla ещё лучше",
+  "customize": "\u041D\u0430\u0441\u0442\u0440\u043E\u0438\u0442\u044C",
+  "setBackground": "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0444\u043E\u043D",
+  "connectYourVehicle": "Подключите свой автомобиль",
+  "selectABrandToGetStarted": "Выберите марку, чтобы начать"
 }

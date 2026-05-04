@@ -2900,5 +2900,11 @@
   "pink": "Różowy",
   "custom": "Niestandardowy",
   "currentPlanDuplicateBillingNote": "Ta subskrypcja jest już uwzględniona w Twoim obecnym planie. Możesz ją anulować, aby uniknąć podwójnego naliczania opłat.",
-  "experience": "Wrażenia"
+  "experience": "Wrażenia",
+  "accentColor": "Kolor akcentu",
+  "makeYourTeslaEvenBetter": "Ulepsz swoją Teslę jeszcze bardziej",
+  "customize": "Dostosuj",
+  "setBackground": "Ustaw t\u0142o",
+  "connectYourVehicle": "Połącz swój pojazd",
+  "selectABrandToGetStarted": "Wybierz markę, aby rozpocząć"
 }

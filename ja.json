@@ -2900,5 +2900,11 @@
   "pink": "ピンク",
   "custom": "カスタム",
   "currentPlanDuplicateBillingNote": "このサブスクリプションは現在のプランにすでに含まれています。重複請求を避けるため、キャンセルできます。",
-  "experience": "体験"
+  "experience": "体験",
+  "accentColor": "アクセントカラー",
+  "makeYourTeslaEvenBetter": "あなたのTeslaをさらに良く",
+  "customize": "\u30AB\u30B9\u30BF\u30DE\u30A4\u30BA",
+  "setBackground": "\u80CC\u666F\u3092\u8A2D\u5B9A",
+  "connectYourVehicle": "車両を接続",
+  "selectABrandToGetStarted": "開始するにはブランドを選択"
 }

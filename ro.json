@@ -2900,5 +2900,11 @@
   "pink": "Roz",
   "custom": "Personalizat",
   "currentPlanDuplicateBillingNote": "Acest abonament este deja inclus în planul tău actual. Îl poți anula pentru a evita facturarea dublă.",
-  "experience": "Experiență"
+  "experience": "Experiență",
+  "accentColor": "Culoare de accent",
+  "makeYourTeslaEvenBetter": "Fă-ți Tesla și mai bună",
+  "customize": "Personalizeaz\u0103",
+  "setBackground": "Seteaz\u0103 fundalul",
+  "connectYourVehicle": "Conectează-ți vehiculul",
+  "selectABrandToGetStarted": "Selectează o marcă pentru a începe"
 }

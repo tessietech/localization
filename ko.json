@@ -2900,5 +2900,11 @@
   "pink": "분홍색",
   "custom": "사용자 지정",
   "currentPlanDuplicateBillingNote": "이 구독은 현재 요금제에 이미 포함되어 있습니다. 중복 청구를 피하려면 취소할 수 있습니다.",
-  "experience": "경험"
+  "experience": "경험",
+  "accentColor": "강조 색상",
+  "makeYourTeslaEvenBetter": "내 Tesla를 더욱 좋게 만드세요",
+  "customize": "\uC0AC\uC6A9\uC790\uD654",
+  "setBackground": "\uBC30\uACBD \uC124\uC815",
+  "connectYourVehicle": "차량을 연결하세요",
+  "selectABrandToGetStarted": "시작하려면 브랜드를 선택하세요"
 }

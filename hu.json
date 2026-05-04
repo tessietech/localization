@@ -2900,5 +2900,11 @@
   "pink": "Rózsaszín",
   "custom": "Egyéni",
   "currentPlanDuplicateBillingNote": "Ez az előfizetés már benne van a jelenlegi csomagodban. Lemondhatod, hogy elkerüld a dupla számlázást.",
-  "experience": "Élmény"
+  "experience": "Élmény",
+  "accentColor": "Kiemelő szín",
+  "makeYourTeslaEvenBetter": "Tedd még jobbá a Tesládat",
+  "customize": "Testreszab\u00E1s",
+  "setBackground": "H\u00E1tt\u00E9r be\u00E1ll\u00EDt\u00E1sa",
+  "connectYourVehicle": "Csatlakoztassa járművét",
+  "selectABrandToGetStarted": "Válasszon márkát a kezdéshez"
 }

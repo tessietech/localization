@@ -2900,5 +2900,11 @@
   "pink": "Rosa",
   "custom": "Personalizado",
   "currentPlanDuplicateBillingNote": "Esta suscripción ya está incluida en tu plan actual. Puedes cancelarla para evitar la facturación duplicada.",
-  "experience": "Experiencia"
+  "experience": "Experiencia",
+  "accentColor": "Color de acento",
+  "makeYourTeslaEvenBetter": "Haz que tu Tesla sea aún mejor",
+  "customize": "Personalizar",
+  "setBackground": "Establecer fondo",
+  "connectYourVehicle": "Conecta tu vehículo",
+  "selectABrandToGetStarted": "Selecciona una marca para empezar"
 }

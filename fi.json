@@ -2900,5 +2900,11 @@
   "pink": "Pinkki",
   "custom": "Mukautettu",
   "currentPlanDuplicateBillingNote": "Tämä tilaus sisältyy jo nykyiseen pakettiisi. Voit peruuttaa sen välttääksesi päällekkäisen laskutuksen.",
-  "experience": "Kokemus"
+  "experience": "Kokemus",
+  "accentColor": "Korostusväri",
+  "makeYourTeslaEvenBetter": "Tee Teslastasi entistä parempi",
+  "customize": "Mukauta",
+  "setBackground": "Aseta tausta",
+  "connectYourVehicle": "Yhdistä ajoneuvosi",
+  "selectABrandToGetStarted": "Valitse merkki aloittaaksesi"
 }

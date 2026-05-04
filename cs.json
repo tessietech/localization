@@ -2900,5 +2900,11 @@
   "pink": "Růžová",
   "custom": "Vlastní",
   "currentPlanDuplicateBillingNote": "Toto předplatné je již zahrnuto ve vašem aktuálním tarifu. Můžete ho zrušit, abyste se vyhnuli duplicitní fakturaci.",
-  "experience": "Prostředí"
+  "experience": "Prostředí",
+  "accentColor": "Akcentní barva",
+  "makeYourTeslaEvenBetter": "Udělejte svou Teslu ještě lepší",
+  "customize": "P\u0159izp\u016Fsobit",
+  "setBackground": "Nastavit pozad\u00ED",
+  "connectYourVehicle": "Připojte své vozidlo",
+  "selectABrandToGetStarted": "Vyberte značku a začněte"
 }
