@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Lorsqu'une mise à jour est disponible",
   "view": "Voir",
   "hardwareAndServiceAlerts": "Alertes matérielles et de service",
-  "sinceLastCharge": "Depuis la dernière charge",
   "serviceCode": "code de service",
   "copiedServiceCode": "Code de service copié",
   "copiedFirmwareState": "État du micrologiciel copié",
@@ -2904,7 +2903,13 @@
   "accentColor": "Couleur d'accentuation",
   "makeYourTeslaEvenBetter": "Rendez votre Tesla encore meilleure",
   "customize": "Personnaliser",
-  "setBackground": "D\u00E9finir l'arri\u00E8re-plan",
+  "setBackground": "Définir l'arrière-plan",
   "connectYourVehicle": "Connectez votre véhicule",
-  "selectABrandToGetStarted": "Sélectionnez une marque pour commencer"
+  "selectABrandToGetStarted": "Sélectionnez une marque pour commencer",
+  "improveYourMeasurements": "Améliorez vos mesures",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Chargez à 100 % au moins une fois pour obtenir les relevés les plus précis",
+  "personalizeHowTheAppLooks": "Personnalisez l'apparence de l'application",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Choisissez ce que l'application affiche et son comportement",
+  "setTheFormattingUsedAcrossYourAccount": "Définissez le formatage utilisé dans tout votre compte",
+  "sinceLastCharge": "Depuis la dernière recharge"
 }

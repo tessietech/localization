@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Pokud je k dispozici aktualizace",
   "view": "Zobrazit",
   "hardwareAndServiceAlerts": "Hardwarová a servisní upozornění",
-  "sinceLastCharge": "Od posledního nabití",
   "serviceCode": "servisní kód",
   "copiedServiceCode": "Servisní kód zkopírován",
   "copiedFirmwareState": "Stav firmwaru zkopírován",
@@ -2903,8 +2902,14 @@
   "experience": "Prostředí",
   "accentColor": "Akcentní barva",
   "makeYourTeslaEvenBetter": "Udělejte svou Teslu ještě lepší",
-  "customize": "P\u0159izp\u016Fsobit",
-  "setBackground": "Nastavit pozad\u00ED",
+  "customize": "Přizpůsobit",
+  "setBackground": "Nastavit pozadí",
   "connectYourVehicle": "Připojte své vozidlo",
-  "selectABrandToGetStarted": "Vyberte značku a začněte"
+  "selectABrandToGetStarted": "Vyberte značku a začněte",
+  "improveYourMeasurements": "Zlepšete svá měření",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Nabijte alespoň jednou na 100 % pro nejpřesnější údaje",
+  "personalizeHowTheAppLooks": "Přizpůsobte vzhled aplikace",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Zvolte, co aplikace zobrazuje a jak se chová",
+  "setTheFormattingUsedAcrossYourAccount": "Nastavte formátování používané v celém účtu",
+  "sinceLastCharge": "Od posledního nabití"
 }

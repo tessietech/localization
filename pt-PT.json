@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Quando uma atualização estiver disponível",
   "view": "Ver",
   "hardwareAndServiceAlerts": "Alertas de hardware e serviço",
-  "sinceLastCharge": "Desde a última carga",
   "serviceCode": "Código de serviço",
   "copiedServiceCode": "Código de serviço copiado",
   "copiedFirmwareState": "Estado de firmware copiado",
@@ -2906,5 +2905,11 @@
   "customize": "Personalizar",
   "setBackground": "Definir fundo",
   "connectYourVehicle": "Ligue o seu veículo",
-  "selectABrandToGetStarted": "Selecione uma marca para começar"
+  "selectABrandToGetStarted": "Selecione uma marca para começar",
+  "improveYourMeasurements": "Melhore as suas medições",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Carregue até 100% pelo menos uma vez para obter as leituras mais precisas",
+  "personalizeHowTheAppLooks": "Personalize o aspeto da app",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Escolha o que a app mostra e como se comporta",
+  "setTheFormattingUsedAcrossYourAccount": "Defina a formatação usada em toda a sua conta",
+  "sinceLastCharge": "Desde o último carregamento"
 }

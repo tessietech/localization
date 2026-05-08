@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Când o actualizare este disponibilă",
   "view": "Vizualizare",
   "hardwareAndServiceAlerts": "Alerte de hardware și service",
-  "sinceLastCharge": "De la ultima încărcare",
   "serviceCode": "cod de service",
   "copiedServiceCode": "Cod de service copiat",
   "copiedFirmwareState": "Status firmware copiat",
@@ -2903,8 +2902,14 @@
   "experience": "Experiență",
   "accentColor": "Culoare de accent",
   "makeYourTeslaEvenBetter": "Fă-ți Tesla și mai bună",
-  "customize": "Personalizeaz\u0103",
-  "setBackground": "Seteaz\u0103 fundalul",
+  "customize": "Personalizează",
+  "setBackground": "Setează fundalul",
   "connectYourVehicle": "Conectează-ți vehiculul",
-  "selectABrandToGetStarted": "Selectează o marcă pentru a începe"
+  "selectABrandToGetStarted": "Selectează o marcă pentru a începe",
+  "improveYourMeasurements": "Îmbunătățește-ți măsurătorile",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Încarcă până la 100% cel puțin o dată pentru cele mai precise citiri",
+  "personalizeHowTheAppLooks": "Personalizează aspectul aplicației",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Alege ce afișează aplicația și cum se comportă",
+  "setTheFormattingUsedAcrossYourAccount": "Setează formatarea folosită în întregul cont",
+  "sinceLastCharge": "De la ultima încărcare"
 }

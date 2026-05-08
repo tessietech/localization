@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "當有更新可用時",
   "view": "檢視",
   "hardwareAndServiceAlerts": "硬體和服務警報",
-  "sinceLastCharge": "自上次充電後",
   "serviceCode": "服務代碼",
   "copiedServiceCode": "已複製服務代碼",
   "copiedFirmwareState": "已複製韌體狀態",
@@ -2903,8 +2902,14 @@
   "experience": "體驗",
   "accentColor": "強調色",
   "makeYourTeslaEvenBetter": "讓您的 Tesla 更出色",
-  "customize": "\u81EA\u8A02",
-  "setBackground": "\u8A2D\u5B9A\u80CC\u666F",
+  "customize": "自訂",
+  "setBackground": "設定背景",
   "connectYourVehicle": "連接您的車輛",
-  "selectABrandToGetStarted": "選擇品牌以開始"
+  "selectABrandToGetStarted": "選擇品牌以開始",
+  "improveYourMeasurements": "改進您的測量結果",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "請至少充至 100% 一次，以獲得最準確的讀數",
+  "personalizeHowTheAppLooks": "自訂應用程式的外觀",
+  "chooseWhatTheAppShowsAndHowItBehaves": "選擇應用程式顯示的內容及其行為方式",
+  "setTheFormattingUsedAcrossYourAccount": "設定整個帳戶使用的格式",
+  "sinceLastCharge": "自上次充電以來"
 }

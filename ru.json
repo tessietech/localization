@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Когда доступно обновление",
   "view": "Просмотр",
   "hardwareAndServiceAlerts": "Аварийные сигналы оборудования и обслуживания",
-  "sinceLastCharge": "С последней зарядки",
   "serviceCode": "сервисный код",
   "copiedServiceCode": "Сервисный код скопирован",
   "copiedFirmwareState": "Состояние прошивки скопировано",
@@ -2903,8 +2902,14 @@
   "experience": "Впечатления",
   "accentColor": "Акцентный цвет",
   "makeYourTeslaEvenBetter": "Сделайте вашу Tesla ещё лучше",
-  "customize": "\u041D\u0430\u0441\u0442\u0440\u043E\u0438\u0442\u044C",
-  "setBackground": "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0444\u043E\u043D",
+  "customize": "Настроить",
+  "setBackground": "Установить фон",
   "connectYourVehicle": "Подключите свой автомобиль",
-  "selectABrandToGetStarted": "Выберите марку, чтобы начать"
+  "selectABrandToGetStarted": "Выберите марку, чтобы начать",
+  "improveYourMeasurements": "Улучшите свои измерения",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Зарядите до 100% хотя бы один раз для наиболее точных показаний",
+  "personalizeHowTheAppLooks": "Настройте внешний вид приложения",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Выберите, что показывает приложение и как оно себя ведет",
+  "setTheFormattingUsedAcrossYourAccount": "Настройте форматирование, используемое во всей учетной записи",
+  "sinceLastCharge": "С последней зарядки"
 }

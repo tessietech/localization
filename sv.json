@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "När en uppdatering är tillgänglig",
   "view": "Visa",
   "hardwareAndServiceAlerts": "Hårdvaru- och servicevarningar",
-  "sinceLastCharge": "Sedan senaste laddning",
   "serviceCode": "servicekod",
   "copiedServiceCode": "Kopierade servicekod",
   "copiedFirmwareState": "Kopierade firmware-status",
@@ -2904,7 +2903,13 @@
   "accentColor": "Accentfärg",
   "makeYourTeslaEvenBetter": "Gör din Tesla ännu bättre",
   "customize": "Anpassa",
-  "setBackground": "St\u00E4ll in bakgrund",
+  "setBackground": "Ställ in bakgrund",
   "connectYourVehicle": "Anslut ditt fordon",
-  "selectABrandToGetStarted": "Välj ett märke för att komma igång"
+  "selectABrandToGetStarted": "Välj ett märke för att komma igång",
+  "improveYourMeasurements": "Förbättra dina mätningar",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Ladda till 100 % minst en gång för de mest exakta avläsningarna",
+  "personalizeHowTheAppLooks": "Anpassa hur appen ser ut",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Välj vad appen visar och hur den beter sig",
+  "setTheFormattingUsedAcrossYourAccount": "Ange formateringen som används i hela ditt konto",
+  "sinceLastCharge": "Sedan senaste laddningen"
 }

@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Når en oppdatering er tilgjengelig",
   "view": "Vis",
   "hardwareAndServiceAlerts": "Maskinvare- og servicevarsler",
-  "sinceLastCharge": "Siden siste lading",
   "serviceCode": "Servicekode",
   "copiedServiceCode": "Kopiert servicekode",
   "copiedFirmwareState": "Kopiert fastvarestatus",
@@ -2906,5 +2905,11 @@
   "customize": "Tilpass",
   "setBackground": "Angi bakgrunn",
   "connectYourVehicle": "Koble til kjøretøyet ditt",
-  "selectABrandToGetStarted": "Velg et merke for å komme i gang"
+  "selectABrandToGetStarted": "Velg et merke for å komme i gang",
+  "improveYourMeasurements": "Forbedre målingene dine",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Lad til 100 % minst én gang for mest nøyaktige målinger",
+  "personalizeHowTheAppLooks": "Tilpass hvordan appen ser ut",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Velg hva appen viser og hvordan den oppfører seg",
+  "setTheFormattingUsedAcrossYourAccount": "Angi formateringen som brukes på tvers av kontoen din",
+  "sinceLastCharge": "Siden siste lading"
 }

@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Kun päivitys on saatavilla",
   "view": "Näytä",
   "hardwareAndServiceAlerts": "Laitteisto- ja huoltoilmoitukset",
-  "sinceLastCharge": "Viimeisestä latauksesta",
   "serviceCode": "huoltokoodi",
   "copiedServiceCode": "Huoltokoodi kopioitu",
   "copiedFirmwareState": "Laiteohjelmiston tila kopioitu",
@@ -2906,5 +2905,11 @@
   "customize": "Mukauta",
   "setBackground": "Aseta tausta",
   "connectYourVehicle": "Yhdistä ajoneuvosi",
-  "selectABrandToGetStarted": "Valitse merkki aloittaaksesi"
+  "selectABrandToGetStarted": "Valitse merkki aloittaaksesi",
+  "improveYourMeasurements": "Paranna mittauksiasi",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Lataa 100 %:iin vähintään kerran saadaksesi tarkimmat lukemat",
+  "personalizeHowTheAppLooks": "Mukauta sovelluksen ulkoasua",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Valitse, mitä sovellus näyttää ja miten se toimii",
+  "setTheFormattingUsedAcrossYourAccount": "Aseta koko tililläsi käytettävä muotoilu",
+  "sinceLastCharge": "Viimeisestä latauksesta"
 }

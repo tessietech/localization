@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "When an update is available",
   "view": "View",
   "hardwareAndServiceAlerts": "Hardware and service alerts",
-  "sinceLastCharge": "Since Last Charge",
   "serviceCode": "service code",
   "copiedServiceCode": "Copied service code",
   "copiedFirmwareState": "Copied firmware state",
@@ -2906,5 +2905,11 @@
   "customize": "Customize",
   "setBackground": "Set background",
   "connectYourVehicle": "Connect your vehicle",
-  "selectABrandToGetStarted": "Select a brand to get started"
+  "selectABrandToGetStarted": "Select a brand to get started",
+  "improveYourMeasurements": "Improve your measurements",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Charge to 100% at least once for the most accurate readings",
+  "personalizeHowTheAppLooks": "Personalize how the app looks",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Choose what the app shows and how it behaves",
+  "setTheFormattingUsedAcrossYourAccount": "Set the formatting used across your account",
+  "sinceLastCharge": "Since last charge"
 }

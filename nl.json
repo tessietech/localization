@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Wanneer een update beschikbaar is",
   "view": "Bekijk",
   "hardwareAndServiceAlerts": "Hardware- en servicewaarschuwingen",
-  "sinceLastCharge": "Sinds laatste keer opladen",
   "serviceCode": "servicecode",
   "copiedServiceCode": "Servicecode gekopieerd",
   "copiedFirmwareState": "Firmwarestatus gekopieerd",
@@ -2906,5 +2905,11 @@
   "customize": "Aanpassen",
   "setBackground": "Achtergrond instellen",
   "connectYourVehicle": "Verbind je voertuig",
-  "selectABrandToGetStarted": "Selecteer een merk om te beginnen"
+  "selectABrandToGetStarted": "Selecteer een merk om te beginnen",
+  "improveYourMeasurements": "Verbeter je metingen",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Laad minstens één keer tot 100% op voor de nauwkeurigste metingen",
+  "personalizeHowTheAppLooks": "Pas aan hoe de app eruitziet",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Kies wat de app toont en hoe deze zich gedraagt",
+  "setTheFormattingUsedAcrossYourAccount": "Stel de opmaak in die in je account wordt gebruikt",
+  "sinceLastCharge": "Sinds laatste oplaadbeurt"
 }

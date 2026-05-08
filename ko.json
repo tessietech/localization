@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "업데이트를 사용할 수 있을 경우",
   "view": "보기",
   "hardwareAndServiceAlerts": "하드웨어 및 서비스 알림",
-  "sinceLastCharge": "마지막 충전 이후",
   "serviceCode": "서비스 코드",
   "copiedServiceCode": "서비스 코드 복사됨",
   "copiedFirmwareState": "펌웨어 상태 복사됨",
@@ -2903,8 +2902,14 @@
   "experience": "경험",
   "accentColor": "강조 색상",
   "makeYourTeslaEvenBetter": "내 Tesla를 더욱 좋게 만드세요",
-  "customize": "\uC0AC\uC6A9\uC790\uD654",
-  "setBackground": "\uBC30\uACBD \uC124\uC815",
+  "customize": "사용자화",
+  "setBackground": "배경 설정",
   "connectYourVehicle": "차량을 연결하세요",
-  "selectABrandToGetStarted": "시작하려면 브랜드를 선택하세요"
+  "selectABrandToGetStarted": "시작하려면 브랜드를 선택하세요",
+  "improveYourMeasurements": "측정값 개선",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "가장 정확한 측정을 위해 최소 한 번 100%까지 충전하세요",
+  "personalizeHowTheAppLooks": "앱의 모양을 맞춤 설정",
+  "chooseWhatTheAppShowsAndHowItBehaves": "앱에 표시되는 내용과 동작 방식을 선택",
+  "setTheFormattingUsedAcrossYourAccount": "계정 전체에서 사용할 형식을 설정",
+  "sinceLastCharge": "마지막 충전 이후"
 }

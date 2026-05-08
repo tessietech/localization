@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Ha van elérhető frissítés",
   "view": "Megtekintés",
   "hardwareAndServiceAlerts": "Hardver és szerviz riasztások",
-  "sinceLastCharge": "Az utolsó töltés óta",
   "serviceCode": "szervizkód",
   "copiedServiceCode": "Másolt szervizkód",
   "copiedFirmwareState": "Másolt firmware állapot",
@@ -2903,8 +2902,14 @@
   "experience": "Élmény",
   "accentColor": "Kiemelő szín",
   "makeYourTeslaEvenBetter": "Tedd még jobbá a Tesládat",
-  "customize": "Testreszab\u00E1s",
-  "setBackground": "H\u00E1tt\u00E9r be\u00E1ll\u00EDt\u00E1sa",
+  "customize": "Testreszabás",
+  "setBackground": "Háttér beállítása",
   "connectYourVehicle": "Csatlakoztassa járművét",
-  "selectABrandToGetStarted": "Válasszon márkát a kezdéshez"
+  "selectABrandToGetStarted": "Válasszon márkát a kezdéshez",
+  "improveYourMeasurements": "Javítsd a méréseidet",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "A legpontosabb leolvasások érdekében töltsd 100%-ra legalább egyszer",
+  "personalizeHowTheAppLooks": "Szabd testre az alkalmazás megjelenését",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Válaszd ki, mit jelenítsen meg az alkalmazás és hogyan működjön",
+  "setTheFormattingUsedAcrossYourAccount": "Állítsd be a fiókodban használt formátumokat",
+  "sinceLastCharge": "A legutóbbi töltés óta"
 }

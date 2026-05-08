@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Når en opdatering er tilgængelig",
   "view": "Vis",
   "hardwareAndServiceAlerts": "Hardware- og servicealarmer",
-  "sinceLastCharge": "Siden sidste opladning",
   "serviceCode": "servicekode",
   "copiedServiceCode": "Kopieret servicekode",
   "copiedFirmwareState": "Kopieret firmwaretilstand",
@@ -2906,5 +2905,11 @@
   "customize": "Tilpas",
   "setBackground": "Indstil baggrund",
   "connectYourVehicle": "Tilslut dit køretøj",
-  "selectABrandToGetStarted": "Vælg et mærke for at komme i gang"
+  "selectABrandToGetStarted": "Vælg et mærke for at komme i gang",
+  "improveYourMeasurements": "Forbedr dine målinger",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "Oplad til 100 % mindst én gang for de mest nøjagtige målinger",
+  "personalizeHowTheAppLooks": "Tilpas appens udseende",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Vælg, hvad appen viser, og hvordan den opfører sig",
+  "setTheFormattingUsedAcrossYourAccount": "Angiv den formatering, der bruges på tværs af din konto",
+  "sinceLastCharge": "Siden sidste opladning"
 }

@@ -1555,7 +1555,6 @@
   "whenAnUpdateIsAvailable": "Bir güncelleme mevcut olduğunda",
   "view": "Görüntüle",
   "hardwareAndServiceAlerts": "Donanım ve servis uyarıları",
-  "sinceLastCharge": "Son Şarjdan Beri",
   "serviceCode": "servis kodu",
   "copiedServiceCode": "Servis kodu kopyalandı",
   "copiedFirmwareState": "Bellenim durumu kopyalandı",
@@ -2903,8 +2902,14 @@
   "experience": "Deneyim",
   "accentColor": "Vurgu rengi",
   "makeYourTeslaEvenBetter": "Tesla'nızı daha da iyi hale getirin",
-  "customize": "\u00D6zelle\u015Ftir",
-  "setBackground": "Arka plan\u0131 ayarla",
+  "customize": "Özelleştir",
+  "setBackground": "Arka planı ayarla",
   "connectYourVehicle": "Aracınızı bağlayın",
-  "selectABrandToGetStarted": "Başlamak için bir marka seçin"
+  "selectABrandToGetStarted": "Başlamak için bir marka seçin",
+  "improveYourMeasurements": "Ölçümlerinizi iyileştirin",
+  "chargeTo100AtLeastOnceForTheMostAccurateReadings": "En doğru okumalar için en az bir kez %100'e kadar şarj edin",
+  "personalizeHowTheAppLooks": "Uygulamanın görünümünü özelleştirin",
+  "chooseWhatTheAppShowsAndHowItBehaves": "Uygulamanın ne göstereceğini ve nasıl davranacağını seçin",
+  "setTheFormattingUsedAcrossYourAccount": "Hesabınız genelinde kullanılan biçimlendirmeyi ayarlayın",
+  "sinceLastCharge": "Son şarjdan beri"
 }
