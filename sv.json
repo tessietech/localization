@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Följ uppdateringar av din Teslas programvara och upptäck genomsnittlig tid mellan uppdateringar",
   "installedVersion": "Installerad version",
   "installedUpdates": "Installerade uppdateringar",
+  "installs": "Installationer",
+  "sinceLast": "Sedan senaste",
   "timeSinceLast": "Tid sedan senaste",
   "averageTimeBetween": "Genomsnittlig tid mellan",
   "noDataYet": "Ingen data ännu",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} per fordon / månad",
   "pricePerVehiclePerYear": "{price} per fordon / år",
   "pricePerVehicle": "{price} per fordon",
-  "trackSoftwareVersionUpdatesOverTime": "Spåra programvaruuppdateringar över tid",
+  "trackSoftwareVersionUpdatesOverTime": "Se programvaruversionsuppdateringar över tid",
   "billing": "Fakturering",
   "activeVehicles": "Aktiva fordon",
   "changePlan": "Byt plan",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Anpassa hur appen ser ut",
   "chooseWhatTheAppShowsAndHowItBehaves": "Välj vad appen visar och hur den beter sig",
   "setTheFormattingUsedAcrossYourAccount": "Ange formateringen som används i hela ditt konto",
-  "sinceLastCharge": "Sedan senaste laddningen"
+  "sinceLastCharge": "Sedan senaste laddningen",
+  "durationAfterPrevious": "{duration} efter föregående",
+  "firstRecorded": "Först registrerad"
 }

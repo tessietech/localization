@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Kövesse nyomon a Tesla firmware-frissítéseit, és fedezze fel a frissítések közötti átlagos időt",
   "installedVersion": "Telepített verzió",
   "installedUpdates": "Telepített frissítések",
+  "installs": "Telepítések",
+  "sinceLast": "Legutóbbi óta",
   "timeSinceLast": "Utolsó óta eltelt idő",
   "averageTimeBetween": "Közötti átlagos idő",
   "noDataYet": "Még nincsenek adatok",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price}/jármű/hónap",
   "pricePerVehiclePerYear": "{price}/jármű/év",
   "pricePerVehicle": "{price}/jármű",
-  "trackSoftwareVersionUpdatesOverTime": "Szoftverfrissítések nyomon követése idővel",
+  "trackSoftwareVersionUpdatesOverTime": "Tekintse meg a szoftververzió-frissítéseket idővel",
   "billing": "Számlázás",
   "activeVehicles": "Aktív járművek",
   "changePlan": "Csomag módosítása",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Szabd testre az alkalmazás megjelenését",
   "chooseWhatTheAppShowsAndHowItBehaves": "Válaszd ki, mit jelenítsen meg az alkalmazás és hogyan működjön",
   "setTheFormattingUsedAcrossYourAccount": "Állítsd be a fiókodban használt formátumokat",
-  "sinceLastCharge": "A legutóbbi töltés óta"
+  "sinceLastCharge": "A legutóbbi töltés óta",
+  "durationAfterPrevious": "{duration} az előző után",
+  "firstRecorded": "Első rögzített"
 }

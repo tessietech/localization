@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "追踪您 Tesla 的固件更新并发现平均更新时间",
   "installedVersion": "已安装版本",
   "installedUpdates": "已安装更新",
+  "installs": "安装",
+  "sinceLast": "自上次",
   "timeSinceLast": "自上次更新以来",
   "averageTimeBetween": "平均更新时间",
   "noDataYet": "暂无数据",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} 每辆车/每月",
   "pricePerVehiclePerYear": "{price} 每辆车/每年",
   "pricePerVehicle": "{price} 每辆车",
-  "trackSoftwareVersionUpdatesOverTime": "追踪软件版本随时间的变化",
+  "trackSoftwareVersionUpdatesOverTime": "查看软件版本随时间的更新",
   "billing": "账单",
   "activeVehicles": "已激活车辆",
   "changePlan": "更改计划",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "自定义应用的外观",
   "chooseWhatTheAppShowsAndHowItBehaves": "选择应用显示的内容及其行为方式",
   "setTheFormattingUsedAcrossYourAccount": "设置整个账户使用的格式",
-  "sinceLastCharge": "自上次充电以来"
+  "sinceLastCharge": "自上次充电以来",
+  "durationAfterPrevious": "距上次 {duration}",
+  "firstRecorded": "首次记录"
 }

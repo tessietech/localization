@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Tesla의 펌웨어 업데이트를 추적하고 업데이트 간 평균 시간을 확인하세요.",
   "installedVersion": "설치된 버전",
   "installedUpdates": "설치된 업데이트",
+  "installs": "설치",
+  "sinceLast": "마지막 이후",
   "timeSinceLast": "마지막 업데이트 이후",
   "averageTimeBetween": "업데이트 간 평균 시간",
   "noDataYet": "데이터 없음",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "차량당 월 {price}",
   "pricePerVehiclePerYear": "차량당 연 {price}",
   "pricePerVehicle": "차량당 {price}",
-  "trackSoftwareVersionUpdatesOverTime": "시간에 따라 소프트웨어 버전 업데이트 추적",
+  "trackSoftwareVersionUpdatesOverTime": "시간에 따른 소프트웨어 버전 업데이트 보기",
   "billing": "결제",
   "activeVehicles": "활성화된 차량",
   "changePlan": "요금제 변경",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "앱의 모양을 맞춤 설정",
   "chooseWhatTheAppShowsAndHowItBehaves": "앱에 표시되는 내용과 동작 방식을 선택",
   "setTheFormattingUsedAcrossYourAccount": "계정 전체에서 사용할 형식을 설정",
-  "sinceLastCharge": "마지막 충전 이후"
+  "sinceLastCharge": "마지막 충전 이후",
+  "durationAfterPrevious": "이전 후 {duration}",
+  "firstRecorded": "첫 기록"
 }

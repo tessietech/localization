@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Seuraa Teslaasi ladattuja firmware-päivityksiä ja ota selvää päivitysten välinen keskimääräinen aika",
   "installedVersion": "Asennettu versio",
   "installedUpdates": "Asennetut päivitykset",
+  "installs": "Asennukset",
+  "sinceLast": "Viimeisestä",
   "timeSinceLast": "Aikaa viimeisimmästä",
   "averageTimeBetween": "Keskimääräinen aika",
   "noDataYet": "Ei vielä tietoja",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} per ajoneuvo / kuukausi",
   "pricePerVehiclePerYear": "{price} per ajoneuvo / vuosi",
   "pricePerVehicle": "{price} per ajoneuvo",
-  "trackSoftwareVersionUpdatesOverTime": "Seuraa ohjelmistoversiopäivityksiä ajan mittaan",
+  "trackSoftwareVersionUpdatesOverTime": "Näe ohjelmistoversiopäivitykset ajan mittaan",
   "billing": "Laskutus",
   "activeVehicles": "Aktiiviset ajoneuvot",
   "changePlan": "Vaihda sopimusta",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Mukauta sovelluksen ulkoasua",
   "chooseWhatTheAppShowsAndHowItBehaves": "Valitse, mitä sovellus näyttää ja miten se toimii",
   "setTheFormattingUsedAcrossYourAccount": "Aseta koko tililläsi käytettävä muotoilu",
-  "sinceLastCharge": "Viimeisestä latauksesta"
+  "sinceLastCharge": "Viimeisestä latauksesta",
+  "durationAfterPrevious": "{duration} edellisestä",
+  "firstRecorded": "Ensimmäinen tallennettu"
 }

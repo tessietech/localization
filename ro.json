@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Urmăriți actualizările firmware-ului de pe Tesla și descoperiți timpul mediu dintre actualizări",
   "installedVersion": "Versiune instalată",
   "installedUpdates": "Actualizări instalate",
+  "installs": "Instalări",
+  "sinceLast": "De la ultima",
   "timeSinceLast": "Timp de la ultima actualizare",
   "averageTimeBetween": "Timp mediu între",
   "noDataYet": "Nicio dată încă",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} / vehicul / lună",
   "pricePerVehiclePerYear": "{price} / vehicul / an",
   "pricePerVehicle": "{price} / vehicul",
-  "trackSoftwareVersionUpdatesOverTime": "Urmăriți actualizările versiunii de software în timp",
+  "trackSoftwareVersionUpdatesOverTime": "Vedeți actualizările versiunii software în timp",
   "billing": "Facturare",
   "activeVehicles": "Vehicule active",
   "changePlan": "Schimbare abonament",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Personalizează aspectul aplicației",
   "chooseWhatTheAppShowsAndHowItBehaves": "Alege ce afișează aplicația și cum se comportă",
   "setTheFormattingUsedAcrossYourAccount": "Setează formatarea folosită în întregul cont",
-  "sinceLastCharge": "De la ultima încărcare"
+  "sinceLastCharge": "De la ultima încărcare",
+  "durationAfterPrevious": "{duration} după precedenta",
+  "firstRecorded": "Prima înregistrare"
 }

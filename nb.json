@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Spor fastvareoppdateringene til Tesla-en din og oppdag den gjennomsnittlige tiden mellom oppdateringer",
   "installedVersion": "Installert versjon",
   "installedUpdates": "Installerte oppdateringer",
+  "installs": "Installasjoner",
+  "sinceLast": "Siden sist",
   "timeSinceLast": "Tid siden sist",
   "averageTimeBetween": "Gjennomsnittlig tid mellom",
   "noDataYet": "Ingen data ennå",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} per kjøretøy / måned",
   "pricePerVehiclePerYear": "{price} per kjøretøy / år",
   "pricePerVehicle": "{price} per kjøretøy",
-  "trackSoftwareVersionUpdatesOverTime": "Spor programvareversjonsoppdateringer over tid",
+  "trackSoftwareVersionUpdatesOverTime": "Se programvareversjonsoppdateringer over tid",
   "billing": "Fakturering",
   "activeVehicles": "Aktive kjøretøy",
   "changePlan": "Endre abonnement",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Tilpass hvordan appen ser ut",
   "chooseWhatTheAppShowsAndHowItBehaves": "Velg hva appen viser og hvordan den oppfører seg",
   "setTheFormattingUsedAcrossYourAccount": "Angi formateringen som brukes på tvers av kontoen din",
-  "sinceLastCharge": "Siden siste lading"
+  "sinceLastCharge": "Siden siste lading",
+  "durationAfterPrevious": "{duration} etter forrige",
+  "firstRecorded": "Først registrert"
 }

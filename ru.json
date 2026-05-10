@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Отслеживайте обновления прошивки вашей Tesla и узнавайте среднее время между обновлениями",
   "installedVersion": "Установленная версия",
   "installedUpdates": "Установленные обновления",
+  "installs": "Установки",
+  "sinceLast": "С последнего",
   "timeSinceLast": "Время с последнего",
   "averageTimeBetween": "Среднее время между",
   "noDataYet": "Пока нет данных",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} в месяц за автомобиль",
   "pricePerVehiclePerYear": "{price} в год за автомобиль",
   "pricePerVehicle": "{price} за автомобиль",
-  "trackSoftwareVersionUpdatesOverTime": "Отслеживание обновлений версии программного обеспечения с течением времени",
+  "trackSoftwareVersionUpdatesOverTime": "Просматривайте обновления версий программного обеспечения с течением времени",
   "billing": "Оплата",
   "activeVehicles": "Активные автомобили",
   "changePlan": "Изменить план",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Настройте внешний вид приложения",
   "chooseWhatTheAppShowsAndHowItBehaves": "Выберите, что показывает приложение и как оно себя ведет",
   "setTheFormattingUsedAcrossYourAccount": "Настройте форматирование, используемое во всей учетной записи",
-  "sinceLastCharge": "С последней зарядки"
+  "sinceLastCharge": "С последней зарядки",
+  "durationAfterPrevious": "через {duration} после предыдущего",
+  "firstRecorded": "Первая запись"
 }

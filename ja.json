@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "テスラのファームウェアアップデートを追跡し、アップデート間の平均時間を見つけましょう",
   "installedVersion": "インストールされたバージョン",
   "installedUpdates": "インストールされたアップデート",
+  "installs": "インストール",
+  "sinceLast": "前回から",
   "timeSinceLast": "前回から",
   "averageTimeBetween": "平均間隔",
   "noDataYet": "まだデータはありません",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "1台あたり{price} /月",
   "pricePerVehiclePerYear": "1台あたり{price} /年",
   "pricePerVehicle": "1台あたり{price}",
-  "trackSoftwareVersionUpdatesOverTime": "時間の経過に伴うソフトウェアバージョンのアップデートを追跡",
+  "trackSoftwareVersionUpdatesOverTime": "ソフトウェアバージョンのアップデートを時系列で表示",
   "billing": "請求",
   "activeVehicles": "アクティブな車両",
   "changePlan": "プランの変更",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "アプリの表示をカスタマイズ",
   "chooseWhatTheAppShowsAndHowItBehaves": "アプリに表示する内容と動作を選択",
   "setTheFormattingUsedAcrossYourAccount": "アカウント全体で使用する表示形式を設定",
-  "sinceLastCharge": "前回の充電以降"
+  "sinceLastCharge": "前回の充電以降",
+  "durationAfterPrevious": "前回から{duration}後",
+  "firstRecorded": "最初の記録"
 }

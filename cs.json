@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Sledujte aktualizace firmwaru vašeho vozu Tesla a zjistěte průměrnou dobu mezi aktualizacemi",
   "installedVersion": "Nainstalovaná verze",
   "installedUpdates": "Nainstalované aktualizace",
+  "installs": "Instalace",
+  "sinceLast": "Od poslední",
   "timeSinceLast": "Od poslední aktualizace",
   "averageTimeBetween": "Průměrná doba mezi",
   "noDataYet": "Zatím žádná data",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} za vozidlo / měsíc",
   "pricePerVehiclePerYear": "{price} za vozidlo / rok",
   "pricePerVehicle": "{price} za vozidlo",
-  "trackSoftwareVersionUpdatesOverTime": "Sledujte aktualizace verzí softwaru v průběhu času",
+  "trackSoftwareVersionUpdatesOverTime": "Zobrazte aktualizace verzí softwaru v průběhu času",
   "billing": "Fakturace",
   "activeVehicles": "Aktivní vozidla",
   "changePlan": "Změnit tarif",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Přizpůsobte vzhled aplikace",
   "chooseWhatTheAppShowsAndHowItBehaves": "Zvolte, co aplikace zobrazuje a jak se chová",
   "setTheFormattingUsedAcrossYourAccount": "Nastavte formátování používané v celém účtu",
-  "sinceLastCharge": "Od posledního nabití"
+  "sinceLastCharge": "Od posledního nabití",
+  "durationAfterPrevious": "{duration} po předchozí",
+  "firstRecorded": "První záznam"
 }

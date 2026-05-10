@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Suivez les mises à jour du firmware de votre Tesla et découvrez le délai moyen entre les mises à jour",
   "installedVersion": "Version installée",
   "installedUpdates": "Mises à jour installées",
+  "installs": "Installations",
+  "sinceLast": "Depuis la dernière",
   "timeSinceLast": "Temps depuis la dernière",
   "averageTimeBetween": "Temps moyen entre",
   "noDataYet": "Aucune donnée pour le moment",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} par véhicule / mois",
   "pricePerVehiclePerYear": "{price} par véhicule / an",
   "pricePerVehicle": "{price} par véhicule",
-  "trackSoftwareVersionUpdatesOverTime": "Suivre les mises à jour logicielles au fil du temps",
+  "trackSoftwareVersionUpdatesOverTime": "Voir les mises à jour des versions logicielles au fil du temps",
   "billing": "Facturation",
   "activeVehicles": "Véhicules actifs",
   "changePlan": "Changer de forfait",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Personnalisez l'apparence de l'application",
   "chooseWhatTheAppShowsAndHowItBehaves": "Choisissez ce que l'application affiche et son comportement",
   "setTheFormattingUsedAcrossYourAccount": "Définissez le formatage utilisé dans tout votre compte",
-  "sinceLastCharge": "Depuis la dernière recharge"
+  "sinceLastCharge": "Depuis la dernière recharge",
+  "durationAfterPrevious": "{duration} après la précédente",
+  "firstRecorded": "Première enregistrée"
 }

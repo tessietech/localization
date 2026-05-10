@@ -741,6 +741,8 @@
   "trackTheFirmwareUpdatesToYourTeslaAndDiscoverThe": "Volg de firmware-updates voor je Tesla en ontdek de gemiddelde tijd tussen updates",
   "installedVersion": "Geïnstalleerde versie",
   "installedUpdates": "Geïnstalleerde updates",
+  "installs": "Installaties",
+  "sinceLast": "Sinds laatste",
   "timeSinceLast": "Tijd sinds laatste",
   "averageTimeBetween": "Gemiddelde tijd tussen",
   "noDataYet": "Nog geen gegevens",
@@ -2333,7 +2335,7 @@
   "pricePerVehiclePerMonth": "{price} per voertuig / maand",
   "pricePerVehiclePerYear": "{price} per voertuig / jaar",
   "pricePerVehicle": "{price} per voertuig",
-  "trackSoftwareVersionUpdatesOverTime": "Software-versie-updates in de loop van de tijd volgen",
+  "trackSoftwareVersionUpdatesOverTime": "Bekijk softwareversie-updates in de loop van de tijd",
   "billing": "Facturatie",
   "activeVehicles": "Actieve voertuigen",
   "changePlan": "Abonnement wijzigen",
@@ -2911,5 +2913,7 @@
   "personalizeHowTheAppLooks": "Pas aan hoe de app eruitziet",
   "chooseWhatTheAppShowsAndHowItBehaves": "Kies wat de app toont en hoe deze zich gedraagt",
   "setTheFormattingUsedAcrossYourAccount": "Stel de opmaak in die in je account wordt gebruikt",
-  "sinceLastCharge": "Sinds laatste oplaadbeurt"
+  "sinceLastCharge": "Sinds laatste oplaadbeurt",
+  "durationAfterPrevious": "{duration} na vorige",
+  "firstRecorded": "Eerst geregistreerd"
 }
