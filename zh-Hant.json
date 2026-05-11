@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "設定整個帳戶使用的格式",
   "sinceLastCharge": "自上次充電以來",
   "durationAfterPrevious": "距上次 {duration}",
-  "firstRecorded": "首次記錄"
+  "firstRecorded": "首次記錄",
+  "youreOnTheLatestAvailableRelease": "你已安裝最新可用版本"
 }

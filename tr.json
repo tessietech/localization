@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Hesabınız genelinde kullanılan biçimlendirmeyi ayarlayın",
   "sinceLastCharge": "Son şarjdan beri",
   "durationAfterPrevious": "Öncekinden {duration} sonra",
-  "firstRecorded": "İlk kaydedilen"
+  "firstRecorded": "İlk kaydedilen",
+  "youreOnTheLatestAvailableRelease": "Mevcut en son sürümü kullanıyorsunuz"
 }

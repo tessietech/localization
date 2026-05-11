@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Aseta koko tililläsi käytettävä muotoilu",
   "sinceLastCharge": "Viimeisestä latauksesta",
   "durationAfterPrevious": "{duration} edellisestä",
-  "firstRecorded": "Ensimmäinen tallennettu"
+  "firstRecorded": "Ensimmäinen tallennettu",
+  "youreOnTheLatestAvailableRelease": "Käytössäsi on uusin saatavilla oleva julkaisu"
 }

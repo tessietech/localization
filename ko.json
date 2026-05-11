@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "계정 전체에서 사용할 형식을 설정",
   "sinceLastCharge": "마지막 충전 이후",
   "durationAfterPrevious": "이전 후 {duration}",
-  "firstRecorded": "첫 기록"
+  "firstRecorded": "첫 기록",
+  "youreOnTheLatestAvailableRelease": "최신 사용 가능한 릴리스를 사용 중입니다"
 }

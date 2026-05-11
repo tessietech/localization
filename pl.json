@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Ustaw formatowanie używane na całym koncie",
   "sinceLastCharge": "Od ostatniego ładowania",
   "durationAfterPrevious": "{duration} po poprzedniej",
-  "firstRecorded": "Pierwszy zapis"
+  "firstRecorded": "Pierwszy zapis",
+  "youreOnTheLatestAvailableRelease": "Masz najnowszą dostępną wersję"
 }

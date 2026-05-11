@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Angiv den formatering, der bruges på tværs af din konto",
   "sinceLastCharge": "Siden sidste opladning",
   "durationAfterPrevious": "{duration} efter forrige",
-  "firstRecorded": "Først registreret"
+  "firstRecorded": "Først registreret",
+  "youreOnTheLatestAvailableRelease": "Du har den nyeste tilgængelige version"
 }

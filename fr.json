@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Définissez le formatage utilisé dans tout votre compte",
   "sinceLastCharge": "Depuis la dernière recharge",
   "durationAfterPrevious": "{duration} après la précédente",
-  "firstRecorded": "Première enregistrée"
+  "firstRecorded": "Première enregistrée",
+  "youreOnTheLatestAvailableRelease": "Vous utilisez la dernière version disponible"
 }

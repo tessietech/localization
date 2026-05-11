@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Настройте форматирование, используемое во всей учетной записи",
   "sinceLastCharge": "С последней зарядки",
   "durationAfterPrevious": "через {duration} после предыдущего",
-  "firstRecorded": "Первая запись"
+  "firstRecorded": "Первая запись",
+  "youreOnTheLatestAvailableRelease": "У вас установлена последняя доступная версия"
 }

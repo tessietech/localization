@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Setează formatarea folosită în întregul cont",
   "sinceLastCharge": "De la ultima încărcare",
   "durationAfterPrevious": "{duration} după precedenta",
-  "firstRecorded": "Prima înregistrare"
+  "firstRecorded": "Prima înregistrare",
+  "youreOnTheLatestAvailableRelease": "Folosiți cea mai recentă versiune disponibilă"
 }

@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Nastavte formátování používané v celém účtu",
   "sinceLastCharge": "Od posledního nabití",
   "durationAfterPrevious": "{duration} po předchozí",
-  "firstRecorded": "První záznam"
+  "firstRecorded": "První záznam",
+  "youreOnTheLatestAvailableRelease": "Používáte nejnovější dostupnou verzi"
 }

@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Állítsd be a fiókodban használt formátumokat",
   "sinceLastCharge": "A legutóbbi töltés óta",
   "durationAfterPrevious": "{duration} az előző után",
-  "firstRecorded": "Első rögzített"
+  "firstRecorded": "Első rögzített",
+  "youreOnTheLatestAvailableRelease": "A legújabb elérhető kiadást használja"
 }

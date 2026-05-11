@@ -2915,5 +2915,6 @@
   "setTheFormattingUsedAcrossYourAccount": "Stel de opmaak in die in je account wordt gebruikt",
   "sinceLastCharge": "Sinds laatste oplaadbeurt",
   "durationAfterPrevious": "{duration} na vorige",
-  "firstRecorded": "Eerst geregistreerd"
+  "firstRecorded": "Eerst geregistreerd",
+  "youreOnTheLatestAvailableRelease": "Je gebruikt de nieuwste beschikbare release"
 }
