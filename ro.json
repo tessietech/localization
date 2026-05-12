@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "De la ultima încărcare",
   "durationAfterPrevious": "{duration} după precedenta",
   "firstRecorded": "Prima înregistrare",
-  "youreOnTheLatestAvailableRelease": "Folosiți cea mai recentă versiune disponibilă"
+  "youreOnTheLatestAvailableRelease": "Folosiți cea mai recentă versiune disponibilă",
+  "fileTooLarge": "Fișierul este prea mare",
+  "chooseAFileThatsMaxSizeMbOrLess": "Alegeți un fișier de {maxSizeMb} MB sau mai mic."
 }

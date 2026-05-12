@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "Sedan senaste laddningen",
   "durationAfterPrevious": "{duration} efter föregående",
   "firstRecorded": "Först registrerad",
-  "youreOnTheLatestAvailableRelease": "Du har den senaste tillgängliga versionen"
+  "youreOnTheLatestAvailableRelease": "Du har den senaste tillgängliga versionen",
+  "fileTooLarge": "Filen är för stor",
+  "chooseAFileThatsMaxSizeMbOrLess": "Välj en fil på {maxSizeMb} MB eller mindre."
 }

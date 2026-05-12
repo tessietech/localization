@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "Dall'ultima ricarica",
   "durationAfterPrevious": "{duration} dopo il precedente",
   "firstRecorded": "Prima registrazione",
-  "youreOnTheLatestAvailableRelease": "Hai la versione più recente disponibile"
+  "youreOnTheLatestAvailableRelease": "Hai la versione più recente disponibile",
+  "fileTooLarge": "File troppo grande",
+  "chooseAFileThatsMaxSizeMbOrLess": "Scegli un file di {maxSizeMb} MB o meno."
 }

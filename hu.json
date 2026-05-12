@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "A legutóbbi töltés óta",
   "durationAfterPrevious": "{duration} az előző után",
   "firstRecorded": "Első rögzített",
-  "youreOnTheLatestAvailableRelease": "A legújabb elérhető kiadást használja"
+  "youreOnTheLatestAvailableRelease": "A legújabb elérhető kiadást használja",
+  "fileTooLarge": "A fájl túl nagy",
+  "chooseAFileThatsMaxSizeMbOrLess": "Válasszon egy {maxSizeMb} MB-os vagy kisebb fájlt."
 }

@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "自上次充电以来",
   "durationAfterPrevious": "距上次 {duration}",
   "firstRecorded": "首次记录",
-  "youreOnTheLatestAvailableRelease": "你已安装最新可用版本"
+  "youreOnTheLatestAvailableRelease": "你已安装最新可用版本",
+  "fileTooLarge": "文件过大",
+  "chooseAFileThatsMaxSizeMbOrLess": "请选择 {maxSizeMb} MB 或更小的文件。"
 }

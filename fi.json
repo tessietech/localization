@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "Viimeisestä latauksesta",
   "durationAfterPrevious": "{duration} edellisestä",
   "firstRecorded": "Ensimmäinen tallennettu",
-  "youreOnTheLatestAvailableRelease": "Käytössäsi on uusin saatavilla oleva julkaisu"
+  "youreOnTheLatestAvailableRelease": "Käytössäsi on uusin saatavilla oleva julkaisu",
+  "fileTooLarge": "Tiedosto on liian suuri",
+  "chooseAFileThatsMaxSizeMbOrLess": "Valitse tiedosto, jonka koko on enintään {maxSizeMb} Mt."
 }

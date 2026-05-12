@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "Od posledního nabití",
   "durationAfterPrevious": "{duration} po předchozí",
   "firstRecorded": "První záznam",
-  "youreOnTheLatestAvailableRelease": "Používáte nejnovější dostupnou verzi"
+  "youreOnTheLatestAvailableRelease": "Používáte nejnovější dostupnou verzi",
+  "fileTooLarge": "Soubor je příliš velký",
+  "chooseAFileThatsMaxSizeMbOrLess": "Vyberte soubor o velikosti {maxSizeMb} MB nebo menší."
 }

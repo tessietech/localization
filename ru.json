@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "С последней зарядки",
   "durationAfterPrevious": "через {duration} после предыдущего",
   "firstRecorded": "Первая запись",
-  "youreOnTheLatestAvailableRelease": "У вас установлена последняя доступная версия"
+  "youreOnTheLatestAvailableRelease": "У вас установлена последняя доступная версия",
+  "fileTooLarge": "Файл слишком большой",
+  "chooseAFileThatsMaxSizeMbOrLess": "Выберите файл размером {maxSizeMb} МБ или меньше."
 }

@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "Son şarjdan beri",
   "durationAfterPrevious": "Öncekinden {duration} sonra",
   "firstRecorded": "İlk kaydedilen",
-  "youreOnTheLatestAvailableRelease": "Mevcut en son sürümü kullanıyorsunuz"
+  "youreOnTheLatestAvailableRelease": "Mevcut en son sürümü kullanıyorsunuz",
+  "fileTooLarge": "Dosya çok büyük",
+  "chooseAFileThatsMaxSizeMbOrLess": "{maxSizeMb} MB veya daha küçük bir dosya seçin."
 }

@@ -2916,5 +2916,7 @@
   "sinceLastCharge": "前回の充電以降",
   "durationAfterPrevious": "前回から{duration}後",
   "firstRecorded": "最初の記録",
-  "youreOnTheLatestAvailableRelease": "利用可能な最新リリースを使用しています"
+  "youreOnTheLatestAvailableRelease": "利用可能な最新リリースを使用しています",
+  "fileTooLarge": "ファイルが大きすぎます",
+  "chooseAFileThatsMaxSizeMbOrLess": "{maxSizeMb} MB 以下のファイルを選択してください。"
 }
