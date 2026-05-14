@@ -2918,5 +2918,6 @@
   "firstRecorded": "Первая запись",
   "youreOnTheLatestAvailableRelease": "У вас установлена последняя доступная версия",
   "fileTooLarge": "Файл слишком большой",
-  "chooseAFileThatsMaxSizeMbOrLess": "Выберите файл размером {maxSizeMb} МБ или меньше."
+  "chooseAFileThatsMaxSizeMbOrLess": "Выберите файл размером {maxSizeMb} МБ или меньше.",
+  "unableToDownloadBackground": "Не удалось скачать фон"
 }

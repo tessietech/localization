@@ -2918,5 +2918,6 @@
   "firstRecorded": "첫 기록",
   "youreOnTheLatestAvailableRelease": "최신 사용 가능한 릴리스를 사용 중입니다",
   "fileTooLarge": "파일이 너무 큽니다",
-  "chooseAFileThatsMaxSizeMbOrLess": "{maxSizeMb}MB 이하의 파일을 선택하세요."
+  "chooseAFileThatsMaxSizeMbOrLess": "{maxSizeMb}MB 이하의 파일을 선택하세요.",
+  "unableToDownloadBackground": "배경을 다운로드할 수 없음"
 }

@@ -2918,5 +2918,6 @@
   "firstRecorded": "Erste Aufzeichnung",
   "youreOnTheLatestAvailableRelease": "Du hast die neueste verfügbare Version",
   "fileTooLarge": "Datei zu groß",
-  "chooseAFileThatsMaxSizeMbOrLess": "Wähle eine Datei mit {maxSizeMb} MB oder weniger."
+  "chooseAFileThatsMaxSizeMbOrLess": "Wähle eine Datei mit {maxSizeMb} MB oder weniger.",
+  "unableToDownloadBackground": "Hintergrund kann nicht heruntergeladen werden"
 }

@@ -2918,5 +2918,6 @@
   "firstRecorded": "Prima înregistrare",
   "youreOnTheLatestAvailableRelease": "Folosiți cea mai recentă versiune disponibilă",
   "fileTooLarge": "Fișierul este prea mare",
-  "chooseAFileThatsMaxSizeMbOrLess": "Alegeți un fișier de {maxSizeMb} MB sau mai mic."
+  "chooseAFileThatsMaxSizeMbOrLess": "Alegeți un fișier de {maxSizeMb} MB sau mai mic.",
+  "unableToDownloadBackground": "Nu se poate descărca fundalul"
 }

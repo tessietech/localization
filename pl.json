@@ -2918,5 +2918,6 @@
   "firstRecorded": "Pierwszy zapis",
   "youreOnTheLatestAvailableRelease": "Masz najnowszą dostępną wersję",
   "fileTooLarge": "Plik jest za duży",
-  "chooseAFileThatsMaxSizeMbOrLess": "Wybierz plik o rozmiarze {maxSizeMb} MB lub mniejszym."
+  "chooseAFileThatsMaxSizeMbOrLess": "Wybierz plik o rozmiarze {maxSizeMb} MB lub mniejszym.",
+  "unableToDownloadBackground": "Nie można pobrać tła"
 }

@@ -2918,5 +2918,6 @@
   "firstRecorded": "Eerst geregistreerd",
   "youreOnTheLatestAvailableRelease": "Je gebruikt de nieuwste beschikbare release",
   "fileTooLarge": "Bestand te groot",
-  "chooseAFileThatsMaxSizeMbOrLess": "Kies een bestand van {maxSizeMb} MB of minder."
+  "chooseAFileThatsMaxSizeMbOrLess": "Kies een bestand van {maxSizeMb} MB of minder.",
+  "unableToDownloadBackground": "Kan achtergrond niet downloaden"
 }

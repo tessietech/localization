@@ -2918,5 +2918,6 @@
   "firstRecorded": "Ensimmäinen tallennettu",
   "youreOnTheLatestAvailableRelease": "Käytössäsi on uusin saatavilla oleva julkaisu",
   "fileTooLarge": "Tiedosto on liian suuri",
-  "chooseAFileThatsMaxSizeMbOrLess": "Valitse tiedosto, jonka koko on enintään {maxSizeMb} Mt."
+  "chooseAFileThatsMaxSizeMbOrLess": "Valitse tiedosto, jonka koko on enintään {maxSizeMb} Mt.",
+  "unableToDownloadBackground": "Taustan lataaminen ei onnistu"
 }

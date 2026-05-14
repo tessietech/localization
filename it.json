@@ -2918,5 +2918,6 @@
   "firstRecorded": "Prima registrazione",
   "youreOnTheLatestAvailableRelease": "Hai la versione più recente disponibile",
   "fileTooLarge": "File troppo grande",
-  "chooseAFileThatsMaxSizeMbOrLess": "Scegli un file di {maxSizeMb} MB o meno."
+  "chooseAFileThatsMaxSizeMbOrLess": "Scegli un file di {maxSizeMb} MB o meno.",
+  "unableToDownloadBackground": "Impossibile scaricare lo sfondo"
 }

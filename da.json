@@ -2918,5 +2918,6 @@
   "firstRecorded": "Først registreret",
   "youreOnTheLatestAvailableRelease": "Du har den nyeste tilgængelige version",
   "fileTooLarge": "Filen er for stor",
-  "chooseAFileThatsMaxSizeMbOrLess": "Vælg en fil på {maxSizeMb} MB eller mindre."
+  "chooseAFileThatsMaxSizeMbOrLess": "Vælg en fil på {maxSizeMb} MB eller mindre.",
+  "unableToDownloadBackground": "Kan ikke downloade baggrund"
 }

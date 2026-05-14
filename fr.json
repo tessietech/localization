@@ -2918,5 +2918,6 @@
   "firstRecorded": "Première enregistrée",
   "youreOnTheLatestAvailableRelease": "Vous utilisez la dernière version disponible",
   "fileTooLarge": "Fichier trop volumineux",
-  "chooseAFileThatsMaxSizeMbOrLess": "Choisissez un fichier de {maxSizeMb} Mo ou moins."
+  "chooseAFileThatsMaxSizeMbOrLess": "Choisissez un fichier de {maxSizeMb} Mo ou moins.",
+  "unableToDownloadBackground": "Impossible de télécharger l’arrière-plan"
 }

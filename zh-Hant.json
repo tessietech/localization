@@ -2918,5 +2918,6 @@
   "firstRecorded": "首次記錄",
   "youreOnTheLatestAvailableRelease": "你已安裝最新可用版本",
   "fileTooLarge": "檔案過大",
-  "chooseAFileThatsMaxSizeMbOrLess": "請選擇 {maxSizeMb} MB 或更小的檔案。"
+  "chooseAFileThatsMaxSizeMbOrLess": "請選擇 {maxSizeMb} MB 或更小的檔案。",
+  "unableToDownloadBackground": "無法下載背景"
 }

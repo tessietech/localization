@@ -2918,5 +2918,6 @@
   "firstRecorded": "První záznam",
   "youreOnTheLatestAvailableRelease": "Používáte nejnovější dostupnou verzi",
   "fileTooLarge": "Soubor je příliš velký",
-  "chooseAFileThatsMaxSizeMbOrLess": "Vyberte soubor o velikosti {maxSizeMb} MB nebo menší."
+  "chooseAFileThatsMaxSizeMbOrLess": "Vyberte soubor o velikosti {maxSizeMb} MB nebo menší.",
+  "unableToDownloadBackground": "Nepodařilo se stáhnout pozadí"
 }
