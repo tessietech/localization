@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Mevcut en son sürümü kullanıyorsunuz",
   "fileTooLarge": "Dosya çok büyük",
   "chooseAFileThatsMaxSizeMbOrLess": "{maxSizeMb} MB veya daha küçük bir dosya seçin.",
-  "unableToDownloadBackground": "Arka plan indirilemiyor"
+  "unableToDownloadBackground": "Arka plan indirilemiyor",
+  "continueWithProvider": "{provider} ile devam et"
 }

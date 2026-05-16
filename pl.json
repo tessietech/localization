@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Masz najnowszą dostępną wersję",
   "fileTooLarge": "Plik jest za duży",
   "chooseAFileThatsMaxSizeMbOrLess": "Wybierz plik o rozmiarze {maxSizeMb} MB lub mniejszym.",
-  "unableToDownloadBackground": "Nie można pobrać tła"
+  "unableToDownloadBackground": "Nie można pobrać tła",
+  "continueWithProvider": "Kontynuuj za pomocą {provider}"
 }

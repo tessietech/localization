@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Du har den senaste tillgängliga versionen",
   "fileTooLarge": "Filen är för stor",
   "chooseAFileThatsMaxSizeMbOrLess": "Välj en fil på {maxSizeMb} MB eller mindre.",
-  "unableToDownloadBackground": "Det går inte att hämta bakgrunden"
+  "unableToDownloadBackground": "Det går inte att hämta bakgrunden",
+  "continueWithProvider": "Fortsätt med {provider}"
 }

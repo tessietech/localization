@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "You're on the latest available release",
   "fileTooLarge": "File too large",
   "chooseAFileThatsMaxSizeMbOrLess": "Choose a file that's {maxSizeMb} MB or less.",
-  "unableToDownloadBackground": "Unable to download background"
+  "unableToDownloadBackground": "Unable to download background",
+  "continueWithProvider": "Continue with {provider}"
 }

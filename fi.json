@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Käytössäsi on uusin saatavilla oleva julkaisu",
   "fileTooLarge": "Tiedosto on liian suuri",
   "chooseAFileThatsMaxSizeMbOrLess": "Valitse tiedosto, jonka koko on enintään {maxSizeMb} Mt.",
-  "unableToDownloadBackground": "Taustan lataaminen ei onnistu"
+  "unableToDownloadBackground": "Taustan lataaminen ei onnistu",
+  "continueWithProvider": "Jatka käyttäen {provider}"
 }

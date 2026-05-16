@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Tienes la versión más reciente disponible",
   "fileTooLarge": "Archivo demasiado grande",
   "chooseAFileThatsMaxSizeMbOrLess": "Elige un archivo de {maxSizeMb} MB o menos.",
-  "unableToDownloadBackground": "No se puede descargar el fondo"
+  "unableToDownloadBackground": "No se puede descargar el fondo",
+  "continueWithProvider": "Continuar con {provider}"
 }

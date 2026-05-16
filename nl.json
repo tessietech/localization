@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Je gebruikt de nieuwste beschikbare release",
   "fileTooLarge": "Bestand te groot",
   "chooseAFileThatsMaxSizeMbOrLess": "Kies een bestand van {maxSizeMb} MB of minder.",
-  "unableToDownloadBackground": "Kan achtergrond niet downloaden"
+  "unableToDownloadBackground": "Kan achtergrond niet downloaden",
+  "continueWithProvider": "Doorgaan met {provider}"
 }

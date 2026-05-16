@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "У вас установлена последняя доступная версия",
   "fileTooLarge": "Файл слишком большой",
   "chooseAFileThatsMaxSizeMbOrLess": "Выберите файл размером {maxSizeMb} МБ или меньше.",
-  "unableToDownloadBackground": "Не удалось скачать фон"
+  "unableToDownloadBackground": "Не удалось скачать фон",
+  "continueWithProvider": "Продолжить с {provider}"
 }

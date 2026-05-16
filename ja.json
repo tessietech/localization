@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "利用可能な最新リリースを使用しています",
   "fileTooLarge": "ファイルが大きすぎます",
   "chooseAFileThatsMaxSizeMbOrLess": "{maxSizeMb} MB 以下のファイルを選択してください。",
-  "unableToDownloadBackground": "背景をダウンロードできません"
+  "unableToDownloadBackground": "背景をダウンロードできません",
+  "continueWithProvider": "{provider}で続行"
 }

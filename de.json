@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Du hast die neueste verfügbare Version",
   "fileTooLarge": "Datei zu groß",
   "chooseAFileThatsMaxSizeMbOrLess": "Wähle eine Datei mit {maxSizeMb} MB oder weniger.",
-  "unableToDownloadBackground": "Hintergrund kann nicht heruntergeladen werden"
+  "unableToDownloadBackground": "Hintergrund kann nicht heruntergeladen werden",
+  "continueWithProvider": "Mit {provider} fortfahren"
 }

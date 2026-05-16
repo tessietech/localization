@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "A legújabb elérhető kiadást használja",
   "fileTooLarge": "A fájl túl nagy",
   "chooseAFileThatsMaxSizeMbOrLess": "Válasszon egy {maxSizeMb} MB-os vagy kisebb fájlt.",
-  "unableToDownloadBackground": "Nem sikerült letölteni a hátteret"
+  "unableToDownloadBackground": "Nem sikerült letölteni a hátteret",
+  "continueWithProvider": "Folytatás ezzel: {provider}"
 }

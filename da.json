@@ -2919,5 +2919,6 @@
   "youreOnTheLatestAvailableRelease": "Du har den nyeste tilgængelige version",
   "fileTooLarge": "Filen er for stor",
   "chooseAFileThatsMaxSizeMbOrLess": "Vælg en fil på {maxSizeMb} MB eller mindre.",
-  "unableToDownloadBackground": "Kan ikke downloade baggrund"
+  "unableToDownloadBackground": "Kan ikke downloade baggrund",
+  "continueWithProvider": "Fortsæt med {provider}"
 }
